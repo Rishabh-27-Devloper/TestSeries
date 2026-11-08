@@ -50,3 +50,9 @@ web/node_modules/
 web/dist/
 web/public/data/papers/**/assets
 
+# User exam attempts
+data/attempts/
+web/public/data/attempts/
+**/attempts/
+
+

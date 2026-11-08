@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# User exam attempts
+public/data/attempts/
+**/attempts/
+
