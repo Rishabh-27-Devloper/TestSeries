@@ -515,7 +515,7 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
           <div className="flex-1 overflow-y-auto p-5 sm:p-6 space-y-6">
             <div className="space-y-3">
               {imgSrc ? (
-                <div className="relative group inline-block max-w-full">
+                <div className="relative group w-full block">
                   <img
                     src={imgSrc}
                     alt={`Question ${currentIndex + 1}`}
@@ -523,12 +523,12 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
                       const fb = getFallbackImageUrl(currentQ.imageUrl);
                       if (fb && e.currentTarget.src !== fb) e.currentTarget.src = fb;
                     }}
-                    className="max-w-full rounded border border-slate-200 bg-white shadow-xs max-h-[420px] object-contain cursor-zoom-in"
+                    className="w-full h-auto object-contain rounded border border-slate-200 bg-white shadow-xs cursor-zoom-in block"
                     onClick={() => setZoomImage(imgSrc)}
                   />
                   <button
                     onClick={() => setZoomImage(imgSrc)}
-                    className="absolute top-2 right-2 flex items-center gap-1 px-2.5 py-1 bg-black/70 hover:bg-black text-white text-xs rounded shadow transition backdrop-blur-xs"
+                    className="absolute top-2 right-2 flex items-center gap-1 px-3 py-1.5 bg-black/75 hover:bg-black text-white text-xs rounded-md shadow-md transition backdrop-blur-xs opacity-90 hover:opacity-100 font-medium"
                   >
                     <ZoomIn size={14} /> Zoom Image
                   </button>

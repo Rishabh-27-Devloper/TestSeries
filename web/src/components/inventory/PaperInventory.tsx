@@ -29,7 +29,10 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
   const [quickViewPaper, setQuickViewPaper] = useState<PaperIndexItem | null>(null);
 
   const profile: UserProfile = getUserProfile();
-  const allAttempts = useMemo(() => getAllAttempts(), []);
+  const allAttempts = useMemo(
+    () => getAllAttempts(profile.rollNumber),
+    [profile.rollNumber]
+  );
   const attemptedPaperIds = useMemo(
     () => new Set(allAttempts.map((a) => a.paperId)),
     [allAttempts]

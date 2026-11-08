@@ -105,7 +105,7 @@ export const QuestionPaperModal: React.FC<QuestionPaperModalProps> = ({
                         const fb = getFallbackImageUrl(q.imageUrl);
                         if (fb && e.currentTarget.src !== fb) e.currentTarget.src = fb;
                       }}
-                      className="max-w-full rounded border border-slate-200 bg-white shadow-xs max-h-[350px] object-contain"
+                      className="w-full h-auto object-contain rounded border border-slate-200 bg-white shadow-xs"
                       loading="lazy"
                     />
                   ) : (

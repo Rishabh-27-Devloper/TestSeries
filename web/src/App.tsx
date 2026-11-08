@@ -18,15 +18,14 @@ export function App() {
   const [currentPaper, setCurrentPaper] = useState<ExamPaper | null>(null);
   const [currentResult, setCurrentResult] = useState<ExamResult | null>(null);
   const [showProfileModal, setShowProfileModal] = useState<boolean>(false);
+  const [profile, setProfile] = useState(() => storage.getUserProfile());
 
   // Initialize data on mount
   useEffect(() => {
     async function init() {
       try {
         setLoading(true);
-        // Load sample attempts if none exist
-        await storage.loadInitialAttempts();
-        // Fetch paper catalog index
+        // Fetch paper catalog index (User attempts are strictly local and user-isolated)
         const index = await storage.getPaperIndex();
         setPapers(index);
       } catch (err) {
@@ -65,12 +64,12 @@ export function App() {
 
   // Handler: Open Dashboard from Top Bar
   const handleOpenDashboard = () => {
-    const attempts = storage.getAllAttempts();
+    const attempts = storage.getAllAttempts(profile.rollNumber);
     if (attempts.length > 0) {
       setCurrentResult(attempts[0]);
       setView('DASHBOARD');
     } else {
-      alert('No test attempts recorded yet. Attempt a paper to view performance analytics.');
+      alert(`No test attempts recorded for roll number ${profile.rollNumber}. Attempt a paper to view your personal performance analytics.`);
     }
   };
 
@@ -112,6 +111,7 @@ export function App() {
       {/* View 1: Paper Inventory (Layer 2) */}
       {view === 'INVENTORY' && (
         <PaperInventory
+          key={profile.rollNumber}
           papers={papers}
           onSelectPaper={handleSelectPaper}
           onOpenDashboard={handleOpenDashboard}
@@ -158,6 +158,7 @@ export function App() {
       <UserProfileModal
         isOpen={showProfileModal}
         onClose={() => setShowProfileModal(false)}
+        onProfileUpdated={(updated) => setProfile(updated)}
       />
     </div>
   );

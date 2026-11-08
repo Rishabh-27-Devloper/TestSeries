@@ -17,7 +17,13 @@ import {
   AlertTriangle,
 } from 'lucide-react';
 import type { ExamResult, QuestionEvaluation } from '../../types';
-import { getAllAttempts, resolveImageUrl, getFallbackImageUrl } from '../../utils/storage';
+import {
+  getAllAttempts,
+  getUserProfile,
+  clearUserAttempts,
+  resolveImageUrl,
+  getFallbackImageUrl,
+} from '../../utils/storage';
 import { ImageZoomModal } from '../modals/ImageZoomModal';
 
 interface StudentDashboardProps {
@@ -33,12 +39,21 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
   onBackToInventory,
   onLoadPastAttempt,
 }) => {
+  const profile = getUserProfile();
   const [activeTab, setActiveTab] = useState<'SCORECARD' | 'SOLUTIONS' | 'TRENDS'>('SCORECARD');
   const [activeResult, setActiveResult] = useState<ExamResult>(initialResult);
   const [solutionFilter, setSolutionFilter] = useState<'ALL' | 'CORRECT' | 'INCORRECT' | 'UNATTEMPTED'>('ALL');
   const [zoomImage, setZoomImage] = useState<string | null>(null);
+  const [pastAttempts, setPastAttempts] = useState<ExamResult[]>(() =>
+    getAllAttempts(profile.rollNumber)
+  );
 
-  const pastAttempts: ExamResult[] = getAllAttempts();
+  const handleClearHistory = () => {
+    if (confirm(`Are you sure you want to clear all test attempts for roll number ${profile.rollNumber}? This cannot be undone.`)) {
+      clearUserAttempts(profile.rollNumber);
+      setPastAttempts([]);
+    }
+  };
 
   // Launch confetti if percentage >= 50%
   useEffect(() => {
@@ -509,9 +524,9 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                     </div>
 
                     {/* Question Image or Text */}
-                    <div className="py-2">
+                    <div className="py-2 w-full">
                       {imgSrc ? (
-                        <div className="relative inline-block max-w-full">
+                        <div className="relative group w-full block">
                           <img
                             src={imgSrc}
                             alt={`Question ${q.questionNumber}`}
@@ -519,18 +534,18 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                               const fb = getFallbackImageUrl(q.imageUrl);
                               if (fb && e.currentTarget.src !== fb) e.currentTarget.src = fb;
                             }}
-                            className="max-w-full rounded border border-slate-200 bg-white max-h-[380px] object-contain cursor-zoom-in"
+                            className="w-full h-auto object-contain rounded border border-slate-200 bg-white shadow-xs cursor-zoom-in block"
                             onClick={() => setZoomImage(imgSrc)}
                           />
                           <button
                             onClick={() => setZoomImage(imgSrc)}
-                            className="absolute top-2 right-2 flex items-center gap-1 px-2.5 py-1 bg-black/70 hover:bg-black text-white text-xs rounded shadow transition"
+                            className="absolute top-2 right-2 flex items-center gap-1 px-3 py-1.5 bg-black/75 hover:bg-black text-white text-xs rounded-md shadow-md transition backdrop-blur-xs opacity-90 hover:opacity-100 font-medium"
                           >
                             <ZoomIn size={14} /> Zoom
                           </button>
                         </div>
                       ) : (
-                        <p className="text-sm text-slate-800 whitespace-pre-wrap">{q.questionText}</p>
+                        <p className="text-sm text-slate-800 whitespace-pre-wrap leading-relaxed">{q.questionText}</p>
                       )}
                     </div>
 
@@ -639,16 +654,32 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
 
             {/* Past Attempts Table (Visible & Scrollable) */}
             <div className="bg-white rounded-xl border border-slate-200 shadow-xs overflow-hidden">
-              <div className="px-6 py-4 border-b border-slate-200 flex items-center justify-between">
+              <div className="px-6 py-4 border-b border-slate-200 flex flex-wrap items-center justify-between gap-3">
                 <div>
-                  <h3 className="font-bold text-slate-900 text-sm">All Past Attempts History</h3>
+                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                    <span>Attempts History for {profile.name}</span>
+                    <span className="font-mono text-xs px-2 py-0.5 rounded bg-slate-100 text-slate-700 border">
+                      {profile.rollNumber}
+                    </span>
+                  </h3>
                   <p className="text-xs text-slate-500">
-                    Click &quot;Load Analysis&quot; to review question solutions and performance for any test
+                    User-isolated scorecard log. Attempts are partitioned per roll number and stored securely on your browser.
                   </p>
                 </div>
-                <span className="text-xs font-semibold px-2.5 py-1 bg-blue-50 text-blue-800 rounded">
-                  {pastAttempts.length} Records
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-xs font-semibold px-2.5 py-1 bg-blue-50 text-blue-800 rounded">
+                    {pastAttempts.length} Records
+                  </span>
+                  {pastAttempts.length > 0 && (
+                    <button
+                      onClick={handleClearHistory}
+                      className="px-2.5 py-1 text-xs text-rose-600 hover:text-rose-800 hover:bg-rose-50 border border-rose-200 rounded transition font-medium"
+                      title="Clear only your personal attempt history"
+                    >
+                      Clear My Log
+                    </button>
+                  )}
+                </div>
               </div>
 
               {pastAttempts.length === 0 ? (

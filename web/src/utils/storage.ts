@@ -1,16 +1,26 @@
 import type { ExamResult, PaperIndexItem, UserProfile } from '../types';
 
 const PROFILE_KEY = 'test_series_user_profile';
-const ATTEMPTS_KEY = 'test_series_attempts';
 
 const DEFAULT_PROFILE: UserProfile = {
-  name: 'Prakhar Shukla',
+  name: 'Candidate',
   rollNumber: 'GATE25-EC001',
   phoneNumber: '+91 9123456789',
-  email: 'prakhar@gate.ac.in',
+  email: 'candidate@gate.ac.in',
   targetYear: 'GATE 2025',
   branch: 'Electronics & Communication',
 };
+
+export function cleanImagePath(imgUrl?: string): string {
+  if (!imgUrl) return '';
+  let clean = imgUrl.replace(/\\/g, '/');
+  // Strip any Windows absolute or local parent prefixes (e.g. C:/Users/.../data/papers/)
+  const dataIdx = clean.indexOf('data/papers/');
+  if (dataIdx !== -1) {
+    clean = clean.substring(dataIdx);
+  }
+  return clean.replace(/^(\.\/|\/)/, '');
+}
 
 export function getUserProfile(): UserProfile {
   try {
@@ -30,59 +40,57 @@ export function saveUserProfile(profile: UserProfile): void {
   }
 }
 
-export async function loadInitialAttempts(): Promise<ExamResult[]> {
-  const existing = getAllAttempts();
-  if (existing.length > 0) return existing;
-
-  // Load bundled sample attempts
-  try {
-    const resp = await fetch('/data/attempts_manifest.json');
-    if (resp.ok) {
-      const attempts: ExamResult[] = await resp.json();
-      if (Array.isArray(attempts) && attempts.length > 0) {
-        localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(attempts));
-        return attempts;
-      }
-    }
-  } catch (e) {
-    console.warn('Could not load attempts manifest', e);
-  }
-  return [];
+// User-specific storage key generator to ensure attempts never mix between candidates
+export function getUserAttemptsKey(rollNumber?: string): string {
+  const roll = rollNumber || getUserProfile().rollNumber || 'DEFAULT';
+  const cleanRoll = roll.trim().toUpperCase().replace(/[^A-Z0-9_-]/g, '_');
+  return `test_series_attempts_${cleanRoll}`;
 }
 
-export function getAllAttempts(): ExamResult[] {
+export function getAllAttempts(rollNumber?: string): ExamResult[] {
   try {
-    const data = localStorage.getItem(ATTEMPTS_KEY);
+    const key = getUserAttemptsKey(rollNumber);
+    const data = localStorage.getItem(key);
     if (data) {
       const list: ExamResult[] = JSON.parse(data);
       return list.sort((a, b) => (b.timestamp || '').localeCompare(a.timestamp || ''));
     }
   } catch (e) {
-    console.error('Failed to load attempts', e);
+    console.error('Failed to load user attempts', e);
   }
   return [];
 }
 
 export function saveAttempt(result: ExamResult): void {
   try {
-    const list = getAllAttempts();
+    const key = getUserAttemptsKey(result.rollNumber);
+    const list = getAllAttempts(result.rollNumber);
     const updated = [result, ...list];
-    localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(updated));
+    localStorage.setItem(key, JSON.stringify(updated));
   } catch (e) {
     console.error('Failed to save attempt', e);
   }
 }
 
-export function getAttemptsForPaper(paperId: string): ExamResult[] {
-  return getAllAttempts().filter((a) => a.paperId === paperId);
+export function clearUserAttempts(rollNumber?: string): void {
+  try {
+    const key = getUserAttemptsKey(rollNumber);
+    localStorage.removeItem(key);
+  } catch (e) {
+    console.error('Failed to clear user attempts', e);
+  }
 }
 
-export function getAttemptsSummaryForPaper(paperId: string): {
+export function getAttemptsForPaper(paperId: string, rollNumber?: string): ExamResult[] {
+  return getAllAttempts(rollNumber).filter((a) => a.paperId === paperId);
+}
+
+export function getAttemptsSummaryForPaper(paperId: string, rollNumber?: string): {
   attemptCount: number;
   lastAttempt?: ExamResult;
   bestAttempt?: ExamResult;
 } {
-  const list = getAttemptsForPaper(paperId);
+  const list = getAttemptsForPaper(paperId, rollNumber);
   if (list.length === 0) {
     return { attemptCount: 0 };
   }
@@ -116,32 +124,51 @@ export async function getPaper(jsonPath: string): Promise<any> {
   return await resp.json();
 }
 
+/**
+ * Resolves question diagram slice images.
+ * On local dev, attempts local path first.
+ * In production (Vercel / Netlify), resolves to fast GitHub Raw CDN mirror so all 5,000 slices load without bundling ~500MB into client.
+ */
 export function resolveImageUrl(imgUrl?: string): string {
   if (!imgUrl) return '';
   if (imgUrl.startsWith('data:') || imgUrl.startsWith('http://') || imgUrl.startsWith('https://')) {
     return imgUrl;
   }
-  const clean = imgUrl.replace(/^(\.\/|\/)/, '').replace(/\\/g, '/');
-  // First try local public path; if that fails or when hosted online, GitHub raw can be used as fallback
-  return `/${clean}`;
+  const clean = cleanImagePath(imgUrl);
+
+  const isLocalhost =
+    typeof window !== 'undefined' &&
+    (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+
+  if (isLocalhost) {
+    return `/${clean}`;
+  }
+
+  // Deployed / Production on Vercel, Netlify, etc. -> Direct GitHub Raw CDN
+  return `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/${clean}`;
 }
 
+/**
+ * Secondary mirror fallback using jsDelivr global CDN in case of network restriction on raw.githubusercontent.com
+ */
 export function getFallbackImageUrl(imgUrl?: string): string {
   if (!imgUrl) return '';
-  const clean = imgUrl.replace(/^(\.\/|\/)/, '').replace(/\\/g, '/');
-  return `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/${clean}`;
+  const clean = cleanImagePath(imgUrl);
+  return `https://cdn.jsdelivr.net/gh/Rishabh-27-Devloper/TestSeries@main/${clean}`;
 }
 
 export const storage = {
   getUserProfile,
   saveUserProfile,
-  loadInitialAttempts,
+  getUserAttemptsKey,
   getAllAttempts,
   saveAttempt,
+  clearUserAttempts,
   getAttemptsForPaper,
   getAttemptsSummaryForPaper,
   getPaperIndex,
   getPaper,
+  cleanImagePath,
   resolveImageUrl,
   getFallbackImageUrl,
 };
