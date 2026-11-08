@@ -4,6 +4,30 @@ A comprehensive desktop Computer-Based Test (CBT) platform modeled after the off
 
 ---
 
+## 📸 Application Showcase
+
+### 1. Live CBT Examination Interface
+Official TCS iON examination layout featuring whole-question high-resolution graphics, interactive Question Palette, live countdown timer, and virtual calculator.
+![CBT Exam Interface](docs/screenshots/cbt_exam_interface.png)
+
+### 2. Test Inventory Browser
+Browse all 103 previous year and topic-wise papers with quick chapter/subject filtering, search, and dynamic attempt tracking (Last Attempt & Best Attempt metrics).
+![Test Inventory Browser](docs/screenshots/test_inventory_browser.png)
+
+### 3. Student Performance Dashboard & Analytics
+In-depth post-exam analytics featuring performance tier benchmarks, question accuracy breakdown, gross score, negative penalties, and average speed per question.
+![Analytics Scorecard](docs/screenshots/analytics_scorecard.png)
+
+### 4. Question-by-Question Solution Review
+Comprehensive review of student responses against official answer keys, complete with toggleable high-resolution diagrams and detailed explanations.
+![Solution Review](docs/screenshots/solution_review.png)
+
+### 5. Progress Trends & Historical Attempts
+Track all past test attempts, analyze long-term score progression curves, and reload full historical scorecards with a single click.
+![Progress Trends](docs/screenshots/progress_trends.png)
+
+---
+
 ## ✨ Features
 
 - **TCS iON Examination Interface**:
@@ -77,6 +101,8 @@ TestSeries/
 │   ├── attempts/            # Saved student attempt scorecards (JSON)
 │   ├── papers/              # 103 parsed exam paper definitions and question image slices
 │   └── user_profile.json    # Candidate profile settings
+├── docs/
+│   └── screenshots/         # Application interface screenshots
 ├── tests/                   # Automated test suites for CBT engine, validation, and GUI
 ├── tools/                   # Parsing scripts and data extraction utilities
 ├── ui/                      # PyQt6 application layers, widgets, and dialogs
