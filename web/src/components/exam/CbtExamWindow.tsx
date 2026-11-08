@@ -746,13 +746,13 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
         {/* Right: TCS iON Question Palette & Candidate Profile (Mobile Slide-Over Drawer + Desktop Docked) */}
         <div
           className={`
-            fixed top-0 bottom-0 right-0 z-50 w-[85vw] max-w-sm bg-white shadow-2xl flex flex-col transition-transform duration-200 ease-in-out
-            lg:static lg:z-auto lg:w-80 xl:w-96 lg:shadow-none lg:border-l lg:border-slate-300
+            fixed top-0 bottom-0 right-0 z-50 w-[85vw] max-w-sm bg-white shadow-2xl flex flex-col h-full min-h-0 overflow-hidden transition-transform duration-200 ease-in-out
+            lg:static lg:z-auto lg:w-80 xl:w-96 lg:h-full lg:max-h-full lg:min-h-0 lg:shadow-none lg:border-l lg:border-slate-300
             ${isSidebarOpen ? 'translate-x-0' : 'translate-x-full lg:translate-x-0'}
           `}
         >
           {/* Candidate Card & Mobile Close Button */}
-          <div className="p-3 bg-slate-50 border-b border-slate-200 flex items-center justify-between gap-3">
+          <div className="p-3 bg-slate-50 border-b border-slate-200 flex items-center justify-between gap-3 shrink-0">
             <div className="flex items-center gap-3 min-w-0">
               <div className="w-10 h-10 sm:w-12 sm:h-12 rounded bg-[#1a56a5] text-white flex items-center justify-center font-bold text-base sm:text-lg shadow-xs shrink-0">
                 {profile.name ? profile.name.charAt(0).toUpperCase() : 'U'}
@@ -773,7 +773,7 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
           </div>
 
           {/* Symbol Legend Counter */}
-          <div className="p-3 border-b border-slate-200 bg-slate-50/60 space-y-2 text-xs">
+          <div className="p-3 border-b border-slate-200 bg-slate-50/60 space-y-2 text-xs shrink-0">
             <div className="grid grid-cols-2 gap-2 text-[11px]">
               <div className="flex items-center gap-2">
                 <span className="w-5 h-5 rounded bg-[#27ae60] text-white font-bold flex items-center justify-center text-[10px]">
@@ -812,20 +812,20 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
           </div>
 
           {/* Section Selector / Filter for palette */}
-          <div className="px-3 py-2 bg-slate-100 border-b border-slate-200 text-xs font-bold text-slate-700 flex items-center justify-between">
+          <div className="px-3 py-2 bg-slate-100 border-b border-slate-200 text-xs font-bold text-slate-700 flex items-center justify-between shrink-0">
             <span>Question Palette ({allQuestions.length})</span>
             <span className="text-slate-500 text-[11px] font-normal">{currentSectionName}</span>
           </div>
 
           {/* Question Grid */}
-          <div className="flex-1 overflow-y-auto p-3">
+          <div className="flex-1 min-h-0 overflow-y-auto p-3 custom-scrollbar">
             <div className="grid grid-cols-5 gap-2">
               {allQuestions.map((_, idx) => renderPaletteButton(idx))}
             </div>
           </div>
 
           {/* Bottom Quick Actions inside palette */}
-          <div className="p-3 bg-slate-50 border-t border-slate-200 space-y-2">
+          <div className="p-3 bg-slate-50 border-t border-slate-200 space-y-2 shrink-0">
             <button
               onClick={() => setShowSubmitModal(true)}
               className="w-full py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded font-bold text-xs uppercase tracking-wider shadow transition"

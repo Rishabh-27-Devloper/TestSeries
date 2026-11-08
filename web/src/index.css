@@ -36,6 +36,26 @@ body {
   background: #94a3b8;
 }
 
+/* Explicit custom scrollbar utility */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #94a3b8 #f1f5f9;
+}
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 4px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+
 @layer components {
   .btn-calc-fn {
     @apply rounded border border-blue-200 bg-white p-1.5 sm:p-2 text-[10px] sm:text-xs font-semibold text-blue-900 hover:bg-blue-50 active:scale-95 transition flex items-center justify-center select-none;
