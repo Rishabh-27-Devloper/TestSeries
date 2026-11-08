@@ -1,0 +1,57 @@
+{
+  "paperId": "gate_ec_topicwise_state_equations_for_networks",
+  "title": "GATE EC - State Equations For Networks (Networks)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 30,
+  "totalMarks": 2.0,
+  "description": "Chapter-wise Previous Year Questions for State Equations For Networks in Networks.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "State Equations For Networks Questions",
+      "totalQuestions": 1,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "State Equations For Networks Questions",
+          "type": "MCQ",
+          "questionText": "State Equations For Networks - Question 1 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_state_equations_for_networks/q1_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

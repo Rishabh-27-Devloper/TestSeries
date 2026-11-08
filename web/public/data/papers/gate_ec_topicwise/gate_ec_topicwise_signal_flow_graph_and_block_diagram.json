@@ -1,0 +1,665 @@
+{
+  "paperId": "gate_ec_topicwise_signal_flow_graph_and_block_diagram",
+  "title": "GATE EC - Signal Flow Graph and Block Diagram (Networks)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 60,
+  "totalMarks": 31.0,
+  "description": "Chapter-wise Previous Year Questions for Signal Flow Graph and Block Diagram in Networks.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Signal Flow Graph and Block Diagram Questions",
+      "totalQuestions": 20,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 1 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 2 (GATE ECE 2016 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 3 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 4 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 5 (GATE ECE 2014 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 6 (GATE ECE 2014 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 7 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 8 (GATE ECE 2001)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 9 (GATE ECE 1995)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 10 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q10_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 11 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q11_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 12 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q12_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 13 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q13_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 14 (GATE ECE 2004)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q14_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 15 (GATE ECE 2003)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 16 (GATE ECE 2001)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 17 (GATE ECE 1997)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 18 (GATE ECE 1991)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 19 (GATE ECE 1987)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Signal Flow Graph and Block Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Signal Flow Graph and Block Diagram - Question 20 (GATE ECE 1987)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_signal_flow_graph_and_block_diagram/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

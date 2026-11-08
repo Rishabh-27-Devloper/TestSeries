@@ -1,0 +1,3240 @@
+{
+  "paperId": "gate_ec_topicwise_numerical_ability",
+  "title": "GATE EC - Numerical Ability (General Aptitude)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 180,
+  "totalMarks": 159.0,
+  "description": "Chapter-wise Previous Year Questions for Numerical Ability in General Aptitude.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Numerical Ability Questions",
+      "totalQuestions": 101,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 1 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 2 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 3 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 4 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 5 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 6 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 7 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 8 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 9 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 10 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 11 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 12 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 13 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 14 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 15 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 16 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 17 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 18 (GATE ECE 2019)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 19 (GATE ECE 2019)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 20 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q20_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 21 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q21_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 22 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q22_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 23 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q23_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 24 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q24_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 25 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q25_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 26 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q26_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 27 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q27_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 28 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q28_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 29 (GATE ECE 2016 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q29_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 30 (GATE ECE 2016 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q30_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 31 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q31_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 32 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q32_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 33 (GATE ECE 2016 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q33_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 34 (GATE ECE 2016 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q34_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 35 (GATE ECE 2015 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q35_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 36 (GATE ECE 2015 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q36_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 37 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q37_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 38 (GATE ECE 2015 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q38_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 39 (GATE ECE 2015 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q39_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 40 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q40_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 41 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q41_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 42 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q42_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 43 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q43_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 44 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 45 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 46 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 47 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q47_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 48 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q48_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 49 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q49_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 50 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q50_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 51 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q51_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 52 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q52_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 53 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q53_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 54 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q54_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 55 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q55_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 56 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q56_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 57 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q57_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 58 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q58_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 59 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q59_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 60 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q60_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 61 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q61_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 62 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q62_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 63 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q63_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 64 (GATE ECE 2019)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q64_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 65,
+          "questionNumber": 65,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 65 (GATE ECE 2019)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q65_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 66,
+          "questionNumber": 66,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 66 (GATE ECE 2019)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q66_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 67,
+          "questionNumber": 67,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 67 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q67_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 68,
+          "questionNumber": 68,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 68 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q68_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 69,
+          "questionNumber": 69,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 69 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q69_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 70,
+          "questionNumber": 70,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 70 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q70_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 71,
+          "questionNumber": 71,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 71 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q71_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 72,
+          "questionNumber": 72,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 72 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q72_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 73,
+          "questionNumber": 73,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 73 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q73_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 74,
+          "questionNumber": 74,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 74 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q74_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 75,
+          "questionNumber": 75,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 75 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q75_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 76,
+          "questionNumber": 76,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 76 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q76_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 77,
+          "questionNumber": 77,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 77 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q77_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 78,
+          "questionNumber": 78,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 78 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q78_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 79,
+          "questionNumber": 79,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 79 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q79_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 80,
+          "questionNumber": 80,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "NAT",
+          "questionText": "Numerical Ability - Question 80 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q80_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 560.0,
+          "toleranceMin": 559.99,
+          "toleranceMax": 560.01,
+          "options": []
+        },
+        {
+          "questionId": 81,
+          "questionNumber": 81,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 81 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q81_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 82,
+          "questionNumber": 82,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 82 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q82_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 83,
+          "questionNumber": 83,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 83 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q83_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 84,
+          "questionNumber": 84,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 84 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q84_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 85,
+          "questionNumber": 85,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 85 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q85_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 86,
+          "questionNumber": 86,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 86 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q86_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 87,
+          "questionNumber": 87,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 87 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q87_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 88,
+          "questionNumber": 88,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 88 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q88_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 89,
+          "questionNumber": 89,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 89 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q89_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 90,
+          "questionNumber": 90,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 90 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q90_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 91,
+          "questionNumber": 91,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 91 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q91_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 92,
+          "questionNumber": 92,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 92 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q92_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 93,
+          "questionNumber": 93,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 93 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q93_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 94,
+          "questionNumber": 94,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 94 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q94_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 95,
+          "questionNumber": 95,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 95 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q95_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 96,
+          "questionNumber": 96,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 96 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q96_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 97,
+          "questionNumber": 97,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 97 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q97_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 98,
+          "questionNumber": 98,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 98 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q98_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 99,
+          "questionNumber": 99,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 99 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q99_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 100,
+          "questionNumber": 100,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 100 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q100_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 101,
+          "questionNumber": 101,
+          "sectionId": "sec_topic",
+          "sectionName": "Numerical Ability Questions",
+          "type": "MCQ",
+          "questionText": "Numerical Ability - Question 101 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_numerical_ability/q101_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

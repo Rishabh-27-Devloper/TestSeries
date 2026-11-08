@@ -1,0 +1,657 @@
+{
+  "paperId": "gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series",
+  "title": "GATE EC - Representation of Continuous Time Signal Fourier Series (Signals And Systems)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 63,
+  "totalMarks": 29.0,
+  "description": "Chapter-wise Previous Year Questions for Representation of Continuous Time Signal Fourier Series in Signals And Systems.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+      "totalQuestions": 21,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 1 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 2 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 3 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 4 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "NAT",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 5 (GATE ECE 2014 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.5,
+          "toleranceMin": 0.49,
+          "toleranceMax": 0.51,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 6 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 7 (GATE ECE 2009)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 8 (GATE ECE 2009)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 9 (GATE ECE 2005)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 10 (GATE ECE 2002)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 11 (GATE ECE 1998)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 12 (GATE ECE 1996)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 13 (GATE ECE 1994)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 14 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q14_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MSQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 15 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MSQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 16 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "NAT",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 17 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 15.0,
+          "toleranceMin": 14.99,
+          "toleranceMax": 15.01,
+          "options": []
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "NAT",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 18 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 32.0,
+          "toleranceMin": 31.99,
+          "toleranceMax": 32.01,
+          "options": []
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 19 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MCQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 20 (GATE ECE 2001)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Representation of Continuous Time Signal Fourier Series Questions",
+          "type": "MSQ",
+          "questionText": "Representation of Continuous Time Signal Fourier Series - Question 21 (GATE ECE 1992)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

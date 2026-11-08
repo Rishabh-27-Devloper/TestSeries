@@ -1,0 +1,562 @@
+{
+  "paperId": "gate_ec_topicwise_diodes",
+  "title": "GATE EC - Diodes (Electronic Devices)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 66,
+  "totalMarks": 32.0,
+  "description": "Chapter-wise Previous Year Questions for Diodes in Electronic Devices.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Diodes Questions",
+      "totalQuestions": 22,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 1 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 2 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 10.0,
+          "toleranceMin": 10.0,
+          "toleranceMax": 10.0,
+          "options": []
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 3 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.18,
+          "toleranceMin": 3.17,
+          "toleranceMax": 3.19,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 4 (GATE ECE 2016 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 5 (GATE ECE 2016 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0,
+          "toleranceMin": -0.01,
+          "toleranceMax": 0.01,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 6 (GATE ECE 2015 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 100.0,
+          "toleranceMin": 99.99,
+          "toleranceMax": 100.01,
+          "options": []
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 7 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 8 (GATE ECE 2014 Set 4)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 9 (GATE ECE 2014 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.1,
+          "toleranceMin": 0.09,
+          "toleranceMax": 0.11,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 10 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 11 (GATE ECE 2003)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 12 (GATE ECE 1998)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 13 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q13_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MSQ",
+          "questionText": "Diodes - Question 14 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q14_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 15 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 13.33,
+          "toleranceMin": 13.32,
+          "toleranceMax": 13.34,
+          "options": []
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 16 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 17 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.75,
+          "toleranceMin": 0.74,
+          "toleranceMax": 0.76,
+          "options": []
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 18 (GATE ECE 2016 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.1,
+          "toleranceMin": 2.09,
+          "toleranceMax": 2.11,
+          "options": []
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "NAT",
+          "questionText": "Diodes - Question 19 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.6,
+          "toleranceMin": 0.59,
+          "toleranceMax": 0.61,
+          "options": []
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 20 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 21 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Diodes Questions",
+          "type": "MCQ",
+          "questionText": "Diodes - Question 22 (GATE ECE 1999)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_diodes/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

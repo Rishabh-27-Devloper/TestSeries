@@ -1,0 +1,1106 @@
+{
+  "paperId": "gate_ec_topicwise_probability_and_statistics",
+  "title": "GATE EC - Probability and Statistics (Engineering Mathematics)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 138,
+  "totalMarks": 69.0,
+  "description": "Chapter-wise Previous Year Questions for Probability and Statistics in Engineering Mathematics.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Probability and Statistics Questions",
+      "totalQuestions": 46,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 1 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 2 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.5,
+          "toleranceMin": 0.49,
+          "toleranceMax": 0.51,
+          "options": []
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 3 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.0,
+          "toleranceMin": 3.99,
+          "toleranceMax": 4.01,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 4 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 5 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 6 (GATE ECE 2018)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 7 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 8 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.028,
+          "toleranceMin": 0.018,
+          "toleranceMax": 0.038,
+          "options": []
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 9 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.0,
+          "toleranceMin": 0.99,
+          "toleranceMax": 1.01,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 10 (GATE ECE 2015 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.0,
+          "toleranceMin": 5.99,
+          "toleranceMax": 6.01,
+          "options": []
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 11 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.0,
+          "toleranceMin": 5.99,
+          "toleranceMax": 6.01,
+          "options": []
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 12 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 13 (GATE ECE 2015 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 14 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.665,
+          "toleranceMin": 0.66,
+          "toleranceMax": 0.67,
+          "options": []
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 15 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 16 (GATE ECE 2014 Set 4)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.8,
+          "toleranceMin": 0.79,
+          "toleranceMax": 0.81,
+          "options": []
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 17 (GATE ECE 2014 Set 4)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 18 (GATE ECE 2014 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 19 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 20 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q20_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 21 (GATE ECE 2009)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q21_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 22 (GATE ECE 2007)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q22_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 23 (GATE ECE 2005)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q23_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 24 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 25 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 7.0,
+          "toleranceMin": 6.99,
+          "toleranceMax": 7.01,
+          "options": []
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 26 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.585,
+          "toleranceMin": 0.575,
+          "toleranceMax": 0.595,
+          "options": []
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 27 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 28 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.3,
+          "toleranceMin": 0.28,
+          "toleranceMax": 0.32,
+          "options": []
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 29 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.5,
+          "toleranceMin": 2.49,
+          "toleranceMax": 2.51,
+          "options": []
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 30 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.33,
+          "toleranceMin": 0.32,
+          "toleranceMax": 0.34,
+          "options": []
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 31 (GATE ECE 2016 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.07203,
+          "toleranceMin": 0.062,
+          "toleranceMax": 0.082,
+          "options": []
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 32 (GATE ECE 2015 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.0,
+          "toleranceMin": 5.99,
+          "toleranceMax": 6.01,
+          "options": []
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 33 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 34 (GATE ECE 2015 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.4,
+          "toleranceMin": 0.39,
+          "toleranceMax": 0.41,
+          "options": []
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 35 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.33,
+          "toleranceMin": 0.32,
+          "toleranceMax": 0.34,
+          "options": []
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 36 (GATE ECE 2014 Set 4)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.44,
+          "toleranceMin": 0.43,
+          "toleranceMax": 0.45,
+          "options": []
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 37 (GATE ECE 2014 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 50.0,
+          "toleranceMin": 49.99,
+          "toleranceMax": 50.01,
+          "options": []
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 38 (GATE ECE 2014 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q38_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "NAT",
+          "questionText": "Probability and Statistics - Question 39 (GATE ECE 2014 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.16,
+          "toleranceMin": 0.15,
+          "toleranceMax": 0.17,
+          "options": []
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 40 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 41 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 42 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 43 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q43_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 44 (GATE ECE 2009)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 45 (GATE ECE 2009)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "Probability and Statistics Questions",
+          "type": "MCQ",
+          "questionText": "Probability and Statistics - Question 46 (GATE ECE 2007)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_probability_and_statistics/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

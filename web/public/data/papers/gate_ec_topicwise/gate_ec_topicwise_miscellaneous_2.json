@@ -1,0 +1,164 @@
+{
+  "paperId": "gate_ec_topicwise_miscellaneous_2",
+  "title": "GATE EC - Miscellaneous (2) (Electronics & Communication)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 30,
+  "totalMarks": 11.0,
+  "description": "Chapter-wise Previous Year Questions for Miscellaneous (2) in Electronics & Communication.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Miscellaneous (2) Questions",
+      "totalQuestions": 7,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Miscellaneous (2) Questions",
+          "type": "NAT",
+          "questionText": "Miscellaneous (2) - Question 1 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_miscellaneous_2/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 9.36,
+          "toleranceMin": 9.35,
+          "toleranceMax": 9.37,
+          "options": []
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Miscellaneous (2) Questions",
+          "type": "MCQ",
+          "questionText": "Miscellaneous (2) - Question 2 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_miscellaneous_2/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Miscellaneous (2) Questions",
+          "type": "NAT",
+          "questionText": "Miscellaneous (2) - Question 3 (GATE ECE 2016 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_miscellaneous_2/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 32.5,
+          "toleranceMin": 32.49,
+          "toleranceMax": 32.51,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Miscellaneous (2) Questions",
+          "type": "MCQ",
+          "questionText": "Miscellaneous (2) - Question 4 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_miscellaneous_2/q4_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Miscellaneous (2) Questions",
+          "type": "NAT",
+          "questionText": "Miscellaneous (2) - Question 5 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_miscellaneous_2/q5_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.33,
+          "toleranceMin": 4.32,
+          "toleranceMax": 4.34,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Miscellaneous (2) Questions",
+          "type": "NAT",
+          "questionText": "Miscellaneous (2) - Question 6 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_miscellaneous_2/q6_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.375,
+          "toleranceMin": 0.365,
+          "toleranceMax": 0.385,
+          "options": []
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Miscellaneous (2) Questions",
+          "type": "NAT",
+          "questionText": "Miscellaneous (2) - Question 7 (GATE ECE 2016 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_miscellaneous_2/q7_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0122,
+          "toleranceMin": 0.0022,
+          "toleranceMax": 0.0222,
+          "options": []
+        }
+      ]
+    }
+  ]
+}

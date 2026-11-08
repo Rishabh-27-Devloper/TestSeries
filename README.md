@@ -91,12 +91,40 @@ pytest tests/ -v
 
 ---
 
+---
+
+## 🌐 React Web Application (`web/`)
+
+In addition to the PyQt6 desktop client, a modern **React + Vite + TypeScript + Tailwind CSS** deployable web version is included in [`web/`](file:///c:/Users/Anand%20Shukla/Documents/TestSeries/web).
+
+### Web Features:
+- **Zero-Config Deployment**: Ready to deploy directly to Vercel, Netlify, or GitHub Pages.
+- **TCS iON CBT Experience in Browser**: Live timer, section switching, virtual scientific calculator modal, question palette, and full evaluation engine.
+- **LocalStorage Persistence**: Auto-seeds past attempt data and saves new exam scores, question responses, and candidate profiles in the browser.
+- **Dual-Tier Asset Delivery**: Seamlessly serves local slices or falls back to CDN/GitHub raw image assets.
+
+### Running the Web Version Locally:
+```bash
+cd web
+npm install
+npm run dev
+```
+
+### Production Build & Deploy:
+```bash
+cd web
+npm run build
+```
+The output is generated in `web/dist/`, ready for any static hosting provider. Configuration files for Vercel (`web/vercel.json`) and Netlify (`web/netlify.toml`) are pre-configured with SPA route rewriting.
+
+---
+
 ## 📁 Project Structure
 
 ```
 TestSeries/
 ├── assets/                  # Original exam PDFs, UI icons, and resources
-├── core/                    # Data models, storage manager, evaluation engine, and security
+├── core/                    # Desktop data models, storage manager, evaluation engine
 ├── data/
 │   ├── attempts/            # Saved student attempt scorecards (JSON)
 │   ├── papers/              # 103 parsed exam paper definitions and question image slices
@@ -106,6 +134,11 @@ TestSeries/
 ├── tests/                   # Automated test suites for CBT engine, validation, and GUI
 ├── tools/                   # Parsing scripts and data extraction utilities
 ├── ui/                      # PyQt6 application layers, widgets, and dialogs
-├── requirements.txt         # Project dependencies
-└── run_app.py               # Main application entry point
+├── web/                     # React + Vite + TypeScript web application
+│   ├── src/                 # React components (Inventory, Exam, Dashboard, Calculator)
+│   ├── public/data/         # Standardized paper manifests and JSONs
+│   ├── vercel.json          # Vercel deployment configuration
+│   └── netlify.toml         # Netlify deployment configuration
+├── requirements.txt         # Python project dependencies
+└── run_app.py               # Desktop application entry point
 ```

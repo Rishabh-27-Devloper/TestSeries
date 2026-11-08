@@ -1,0 +1,2565 @@
+{
+  "paperId": "gate_ec_topicwise_operational_amplifier",
+  "title": "GATE EC - Operational Amplifier (Analog Circuits)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 180,
+  "totalMarks": 148.0,
+  "description": "Chapter-wise Previous Year Questions for Operational Amplifier in Analog Circuits.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Operational Amplifier Questions",
+      "totalQuestions": 93,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 1 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 2 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MSQ",
+          "questionText": "Operational Amplifier - Question 3 (GATE ECE 2025)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MSQ",
+          "questionText": "Operational Amplifier - Question 4 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "B",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 5 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 6 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 7 (GATE ECE 2021)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -12.0,
+          "toleranceMin": -12.0,
+          "toleranceMax": -12.0,
+          "options": []
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 8 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 9 (GATE ECE 2020)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.0,
+          "toleranceMin": 5.99,
+          "toleranceMax": 6.01,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 10 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 11 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 12 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 13 (GATE ECE 2015 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 159.14,
+          "toleranceMin": 159.13,
+          "toleranceMax": 159.15,
+          "options": []
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 14 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.5,
+          "toleranceMin": 1.49,
+          "toleranceMax": 1.51,
+          "options": []
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 15 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.0,
+          "toleranceMin": 0.99,
+          "toleranceMax": 1.01,
+          "options": []
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 16 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.18,
+          "toleranceMin": 3.17,
+          "toleranceMax": 3.19,
+          "options": []
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 17 (GATE ECE 2014 Set 4)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 18 (GATE ECE 2014 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 19 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 20 (GATE ECE 2011)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q20_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 21 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q21_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 22 (GATE ECE 2010)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q22_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 23 (GATE ECE 2005)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q23_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 24 (GATE ECE 2004)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q24_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 25 (GATE ECE 2004)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q25_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 26 (GATE ECE 2003)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q26_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 27 (GATE ECE 2001)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q27_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 28 (GATE ECE 2000)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q28_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 29 (GATE ECE 2000)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q29_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 30 (GATE ECE 1999)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q30_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 31 (GATE ECE 1998)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q31_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 32 (GATE ECE 1998)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q32_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 33 (GATE ECE 1997)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q33_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 34 (GATE ECE 1996)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q34_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 35 (GATE ECE 1995)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q35_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 33.0,
+          "toleranceMin": 32.99,
+          "toleranceMax": 33.01,
+          "options": []
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 36 (GATE ECE 1995)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q36_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 250.0,
+          "toleranceMin": 249.99,
+          "toleranceMax": 250.01,
+          "options": []
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 37 (GATE ECE 1995)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q37_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 38 (GATE ECE 1994)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q38_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": "Stability",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 39 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 40 (GATE ECE 2026)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.9,
+          "toleranceMax": 3.1,
+          "options": []
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 41 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 42 (GATE ECE 2024)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 43 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q43_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 44 (GATE ECE 2023)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 8.32,
+          "toleranceMin": 8.3,
+          "toleranceMax": 8.34,
+          "options": []
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 45 (GATE ECE 2022)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 46 (GATE ECE 2017 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.15,
+          "toleranceMin": 1.14,
+          "toleranceMax": 1.16,
+          "options": []
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 47 (GATE ECE 2017 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q47_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 44.5,
+          "toleranceMin": 44.0,
+          "toleranceMax": 45.0,
+          "options": []
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 48 (GATE ECE 2016 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q48_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.798,
+          "toleranceMin": 0.788,
+          "toleranceMax": 0.808,
+          "options": []
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 49 (GATE ECE 2016 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q49_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 413.7,
+          "toleranceMin": 413.69,
+          "toleranceMax": 413.71,
+          "options": []
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 50 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q50_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 15.0,
+          "toleranceMin": 14.99,
+          "toleranceMax": 15.01,
+          "options": []
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 51 (GATE ECE 2016 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q51_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -800.0,
+          "toleranceMin": -800.01,
+          "toleranceMax": -799.99,
+          "options": []
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 52 (GATE ECE 2016 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q52_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -1.0,
+          "toleranceMin": -1.01,
+          "toleranceMax": -0.99,
+          "options": []
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 53 (GATE ECE 2015 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q53_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.0,
+          "toleranceMin": 0.99,
+          "toleranceMax": 1.01,
+          "options": []
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 54 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q54_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.8,
+          "toleranceMin": 2.79,
+          "toleranceMax": 2.81,
+          "options": []
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 55 (GATE ECE 2015 Set 2)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q55_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 12.0,
+          "toleranceMin": 11.99,
+          "toleranceMax": 12.01,
+          "options": []
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 56 (GATE ECE 2015 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q56_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 250.0,
+          "toleranceMin": 249.99,
+          "toleranceMax": 250.01,
+          "options": []
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 57 (GATE ECE 2015 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q57_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 58 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q58_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1093.0,
+          "toleranceMin": 1092.99,
+          "toleranceMax": 1093.01,
+          "options": []
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 59 (GATE ECE 2014 Set 1)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q59_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 60 (GATE ECE 2014 Set 3)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q60_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 61 (GATE ECE 2013)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q61_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 62 (GATE ECE 2012)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q62_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 63 (GATE ECE 2008)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q63_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 64 (GATE ECE 2008)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q64_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 65,
+          "questionNumber": 65,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 65 (GATE ECE 2008)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q65_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 66,
+          "questionNumber": 66,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 66 (GATE ECE 2007)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q66_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 67,
+          "questionNumber": 67,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 67 (GATE ECE 2007)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q67_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 68,
+          "questionNumber": 68,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 68 (GATE ECE 2007)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q68_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 69,
+          "questionNumber": 69,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 69 (GATE ECE 2007)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q69_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 70,
+          "questionNumber": 70,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 70 (GATE ECE 2006)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q70_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 71,
+          "questionNumber": 71,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 71 (GATE ECE 2005)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q71_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 72,
+          "questionNumber": 72,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 72 (GATE ECE 2005)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q72_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 73,
+          "questionNumber": 73,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 73 (GATE ECE 2005)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q73_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 74,
+          "questionNumber": 74,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 74 (GATE ECE 2005)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q74_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 75,
+          "questionNumber": 75,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 75 (GATE ECE 2004)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q75_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 76,
+          "questionNumber": 76,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 76 (GATE ECE 2003)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q76_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 77,
+          "questionNumber": 77,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 77 (GATE ECE 2003)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q77_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 78,
+          "questionNumber": 78,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 78 (GATE ECE 2003)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q78_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 79,
+          "questionNumber": 79,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 79 (GATE ECE 2001)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q79_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 80,
+          "questionNumber": 80,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 80 (GATE ECE 2001)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q80_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 81,
+          "questionNumber": 81,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 81 (GATE ECE 2001)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q81_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 82,
+          "questionNumber": 82,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 82 (GATE ECE 2000)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q82_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 83,
+          "questionNumber": 83,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 83 (GATE ECE 1997)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q83_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 84,
+          "questionNumber": 84,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 84 (GATE ECE 1993)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q84_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.02,
+          "toleranceMin": 0.01,
+          "toleranceMax": 0.03,
+          "options": []
+        },
+        {
+          "questionId": 85,
+          "questionNumber": 85,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 85 (GATE ECE 1992)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q85_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.0,
+          "toleranceMin": 3.99,
+          "toleranceMax": 4.01,
+          "options": []
+        },
+        {
+          "questionId": 86,
+          "questionNumber": 86,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 86 (GATE ECE 1992)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q86_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 87,
+          "questionNumber": 87,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 87 (GATE ECE 1992)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q87_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 88,
+          "questionNumber": 88,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 88 (GATE ECE 1990)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q88_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 89,
+          "questionNumber": 89,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 89 (GATE ECE 1990)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q89_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 90,
+          "questionNumber": 90,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 90 (GATE ECE 1990)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q90_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 91,
+          "questionNumber": 91,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 91 (GATE ECE 1989)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q91_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 92,
+          "questionNumber": 92,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Operational Amplifier - Question 92 (GATE ECE 1988)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q92_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 93,
+          "questionNumber": 93,
+          "sectionId": "sec_topic",
+          "sectionName": "Operational Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Operational Amplifier - Question 93 (GATE ECE 1987)",
+          "imageUrl": "data/papers/gate_ec_topicwise/assets/gate_ec_topicwise_operational_amplifier/q93_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 100.0,
+          "toleranceMin": 99.99,
+          "toleranceMax": 100.01,
+          "options": []
+        }
+      ]
+    }
+  ]
+}

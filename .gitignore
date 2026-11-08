@@ -44,3 +44,9 @@ Thumbs.db
 # Scratch & temporary logs
 scratch/
 *.log
+
+# Web app build & modules
+web/node_modules/
+web/dist/
+web/public/data/papers/**/assets
+
