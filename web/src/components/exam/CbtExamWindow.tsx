@@ -8,8 +8,8 @@ import {
   ChevronRight,
   ZoomIn,
   AlertTriangle,
-  Menu,
   X,
+  LayoutGrid,
 } from 'lucide-react';
 import type { ExamPaper, Question, QuestionStatus, ExamResult } from '../../types';
 import { evaluateExam } from '../../utils/evaluator';
@@ -392,84 +392,85 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
   return (
     <div className="h-screen w-screen flex flex-col bg-slate-100 font-sans overflow-hidden select-none">
       {/* 1. Official TCS iON Top Bar */}
-      <header className="bg-[#1a56a5] text-white h-14 px-4 flex items-center justify-between shrink-0 shadow-sm z-20">
-        <div className="flex items-center gap-3">
-          <div className="font-extrabold text-lg tracking-wide hidden sm:block">GATE CBT</div>
-          <div className="h-5 w-px bg-white/20 hidden sm:block" />
-          <div className="font-semibold text-sm truncate max-w-[200px] sm:max-w-md">
+      <header className="bg-[#1a56a5] text-white min-h-[48px] sm:h-14 px-2.5 sm:px-4 flex items-center justify-between gap-1.5 sm:gap-4 shrink-0 shadow-sm z-20">
+        <div className="flex items-center gap-1.5 sm:gap-3 min-w-0 flex-1">
+          <div className="font-extrabold text-base tracking-wide hidden sm:block shrink-0">GATE CBT</div>
+          <div className="h-4 w-px bg-white/20 hidden sm:block shrink-0" />
+          <div className="font-semibold text-xs sm:text-sm truncate" title={paper.title}>
             {paper.title}
           </div>
         </div>
 
-        {/* Tools and Live Timer */}
-        <div className="flex items-center gap-2 sm:gap-4">
+        {/* Tools, Live Timer & Palette */}
+        <div className="flex items-center gap-1 sm:gap-2.5 shrink-0">
           <button
             onClick={() => setShowCalculator(true)}
-            className="flex items-center gap-1.5 px-2.5 py-1 rounded bg-white/10 hover:bg-white/20 text-xs font-medium text-white transition border border-white/20"
+            className="p-1.5 sm:px-2.5 sm:py-1 rounded bg-white/10 hover:bg-white/20 text-white transition border border-white/20 shrink-0"
             title="Open Scientific Calculator"
           >
-            <Calculator size={15} />
-            <span className="hidden md:inline">Calculator</span>
+            <Calculator size={14} className="sm:w-[15px] sm:h-[15px]" />
+            <span className="hidden md:inline text-xs ml-1 font-medium">Calculator</span>
           </button>
 
           <button
             onClick={() => setShowQuestionPaper(true)}
-            className="flex items-center gap-1.5 px-2.5 py-1 rounded bg-white/10 hover:bg-white/20 text-xs font-medium text-white transition border border-white/20"
+            className="p-1.5 sm:px-2.5 sm:py-1 rounded bg-white/10 hover:bg-white/20 text-white transition border border-white/20 shrink-0"
             title="View Full Question Paper"
           >
-            <FileText size={15} />
-            <span className="hidden md:inline">Question Paper</span>
+            <FileText size={14} className="sm:w-[15px] sm:h-[15px]" />
+            <span className="hidden md:inline text-xs ml-1 font-medium">Paper</span>
           </button>
 
           <button
             onClick={() => setShowInstructions(true)}
-            className="flex items-center gap-1.5 px-2.5 py-1 rounded bg-white/10 hover:bg-white/20 text-xs font-medium text-white transition border border-white/20"
+            className="p-1.5 sm:px-2.5 sm:py-1 rounded bg-white/10 hover:bg-white/20 text-white transition border border-white/20 shrink-0"
             title="Read Instructions"
           >
-            <BookOpen size={15} />
-            <span className="hidden md:inline">Instructions</span>
+            <BookOpen size={14} className="sm:w-[15px] sm:h-[15px]" />
+            <span className="hidden md:inline text-xs ml-1 font-medium">Instructions</span>
           </button>
 
-          {/* Countdown Clock */}
+          {/* Countdown Clock (Always 100% visible) */}
           <div
-            className={`flex items-center gap-1 sm:gap-2 px-2 sm:px-3 py-1 rounded font-mono font-bold text-xs sm:text-sm shadow-xs ${
+            className={`flex items-center gap-1 px-1.5 sm:px-2.5 py-1 rounded font-mono font-bold text-[11px] sm:text-xs shadow-xs shrink-0 whitespace-nowrap ${
               isTimeCritical
                 ? 'bg-rose-600 text-white animate-pulse'
                 : 'bg-white text-slate-900 border border-slate-300'
             }`}
           >
-            <Clock size={14} className={isTimeCritical ? 'text-white' : 'text-[#1a56a5]'} />
+            <Clock size={13} className={isTimeCritical ? 'text-white' : 'text-[#1a56a5]'} />
             <span>{formatTime(timeLeft)}</span>
           </div>
 
+          {/* Top Bar Palette Toggle Button (Mobile) */}
           <button
-            onClick={() => setIsSidebarOpen(!isSidebarOpen)}
-            className="flex items-center gap-1 px-2.5 py-1 rounded bg-blue-800 hover:bg-blue-700 text-white text-xs font-semibold border border-white/30 lg:hidden shadow-xs"
-            title="Toggle Question Palette"
+            onClick={() => setIsSidebarOpen(true)}
+            className="flex items-center gap-1 px-2 sm:px-2.5 py-1 rounded bg-amber-500 hover:bg-amber-600 active:bg-amber-700 text-white text-xs font-bold shadow-xs lg:hidden shrink-0 border border-amber-400"
+            title="Open Question Palette"
           >
-            <Menu size={16} />
-            <span className="hidden xs:inline">Palette</span>
+            <LayoutGrid size={14} />
+            <span className="text-[11px] font-bold">Palette</span>
           </button>
         </div>
       </header>
 
       {/* 2. Section Navigation Tabs Bar */}
-      <nav className="bg-slate-200 border-b border-slate-300 px-3 sm:px-4 py-1.5 flex items-center justify-between shrink-0">
-        <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-0.5">
-          <span className="text-xs font-bold text-slate-600 uppercase pr-1">Sections:</span>
+      <nav className="bg-slate-200 border-b border-slate-300 px-2 sm:px-4 py-1 flex items-center justify-between shrink-0">
+        <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto no-scrollbar py-0.5 min-w-0 flex-1">
+          <span className="text-[11px] sm:text-xs font-bold text-slate-600 uppercase shrink-0">Sections:</span>
           {sections.map((sec) => {
             const isActive = sec.name === currentSectionName;
             return (
               <button
                 key={sec.name}
                 onClick={() => jumpToQuestion(sec.indices[0])}
-                className={`px-3 py-1 rounded text-xs font-bold transition whitespace-nowrap flex items-center gap-1.5 ${
+                className={`px-2.5 py-1 rounded text-xs font-bold transition whitespace-nowrap flex items-center gap-1 shrink-0 ${
                   isActive
                     ? 'bg-[#1a56a5] text-white shadow-xs'
                     : 'bg-white text-slate-700 hover:bg-slate-50 border border-slate-300'
                 }`}
               >
-                <span>{sec.name}</span>
+                <span className="truncate max-w-[130px] sm:max-w-none">{sec.name}</span>
                 <span
                   className={`text-[10px] px-1.5 py-0.2 rounded-full ${
                     isActive ? 'bg-blue-800 text-white' : 'bg-slate-200 text-slate-700'
@@ -482,7 +483,7 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
           })}
         </div>
 
-        <div className="hidden sm:flex items-center gap-3 text-xs text-slate-600">
+        <div className="hidden sm:flex items-center gap-3 text-xs text-slate-600 shrink-0">
           <span>
             Candidate: <strong className="text-slate-800">{profile.name}</strong>
           </span>
@@ -497,8 +498,8 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
         {/* Left: Question Viewer & Answer Area */}
         <div className="flex-1 flex flex-col bg-white overflow-hidden border-r border-slate-300">
           {/* Question Metadata Header */}
-          <div className="px-3 sm:px-5 py-2.5 bg-slate-50 border-b border-slate-200 flex items-center justify-between shrink-0 text-xs">
-            <div className="flex items-center gap-2 sm:gap-3">
+          <div className="px-3 sm:px-5 py-2 sm:py-2.5 bg-slate-50 border-b border-slate-200 flex items-center justify-between gap-2 shrink-0 text-xs">
+            <div className="flex items-center gap-2 sm:gap-3 shrink-0">
               <span className="font-black text-xs sm:text-sm text-[#1a56a5]">
                 Q.{currentIndex + 1}
               </span>
@@ -512,7 +513,18 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
               )}
             </div>
 
-            <div className="flex items-center gap-3 sm:gap-4 font-semibold text-[11px] sm:text-xs">
+            {/* Mobile All Questions Palette Button (Prominent in question header) */}
+            <button
+              type="button"
+              onClick={() => setIsSidebarOpen(true)}
+              className="lg:hidden flex items-center gap-1.5 px-2.5 py-1 rounded bg-[#1a56a5] hover:bg-blue-700 active:bg-blue-800 text-white text-[11px] font-bold shadow-xs transition shrink-0"
+              title="Open All Questions Palette"
+            >
+              <LayoutGrid size={13} />
+              <span>Questions ({currentIndex + 1}/{allQuestions.length})</span>
+            </button>
+
+            <div className="flex items-center gap-2 sm:gap-4 font-semibold text-[11px] sm:text-xs shrink-0">
               <span className="text-emerald-700">+{currentQ.positiveMarks}</span>
               <span className="text-rose-700">-{negMarks.toFixed(2)}</span>
             </div>
