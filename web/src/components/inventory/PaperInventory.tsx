@@ -16,6 +16,83 @@ interface PaperInventoryProps {
   onOpenProfile: () => void;
 }
 
+const POPULAR_SUBJECTS = [
+  'Digital Circuits',
+  'Signals and Systems',
+  'Control Systems',
+  'Analog Circuits',
+  'Electronic Devices & Circuits',
+  'Communications',
+  'Electromagnetics',
+  'Networks',
+  'Engineering Mathematics',
+  'General Aptitude',
+  'Full Length (PYQs)',
+];
+
+function checkSubjectOrChapterMatch(paper: PaperIndexItem, targetChapter: string): boolean {
+  if (targetChapter === 'ALL') return true;
+
+  const t = targetChapter.toLowerCase().trim();
+  const s = (paper.subject || '').toLowerCase().trim();
+  const c = (paper.chapter || '').toLowerCase().trim();
+  const title = (paper.title || '').toLowerCase().trim();
+  const cat = (paper.category || '').toLowerCase().trim();
+
+  // Core Subject / Category semantic matchers
+  if (t === 'full length (pyqs)' || t === 'full length' || t === 'pyq') {
+    return cat === 'pyq' || c.includes('full length') || title.includes('official examination');
+  }
+  if (t === 'electronic devices & circuits' || t === 'electronic devices') {
+    return (
+      s.includes('electronic devices') ||
+      c.includes('electronic devices') ||
+      title.includes('electronic devices') ||
+      ['bjt and fet', 'bipolar junction transistor', 'mosfet', 'pn junction', 'semiconductor physics'].includes(c)
+    );
+  }
+  if (t === 'signals and systems' || t === 'signals & systems') {
+    return s.includes('signal') || c.includes('signal') || title.includes('signal');
+  }
+  if (t === 'control systems') {
+    return s.includes('control') || c.includes('control') || title.includes('control');
+  }
+  if (t === 'digital circuits') {
+    return s.includes('digital') || c.includes('digital') || title.includes('digital');
+  }
+  if (t === 'communications' || t === 'communication') {
+    return s.includes('communication') || c.includes('communication') || title.includes('communication');
+  }
+  if (t === 'analog circuits') {
+    return s.includes('analog') || c.includes('analog') || title.includes('analog');
+  }
+  if (t === 'electromagnetics') {
+    return (
+      s.includes('electromagnet') ||
+      c.includes('electromagnet') ||
+      title.includes('electromagnet') ||
+      ['antennas', 'waveguides', 'transmission lines'].includes(c)
+    );
+  }
+  if (t === 'networks') {
+    return s.includes('network') || c.includes('network') || title.includes('network');
+  }
+  if (t === 'engineering mathematics') {
+    return (
+      s.includes('math') ||
+      c.includes('math') ||
+      title.includes('math') ||
+      ['calculus', 'linear algebra', 'differential equations', 'probability', 'complex variable', 'transform theory', 'numerical methods'].includes(c)
+    );
+  }
+  if (t === 'general aptitude') {
+    return s.includes('aptitude') || c.includes('aptitude') || title.includes('aptitude') || c.includes('verbal') || c.includes('numerical');
+  }
+
+  // Exact or contains match on chapter, subject, or title
+  return s === t || c === t || s.includes(t) || c.includes(t) || title.includes(t);
+}
+
 export const PaperInventory: React.FC<PaperInventoryProps> = ({
   papers,
   onSelectPaper,
@@ -38,12 +115,13 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
     [allAttempts]
   );
 
-  // Extract unique chapters and subjects
+  // Extract unique chapters and topics (excluding 'Full Length')
   const chaptersList = useMemo(() => {
     const set = new Set<string>();
     papers.forEach((p) => {
-      if (p.chapter && p.chapter.trim()) set.add(p.chapter.trim());
-      else if (p.subject && p.subject.trim()) set.add(p.subject.trim());
+      if (p.chapter && p.chapter.trim() && p.chapter.trim().toLowerCase() !== 'full length') {
+        set.add(p.chapter.trim());
+      }
     });
     return Array.from(set).sort();
   }, [papers]);
@@ -54,7 +132,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
       .filter((paper) => {
         // Search term matching
         if (searchQuery.trim()) {
-          const q = searchQuery.toLowerCase();
+          const q = searchQuery.toLowerCase().trim();
           const matchName = paper.title.toLowerCase().includes(q);
           const matchChapter = (paper.chapter || '').toLowerCase().includes(q);
           const matchSubject = (paper.subject || '').toLowerCase().includes(q);
@@ -62,10 +140,9 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
           if (!matchName && !matchChapter && !matchSubject && !matchId) return false;
         }
 
-        // Chapter filter
-        if (selectedChapter !== 'ALL') {
-          const chap = paper.chapter || paper.subject || '';
-          if (chap !== selectedChapter) return false;
+        // Chapter & Subject filter
+        if (!checkSubjectOrChapterMatch(paper, selectedChapter)) {
+          return false;
         }
 
         // Status filter
@@ -213,12 +290,21 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
                   onChange={(e) => setSelectedChapter(e.target.value)}
                   className="w-full px-3 py-2 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-[#1a56a5] outline-none text-slate-800 bg-white"
                 >
-                  <option value="ALL">📚 All Chapters &amp; Subjects ({chaptersList.length})</option>
-                  {chaptersList.map((chap) => (
-                    <option key={chap} value={chap}>
-                      {chap}
-                    </option>
-                  ))}
+                  <option value="ALL">📚 All Subjects &amp; Chapters ({papers.length} Papers)</option>
+                  <optgroup label="Core Subjects">
+                    {POPULAR_SUBJECTS.map((subj) => (
+                      <option key={subj} value={subj}>
+                        {subj}
+                      </option>
+                    ))}
+                  </optgroup>
+                  <optgroup label="Specific Chapters &amp; Topics">
+                    {chaptersList.map((chap) => (
+                      <option key={chap} value={chap}>
+                        {chap}
+                      </option>
+                    ))}
+                  </optgroup>
                 </select>
               </div>
             </div>
@@ -243,27 +329,22 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
               <span className="font-semibold text-slate-700 flex items-center gap-1 shrink-0">
                 <Filter size={12} /> Popular:
               </span>
-              {[
-                'Digital Circuits',
-                'Signals and Systems',
-                'Control Systems',
-                'Analog Circuits',
-                'Electronic Devices & Circuits',
-                'Communications',
-                'Engineering Mathematics',
-              ].map((subj) => (
-                <button
-                  key={subj}
-                  onClick={() => setSelectedChapter(selectedChapter === subj ? 'ALL' : subj)}
-                  className={`px-2.5 py-1 rounded-full text-xs font-medium transition shrink-0 whitespace-nowrap ${
-                    selectedChapter === subj
-                      ? 'bg-[#1a56a5] text-white'
-                      : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-                  }`}
-                >
-                  {subj}
-                </button>
-              ))}
+              {POPULAR_SUBJECTS.map((subj) => {
+                const isSelected = selectedChapter === subj;
+                return (
+                  <button
+                    key={subj}
+                    onClick={() => setSelectedChapter(isSelected ? 'ALL' : subj)}
+                    className={`px-2.5 py-1 rounded-full text-xs font-medium transition shrink-0 whitespace-nowrap ${
+                      isSelected
+                        ? 'bg-[#1a56a5] text-white shadow-xs font-semibold'
+                        : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                    }`}
+                  >
+                    {subj}
+                  </button>
+                );
+              })}
             </div>
 
             <div className="flex items-center gap-2 self-end sm:self-auto shrink-0">
@@ -285,10 +366,24 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
         {/* Papers Grid */}
         <div className="space-y-4">
           <div className="flex items-center justify-between text-xs text-slate-500 px-1">
-            <span>
-              Showing <strong className="text-slate-900">{filteredPapers.length}</strong> of{' '}
-              {papers.length} papers
-            </span>
+            <div className="flex items-center flex-wrap gap-2">
+              <span>
+                Showing <strong className="text-slate-900">{filteredPapers.length}</strong> of{' '}
+                {papers.length} papers
+              </span>
+              {selectedChapter !== 'ALL' && (
+                <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full bg-blue-50 text-blue-800 font-semibold text-[11px] border border-blue-200">
+                  <span>Filtered: {selectedChapter}</span>
+                  <button
+                    onClick={() => setSelectedChapter('ALL')}
+                    className="hover:text-blue-950 font-bold ml-1 text-sm leading-none"
+                    title="Remove filter"
+                  >
+                    ×
+                  </button>
+                </span>
+              )}
+            </div>
             {(selectedChapter !== 'ALL' || selectedStatus !== 'ALL' || searchQuery) && (
               <button
                 onClick={() => {
