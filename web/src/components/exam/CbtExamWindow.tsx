@@ -196,6 +196,11 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
     });
 
     setCurrentIndex(targetIndex);
+
+    // Auto-close drawer on mobile when candidate selects a question
+    if (typeof window !== 'undefined' && window.innerWidth < 1024) {
+      setIsSidebarOpen(false);
+    }
   };
 
   // Action: Save & Next
@@ -428,28 +433,29 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
 
           {/* Countdown Clock */}
           <div
-            className={`flex items-center gap-2 px-3 py-1 rounded font-mono font-bold text-sm shadow-xs ${
+            className={`flex items-center gap-1 sm:gap-2 px-2 sm:px-3 py-1 rounded font-mono font-bold text-xs sm:text-sm shadow-xs ${
               isTimeCritical
                 ? 'bg-rose-600 text-white animate-pulse'
                 : 'bg-white text-slate-900 border border-slate-300'
             }`}
           >
-            <Clock size={16} className={isTimeCritical ? 'text-white' : 'text-[#1a56a5]'} />
+            <Clock size={14} className={isTimeCritical ? 'text-white' : 'text-[#1a56a5]'} />
             <span>{formatTime(timeLeft)}</span>
           </div>
 
           <button
             onClick={() => setIsSidebarOpen(!isSidebarOpen)}
-            className="p-1.5 rounded hover:bg-white/20 text-white lg:hidden"
+            className="flex items-center gap-1 px-2.5 py-1 rounded bg-blue-800 hover:bg-blue-700 text-white text-xs font-semibold border border-white/30 lg:hidden shadow-xs"
             title="Toggle Question Palette"
           >
-            {isSidebarOpen ? <X size={20} /> : <Menu size={20} />}
+            <Menu size={16} />
+            <span className="hidden xs:inline">Palette</span>
           </button>
         </div>
       </header>
 
       {/* 2. Section Navigation Tabs Bar */}
-      <nav className="bg-slate-200 border-b border-slate-300 px-4 py-1.5 flex items-center justify-between shrink-0">
+      <nav className="bg-slate-200 border-b border-slate-300 px-3 sm:px-4 py-1.5 flex items-center justify-between shrink-0">
         <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-0.5">
           <span className="text-xs font-bold text-slate-600 uppercase pr-1">Sections:</span>
           {sections.map((sec) => {
@@ -486,16 +492,16 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
       </nav>
 
       {/* 3. Main Split View: Question Area & Right Palette */}
-      <div className="flex-1 flex overflow-hidden">
+      <div className="flex-1 flex overflow-hidden relative">
         {/* Left: Question Viewer & Answer Area */}
         <div className="flex-1 flex flex-col bg-white overflow-hidden border-r border-slate-300">
           {/* Question Metadata Header */}
-          <div className="px-5 py-2.5 bg-slate-50 border-b border-slate-200 flex items-center justify-between shrink-0 text-xs">
-            <div className="flex items-center gap-3">
-              <span className="font-black text-sm text-[#1a56a5]">
-                Question No. {currentIndex + 1}
+          <div className="px-3 sm:px-5 py-2.5 bg-slate-50 border-b border-slate-200 flex items-center justify-between shrink-0 text-xs">
+            <div className="flex items-center gap-2 sm:gap-3">
+              <span className="font-black text-xs sm:text-sm text-[#1a56a5]">
+                Q.{currentIndex + 1}
               </span>
-              <span className="px-2.5 py-0.5 rounded font-bold uppercase tracking-wider bg-blue-100 text-[#1a56a5] border border-blue-200">
+              <span className="px-2 py-0.5 rounded font-bold uppercase tracking-wider bg-blue-100 text-[#1a56a5] border border-blue-200 text-[10px] sm:text-xs">
                 {currentQ.type}
               </span>
               {currentQ.type === 'MSQ' && (
@@ -505,17 +511,17 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
               )}
             </div>
 
-            <div className="flex items-center gap-4 font-semibold">
-              <span className="text-emerald-700">Marks for correct: +{currentQ.positiveMarks}</span>
-              <span className="text-rose-700">Negative marks: -{negMarks.toFixed(2)}</span>
+            <div className="flex items-center gap-3 sm:gap-4 font-semibold text-[11px] sm:text-xs">
+              <span className="text-emerald-700">+{currentQ.positiveMarks}</span>
+              <span className="text-rose-700">-{negMarks.toFixed(2)}</span>
             </div>
           </div>
 
           {/* Question Content & Diagram Area */}
-          <div className="flex-1 overflow-y-auto p-5 sm:p-6 space-y-6">
+          <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-5">
             <div className="space-y-3">
               {imgSrc ? (
-                <div className="relative group w-full block">
+                <div className="w-full block space-y-2">
                   <img
                     src={imgSrc}
                     alt={`Question ${currentIndex + 1}`}
@@ -523,15 +529,18 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
                       const fb = getFallbackImageUrl(currentQ.imageUrl);
                       if (fb && e.currentTarget.src !== fb) e.currentTarget.src = fb;
                     }}
-                    className="w-full h-auto object-contain rounded border border-slate-200 bg-white shadow-xs cursor-zoom-in block"
-                    onClick={() => setZoomImage(imgSrc)}
+                    className="w-full h-auto object-contain rounded border border-slate-200 bg-white shadow-xs block select-none pointer-events-none"
                   />
-                  <button
-                    onClick={() => setZoomImage(imgSrc)}
-                    className="absolute top-2 right-2 flex items-center gap-1 px-3 py-1.5 bg-black/75 hover:bg-black text-white text-xs rounded-md shadow-md transition backdrop-blur-xs opacity-90 hover:opacity-100 font-medium"
-                  >
-                    <ZoomIn size={14} /> Zoom Image
-                  </button>
+                  <div className="flex justify-end pt-1">
+                    <button
+                      type="button"
+                      onClick={() => setZoomImage(imgSrc)}
+                      className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-black text-white text-xs rounded-md shadow-sm transition font-medium"
+                      title="Open full-screen diagram zoom modal"
+                    >
+                      <ZoomIn size={14} /> Zoom Image
+                    </button>
+                  </div>
                 </div>
               ) : (
                 <div className="text-sm font-medium text-slate-800 whitespace-pre-wrap leading-relaxed">
@@ -680,68 +689,87 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
           </div>
 
           {/* Action Footer Bar */}
-          <footer className="px-5 py-3 bg-slate-100 border-t border-slate-300 flex flex-wrap items-center justify-between gap-3 shrink-0">
-            <div className="flex items-center gap-2">
+          <footer className="px-3 sm:px-5 py-2.5 sm:py-3 bg-slate-100 border-t border-slate-300 flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-2 shrink-0">
+            <div className="flex items-center justify-between sm:justify-start gap-2">
               <button
                 onClick={handleMarkForReviewAndNext}
-                className="px-3.5 py-2 bg-white hover:bg-purple-50 text-purple-800 border border-purple-400 rounded text-xs font-semibold shadow-xs transition"
+                className="flex-1 sm:flex-none px-3 py-2 bg-white hover:bg-purple-50 text-purple-800 border border-purple-400 rounded text-xs font-semibold shadow-xs transition text-center"
               >
-                Mark for Review &amp; Next
+                Review &amp; Next
               </button>
               <button
                 onClick={handleClearResponse}
-                className="px-3.5 py-2 bg-white hover:bg-rose-50 text-rose-700 border border-rose-300 rounded text-xs font-semibold shadow-xs transition"
+                className="flex-1 sm:flex-none px-3 py-2 bg-white hover:bg-rose-50 text-rose-700 border border-rose-300 rounded text-xs font-semibold shadow-xs transition text-center"
               >
                 Clear Response
               </button>
             </div>
 
-            <div className="flex items-center gap-2">
+            <div className="flex items-center justify-between sm:justify-end gap-2">
               <button
                 onClick={handlePrevious}
                 disabled={currentIndex === 0}
-                className={`flex items-center gap-1 px-3.5 py-2 rounded text-xs font-semibold transition ${
+                className={`flex-1 sm:flex-none flex items-center justify-center gap-1 px-3 py-2 rounded text-xs font-semibold transition ${
                   currentIndex === 0
                     ? 'bg-slate-200 text-slate-400 cursor-not-allowed'
                     : 'bg-white hover:bg-slate-50 text-slate-700 border border-slate-300 shadow-xs'
                 }`}
               >
-                <ChevronLeft size={16} /> Previous
+                <ChevronLeft size={16} /> Prev
               </button>
 
               <button
                 onClick={handleSaveAndNext}
-                className="flex items-center gap-1 px-5 py-2 bg-[#1a56a5] hover:bg-blue-700 text-white rounded text-xs font-bold shadow-xs transition"
+                className="flex-1 sm:flex-none flex items-center justify-center gap-1 px-4 py-2 bg-[#1a56a5] hover:bg-blue-700 text-white rounded text-xs font-bold shadow-xs transition"
               >
                 Save &amp; Next <ChevronRight size={16} />
               </button>
 
               <button
                 onClick={() => setShowSubmitModal(true)}
-                className="ml-2 px-5 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-xs font-black uppercase tracking-wider shadow-md transition"
+                className="flex-1 sm:flex-none px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-xs font-black uppercase tracking-wider shadow-md transition text-center"
               >
-                Submit Exam
+                Submit
               </button>
             </div>
           </footer>
         </div>
 
-        {/* Right: TCS iON Question Palette & Candidate Profile */}
+        {/* Mobile Backdrop Overlay when Question Palette Drawer is open */}
+        {isSidebarOpen && (
+          <div
+            className="fixed inset-0 bg-black/50 backdrop-blur-xs z-40 lg:hidden"
+            onClick={() => setIsSidebarOpen(false)}
+          />
+        )}
+
+        {/* Right: TCS iON Question Palette & Candidate Profile (Mobile Slide-Over Drawer + Desktop Docked) */}
         <div
-          className={`${
-            isSidebarOpen ? 'w-80 sm:w-96' : 'w-0 hidden'
-          } lg:block lg:w-80 xl:w-96 bg-white border-l border-slate-300 flex flex-col shrink-0 transition-all duration-200`}
+          className={`
+            fixed top-0 bottom-0 right-0 z-50 w-[85vw] max-w-sm bg-white shadow-2xl flex flex-col transition-transform duration-200 ease-in-out
+            lg:static lg:z-auto lg:w-80 xl:w-96 lg:shadow-none lg:border-l lg:border-slate-300
+            ${isSidebarOpen ? 'translate-x-0' : 'translate-x-full lg:translate-x-0'}
+          `}
         >
-          {/* Candidate Card */}
-          <div className="p-3 bg-slate-50 border-b border-slate-200 flex items-center gap-3">
-            <div className="w-12 h-12 rounded bg-[#1a56a5] text-white flex items-center justify-center font-bold text-lg shadow-xs shrink-0">
-              {profile.name ? profile.name.charAt(0).toUpperCase() : 'U'}
+          {/* Candidate Card & Mobile Close Button */}
+          <div className="p-3 bg-slate-50 border-b border-slate-200 flex items-center justify-between gap-3">
+            <div className="flex items-center gap-3 min-w-0">
+              <div className="w-10 h-10 sm:w-12 sm:h-12 rounded bg-[#1a56a5] text-white flex items-center justify-center font-bold text-base sm:text-lg shadow-xs shrink-0">
+                {profile.name ? profile.name.charAt(0).toUpperCase() : 'U'}
+              </div>
+              <div className="min-w-0">
+                <div className="font-bold text-xs text-slate-900 truncate">{profile.name}</div>
+                <div className="text-[11px] font-mono text-slate-500 truncate">{profile.rollNumber}</div>
+                <div className="text-[10px] text-blue-700 font-medium truncate">{profile.branch}</div>
+              </div>
             </div>
-            <div className="min-w-0">
-              <div className="font-bold text-xs text-slate-900 truncate">{profile.name}</div>
-              <div className="text-[11px] font-mono text-slate-500 truncate">{profile.rollNumber}</div>
-              <div className="text-[10px] text-blue-700 font-medium truncate">{profile.branch}</div>
-            </div>
+            <button
+              onClick={() => setIsSidebarOpen(false)}
+              className="p-1.5 rounded-lg hover:bg-slate-200 text-slate-500 lg:hidden"
+              title="Close Palette"
+            >
+              <X size={18} />
+            </button>
           </div>
 
           {/* Symbol Legend Counter */}

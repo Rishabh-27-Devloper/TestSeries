@@ -23,41 +23,41 @@ export const ImageZoomModal: React.FC<ImageZoomModalProps> = ({
   const resetZoom = () => setScale(1);
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/75 backdrop-blur-sm p-4 animate-in fade-in duration-150">
-      <div className="relative flex flex-col bg-white rounded-lg shadow-2xl max-w-5xl w-full max-h-[90vh] overflow-hidden border border-slate-300">
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm p-2 sm:p-4 animate-in fade-in duration-150">
+      <div className="relative flex flex-col bg-white rounded-lg shadow-2xl max-w-5xl w-full h-[92vh] sm:max-h-[90vh] overflow-hidden border border-slate-300">
         {/* Header */}
-        <div className="flex items-center justify-between px-4 py-3 bg-[#1a56a5] text-white">
-          <div className="font-semibold text-base">{title}</div>
-          <div className="flex items-center gap-2">
+        <div className="flex items-center justify-between px-3 sm:px-4 py-2.5 sm:py-3 bg-[#1a56a5] text-white">
+          <div className="font-semibold text-xs sm:text-base truncate max-w-[140px] sm:max-w-none">{title}</div>
+          <div className="flex items-center gap-1 sm:gap-2">
             <button
               onClick={zoomOut}
-              className="p-1.5 hover:bg-white/20 rounded transition text-white"
+              className="p-1 sm:p-1.5 hover:bg-white/20 rounded transition text-white"
               title="Zoom Out"
             >
-              <ZoomOut size={18} />
+              <ZoomOut size={16} />
             </button>
-            <span className="text-xs font-mono px-1">{Math.round(scale * 100)}%</span>
+            <span className="text-[11px] sm:text-xs font-mono px-1">{Math.round(scale * 100)}%</span>
             <button
               onClick={zoomIn}
-              className="p-1.5 hover:bg-white/20 rounded transition text-white"
+              className="p-1 sm:p-1.5 hover:bg-white/20 rounded transition text-white"
               title="Zoom In"
             >
-              <ZoomIn size={18} />
+              <ZoomIn size={16} />
             </button>
             <button
               onClick={resetZoom}
-              className="p-1.5 hover:bg-white/20 rounded transition text-white text-xs flex items-center gap-1"
+              className="p-1 sm:p-1.5 hover:bg-white/20 rounded transition text-white text-xs flex items-center gap-1"
               title="Reset"
             >
-              <RotateCcw size={16} />
+              <RotateCcw size={15} />
             </button>
             <div className="h-4 w-px bg-white/30 mx-1" />
             <button
               onClick={onClose}
-              className="p-1.5 hover:bg-red-500 rounded transition text-white"
+              className="p-1 sm:p-1.5 hover:bg-red-500 rounded transition text-white"
               title="Close (Esc)"
             >
-              <X size={20} />
+              <X size={18} />
             </button>
           </div>
         </div>

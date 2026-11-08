@@ -238,10 +238,10 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
           </div>
 
           {/* Quick Filter Pill Chips */}
-          <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-slate-100 text-xs text-slate-500">
-            <div className="flex items-center gap-1.5 flex-wrap">
-              <span className="font-semibold text-slate-700 flex items-center gap-1">
-                <Filter size={12} /> Popular Subjects:
+          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pt-2 border-t border-slate-100 text-xs text-slate-500">
+            <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar w-full sm:w-auto py-1">
+              <span className="font-semibold text-slate-700 flex items-center gap-1 shrink-0">
+                <Filter size={12} /> Popular:
               </span>
               {[
                 'Digital Circuits',
@@ -255,7 +255,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
                 <button
                   key={subj}
                   onClick={() => setSelectedChapter(selectedChapter === subj ? 'ALL' : subj)}
-                  className={`px-2.5 py-1 rounded-full text-xs font-medium transition ${
+                  className={`px-2.5 py-1 rounded-full text-xs font-medium transition shrink-0 whitespace-nowrap ${
                     selectedChapter === subj
                       ? 'bg-[#1a56a5] text-white'
                       : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
@@ -266,8 +266,8 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
               ))}
             </div>
 
-            <div className="flex items-center gap-2">
-              <span className="text-slate-500">Sort by:</span>
+            <div className="flex items-center gap-2 self-end sm:self-auto shrink-0">
+              <span className="text-slate-500">Sort:</span>
               <select
                 value={sortBy}
                 onChange={(e) => setSortBy(e.target.value as any)}

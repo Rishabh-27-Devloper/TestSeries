@@ -144,10 +144,10 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
         </div>
 
         {/* Navigation Tabs */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex space-x-8 border-t border-slate-100">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex space-x-4 sm:space-x-8 border-t border-slate-100 overflow-x-auto no-scrollbar">
           <button
             onClick={() => setActiveTab('SCORECARD')}
-            className={`py-3 text-xs sm:text-sm font-semibold border-b-2 flex items-center gap-2 transition ${
+            className={`py-3 text-xs sm:text-sm font-semibold border-b-2 flex items-center gap-2 transition whitespace-nowrap ${
               activeTab === 'SCORECARD'
                 ? 'border-[#1a56a5] text-[#1a56a5]'
                 : 'border-transparent text-slate-500 hover:text-slate-700'
@@ -159,26 +159,26 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
 
           <button
             onClick={() => setActiveTab('SOLUTIONS')}
-            className={`py-3 text-xs sm:text-sm font-semibold border-b-2 flex items-center gap-2 transition ${
+            className={`py-3 text-xs sm:text-sm font-semibold border-b-2 flex items-center gap-2 transition whitespace-nowrap ${
               activeTab === 'SOLUTIONS'
                 ? 'border-[#1a56a5] text-[#1a56a5]'
                 : 'border-transparent text-slate-500 hover:text-slate-700'
             }`}
           >
             <BookOpen size={16} />
-            Question-by-Question Solutions ({activeResult.evaluations.length})
+            Question Solutions ({activeResult.evaluations.length})
           </button>
 
           <button
             onClick={() => setActiveTab('TRENDS')}
-            className={`py-3 text-xs sm:text-sm font-semibold border-b-2 flex items-center gap-2 transition ${
+            className={`py-3 text-xs sm:text-sm font-semibold border-b-2 flex items-center gap-2 transition whitespace-nowrap ${
               activeTab === 'TRENDS'
                 ? 'border-[#1a56a5] text-[#1a56a5]'
                 : 'border-transparent text-slate-500 hover:text-slate-700'
             }`}
           >
             <TrendingUp size={16} />
-            Past Attempts History ({pastAttempts.length})
+            Past Attempts ({pastAttempts.length})
           </button>
         </div>
       </header>
@@ -192,42 +192,42 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
           <div className="space-y-6">
             {/* Hero Scorecard Banner */}
             <div
-              className={`rounded-xl bg-gradient-to-r ${tier.color} text-white p-6 sm:p-8 shadow-md relative overflow-hidden`}
+              className={`rounded-xl bg-gradient-to-r ${tier.color} text-white p-5 sm:p-8 shadow-md relative overflow-hidden`}
             >
               <div className="relative z-10 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
                 <div className="space-y-2">
                   <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/20 backdrop-blur-xs text-xs font-semibold">
                     <Award size={14} /> {tier.label}
                   </div>
-                  <h2 className="text-2xl sm:text-3xl font-black">{activeResult.paperTitle}</h2>
+                  <h2 className="text-xl sm:text-2xl md:text-3xl font-black">{activeResult.paperTitle}</h2>
                   <p className="text-xs sm:text-sm text-blue-100 max-w-xl">
                     Official GATE Scoring Scheme applied. Evaluated on{' '}
                     {new Date(activeResult.timestamp).toLocaleString()}.
                   </p>
                 </div>
 
-                <div className="flex items-center gap-6 bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/20">
+                <div className="w-full md:w-auto flex items-center justify-around sm:justify-start gap-4 sm:gap-6 bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/20">
                   <div className="text-center">
-                    <div className="text-3xl sm:text-4xl font-black">
+                    <div className="text-2xl sm:text-3xl md:text-4xl font-black">
                       {activeResult.scoreObtained.toFixed(2)}
                     </div>
-                    <div className="text-[11px] uppercase tracking-wider text-blue-200">
+                    <div className="text-[10px] sm:text-[11px] uppercase tracking-wider text-blue-200">
                       Score / {activeResult.totalMarks}
                     </div>
                   </div>
                   <div className="h-10 w-px bg-white/30" />
                   <div className="text-center">
-                    <div className="text-3xl sm:text-4xl font-black">
+                    <div className="text-2xl sm:text-3xl md:text-4xl font-black">
                       {activeResult.percentageScore.toFixed(1)}%
                     </div>
-                    <div className="text-[11px] uppercase tracking-wider text-blue-200">Marks %</div>
+                    <div className="text-[10px] sm:text-[11px] uppercase tracking-wider text-blue-200">Marks %</div>
                   </div>
                   <div className="h-10 w-px bg-white/30" />
                   <div className="text-center">
-                    <div className="text-3xl sm:text-4xl font-black">
+                    <div className="text-2xl sm:text-3xl md:text-4xl font-black">
                       {activeResult.accuracyPercentage.toFixed(0)}%
                     </div>
-                    <div className="text-[11px] uppercase tracking-wider text-blue-200">Accuracy</div>
+                    <div className="text-[10px] sm:text-[11px] uppercase tracking-wider text-blue-200">Accuracy</div>
                   </div>
                 </div>
               </div>
@@ -524,9 +524,9 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                     </div>
 
                     {/* Question Image or Text */}
-                    <div className="py-2 w-full">
+                    <div className="py-2 w-full space-y-2">
                       {imgSrc ? (
-                        <div className="relative group w-full block">
+                        <div className="w-full block space-y-2">
                           <img
                             src={imgSrc}
                             alt={`Question ${q.questionNumber}`}
@@ -534,15 +534,18 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                               const fb = getFallbackImageUrl(q.imageUrl);
                               if (fb && e.currentTarget.src !== fb) e.currentTarget.src = fb;
                             }}
-                            className="w-full h-auto object-contain rounded border border-slate-200 bg-white shadow-xs cursor-zoom-in block"
-                            onClick={() => setZoomImage(imgSrc)}
+                            className="w-full h-auto object-contain rounded border border-slate-200 bg-white shadow-xs block select-none pointer-events-none"
                           />
-                          <button
-                            onClick={() => setZoomImage(imgSrc)}
-                            className="absolute top-2 right-2 flex items-center gap-1 px-3 py-1.5 bg-black/75 hover:bg-black text-white text-xs rounded-md shadow-md transition backdrop-blur-xs opacity-90 hover:opacity-100 font-medium"
-                          >
-                            <ZoomIn size={14} /> Zoom
-                          </button>
+                          <div className="flex justify-end pt-1">
+                            <button
+                              type="button"
+                              onClick={() => setZoomImage(imgSrc)}
+                              className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-black text-white text-xs rounded-md shadow-sm transition font-medium"
+                              title="Open full-screen diagram zoom modal"
+                            >
+                              <ZoomIn size={14} /> Zoom Image
+                            </button>
+                          </div>
                         </div>
                       ) : (
                         <p className="text-sm text-slate-800 whitespace-pre-wrap leading-relaxed">{q.questionText}</p>
