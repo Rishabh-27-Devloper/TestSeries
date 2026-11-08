@@ -15,12 +15,14 @@ import {
   ZoomIn,
   Target,
   AlertTriangle,
+  Trash2,
 } from 'lucide-react';
 import type { ExamResult, QuestionEvaluation } from '../../types';
 import {
   getAllAttempts,
   getUserProfile,
   clearUserAttempts,
+  deleteSingleAttempt,
   resolveImageUrl,
   getFallbackImageUrl,
 } from '../../utils/storage';
@@ -52,6 +54,25 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
     if (confirm(`Are you sure you want to clear your test attempt history? This cannot be undone.`)) {
       clearUserAttempts();
       setPastAttempts([]);
+    }
+  };
+
+  const handleDeleteSingle = (att: ExamResult) => {
+    if (
+      confirm(
+        `Are you sure you want to delete the attempt for "${att.paperTitle}" taken on ${att.timestamp}?`
+      )
+    ) {
+      deleteSingleAttempt(att.timestamp, att.paperId);
+      const remaining = getAllAttempts();
+      setPastAttempts(remaining);
+      if (remaining.length > 0) {
+        if (activeResult.timestamp === att.timestamp && activeResult.paperId === att.paperId) {
+          setActiveResult(remaining[0]);
+        }
+      } else {
+        onBackToInventory();
+      }
     }
   };
 
@@ -763,6 +784,13 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                                 className="px-3 py-1 bg-[#1a56a5] hover:bg-blue-700 text-white rounded font-semibold text-xs shadow-xs transition"
                               >
                                 Retake
+                              </button>
+                              <button
+                                onClick={() => handleDeleteSingle(att)}
+                                className="p-1.5 text-slate-400 hover:text-rose-600 hover:bg-rose-50 border border-transparent hover:border-rose-200 rounded transition inline-flex items-center"
+                                title="Delete this attempt record"
+                              >
+                                <Trash2 size={13} />
                               </button>
                             </td>
                           </tr>

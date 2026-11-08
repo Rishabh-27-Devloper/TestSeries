@@ -1,19 +1,39 @@
 import React from 'react';
-import { Clock, HelpCircle, Award, CheckCircle2, RotateCcw, ArrowRight, BookOpen } from 'lucide-react';
+import { Clock, HelpCircle, Award, CheckCircle2, RotateCcw, ArrowRight, BookOpen, Trash2 } from 'lucide-react';
 import type { PaperIndexItem } from '../../types';
-import { getAttemptsSummaryForPaper } from '../../utils/storage';
+import { getAttemptsSummaryForPaper, deleteAttemptsForPaper } from '../../utils/storage';
 
 interface PaperCardProps {
   paper: PaperIndexItem;
   onSelect: (paper: PaperIndexItem) => void;
   onQuickView?: (paper: PaperIndexItem) => void;
+  onAttemptDeleted?: (paperId: string) => void;
 }
 
-export const PaperCard: React.FC<PaperCardProps> = ({ paper, onSelect, onQuickView }) => {
+export const PaperCard: React.FC<PaperCardProps> = ({
+  paper,
+  onSelect,
+  onQuickView,
+  onAttemptDeleted,
+}) => {
   const summary = getAttemptsSummaryForPaper(paper.paperId);
   const isAttempted = summary.attemptCount > 0;
   const last = summary.lastAttempt;
   const best = summary.bestAttempt;
+
+  const handleDeleteAttempt = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (
+      window.confirm(
+        `Are you sure you want to delete your attempt history for "${paper.title}"? This cannot be undone.`
+      )
+    ) {
+      deleteAttemptsForPaper(paper.paperId);
+      if (onAttemptDeleted) {
+        onAttemptDeleted(paper.paperId);
+      }
+    }
+  };
 
   return (
     <div
@@ -76,6 +96,21 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onSelect, onQuickVi
         {/* Attempt Statistics Subsection - ONLY SHOWN IF ATTEMPTED */}
         {isAttempted && last && best && (
           <div className="mt-3.5 pt-3 border-t border-emerald-100 bg-emerald-50/50 rounded-lg p-2.5 space-y-2 text-xs">
+            <div className="flex items-center justify-between pb-1.5 border-b border-emerald-200/60">
+              <span className="font-semibold text-emerald-900 text-[11px] uppercase tracking-wider flex items-center gap-1">
+                <Award size={12} className="text-emerald-700" /> Scorecard Record
+              </span>
+              <button
+                type="button"
+                onClick={handleDeleteAttempt}
+                className="text-rose-600 hover:text-rose-800 hover:bg-rose-100 px-2 py-0.5 rounded text-[11px] font-semibold flex items-center gap-1 transition border border-rose-200 bg-white shadow-xs"
+                title="Delete attempt record from inventory"
+              >
+                <Trash2 size={12} />
+                <span>Delete Attempt</span>
+              </button>
+            </div>
+
             {/* Last Attempt */}
             <div className="flex items-center justify-between">
               <span className="text-slate-600 font-medium">Last Attempt:</span>
@@ -109,20 +144,30 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onSelect, onQuickVi
 
       {/* Action Footer */}
       <div className="p-4 bg-slate-50/80 border-t border-slate-100 rounded-b-lg flex items-center justify-between gap-2">
-        {onQuickView ? (
-          <button
-            onClick={() => onQuickView(paper)}
-            className="px-2.5 py-1.5 text-xs text-slate-600 hover:text-blue-700 font-medium flex items-center gap-1 hover:bg-slate-200/60 rounded transition"
-            title="Preview pattern and syllabus"
-          >
-            <BookOpen size={13} />
-            Pattern
-          </button>
-        ) : (
-          <span className="text-[11px] text-slate-400 font-mono truncate">
-            {paper.paperId.slice(0, 18)}...
-          </span>
-        )}
+        <div className="flex items-center gap-1.5">
+          {onQuickView && (
+            <button
+              onClick={() => onQuickView(paper)}
+              className="px-2.5 py-1.5 text-xs text-slate-600 hover:text-blue-700 font-medium flex items-center gap-1 hover:bg-slate-200/60 rounded transition"
+              title="Preview pattern and syllabus"
+            >
+              <BookOpen size={13} />
+              Pattern
+            </button>
+          )}
+
+          {isAttempted && (
+            <button
+              type="button"
+              onClick={handleDeleteAttempt}
+              className="px-2.5 py-1.5 text-xs text-rose-600 hover:text-rose-800 hover:bg-rose-50 border border-rose-200 rounded font-medium flex items-center gap-1 transition"
+              title="Delete attempt from inventory"
+            >
+              <Trash2 size={13} />
+              <span>Delete</span>
+            </button>
+          )}
+        </div>
 
         <button
           onClick={() => onSelect(paper)}

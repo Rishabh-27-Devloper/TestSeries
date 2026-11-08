@@ -94,6 +94,28 @@ export function clearUserAttempts(): void {
   }
 }
 
+export function deleteAttemptsForPaper(paperId: string): void {
+  try {
+    const list = getAllAttempts();
+    const updated = list.filter((a) => a.paperId !== paperId);
+    localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(updated));
+  } catch (e) {
+    console.error('Failed to delete attempts for paper', e);
+  }
+}
+
+export function deleteSingleAttempt(timestamp: string, paperId?: string): void {
+  try {
+    const list = getAllAttempts();
+    const updated = list.filter(
+      (a) => !(a.timestamp === timestamp && (!paperId || a.paperId === paperId))
+    );
+    localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(updated));
+  } catch (e) {
+    console.error('Failed to delete single attempt', e);
+  }
+}
+
 export function getAttemptsForPaper(paperId: string): ExamResult[] {
   return getAllAttempts().filter((a) => a.paperId === paperId);
 }
@@ -176,6 +198,8 @@ export const storage = {
   getAllAttempts,
   saveAttempt,
   clearUserAttempts,
+  deleteAttemptsForPaper,
+  deleteSingleAttempt,
   getAttemptsForPaper,
   getAttemptsSummaryForPaper,
   getPaperIndex,

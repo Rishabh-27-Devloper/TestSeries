@@ -105,10 +105,11 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
   const [sortBy, setSortBy] = useState<'DEFAULT' | 'NAME' | 'QUESTIONS' | 'MARKS'>('DEFAULT');
   const [quickViewPaper, setQuickViewPaper] = useState<PaperIndexItem | null>(null);
 
+  const [attemptsVersion, setAttemptsVersion] = useState(0);
   const profile: UserProfile = getUserProfile();
   const allAttempts = useMemo(
     () => getAllAttempts(),
-    []
+    [attemptsVersion]
   );
   const attemptedPaperIds = useMemo(
     () => new Set(allAttempts.map((a) => a.paperId)),
@@ -427,10 +428,11 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
               {filteredPapers.map((paper) => (
                 <PaperCard
-                  key={paper.paperId}
+                  key={`${paper.paperId}_${attemptsVersion}`}
                   paper={paper}
                   onSelect={onSelectPaper}
                   onQuickView={(p) => setQuickViewPaper(p)}
+                  onAttemptDeleted={() => setAttemptsVersion((v) => v + 1)}
                 />
               ))}
             </div>
