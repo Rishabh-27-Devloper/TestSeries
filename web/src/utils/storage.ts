@@ -1,13 +1,13 @@
 import type { ExamResult, PaperIndexItem, UserProfile } from '../types';
 
 const PROFILE_KEY = 'test_series_user_profile';
+const ATTEMPTS_KEY = 'test_series_user_attempts';
 
 const DEFAULT_PROFILE: UserProfile = {
   name: 'Candidate',
-  rollNumber: 'GATE25-EC001',
   phoneNumber: '+91 9123456789',
   email: 'candidate@gate.ac.in',
-  targetYear: 'GATE 2025',
+  targetYear: 'GATE 2026',
   branch: 'Electronics & Communication',
 };
 
@@ -25,7 +25,11 @@ export function cleanImagePath(imgUrl?: string): string {
 export function getUserProfile(): UserProfile {
   try {
     const data = localStorage.getItem(PROFILE_KEY);
-    if (data) return JSON.parse(data);
+    if (data) {
+      const parsed = JSON.parse(data);
+      delete parsed.rollNumber;
+      return { ...DEFAULT_PROFILE, ...parsed };
+    }
   } catch (e) {
     console.error('Failed to load user profile', e);
   }
@@ -40,17 +44,22 @@ export function saveUserProfile(profile: UserProfile): void {
   }
 }
 
-// User-specific storage key generator to ensure attempts never mix between candidates
-export function getUserAttemptsKey(rollNumber?: string): string {
-  const roll = rollNumber || getUserProfile().rollNumber || 'DEFAULT';
-  const cleanRoll = roll.trim().toUpperCase().replace(/[^A-Z0-9_-]/g, '_');
-  return `test_series_attempts_${cleanRoll}`;
-}
-
-export function getAllAttempts(rollNumber?: string): ExamResult[] {
+export function getAllAttempts(): ExamResult[] {
   try {
-    const key = getUserAttemptsKey(rollNumber);
-    const data = localStorage.getItem(key);
+    let data = localStorage.getItem(ATTEMPTS_KEY);
+    // Backward compatibility: If empty, check if there were legacy attempts keys
+    if (!data) {
+      for (let i = 0; i < localStorage.length; i++) {
+        const k = localStorage.key(i);
+        if (k && (k.startsWith('test_series_attempts_') || k === 'test_series_attempts')) {
+          data = localStorage.getItem(k);
+          if (data) {
+            localStorage.setItem(ATTEMPTS_KEY, data);
+            break;
+          }
+        }
+      }
+    }
     if (data) {
       const list: ExamResult[] = JSON.parse(data);
       return list.sort((a, b) => (b.timestamp || '').localeCompare(a.timestamp || ''));
@@ -63,34 +72,38 @@ export function getAllAttempts(rollNumber?: string): ExamResult[] {
 
 export function saveAttempt(result: ExamResult): void {
   try {
-    const key = getUserAttemptsKey(result.rollNumber);
-    const list = getAllAttempts(result.rollNumber);
+    const list = getAllAttempts();
     const updated = [result, ...list];
-    localStorage.setItem(key, JSON.stringify(updated));
+    localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(updated));
   } catch (e) {
     console.error('Failed to save attempt', e);
   }
 }
 
-export function clearUserAttempts(rollNumber?: string): void {
+export function clearUserAttempts(): void {
   try {
-    const key = getUserAttemptsKey(rollNumber);
-    localStorage.removeItem(key);
+    localStorage.removeItem(ATTEMPTS_KEY);
+    for (let i = localStorage.length - 1; i >= 0; i--) {
+      const k = localStorage.key(i);
+      if (k && (k.startsWith('test_series_attempts_') || k === 'test_series_attempts')) {
+        localStorage.removeItem(k);
+      }
+    }
   } catch (e) {
     console.error('Failed to clear user attempts', e);
   }
 }
 
-export function getAttemptsForPaper(paperId: string, rollNumber?: string): ExamResult[] {
-  return getAllAttempts(rollNumber).filter((a) => a.paperId === paperId);
+export function getAttemptsForPaper(paperId: string): ExamResult[] {
+  return getAllAttempts().filter((a) => a.paperId === paperId);
 }
 
-export function getAttemptsSummaryForPaper(paperId: string, rollNumber?: string): {
+export function getAttemptsSummaryForPaper(paperId: string): {
   attemptCount: number;
   lastAttempt?: ExamResult;
   bestAttempt?: ExamResult;
 } {
-  const list = getAttemptsForPaper(paperId, rollNumber);
+  const list = getAttemptsForPaper(paperId);
   if (list.length === 0) {
     return { attemptCount: 0 };
   }
@@ -160,7 +173,6 @@ export function getFallbackImageUrl(imgUrl?: string): string {
 export const storage = {
   getUserProfile,
   saveUserProfile,
-  getUserAttemptsKey,
   getAllAttempts,
   saveAttempt,
   clearUserAttempts,

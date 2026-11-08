@@ -42,7 +42,7 @@ export const InstructionsView: React.FC<InstructionsViewProps> = ({
         <div className="flex items-center gap-3">
           <div className="text-right hidden sm:block">
             <div className="text-xs font-semibold">{profile.name}</div>
-            <div className="text-[11px] text-blue-200 font-mono">{profile.rollNumber}</div>
+            <div className="text-[11px] text-blue-200">{profile.branch || 'GATE EC'}</div>
           </div>
           <div className="w-9 h-9 rounded-full bg-white/20 border border-white/30 flex items-center justify-center font-bold text-sm">
             {profile.name ? profile.name.charAt(0).toUpperCase() : 'U'}

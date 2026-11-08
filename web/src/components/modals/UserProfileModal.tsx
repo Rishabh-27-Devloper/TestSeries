@@ -62,21 +62,7 @@ export const UserProfileModal: React.FC<UserProfileModalProps> = ({
               value={profile.name}
               onChange={(e) => setProfile({ ...profile, name: e.target.value })}
               className="w-full px-3 py-2 border border-slate-300 rounded focus:ring-2 focus:ring-[#1a56a5] focus:border-transparent outline-none text-slate-800"
-              placeholder="e.g. John Doe"
-            />
-          </div>
-
-          <div>
-            <label className="block text-xs font-semibold text-slate-700 uppercase mb-1">
-              Roll / Registration Number
-            </label>
-            <input
-              type="text"
-              required
-              value={profile.rollNumber}
-              onChange={(e) => setProfile({ ...profile, rollNumber: e.target.value })}
-              className="w-full px-3 py-2 border border-slate-300 rounded focus:ring-2 focus:ring-[#1a56a5] focus:border-transparent outline-none text-slate-800 font-mono"
-              placeholder="e.g. GATE25-EC001"
+              placeholder="e.g. Anand Shukla"
             />
           </div>
 

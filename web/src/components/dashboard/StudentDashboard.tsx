@@ -45,12 +45,12 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
   const [solutionFilter, setSolutionFilter] = useState<'ALL' | 'CORRECT' | 'INCORRECT' | 'UNATTEMPTED'>('ALL');
   const [zoomImage, setZoomImage] = useState<string | null>(null);
   const [pastAttempts, setPastAttempts] = useState<ExamResult[]>(() =>
-    getAllAttempts(profile.rollNumber)
+    getAllAttempts()
   );
 
   const handleClearHistory = () => {
-    if (confirm(`Are you sure you want to clear all test attempts for roll number ${profile.rollNumber}? This cannot be undone.`)) {
-      clearUserAttempts(profile.rollNumber);
+    if (confirm(`Are you sure you want to clear your test attempt history? This cannot be undone.`)) {
+      clearUserAttempts();
       setPastAttempts([]);
     }
   };
@@ -661,12 +661,9 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                 <div>
                   <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <span>Attempts History for {profile.name}</span>
-                    <span className="font-mono text-xs px-2 py-0.5 rounded bg-slate-100 text-slate-700 border">
-                      {profile.rollNumber}
-                    </span>
                   </h3>
                   <p className="text-xs text-slate-500">
-                    User-isolated scorecard log. Attempts are partitioned per roll number and stored securely on your browser.
+                    Personal scorecard log. Attempts are securely stored in your browser's private local storage.
                   </p>
                 </div>
                 <div className="flex items-center gap-2">

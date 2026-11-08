@@ -3,7 +3,6 @@ import type { ExamPaper, ExamResult, QuestionEvaluation } from '../types';
 export function evaluateExam(
   paper: ExamPaper,
   studentName: string,
-  rollNumber: string,
   durationTakenSeconds: number
 ): ExamResult {
   const evaluations: QuestionEvaluation[] = [];
@@ -117,7 +116,6 @@ export function evaluateExam(
     paperTitle: paper.title,
     examType: paper.examType || 'GATE',
     studentName: studentName || 'Candidate',
-    rollNumber: rollNumber || 'GATE25-EC001',
     timestamp,
     durationTakenSeconds,
     totalMarks: round2(paper.totalMarks),

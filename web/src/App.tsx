@@ -64,12 +64,12 @@ export function App() {
 
   // Handler: Open Dashboard from Top Bar
   const handleOpenDashboard = () => {
-    const attempts = storage.getAllAttempts(profile.rollNumber);
+    const attempts = storage.getAllAttempts();
     if (attempts.length > 0) {
       setCurrentResult(attempts[0]);
       setView('DASHBOARD');
     } else {
-      alert(`No test attempts recorded for roll number ${profile.rollNumber}. Attempt a paper to view your personal performance analytics.`);
+      alert(`No test attempts recorded. Attempt a paper first to view your personal performance analytics.`);
     }
   };
 
@@ -111,7 +111,7 @@ export function App() {
       {/* View 1: Paper Inventory (Layer 2) */}
       {view === 'INVENTORY' && (
         <PaperInventory
-          key={profile.rollNumber}
+          key={profile.name}
           papers={papers}
           onSelectPaper={handleSelectPaper}
           onOpenDashboard={handleOpenDashboard}

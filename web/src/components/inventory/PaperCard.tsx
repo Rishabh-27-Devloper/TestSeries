@@ -1,7 +1,7 @@
 import React from 'react';
 import { Clock, HelpCircle, Award, CheckCircle2, RotateCcw, ArrowRight, BookOpen } from 'lucide-react';
 import type { PaperIndexItem } from '../../types';
-import { getAttemptsSummaryForPaper, getUserProfile } from '../../utils/storage';
+import { getAttemptsSummaryForPaper } from '../../utils/storage';
 
 interface PaperCardProps {
   paper: PaperIndexItem;
@@ -10,8 +10,7 @@ interface PaperCardProps {
 }
 
 export const PaperCard: React.FC<PaperCardProps> = ({ paper, onSelect, onQuickView }) => {
-  const profile = getUserProfile();
-  const summary = getAttemptsSummaryForPaper(paper.paperId, profile.rollNumber);
+  const summary = getAttemptsSummaryForPaper(paper.paperId);
   const isAttempted = summary.attemptCount > 0;
   const last = summary.lastAttempt;
   const best = summary.bestAttempt;

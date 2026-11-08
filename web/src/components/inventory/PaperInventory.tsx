@@ -3,7 +3,7 @@ import {
   Search,
   Filter,
   BarChart3,
-  Sparkles,
+  GraduationCap,
 } from 'lucide-react';
 import type { PaperIndexItem, UserProfile } from '../../types';
 import { PaperCard } from './PaperCard';
@@ -107,8 +107,8 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
 
   const profile: UserProfile = getUserProfile();
   const allAttempts = useMemo(
-    () => getAllAttempts(profile.rollNumber),
-    [profile.rollNumber]
+    () => getAllAttempts(),
+    []
   );
   const attemptedPaperIds = useMemo(
     () => new Set(allAttempts.map((a) => a.paperId)),
@@ -174,39 +174,44 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans">
       {/* Top Main Navigation Header */}
       <header className="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-xs">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 min-h-[56px] sm:min-h-[64px] py-2 sm:py-0 flex items-center justify-between gap-3">
           {/* Logo & Brand */}
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-lg bg-[#1a56a5] text-white flex items-center justify-center font-black text-xl shadow-xs">
+          <div className="flex items-center gap-2.5 sm:gap-3 min-w-0">
+            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-[#1a56a5] text-white flex items-center justify-center font-black text-lg sm:text-xl shadow-xs shrink-0">
               G
             </div>
-            <div>
-              <div className="flex items-center gap-2">
-                <h1 className="font-bold text-slate-900 text-lg leading-tight">GATE CBT Exam Portal</h1>
-                <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-blue-100 text-blue-800">
-                  {profile.branch ? profile.branch.split(' ')[0] : 'EC'} 2025/2026
+            <div className="min-w-0">
+              <div className="flex items-center gap-1.5 sm:gap-2">
+                <h1 className="font-bold text-slate-900 text-sm sm:text-base md:text-lg leading-tight truncate">
+                  GATE CBT Exam Portal
+                </h1>
+                <span className="hidden sm:inline-block text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-blue-100 text-blue-800 shrink-0">
+                  {profile.branch ? profile.branch.split(' ')[0] : 'EC'} 2026
                 </span>
               </div>
-              <p className="text-xs text-slate-500">Official TCS iON Architecture &amp; Grading Standards</p>
+              <p className="hidden sm:block text-xs text-slate-500 leading-tight truncate">
+                Official TCS iON Architecture &amp; Grading Standards
+              </p>
             </div>
           </div>
 
           {/* User & Dashboard Actions */}
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2 sm:gap-3 shrink-0">
             <button
               onClick={onOpenDashboard}
-              className="flex items-center gap-2 px-3.5 py-1.5 rounded-lg border border-slate-200 hover:border-blue-400 bg-white hover:bg-blue-50/50 text-slate-700 text-xs font-semibold transition"
+              className="flex items-center gap-1.5 sm:gap-2 px-2.5 py-1.5 sm:px-3.5 sm:py-1.5 rounded-lg border border-slate-200 hover:border-blue-400 bg-white hover:bg-blue-50/50 text-slate-700 text-xs font-semibold transition shrink-0"
+              title="Analytics & Attempt History"
             >
               <BarChart3 size={15} className="text-[#1a56a5]" />
-              <span className="hidden sm:inline">Analytics &amp; History</span>
+              <span className="hidden md:inline">Analytics &amp; History</span>
             </button>
 
             <button
               onClick={onOpenProfile}
-              className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-medium transition"
+              className="flex items-center gap-1.5 sm:gap-2 p-1.5 sm:px-3 sm:py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-medium transition shrink-0"
               title="Edit Profile"
             >
-              <div className="w-6 h-6 rounded-full bg-[#1a56a5] text-white flex items-center justify-center text-xs font-bold">
+              <div className="w-6 h-6 rounded-full bg-[#1a56a5] text-white flex items-center justify-center text-xs font-bold shrink-0">
                 {profile.name ? profile.name.charAt(0).toUpperCase() : 'U'}
               </div>
               <span className="hidden md:inline font-semibold text-slate-800">{profile.name}</span>
@@ -215,12 +220,12 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
         </div>
       </header>
 
-      {/* Hero Stats Banner */}
-      <section className="bg-gradient-to-r from-[#1a56a5] via-blue-800 to-indigo-900 text-white py-8 px-4 sm:px-6 lg:px-8">
+      {/* Hero Stats Banner (Solid Institutional Blue) */}
+      <section className="bg-[#1a56a5] text-white py-8 px-4 sm:px-6 lg:px-8 border-b border-[#144584]">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="space-y-2 text-center md:text-left">
-            <div className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-blue-400/20 text-blue-200 border border-blue-300/30">
-              <Sparkles size={13} className="text-amber-300" />
+            <div className="inline-flex items-center gap-1.5 text-xs font-medium px-2.5 py-1 rounded-full bg-white/10 text-blue-100 border border-white/20">
+              <GraduationCap size={14} className="text-blue-200" />
               100+ Hours of GATE CBT Practice Compiled
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
@@ -234,21 +239,21 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
 
           {/* Quick Metrics */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 w-full md:w-auto">
-            <div className="bg-white/10 backdrop-blur-xs rounded-lg p-3 text-center border border-white/10">
+            <div className="bg-white/10 rounded-lg p-3 text-center border border-white/15">
               <div className="text-2xl font-black">{papers.length}</div>
-              <div className="text-[11px] text-blue-200 uppercase font-medium">Test Papers</div>
+              <div className="text-[11px] text-blue-100 uppercase font-medium">Test Papers</div>
             </div>
-            <div className="bg-white/10 backdrop-blur-xs rounded-lg p-3 text-center border border-white/10">
+            <div className="bg-white/10 rounded-lg p-3 text-center border border-white/15">
               <div className="text-2xl font-black">{attemptedPaperIds.size}</div>
               <div className="text-[11px] text-emerald-300 uppercase font-medium">Attempted</div>
             </div>
-            <div className="bg-white/10 backdrop-blur-xs rounded-lg p-3 text-center border border-white/10">
+            <div className="bg-white/10 rounded-lg p-3 text-center border border-white/15">
               <div className="text-2xl font-black">{totalQuestions.toLocaleString()}+</div>
-              <div className="text-[11px] text-blue-200 uppercase font-medium">Questions</div>
+              <div className="text-[11px] text-blue-100 uppercase font-medium">Questions</div>
             </div>
-            <div className="bg-white/10 backdrop-blur-xs rounded-lg p-3 text-center border border-white/10">
+            <div className="bg-white/10 rounded-lg p-3 text-center border border-white/15">
               <div className="text-2xl font-black">{totalHours}h+</div>
-              <div className="text-[11px] text-amber-300 uppercase font-medium">Practice</div>
+              <div className="text-[11px] text-amber-200 uppercase font-medium">Practice</div>
             </div>
           </div>
         </div>

@@ -94,7 +94,6 @@ export interface ExamResult {
   paperTitle: string;
   examType: string;
   studentName: string;
-  rollNumber: string;
   timestamp: string;
   durationTakenSeconds: number;
   totalMarks: number;
@@ -125,7 +124,6 @@ export interface ExamResult {
 
 export interface UserProfile {
   name: string;
-  rollNumber: string;
   phoneNumber?: string;
   email?: string;
   targetYear: string;

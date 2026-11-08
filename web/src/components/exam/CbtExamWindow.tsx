@@ -122,7 +122,6 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
     const result = evaluateExam(
       evaluatedPaper,
       profile.name,
-      profile.rollNumber,
       timeSpentSeconds
     );
     saveAttempt(result);
@@ -487,7 +486,9 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
           <span>
             Candidate: <strong className="text-slate-800">{profile.name}</strong>
           </span>
-          <span className="font-mono text-[11px] text-slate-500">[{profile.rollNumber}]</span>
+          <span className="text-[11px] text-blue-700 bg-blue-50 px-2 py-0.5 rounded border border-blue-200">
+            {profile.branch}
+          </span>
         </div>
       </nav>
 
@@ -759,7 +760,6 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
               </div>
               <div className="min-w-0">
                 <div className="font-bold text-xs text-slate-900 truncate">{profile.name}</div>
-                <div className="text-[11px] font-mono text-slate-500 truncate">{profile.rollNumber}</div>
                 <div className="text-[10px] text-blue-700 font-medium truncate">{profile.branch}</div>
               </div>
             </div>
