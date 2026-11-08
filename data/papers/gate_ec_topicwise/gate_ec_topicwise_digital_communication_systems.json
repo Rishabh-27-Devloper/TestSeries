@@ -1,0 +1,1870 @@
+{
+  "paperId": "gate_ec_topicwise_digital_communication_systems",
+  "title": "GATE EC - Digital Communication Systems (Communications)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 180,
+  "totalMarks": 106.0,
+  "description": "Chapter-wise Previous Year Questions for Digital Communication Systems in Communications.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Digital Communication Systems Questions",
+      "totalQuestions": 67,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 1 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 2 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.0,
+          "toleranceMin": 0.95,
+          "toleranceMax": 1.05,
+          "options": []
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 3 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MSQ",
+          "questionText": "Digital Communication Systems - Question 4 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 5 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 6 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 30.65,
+          "toleranceMin": 30.5,
+          "toleranceMax": 30.8,
+          "options": []
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 7 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.15,
+          "toleranceMin": 3.1,
+          "toleranceMax": 3.2,
+          "options": []
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 8 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 9 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 10 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 11 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 16.0,
+          "toleranceMin": 15.99,
+          "toleranceMax": 16.01,
+          "options": []
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 12 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 35.0,
+          "toleranceMin": 34.99,
+          "toleranceMax": 35.01,
+          "options": []
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 13 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 14 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 8.0,
+          "toleranceMin": 7.99,
+          "toleranceMax": 8.01,
+          "options": []
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 15 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 16 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 17 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 18 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 19 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 20 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q20_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 21 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q21_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 22 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q22_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 23 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q23_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 24 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q24_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 25 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q25_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 26 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q26_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 27 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q27_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 28 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q28_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 29 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.15,
+          "toleranceMin": 0.14,
+          "toleranceMax": 0.16,
+          "options": []
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 30 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 31 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.23,
+          "toleranceMin": 0.22,
+          "toleranceMax": 0.24,
+          "options": []
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 32 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 33 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 34 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 35 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.735,
+          "toleranceMin": 0.725,
+          "toleranceMax": 0.745,
+          "options": []
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 36 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 37 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 400.0,
+          "toleranceMin": 399.99,
+          "toleranceMax": 400.01,
+          "options": []
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 38 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q38_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 16.0,
+          "toleranceMin": 15.99,
+          "toleranceMax": 16.01,
+          "options": []
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 39 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.345,
+          "toleranceMin": 0.335,
+          "toleranceMax": 0.355,
+          "options": []
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 40 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 200.0,
+          "toleranceMin": 199.99,
+          "toleranceMax": 200.01,
+          "options": []
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "NAT",
+          "questionText": "Digital Communication Systems - Question 41 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 42 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 43 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q43_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 44 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 45 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 46 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 47 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q47_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 48 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q48_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 49 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q49_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 50 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q50_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 51 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q51_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 52 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q52_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 53 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q53_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 54 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q54_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 55 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q55_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 56 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q56_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 57 (GATE ECE 2000)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q57_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 58 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q58_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 59 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q59_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 60 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q60_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 61 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q61_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 62 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q62_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 63 (GATE ECE 1991)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q63_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": "Quadrature",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 64 (GATE ECE 1990)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q64_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 65,
+          "questionNumber": 65,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MSQ",
+          "questionText": "Digital Communication Systems - Question 65 (GATE ECE 1989)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q65_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 66,
+          "questionNumber": 66,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 66 (GATE ECE 1988)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q66_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 67,
+          "questionNumber": 67,
+          "sectionId": "sec_topic",
+          "sectionName": "Digital Communication Systems Questions",
+          "type": "MCQ",
+          "questionText": "Digital Communication Systems - Question 67 (GATE ECE 1988)",
+          "imageUrl": "assets/gate_ec_topicwise_digital_communication_systems/q67_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

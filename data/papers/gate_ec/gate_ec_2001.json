@@ -1,0 +1,1625 @@
+{
+  "paperId": "GATE_EC_2001",
+  "title": "GATE EC 2001 Official Examination Paper",
+  "examType": "GATE",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "category": "PYQ",
+  "year": 2001,
+  "description": "Official GATE 2001 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
+  "answerKeyAvailable": true,
+  "sections": [
+    {
+      "sectionId": "Section-A",
+      "sectionName": "Objective Section A",
+      "questions": [
+        {
+          "questionId": 1,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 1",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q1.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 1."
+        },
+        {
+          "questionId": 2,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 2",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q2.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 2."
+        },
+        {
+          "questionId": 3,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 3",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q3.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 3."
+        },
+        {
+          "questionId": 4,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 4",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q4.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 4."
+        },
+        {
+          "questionId": 5,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 5",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q5.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 5."
+        },
+        {
+          "questionId": 6,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 6",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q6.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 6."
+        },
+        {
+          "questionId": 7,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 7",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q7.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 7."
+        },
+        {
+          "questionId": 8,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 8",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q8.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 8."
+        },
+        {
+          "questionId": 9,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 9",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q9.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 9."
+        },
+        {
+          "questionId": 10,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 10",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q10.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 10."
+        },
+        {
+          "questionId": 11,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 11",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q11.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 11."
+        },
+        {
+          "questionId": 12,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 12",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q12.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 12."
+        },
+        {
+          "questionId": 13,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 13",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q13.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 13."
+        },
+        {
+          "questionId": 14,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 14",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q14.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 14."
+        },
+        {
+          "questionId": 15,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 15",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q15.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 15."
+        },
+        {
+          "questionId": 16,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 16",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q16.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 16."
+        },
+        {
+          "questionId": 17,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 17",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q17.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 17."
+        },
+        {
+          "questionId": 18,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 18",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q18.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 18."
+        },
+        {
+          "questionId": 19,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 19",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q19.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 19."
+        },
+        {
+          "questionId": 20,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 20",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q20.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 20."
+        },
+        {
+          "questionId": 21,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 21",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q21.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 21."
+        },
+        {
+          "questionId": 22,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 22",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q22.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 22."
+        },
+        {
+          "questionId": 23,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 23",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q23.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 23."
+        },
+        {
+          "questionId": 24,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 24",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q24.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 24."
+        },
+        {
+          "questionId": 25,
+          "type": "MCQ",
+          "sectionId": "Section-A",
+          "sectionName": "Objective Section A",
+          "questionText": "GATE 2001 EC - Question 25",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "imageUrl": "assets/GATE_EC_2001/q25.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 25."
+        }
+      ]
+    },
+    {
+      "sectionId": "Section-B",
+      "sectionName": "Objective Section B",
+      "questions": [
+        {
+          "questionId": 26,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 26",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q26.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 26."
+        },
+        {
+          "questionId": 27,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 27",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q27.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 27."
+        },
+        {
+          "questionId": 28,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 28",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q28.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 28."
+        },
+        {
+          "questionId": 29,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 29",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q29.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 29."
+        },
+        {
+          "questionId": 30,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 30",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q30.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 30."
+        },
+        {
+          "questionId": 31,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 31",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q31.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 31."
+        },
+        {
+          "questionId": 32,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 32",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q32.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 32."
+        },
+        {
+          "questionId": 33,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 33",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q33.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 33."
+        },
+        {
+          "questionId": 34,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 34",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q34.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 34."
+        },
+        {
+          "questionId": 35,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 35",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q35.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 35."
+        },
+        {
+          "questionId": 36,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 36",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q36.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 36."
+        },
+        {
+          "questionId": 37,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 37",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q37.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 37."
+        },
+        {
+          "questionId": 38,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 38",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q38.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 38."
+        },
+        {
+          "questionId": 39,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 39",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q39.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 39."
+        },
+        {
+          "questionId": 40,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 40",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q40.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 40."
+        },
+        {
+          "questionId": 41,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 41",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q41.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 41."
+        },
+        {
+          "questionId": 42,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 42",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q42.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 42."
+        },
+        {
+          "questionId": 43,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 43",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q43.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 43."
+        },
+        {
+          "questionId": 44,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 44",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q44.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 44."
+        },
+        {
+          "questionId": 45,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 45",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q45.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 45."
+        },
+        {
+          "questionId": 46,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 46",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q46.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 46."
+        },
+        {
+          "questionId": 47,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 47",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q47.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 47."
+        },
+        {
+          "questionId": 48,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 48",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q48.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 48."
+        },
+        {
+          "questionId": 49,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 49",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q49.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 49."
+        },
+        {
+          "questionId": 50,
+          "type": "MCQ",
+          "sectionId": "Section-B",
+          "sectionName": "Objective Section B",
+          "questionText": "GATE 2001 EC - Question 50",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "imageUrl": "assets/GATE_EC_2001/q50.png",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ],
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "explanation": "Official GATE 2001 EC Question 50."
+        }
+      ]
+    }
+  ]
+}

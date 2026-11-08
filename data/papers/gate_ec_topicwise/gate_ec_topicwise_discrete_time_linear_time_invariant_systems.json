@@ -1,0 +1,742 @@
+{
+  "paperId": "gate_ec_topicwise_discrete_time_linear_time_invariant_systems",
+  "title": "GATE EC - Discrete Time Linear Time Invariant Systems (Electronics & Communication)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 72,
+  "totalMarks": 39.0,
+  "description": "Chapter-wise Previous Year Questions for Discrete Time Linear Time Invariant Systems in Electronics & Communication.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+      "totalQuestions": 24,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 1 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 2 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 3 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 4 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 5 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 6 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 7 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 8 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 9 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 10 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q10_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 11 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q11_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0,
+          "toleranceMin": -0.01,
+          "toleranceMax": 0.01,
+          "options": []
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 12 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q12_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.5,
+          "toleranceMin": 1.49,
+          "toleranceMax": 1.51,
+          "options": []
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 13 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q13_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 10.0,
+          "toleranceMin": 9.99,
+          "toleranceMax": 10.01,
+          "options": []
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 14 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q14_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 15 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 16 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 17 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 18 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 19 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 20 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 21 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 22 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 23 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Linear Time Invariant Systems Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Linear Time Invariant Systems - Question 24 (GATE ECE 1988)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_linear_time_invariant_systems/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

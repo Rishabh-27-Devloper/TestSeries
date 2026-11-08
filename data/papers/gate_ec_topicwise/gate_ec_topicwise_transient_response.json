@@ -1,0 +1,1276 @@
+{
+  "paperId": "gate_ec_topicwise_transient_response",
+  "title": "GATE EC - Transient Response (Networks)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 138,
+  "totalMarks": 75.0,
+  "description": "Chapter-wise Previous Year Questions for Transient Response in Networks.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Transient Response Questions",
+      "totalQuestions": 46,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 1 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.75,
+          "toleranceMin": 0.74,
+          "toleranceMax": 0.76,
+          "options": []
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 2 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 3 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.0,
+          "toleranceMin": 3.99,
+          "toleranceMax": 4.01,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 4 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.435,
+          "toleranceMin": 1.42,
+          "toleranceMax": 1.45,
+          "options": []
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 5 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 6 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 7 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 8 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.25,
+          "toleranceMin": 1.24,
+          "toleranceMax": 1.26,
+          "options": []
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 9 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 10 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 11 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 12 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 13 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 14 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 15 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 16 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 17 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 18 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 19 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.135,
+          "toleranceMin": 0.13,
+          "toleranceMax": 0.14,
+          "options": []
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 20 (GATE ECE 2018)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.316,
+          "toleranceMin": 0.284,
+          "toleranceMax": 0.348,
+          "options": []
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 21 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 8.16,
+          "toleranceMin": 8.15,
+          "toleranceMax": 8.17,
+          "options": []
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 22 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 100.0,
+          "toleranceMin": 99.99,
+          "toleranceMax": 100.01,
+          "options": []
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 23 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -1.0,
+          "toleranceMin": -1.01,
+          "toleranceMax": -0.99,
+          "options": []
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 24 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.5,
+          "toleranceMin": 1.49,
+          "toleranceMax": 1.51,
+          "options": []
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 25 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.528,
+          "toleranceMin": 2.518,
+          "toleranceMax": 2.538,
+          "options": []
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "NAT",
+          "questionText": "Transient Response - Question 26 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 31.25,
+          "toleranceMin": 31.24,
+          "toleranceMax": 31.26,
+          "options": []
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 27 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 28 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 29 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 30 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 31 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 32 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 33 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 34 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 35 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 36 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 37 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 38 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q38_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 39 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 40 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 41 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 42 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 43 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q43_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 44 (GATE ECE 1990)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 45 (GATE ECE 1989)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "Transient Response Questions",
+          "type": "MCQ",
+          "questionText": "Transient Response - Question 46 (GATE ECE 1987)",
+          "imageUrl": "assets/gate_ec_topicwise_transient_response/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

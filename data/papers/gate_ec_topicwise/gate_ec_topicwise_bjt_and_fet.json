@@ -1,0 +1,837 @@
+{
+  "paperId": "gate_ec_topicwise_bjt_and_fet",
+  "title": "GATE EC - BJT and FET (Electronic Devices)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 87,
+  "totalMarks": 39.0,
+  "description": "Chapter-wise Previous Year Questions for BJT and FET in Electronic Devices.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "BJT and FET Questions",
+      "totalQuestions": 29,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MSQ",
+          "questionText": "BJT and FET - Question 1 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "C",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "NAT",
+          "questionText": "BJT and FET - Question 2 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 5.6,
+          "toleranceMin": 5.59,
+          "toleranceMax": 5.61,
+          "options": []
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 3 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "NAT",
+          "questionText": "BJT and FET - Question 4 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.0,
+          "toleranceMin": 5.99,
+          "toleranceMax": 6.01,
+          "options": []
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 5 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 6 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "NAT",
+          "questionText": "BJT and FET - Question 7 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 21.0,
+          "toleranceMin": 20.99,
+          "toleranceMax": 21.01,
+          "options": []
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "NAT",
+          "questionText": "BJT and FET - Question 8 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 9 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 10 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 11 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 12 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 13 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 14 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 15 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 16 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 17 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 18 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": "Drain",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 19 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "NAT",
+          "questionText": "BJT and FET - Question 20 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.656,
+          "toleranceMin": 6.646,
+          "toleranceMax": 6.666,
+          "options": []
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "NAT",
+          "questionText": "BJT and FET - Question 21 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1475.0,
+          "toleranceMin": 1474.99,
+          "toleranceMax": 1475.01,
+          "options": []
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "NAT",
+          "questionText": "BJT and FET - Question 22 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 381.0,
+          "toleranceMin": 380.99,
+          "toleranceMax": 381.01,
+          "options": []
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 23 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 24 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 25 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 26 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 27 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 28 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": "Decrease",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "BJT and FET Questions",
+          "type": "MCQ",
+          "questionText": "BJT and FET - Question 29 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_bjt_and_fet/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "paperId": "gate_ec_topicwise_frequency_response",
+  "title": "GATE EC - Frequency Response (Control Systems)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 54,
+  "totalMarks": 25.0,
+  "description": "Chapter-wise Previous Year Questions for Frequency Response in Control Systems.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Frequency Response Questions",
+      "totalQuestions": 18,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "NAT",
+          "questionText": "Frequency Response - Question 1 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 50.0,
+          "toleranceMin": 49.99,
+          "toleranceMax": 50.01,
+          "options": []
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 2 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 3 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 4 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 5 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 6 (GATE ECE 2000)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 7 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 8 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "NAT",
+          "questionText": "Frequency Response - Question 9 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.59,
+          "toleranceMin": 1.58,
+          "toleranceMax": 1.6,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "NAT",
+          "questionText": "Frequency Response - Question 10 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 10.0,
+          "toleranceMin": 9.99,
+          "toleranceMax": 10.01,
+          "options": []
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 11 (GATE ECE 1993)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 12 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q12_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 13 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q13_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 14 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q14_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 15 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 16 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 17 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Frequency Response Questions",
+          "type": "MCQ",
+          "questionText": "Frequency Response - Question 18 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_frequency_response/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

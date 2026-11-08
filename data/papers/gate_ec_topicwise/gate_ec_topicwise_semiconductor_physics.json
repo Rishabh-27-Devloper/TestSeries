@@ -1,0 +1,1609 @@
+{
+  "paperId": "gate_ec_topicwise_semiconductor_physics",
+  "title": "GATE EC - Semiconductor Physics (Electronic Devices)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 168,
+  "totalMarks": 78.0,
+  "description": "Chapter-wise Previous Year Questions for Semiconductor Physics in Electronic Devices.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Semiconductor Physics Questions",
+      "totalQuestions": 56,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MSQ",
+          "questionText": "Semiconductor Physics - Question 1 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 2 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MSQ",
+          "questionText": "Semiconductor Physics - Question 3 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 4 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 5 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 6 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 7 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 8 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 9 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 10 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 11 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 14.0,
+          "toleranceMin": 13.99,
+          "toleranceMax": 14.01,
+          "options": []
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 12 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.92,
+          "toleranceMin": 1.91,
+          "toleranceMax": 1.93,
+          "options": []
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 13 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.52,
+          "toleranceMin": 0.51,
+          "toleranceMax": 0.53,
+          "options": []
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 14 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 15 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.13,
+          "toleranceMin": 1.12,
+          "toleranceMax": 1.14,
+          "options": []
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 16 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 17 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 13.0,
+          "toleranceMin": 12.99,
+          "toleranceMax": 13.01,
+          "options": []
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 18 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 19 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 20 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q20_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 21 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q21_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 22 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q22_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 23 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q23_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 24 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q24_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 25 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q25_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 26 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q26_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 27 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q27_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 28 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q28_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 29 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q29_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 30 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q30_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 31 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q31_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 32 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q32_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 33 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q33_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 34 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q34_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 35 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 35.47,
+          "toleranceMin": 35.46,
+          "toleranceMax": 35.48,
+          "options": []
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 36 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 37 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 38 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q38_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.18,
+          "toleranceMin": 0.17,
+          "toleranceMax": 0.19,
+          "options": []
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 39 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.25,
+          "toleranceMin": 2.2,
+          "toleranceMax": 2.3,
+          "options": []
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 40 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 69.87,
+          "toleranceMin": 69.86,
+          "toleranceMax": 69.88,
+          "options": []
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MSQ",
+          "questionText": "Semiconductor Physics - Question 41 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 42 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 43 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q43_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 44 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.6,
+          "toleranceMin": 1.59,
+          "toleranceMax": 1.61,
+          "options": []
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 45 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 100.0,
+          "toleranceMin": 99.99,
+          "toleranceMax": 100.01,
+          "options": []
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 46 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 225.2,
+          "toleranceMin": 225.19,
+          "toleranceMax": 225.21,
+          "options": []
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 47 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q47_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "NAT",
+          "questionText": "Semiconductor Physics - Question 48 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q48_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4000.0,
+          "toleranceMin": 3999.99,
+          "toleranceMax": 4000.01,
+          "options": []
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 49 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q49_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 50 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q50_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 51 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q51_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 52 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q52_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 53 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q53_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 54 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q54_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MCQ",
+          "questionText": "Semiconductor Physics - Question 55 (GATE ECE 1991)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q55_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "sectionId": "sec_topic",
+          "sectionName": "Semiconductor Physics Questions",
+          "type": "MSQ",
+          "questionText": "Semiconductor Physics - Question 56 (GATE ECE 1987)",
+          "imageUrl": "assets/gate_ec_topicwise_semiconductor_physics/q56_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "C",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

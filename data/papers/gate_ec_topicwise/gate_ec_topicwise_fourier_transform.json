@@ -1,0 +1,1077 @@
+{
+  "paperId": "gate_ec_topicwise_fourier_transform",
+  "title": "GATE EC - Fourier Transform (Signals And Systems)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 105,
+  "totalMarks": 51.0,
+  "description": "Chapter-wise Previous Year Questions for Fourier Transform in Signals And Systems.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Fourier Transform Questions",
+      "totalQuestions": 35,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 1 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 2 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 3 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 4 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "NAT",
+          "questionText": "Fourier Transform - Question 5 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 6 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 7 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 8 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 9 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 10 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 11 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 12 (GATE ECE 2000)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 13 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 14 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 15 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 16 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 17 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 18 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 19 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 20 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 21 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "NAT",
+          "questionText": "Fourier Transform - Question 22 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 58.6,
+          "toleranceMin": 58.1,
+          "toleranceMax": 59.1,
+          "options": []
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 23 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "NAT",
+          "questionText": "Fourier Transform - Question 24 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.2,
+          "toleranceMin": 0.19,
+          "toleranceMax": 0.21,
+          "options": []
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 25 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "NAT",
+          "questionText": "Fourier Transform - Question 26 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.2,
+          "toleranceMin": 0.19,
+          "toleranceMax": 0.21,
+          "options": []
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 27 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 28 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 29 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 30 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 31 (GATE ECE 2000)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 32 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 33 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 34 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Fourier Transform Questions",
+          "type": "MCQ",
+          "questionText": "Fourier Transform - Question 35 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_fourier_transform/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

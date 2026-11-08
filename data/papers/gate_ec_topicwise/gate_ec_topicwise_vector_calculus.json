@@ -1,0 +1,696 @@
+{
+  "paperId": "gate_ec_topicwise_vector_calculus",
+  "title": "GATE EC - Vector Calculus (Engineering Mathematics)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 75,
+  "totalMarks": 36.0,
+  "description": "Chapter-wise Previous Year Questions for Vector Calculus in Engineering Mathematics.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Vector Calculus Questions",
+      "totalQuestions": 25,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 1 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MSQ",
+          "questionText": "Vector Calculus - Question 2 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 3 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 4 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 5 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 6 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 55.0,
+          "toleranceMin": 54.0,
+          "toleranceMax": 56.0,
+          "options": []
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 7 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 8 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 7.0,
+          "toleranceMin": 6.99,
+          "toleranceMax": 7.01,
+          "options": []
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 9 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 10 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 11 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 12 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 13 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 14 (GATE ECE 1993)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MSQ",
+          "questionText": "Vector Calculus - Question 15 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 16 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.25,
+          "toleranceMin": 2.24,
+          "toleranceMax": 2.26,
+          "options": []
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 17 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 18 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -11.0,
+          "toleranceMin": -11.01,
+          "toleranceMax": -10.99,
+          "options": []
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 19 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0,
+          "toleranceMin": -0.01,
+          "toleranceMax": 0.01,
+          "options": []
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "NAT",
+          "questionText": "Vector Calculus - Question 20 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.14,
+          "toleranceMin": 3.13,
+          "toleranceMax": 3.15,
+          "options": []
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 21 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 22 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 23 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 24 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Vector Calculus Questions",
+          "type": "MCQ",
+          "questionText": "Vector Calculus - Question 25 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_vector_calculus/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

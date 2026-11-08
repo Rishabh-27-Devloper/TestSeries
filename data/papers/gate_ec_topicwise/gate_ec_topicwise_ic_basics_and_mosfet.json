@@ -1,0 +1,1767 @@
+{
+  "paperId": "gate_ec_topicwise_ic_basics_and_mosfet",
+  "title": "GATE EC - IC Basics and MOSFET (Electronic Devices)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 180,
+  "totalMarks": 104.0,
+  "description": "Chapter-wise Previous Year Questions for IC Basics and MOSFET in Electronic Devices.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "IC Basics and MOSFET Questions",
+      "totalQuestions": 64,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 1 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 2 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 3 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.5,
+          "toleranceMin": 0.49,
+          "toleranceMax": 0.51,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 4 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 5 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 6 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 7 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 8 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 9 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 10 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 11 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 12 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 13 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 14 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 15 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 16 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 17 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 18 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 19 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 20 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q20_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 21 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q21_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 22 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q22_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 23 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q23_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 24 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q24_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 25 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.3,
+          "toleranceMin": 4.1,
+          "toleranceMax": 4.5,
+          "options": []
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 26 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 27 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 28 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.9,
+          "toleranceMin": 6.89,
+          "toleranceMax": 6.91,
+          "options": []
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 29 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 30 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 31 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 32 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 33 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.2,
+          "toleranceMin": 1.19,
+          "toleranceMax": 1.21,
+          "options": []
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 34 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 28.35,
+          "toleranceMin": 28.34,
+          "toleranceMax": 28.36,
+          "options": []
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 35 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.6,
+          "toleranceMin": 1.59,
+          "toleranceMax": 1.61,
+          "options": []
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 36 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 37 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 57.87,
+          "toleranceMin": 57.86,
+          "toleranceMax": 57.88,
+          "options": []
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 38 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q38_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 39 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.022,
+          "toleranceMin": 0.012,
+          "toleranceMax": 0.032,
+          "options": []
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 40 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.33,
+          "toleranceMin": 4.32,
+          "toleranceMax": 4.34,
+          "options": []
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 41 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 20.0,
+          "toleranceMin": 19.99,
+          "toleranceMax": 20.01,
+          "options": []
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 42 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 43 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q43_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 500.0,
+          "toleranceMin": 499.99,
+          "toleranceMax": 500.01,
+          "options": []
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 44 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 45 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.9,
+          "toleranceMin": 0.89,
+          "toleranceMax": 0.91,
+          "options": []
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 46 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0707,
+          "toleranceMin": 0.0607,
+          "toleranceMax": 0.0807,
+          "options": []
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 47 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q47_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.4,
+          "toleranceMin": 2.39,
+          "toleranceMax": 2.41,
+          "options": []
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "NAT",
+          "questionText": "IC Basics and MOSFET - Question 48 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q48_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.5,
+          "toleranceMin": 1.49,
+          "toleranceMax": 1.51,
+          "options": []
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 49 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q49_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 50 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q50_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 51 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q51_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 52 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q52_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 53 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q53_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 54 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q54_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 55 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q55_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 56 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q56_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 57 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q57_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 58 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q58_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 59 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q59_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 60 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q60_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 61 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q61_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 62 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q62_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 63 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q63_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "sectionId": "sec_topic",
+          "sectionName": "IC Basics and MOSFET Questions",
+          "type": "MCQ",
+          "questionText": "IC Basics and MOSFET - Question 64 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_ic_basics_and_mosfet/q64_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

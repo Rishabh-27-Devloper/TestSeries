@@ -1,0 +1,1114 @@
+{
+  "paperId": "gate_ec_topicwise_discrete_time_signal_z_transform",
+  "title": "GATE EC - Discrete Time Signal Z Transform (Signals And Systems)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 111,
+  "totalMarks": 53.0,
+  "description": "Chapter-wise Previous Year Questions for Discrete Time Signal Z Transform in Signals And Systems.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Discrete Time Signal Z Transform Questions",
+      "totalQuestions": 37,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 1 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MSQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 2 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "C",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MSQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 3 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 4 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 5 (GATE ECE 2018)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 6 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 7 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Signal Z Transform - Question 8 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0,
+          "toleranceMin": -0.01,
+          "toleranceMax": 0.01,
+          "options": []
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Signal Z Transform - Question 9 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.0,
+          "toleranceMin": 3.99,
+          "toleranceMax": 4.01,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 10 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 11 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 12 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 13 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 14 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 15 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 16 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 17 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 18 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 19 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q19_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 20 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q20_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 21 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q21_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Signal Z Transform - Question 22 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -2.0,
+          "toleranceMin": -2.01,
+          "toleranceMax": -1.99,
+          "options": []
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Signal Z Transform - Question 23 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 233.0,
+          "toleranceMin": 232.99,
+          "toleranceMax": 233.01,
+          "options": []
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 24 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 25 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 26 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 27 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 28 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 29 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 30 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Signal Z Transform - Question 31 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 12.0,
+          "toleranceMin": 11.99,
+          "toleranceMax": 12.01,
+          "options": []
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "NAT",
+          "questionText": "Discrete Time Signal Z Transform - Question 32 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.5,
+          "toleranceMin": 0.49,
+          "toleranceMax": 0.51,
+          "options": []
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 33 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 34 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 35 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 36 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Discrete Time Signal Z Transform Questions",
+          "type": "MCQ",
+          "questionText": "Discrete Time Signal Z Transform - Question 37 (GATE ECE 1990)",
+          "imageUrl": "assets/gate_ec_topicwise_discrete_time_signal_z_transform/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

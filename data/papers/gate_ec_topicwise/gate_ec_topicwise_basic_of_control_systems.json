@@ -1,0 +1,343 @@
+{
+  "paperId": "gate_ec_topicwise_basic_of_control_systems",
+  "title": "GATE EC - Basic of Control Systems (Control Systems)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 33,
+  "totalMarks": 14.0,
+  "description": "Chapter-wise Previous Year Questions for Basic of Control Systems in Control Systems.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Basic of Control Systems Questions",
+      "totalQuestions": 11,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "NAT",
+          "questionText": "Basic of Control Systems - Question 1 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.0,
+          "toleranceMin": 0.99,
+          "toleranceMax": 1.01,
+          "options": []
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 2 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 3 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 4 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 5 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 6 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 7 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 8 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "NAT",
+          "questionText": "Basic of Control Systems - Question 9 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q9_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 30.0,
+          "toleranceMin": 29.99,
+          "toleranceMax": 30.01,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 10 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q10_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Basic of Control Systems Questions",
+          "type": "MCQ",
+          "questionText": "Basic of Control Systems - Question 11 (GATE ECE 2000)",
+          "imageUrl": "assets/gate_ec_topicwise_basic_of_control_systems/q11_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "paperId": "gate_ec_topicwise_root_locus_diagram",
+  "title": "GATE EC - Root Locus Diagram (Control Systems)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 69,
+  "totalMarks": 38.0,
+  "description": "Chapter-wise Previous Year Questions for Root Locus Diagram in Control Systems.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Root Locus Diagram Questions",
+      "totalQuestions": 23,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 1 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 2 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 3 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 4 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 5 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 6 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 7 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 8 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 9 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q9_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 10 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q10_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "NAT",
+          "questionText": "Root Locus Diagram - Question 11 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q11_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.25,
+          "toleranceMin": 1.24,
+          "toleranceMax": 1.26,
+          "options": []
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "NAT",
+          "questionText": "Root Locus Diagram - Question 12 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q12_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -3.414,
+          "toleranceMin": -3.424,
+          "toleranceMax": -3.404,
+          "options": []
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "NAT",
+          "questionText": "Root Locus Diagram - Question 13 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q13_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.3,
+          "toleranceMin": 0.29,
+          "toleranceMax": 0.31,
+          "options": []
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "NAT",
+          "questionText": "Root Locus Diagram - Question 14 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q14_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 25.54,
+          "toleranceMin": 25.53,
+          "toleranceMax": 25.55,
+          "options": []
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "NAT",
+          "questionText": "Root Locus Diagram - Question 15 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.375,
+          "toleranceMin": 0.365,
+          "toleranceMax": 0.385,
+          "options": []
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 16 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 17 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 18 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 19 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 20 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 21 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 22 (GATE ECE 1991)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Root Locus Diagram Questions",
+          "type": "MCQ",
+          "questionText": "Root Locus Diagram - Question 23 (GATE ECE 1988)",
+          "imageUrl": "assets/gate_ec_topicwise_root_locus_diagram/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

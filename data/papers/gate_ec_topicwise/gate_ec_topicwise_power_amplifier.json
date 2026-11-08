@@ -1,0 +1,282 @@
+{
+  "paperId": "gate_ec_topicwise_power_amplifier",
+  "title": "GATE EC - Power Amplifier (Analog Circuits)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 30,
+  "totalMarks": 12.0,
+  "description": "Chapter-wise Previous Year Questions for Power Amplifier in Analog Circuits.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Power Amplifier Questions",
+      "totalQuestions": 9,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Power Amplifier - Question 1 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Power Amplifier - Question 2 (GATE ECE 1999)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Power Amplifier - Question 3 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 15.0,
+          "toleranceMin": 14.99,
+          "toleranceMax": 15.01,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "NAT",
+          "questionText": "Power Amplifier - Question 4 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.5,
+          "toleranceMin": 2.49,
+          "toleranceMax": 2.51,
+          "options": []
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Power Amplifier - Question 5 (GATE ECE 1994)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "MSQ",
+          "questionText": "Power Amplifier - Question 6 (GATE ECE 1993)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Power Amplifier - Question 7 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q7_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Power Amplifier - Question 8 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q8_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Power Amplifier Questions",
+          "type": "MCQ",
+          "questionText": "Power Amplifier - Question 9 (GATE ECE 1987)",
+          "imageUrl": "assets/gate_ec_topicwise_power_amplifier/q9_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

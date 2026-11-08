@@ -1,0 +1,1189 @@
+{
+  "paperId": "gate_ec_topicwise_pn_junction",
+  "title": "GATE EC - PN Junction (Electronic Devices)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 126,
+  "totalMarks": 66.0,
+  "description": "Chapter-wise Previous Year Questions for PN Junction in Electronic Devices.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "PN Junction Questions",
+      "totalQuestions": 42,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 1 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 2 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 3 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 8.9,
+          "toleranceMin": 8.8,
+          "toleranceMax": 9.0,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 4 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 5 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 6 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 5.0,
+          "toleranceMin": 4.99,
+          "toleranceMax": 5.01,
+          "options": []
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 7 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 8.0,
+          "toleranceMin": 7.99,
+          "toleranceMax": 8.01,
+          "options": []
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 8 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 9 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 10 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 11 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 12 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 13 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 14 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 15 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 16 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 17 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q17_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 18 (GATE ECE 1990)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q18_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MSQ",
+          "questionText": "PN Junction - Question 19 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 20 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.235,
+          "toleranceMin": 0.23,
+          "toleranceMax": 0.24,
+          "options": []
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 21 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.13,
+          "toleranceMin": 4.0,
+          "toleranceMax": 4.26,
+          "options": []
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 22 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.59,
+          "toleranceMin": 0.58,
+          "toleranceMax": 0.6,
+          "options": []
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 23 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 24 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 25 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.526,
+          "toleranceMin": 0.516,
+          "toleranceMax": 0.536,
+          "options": []
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 26 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 32.36,
+          "toleranceMin": 32.35,
+          "toleranceMax": 32.37,
+          "options": []
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 27 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 28 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 29 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.5,
+          "toleranceMin": 2.49,
+          "toleranceMax": 2.51,
+          "options": []
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 30 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 30.65,
+          "toleranceMin": 30.64,
+          "toleranceMax": 30.66,
+          "options": []
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 31 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 32 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 33 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 34 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 35 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 36 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 37 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MSQ",
+          "questionText": "PN Junction - Question 38 (GATE ECE 1993)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q38_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "B"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 39 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 40 (GATE ECE 1991)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "NAT",
+          "questionText": "PN Junction - Question 41 (GATE ECE 1991)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -2.0,
+          "toleranceMin": -2.01,
+          "toleranceMax": -1.99,
+          "options": []
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "PN Junction Questions",
+          "type": "MCQ",
+          "questionText": "PN Junction - Question 42 (GATE ECE 1987)",
+          "imageUrl": "assets/gate_ec_topicwise_pn_junction/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

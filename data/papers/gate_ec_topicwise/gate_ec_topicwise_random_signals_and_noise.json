@@ -1,0 +1,1570 @@
+{
+  "paperId": "gate_ec_topicwise_random_signals_and_noise",
+  "title": "GATE EC - Random Signals and Noise (Communications)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 165,
+  "totalMarks": 94.0,
+  "description": "Chapter-wise Previous Year Questions for Random Signals and Noise in Communications.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Random Signals and Noise Questions",
+      "totalQuestions": 55,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 1 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MSQ",
+          "questionText": "Random Signals and Noise - Question 2 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "A",
+            "B"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 3 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 4 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 5 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 6.0,
+          "toleranceMin": 5.99,
+          "toleranceMax": 6.01,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 6 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 7 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 8 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 9 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 10 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 11 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 12 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 13 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 14 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 15 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 16 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 17 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 18 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 19 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 45.15,
+          "toleranceMin": 45.0,
+          "toleranceMax": 45.3,
+          "options": []
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 20 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 21 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 22 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.167,
+          "toleranceMin": 1.157,
+          "toleranceMax": 1.177,
+          "options": []
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 23 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 24 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": -1.0,
+          "toleranceMin": -1.01,
+          "toleranceMax": -0.99,
+          "options": []
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 25 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 100.0,
+          "toleranceMin": 99.99,
+          "toleranceMax": 100.01,
+          "options": []
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 26 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 27 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 28 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.25,
+          "toleranceMin": 0.24,
+          "toleranceMax": 0.26,
+          "options": []
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 29 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 30 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 31 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 32 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 33 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.414,
+          "toleranceMin": 1.404,
+          "toleranceMax": 1.424,
+          "options": []
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 34 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.0,
+          "toleranceMin": 3.99,
+          "toleranceMax": 4.01,
+          "options": []
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 35 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q35_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 36 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q36_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.5,
+          "toleranceMin": 2.49,
+          "toleranceMax": 2.51,
+          "options": []
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "NAT",
+          "questionText": "Random Signals and Noise - Question 37 (GATE ECE 2014 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q37_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.17,
+          "toleranceMin": 0.16,
+          "toleranceMax": 0.18,
+          "options": []
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 38 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q38_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 39 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q39_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 40 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q40_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 41 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q41_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 42 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q42_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 43 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q43_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 44 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q44_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 45 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q45_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 46 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q46_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 47 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q47_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 48 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q48_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 49 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q49_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 50 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q50_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 51 (GATE ECE 1991)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q51_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 52 (GATE ECE 1989)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q52_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MSQ",
+          "questionText": "Random Signals and Noise - Question 53 (GATE ECE 1989)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q53_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "B",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 54 (GATE ECE 1987)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q54_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "sectionId": "sec_topic",
+          "sectionName": "Random Signals and Noise Questions",
+          "type": "MCQ",
+          "questionText": "Random Signals and Noise - Question 55 (GATE ECE 1987)",
+          "imageUrl": "assets/gate_ec_topicwise_random_signals_and_noise/q55_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

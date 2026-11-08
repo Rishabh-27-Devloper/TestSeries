@@ -1,0 +1,763 @@
+{
+  "paperId": "gate_ec_topicwise_fundamentals_of_information_theory",
+  "title": "GATE EC - Fundamentals of Information Theory (Communications)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 96,
+  "totalMarks": 52.0,
+  "description": "Chapter-wise Previous Year Questions for Fundamentals of Information Theory in Communications.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Fundamentals of Information Theory Questions",
+      "totalQuestions": 32,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 1 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 2 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 3.0,
+          "toleranceMin": 2.99,
+          "toleranceMax": 3.01,
+          "options": []
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 3 (GATE ECE 2024)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 4.0,
+          "toleranceMin": 3.99,
+          "toleranceMax": 4.01,
+          "options": []
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 4 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 9.25,
+          "toleranceMin": 9.2,
+          "toleranceMax": 9.3,
+          "options": []
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 5 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.5,
+          "toleranceMin": 0.49,
+          "toleranceMax": 0.51,
+          "options": []
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 6 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 7 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0,
+          "toleranceMin": -0.01,
+          "toleranceMax": 0.01,
+          "options": []
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 8 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.75,
+          "toleranceMin": 1.74,
+          "toleranceMax": 1.76,
+          "options": []
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 9 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 362.2,
+          "toleranceMin": 362.19,
+          "toleranceMax": 362.21,
+          "options": []
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 10 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 11 (GATE ECE 2012)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 12 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 13 (GATE ECE 2026)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q13_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MSQ",
+          "questionText": "Fundamentals of Information Theory - Question 14 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q14_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": [
+            "B",
+            "C"
+          ],
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 15 (GATE ECE 2025)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q15_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.0,
+          "toleranceMin": -0.01,
+          "toleranceMax": 0.01,
+          "options": []
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 16 (GATE ECE 2023)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q16_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.98,
+          "toleranceMin": 1.97,
+          "toleranceMax": 1.99,
+          "options": []
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 17 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 1.0,
+          "toleranceMin": 0.99,
+          "toleranceMax": 1.01,
+          "options": []
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 18 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.85,
+          "toleranceMin": 0.84,
+          "toleranceMax": 0.86,
+          "options": []
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 19 (GATE ECE 2017 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 20 (GATE ECE 2016 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.82,
+          "toleranceMin": 0.81,
+          "toleranceMax": 0.83,
+          "options": []
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 21 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 22 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 31.5,
+          "toleranceMin": 31.49,
+          "toleranceMax": 31.51,
+          "options": []
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 23 (GATE ECE 2014 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.0,
+          "toleranceMin": 1.99,
+          "toleranceMax": 2.01,
+          "options": []
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 24 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 0.8,
+          "toleranceMin": 0.79,
+          "toleranceMax": 0.81,
+          "options": []
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 25 (GATE ECE 2014 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 26 (GATE ECE 2009)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 27 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 28 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 29 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "NAT",
+          "questionText": "Fundamentals of Information Theory - Question 30 (GATE ECE 1991)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 2.8,
+          "toleranceMin": 2.79,
+          "toleranceMax": 2.81,
+          "options": []
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 31 (GATE ECE 1990)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Fundamentals of Information Theory Questions",
+          "type": "MCQ",
+          "questionText": "Fundamentals of Information Theory - Question 32 (GATE ECE 1989)",
+          "imageUrl": "assets/gate_ec_topicwise_fundamentals_of_information_theory/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

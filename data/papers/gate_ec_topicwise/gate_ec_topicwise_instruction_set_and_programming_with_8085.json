@@ -1,0 +1,1079 @@
+{
+  "paperId": "gate_ec_topicwise_instruction_set_and_programming_with_8085",
+  "title": "GATE EC - Instruction Set and Programming with 8085 (Digital Circuits)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 102,
+  "totalMarks": 52.0,
+  "description": "Chapter-wise Previous Year Questions for Instruction Set and Programming with 8085 in Digital Circuits.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "Instruction Set and Programming with 8085 Questions",
+      "totalQuestions": 34,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "NAT",
+          "questionText": "Instruction Set and Programming with 8085 - Question 1 (GATE ECE 2020)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 14.0,
+          "toleranceMin": 13.99,
+          "toleranceMax": 14.01,
+          "options": []
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 2 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 3 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q3_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 4 (GATE ECE 2015 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q4_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 5 (GATE ECE 2015 Set 2)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q5_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 6 (GATE ECE 2015 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q6_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 7 (GATE ECE 2013)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q7_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 8 (GATE ECE 1998)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q8_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 9 (GATE ECE 1997)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q9_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 10 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q10_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 11 (GATE ECE 1996)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q11_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 12 (GATE ECE 1995)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q12_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 13 (GATE ECE 1993)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q13_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "NAT",
+          "questionText": "Instruction Set and Programming with 8085 - Question 14 (GATE ECE 1992)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q14_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 200.0,
+          "toleranceMin": 199.99,
+          "toleranceMax": 200.01,
+          "options": []
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 15 (GATE ECE 1989)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q15_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 16 (GATE ECE 1988)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q16_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 17 (GATE ECE 2021)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q17_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 18 (GATE ECE 2017 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q18_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 19 (GATE ECE 2016 Set 1)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q19_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 20 (GATE ECE 2014 Set 4)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q20_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 21 (GATE ECE 2011)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q21_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 22 (GATE ECE 2010)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q22_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 23 (GATE ECE 2008)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q23_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 24 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q24_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 25 (GATE ECE 2007)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q25_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 26 (GATE ECE 2006)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q26_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 27 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q27_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 28 (GATE ECE 2005)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q28_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 29 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q29_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 30 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q30_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "D",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 31 (GATE ECE 2004)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q31_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 32 (GATE ECE 2003)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q32_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 33 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q33_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "A",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "sectionId": "sec_topic",
+          "sectionName": "Instruction Set and Programming with 8085 Questions",
+          "type": "MCQ",
+          "questionText": "Instruction Set and Programming with 8085 - Question 34 (GATE ECE 2002)",
+          "imageUrl": "assets/gate_ec_topicwise_instruction_set_and_programming_with_8085/q34_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "B",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

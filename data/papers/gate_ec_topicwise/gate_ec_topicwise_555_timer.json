@@ -1,0 +1,104 @@
+{
+  "paperId": "gate_ec_topicwise_555_timer",
+  "title": "GATE EC - 555 Timer (Analog Circuits)",
+  "examType": "GATE",
+  "category": "Topic-wise",
+  "year": null,
+  "durationMinutes": 30,
+  "totalMarks": 4.0,
+  "description": "Chapter-wise Previous Year Questions for 555 Timer in Analog Circuits.",
+  "instructions": [
+    "Total duration of this topic-wise examination is specified on the timer.",
+    "The question palette on the right shows question status (Answered, Not Answered, Marked for Review).",
+    "Each question has whole-question graphics displaying problem statements, equations, and diagrams.",
+    "Standard GATE marking scheme applies: negative marks for wrong MCQs, no negative marks for MSQ / NAT."
+  ],
+  "sections": [
+    {
+      "sectionId": "sec_topic",
+      "sectionName": "555 Timer Questions",
+      "totalQuestions": 3,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "sectionId": "sec_topic",
+          "sectionName": "555 Timer Questions",
+          "type": "NAT",
+          "questionText": "555 Timer - Question 1 (GATE ECE 2016 Set 3)",
+          "imageUrl": "assets/gate_ec_topicwise_555_timer/q1_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.0,
+          "correctAnswer": 5.65,
+          "toleranceMin": 5.64,
+          "toleranceMax": 5.66,
+          "options": []
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "sectionId": "sec_topic",
+          "sectionName": "555 Timer Questions",
+          "type": "MCQ",
+          "questionText": "555 Timer - Question 2 (GATE ECE 2001)",
+          "imageUrl": "assets/gate_ec_topicwise_555_timer/q2_slice.png",
+          "positiveMarks": 1.0,
+          "negativeMarks": 0.33,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "sectionId": "sec_topic",
+          "sectionName": "555 Timer Questions",
+          "type": "MCQ",
+          "questionText": "555 Timer - Question 3 (GATE ECE 2022)",
+          "imageUrl": "assets/gate_ec_topicwise_555_timer/q3_slice.png",
+          "positiveMarks": 2.0,
+          "negativeMarks": 0.67,
+          "correctAnswer": "C",
+          "toleranceMin": null,
+          "toleranceMax": null,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option (A)"
+            },
+            {
+              "id": "B",
+              "text": "Option (B)"
+            },
+            {
+              "id": "C",
+              "text": "Option (C)"
+            },
+            {
+              "id": "D",
+              "text": "Option (D)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
