@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { ArrowLeft, CheckSquare, Square, ShieldCheck } from 'lucide-react';
 import type { ExamPaper, UserProfile, Question } from '../../types';
 import { getUserProfile } from '../../utils/storage';
+import { enterFullscreen } from '../../utils/fullscreen';
 
 interface InstructionsViewProps {
   paper: ExamPaper;
@@ -162,8 +163,11 @@ export const InstructionsView: React.FC<InstructionsViewProps> = ({
           </button>
 
           <button
-            onClick={() => {
-              if (agreed) onStartExam();
+            onClick={async () => {
+              if (agreed) {
+                await enterFullscreen();
+                onStartExam();
+              }
             }}
             disabled={!agreed}
             className={`flex items-center gap-2 px-8 py-3 rounded-lg font-bold text-sm shadow-md transition ${

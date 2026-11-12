@@ -1,14 +1,17 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import {
   Search,
   Filter,
   BarChart3,
   GraduationCap,
   ArrowLeft,
+  Maximize,
+  Minimize,
 } from 'lucide-react';
 import type { PaperIndexItem, UserProfile } from '../../types';
 import { PaperCard } from './PaperCard';
 import { getAllAttempts, getUserProfile } from '../../utils/storage';
+import { isFullscreen, toggleFullscreen, subscribeToFullscreen } from '../../utils/fullscreen';
 
 interface PaperInventoryProps {
   papers: PaperIndexItem[];
@@ -155,6 +158,13 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
   const [selectedStatus, setSelectedStatus] = useState<'ALL' | 'ATTEMPTED' | 'UNATTEMPTED'>('ALL');
   const [sortBy, setSortBy] = useState<'DEFAULT' | 'NAME' | 'QUESTIONS' | 'MARKS'>('DEFAULT');
   const [quickViewPaper, setQuickViewPaper] = useState<PaperIndexItem | null>(null);
+  const [isFs, setIsFs] = useState(() => isFullscreen());
+
+  useEffect(() => {
+    return subscribeToFullscreen((active) => {
+      setIsFs(active);
+    });
+  }, []);
 
   const [attemptsVersion, setAttemptsVersion] = useState(0);
   const profile: UserProfile = getUserProfile();
@@ -262,6 +272,15 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
 
           {/* User & Dashboard Actions */}
           <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+            <button
+              onClick={() => toggleFullscreen()}
+              className="flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 rounded-lg border border-slate-200 hover:bg-slate-50 text-slate-700 text-xs font-semibold transition shrink-0"
+              title={isFs ? 'Exit Full Screen' : 'Enter Full Screen'}
+            >
+              {isFs ? <Minimize size={15} className="text-amber-600" /> : <Maximize size={15} className="text-slate-600" />}
+              <span className="hidden md:inline">{isFs ? 'Exit Fullscreen' : 'Fullscreen'}</span>
+            </button>
+
             <button
               onClick={onOpenDashboard}
               className="flex items-center gap-1.5 sm:gap-2 px-2.5 py-1.5 sm:px-3.5 sm:py-1.5 rounded-lg border border-slate-200 hover:border-blue-400 bg-white hover:bg-blue-50/50 text-slate-700 text-xs font-semibold transition shrink-0"

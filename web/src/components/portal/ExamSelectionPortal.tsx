@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   GraduationCap,
   Stethoscope,
@@ -13,8 +13,11 @@ import {
   Calculator,
   Ban,
   Layers,
+  Maximize,
+  Minimize,
 } from 'lucide-react';
 import type { PaperIndexItem, UserProfile } from '../../types';
+import { isFullscreen, toggleFullscreen, subscribeToFullscreen } from '../../utils/fullscreen';
 
 interface ExamSelectionPortalProps {
   papers: PaperIndexItem[];
@@ -37,6 +40,14 @@ export const ExamSelectionPortal: React.FC<ExamSelectionPortalProps> = ({
     return et === 'NEET' || et === 'NEET UG';
   });
 
+  const [isFs, setIsFs] = useState(() => isFullscreen());
+
+  useEffect(() => {
+    return subscribeToFullscreen((active) => {
+      setIsFs(active);
+    });
+  }, []);
+
   return (
     <div className="min-h-screen bg-slate-100 flex flex-col font-sans">
       {/* 1. Global Navigation Bar */}
@@ -57,6 +68,15 @@ export const ExamSelectionPortal: React.FC<ExamSelectionPortalProps> = ({
           </div>
 
           <div className="flex items-center gap-2 sm:gap-3">
+            <button
+              onClick={() => toggleFullscreen()}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-slate-200 hover:bg-slate-50 transition text-slate-700 text-xs font-semibold"
+              title={isFs ? 'Exit Full Screen' : 'Enter Full Screen'}
+            >
+              {isFs ? <Minimize size={15} className="text-amber-600" /> : <Maximize size={15} className="text-slate-600" />}
+              <span className="hidden sm:inline">{isFs ? 'Exit Fullscreen' : 'Fullscreen'}</span>
+            </button>
+
             <button
               onClick={onOpenProfile}
               className="flex items-center gap-2 px-3 py-1.5 rounded-lg border border-slate-200 hover:bg-slate-50 transition text-slate-700 text-xs font-semibold"

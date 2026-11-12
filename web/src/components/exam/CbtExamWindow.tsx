@@ -10,10 +10,13 @@ import {
   AlertTriangle,
   X,
   LayoutGrid,
+  Maximize,
+  Minimize,
 } from 'lucide-react';
 import type { ExamPaper, Question, QuestionStatus, ExamResult } from '../../types';
 import { evaluateExam } from '../../utils/evaluator';
 import { saveAttempt, resolveImageUrl, getFallbackImageUrl, getUserProfile } from '../../utils/storage';
+import { isFullscreen, toggleFullscreen, exitFullscreen, subscribeToFullscreen } from '../../utils/fullscreen';
 import { GateCalculatorModal } from '../calculator/GateCalculatorModal';
 import { SubmitConfirmationModal } from '../modals/SubmitConfirmationModal';
 import { QuestionPaperModal } from '../modals/QuestionPaperModal';
@@ -72,6 +75,9 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
   const [showSubmitModal, setShowSubmitModal] = useState(false);
   const [zoomImage, setZoomImage] = useState<string | null>(null);
 
+  // Fullscreen state
+  const [fullscreenActive, setFullscreenActive] = useState<boolean>(() => isFullscreen());
+
   // Proctoring tab-switch state
   const [tabSwitchCount, setTabSwitchCount] = useState(0);
   const [showTabWarning, setShowTabWarning] = useState(false);
@@ -115,8 +121,16 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
     };
   }, [paper, answers, statuses]);
 
+  // Subscribe to fullscreen changes
+  useEffect(() => {
+    return subscribeToFullscreen((fs) => {
+      setFullscreenActive(fs);
+    });
+  }, []);
+
   // Perform Final Submission
   const handleFinalSubmit = useCallback(() => {
+    exitFullscreen().catch(() => {});
     const timeSpentSeconds = paper.durationMinutes * 60 - timeLeft;
     const evaluatedPaper = buildPaperWithResponses();
     const result = evaluateExam(
@@ -434,6 +448,26 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
             <span className="hidden md:inline text-xs ml-1 font-medium">Instructions</span>
           </button>
 
+          {/* Full Screen Mode Toggle Button */}
+          <button
+            onClick={() => toggleFullscreen()}
+            className={`p-1.5 sm:px-2.5 sm:py-1 rounded transition border shrink-0 flex items-center ${
+              fullscreenActive
+                ? 'bg-emerald-500/25 hover:bg-emerald-500/35 text-emerald-100 border-emerald-400/40'
+                : 'bg-white/10 hover:bg-white/20 text-white border-white/20'
+            }`}
+            title={fullscreenActive ? 'Exit Full Screen Mode (Esc)' : 'Enter Full Screen Exam Mode'}
+          >
+            {fullscreenActive ? (
+              <Minimize size={14} className="sm:w-[15px] sm:h-[15px]" />
+            ) : (
+              <Maximize size={14} className="sm:w-[15px] sm:h-[15px]" />
+            )}
+            <span className="hidden md:inline text-xs ml-1 font-medium">
+              {fullscreenActive ? 'Exit Fullscreen' : 'Fullscreen'}
+            </span>
+          </button>
+
           {/* Countdown Clock (Always 100% visible) */}
           <div
             className={`flex items-center gap-1 px-1.5 sm:px-2.5 py-1 rounded font-mono font-bold text-[11px] sm:text-xs shadow-xs shrink-0 whitespace-nowrap ${
@@ -457,6 +491,22 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
           </button>
         </div>
       </header>
+
+      {/* Fullscreen Mode Advisory Notification (if not in fullscreen) */}
+      {!fullscreenActive && (
+        <div className="bg-amber-400 text-slate-950 px-3 py-1.5 text-xs font-semibold flex items-center justify-between shrink-0 shadow-xs border-b border-amber-500 z-10">
+          <div className="flex items-center gap-1.5 truncate">
+            <AlertTriangle size={14} className="text-slate-950 shrink-0" />
+            <span className="truncate">CBT Mode Advisory: Enter Full Screen mode for the authentic distraction-free examination experience.</span>
+          </div>
+          <button
+            onClick={() => toggleFullscreen()}
+            className="ml-2 px-3 py-0.5 rounded bg-slate-950 hover:bg-black text-white text-[11px] font-bold transition shrink-0"
+          >
+            Enter Full Screen
+          </button>
+        </div>
+      )}
 
       {/* 2. Section Navigation Tabs Bar */}
       <nav className="bg-slate-200 border-b border-slate-300 px-2 sm:px-4 py-1 flex items-center justify-between shrink-0">
@@ -854,7 +904,10 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
               Submit Examination
             </button>
             <button
-              onClick={onExitExam}
+              onClick={() => {
+                exitFullscreen().catch(() => {});
+                onExitExam();
+              }}
               className="w-full py-1.5 text-xs text-rose-700 hover:underline text-center"
             >
               Exit to Inventory (Abandon Test)
