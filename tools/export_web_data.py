@@ -34,6 +34,18 @@ def export_data():
         if os.path.exists(src_chk):
             shutil.copy2(src_chk, os.path.join(DEST_ASSETS, chk))
 
+    # Ensure assets junction for NEET
+    neet_src_assets = os.path.join(SRC_PAPERS, "neet", "assets")
+    neet_dest_assets = os.path.join(DEST_PAPERS, "neet", "assets")
+    os.makedirs(os.path.dirname(neet_dest_assets), exist_ok=True)
+    if os.path.exists(neet_src_assets) and not os.path.exists(neet_dest_assets):
+        try:
+            import subprocess
+            subprocess.run(f'cmd /c mklink /J "{neet_dest_assets}" "{neet_src_assets}"', shell=True)
+            print(f"Created directory junction for NEET assets -> {neet_dest_assets}")
+        except Exception as e:
+            print(f"Notice on assets junction: {e}")
+
     # 2. Process all papers
     paper_files = sorted(glob.glob(os.path.join(SRC_PAPERS, "**", "*.json"), recursive=True))
     print(f"Processing {len(paper_files)} exam papers...")
@@ -68,10 +80,12 @@ def export_data():
         # Extract subject and chapter
         title = data.get("title", "")
         category = data.get("category", "Mock Paper")
-        chapter = "Full Length"
-        subject = "Electronics & Communication"
+        exam_type = data.get("examType", "GATE")
+        chapter = data.get("chapter", "Full Length")
+        subject = data.get("subject", "Electronics & Communication" if exam_type == "GATE" else "Biology")
+        is_oos = bool(data.get("isOutOfSyllabus") or data.get("is_out_of_syllabus", False))
 
-        if "topic" in category.lower():
+        if exam_type == "GATE" and "topic" in category.lower():
             m = re.search(r'GATE EC - (.+?)(?: \((.+?)\))?$', title)
             if m:
                 chapter = m.group(1).strip()
@@ -85,7 +99,7 @@ def export_data():
             "title": title,
             "category": category,
             "year": data.get("year"),
-            "examType": data.get("examType", "GATE"),
+            "examType": exam_type,
             "durationMinutes": int(data.get("durationMinutes", 180)),
             "totalMarks": float(data.get("totalMarks", 100)),
             "totalQuestions": total_q,
@@ -93,7 +107,8 @@ def export_data():
             "subject": subject,
             "sectionsCount": len(data.get("sections", [])),
             "description": data.get("description", ""),
-            "jsonPath": f"data/papers/{rel_path}"
+            "jsonPath": f"data/papers/{rel_path}",
+            "isOutOfSyllabus": is_oos
         })
 
     # Sort index: Full Length by year desc, Topic-wise by title asc

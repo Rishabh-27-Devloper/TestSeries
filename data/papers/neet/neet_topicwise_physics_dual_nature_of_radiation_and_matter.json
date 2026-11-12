@@ -1,0 +1,3969 @@
+{
+  "paperId": "neet_topicwise_physics_dual_nature_of_radiation_and_matter",
+  "title": "NEET - Dual Nature of Radiation and Matter (Physics)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 123,
+  "totalMarks": 492.0,
+  "totalQuestions": 123,
+  "isOutOfSyllabus": false,
+  "is_out_of_syllabus": false,
+  "hasOutOfSyllabusQuestions": false,
+  "outOfSyllabusCount": 0,
+  "subject": "Physics",
+  "chapter": "Dual Nature of Radiation and Matter",
+  "description": "NEET UG NEET - Dual Nature of Radiation and Matter (Physics) - 123 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "physics",
+      "sectionName": "Physics",
+      "totalQuestions": 123,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 1 (RE-NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 2 (RE-NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 3 (RE-NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 4 (NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 5 (NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 6 (NEET 2025)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 7 (NEET 2025)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 8 (NEET 2025)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 9 (NEET 2024 (Re-Examination))",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 10 (NEET 2024 (Re-Examination))",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 11 (NEET 2024)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 12 (NEET 2024)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 13 (NEET 2023 Manipur)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 14 (NEET 2023 Manipur)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 15 (NEET 2023)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 16 (NEET 2023)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 17 (NEET 2022 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 18 (NEET 2022 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 19 (NEET 2022 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q19_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 20 (NEET 2021)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q20_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 21 (NEET 2021)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q21_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 22 (NEET 2020 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q22_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 23 (NEET 2020 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q23_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 24 (NEET 2020 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q24_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 25 (NEET 2020 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q25_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 26 (NEET 2019 (Odisha))",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q26_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 27 (NEET 2019 (Odisha))",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q27_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 28 (NEET 2019)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q28_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 29 (NEET 2018)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q29_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 30 (NEET 2018)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q30_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 31 (NEET 2017)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q31_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 32 (NEET 2016 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q32_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 33 (NEET 2016 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q33_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 34 (NEET 2016 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q34_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 35 (NEET 2016 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q35_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 36 (AIPMT 2015)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q36_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 37 (AIPMT 2015)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q37_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 38 (AIPMT 2015 Cancelled Paper)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q38_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 39 (AIPMT 2015 Cancelled Paper)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q39_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 40 (AIPMT 2014)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q40_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 41 (AIPMT 2014)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q41_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 42 (NEET 2013 (Karnataka))",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q42_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 43 (NEET 2013 (Karnataka))",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q43_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 44 (NEET 2013)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q44_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 45 (NEET 2013)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q45_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 46 (NEET 2013)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q46_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 47 (AIPMT 2012 Mains)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q47_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 48 (AIPMT 2012 Mains)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q48_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 49 (AIPMT 2012 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q49_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 50 (AIPMT 2012 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q50_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 51 (AIPMT 2012 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q51_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 52 (AIPMT 2011 Mains)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q52_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 53 (AIPMT 2011 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q53_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 54 (AIPMT 2011 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q54_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 55 (AIPMT 2011 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q55_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 56 (AIPMT 2011 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q56_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 57 (AIPMT 2010 Mains)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q57_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 58 (AIPMT 2010 Mains)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q58_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 59 (AIPMT 2010 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q59_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 60 (AIPMT 2010 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q60_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 61 (AIPMT 2010 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q61_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 62 (AIPMT 2009)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q62_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 63 (AIPMT 2009)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q63_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 64 (AIPMT 2009)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q64_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 65,
+          "questionNumber": 65,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 65 (AIPMT 2008)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q65_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 66,
+          "questionNumber": 66,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 66 (AIPMT 2008)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q66_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 67,
+          "questionNumber": 67,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 67 (AIPMT 2008)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q67_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 68,
+          "questionNumber": 68,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 68 (AIPMT 2007)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q68_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 69,
+          "questionNumber": 69,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 69 (AIPMT 2007)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q69_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 70,
+          "questionNumber": 70,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 70 (AIPMT 2007)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q70_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 71,
+          "questionNumber": 71,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 71 (AIPMT 2006)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q71_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 72,
+          "questionNumber": 72,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 72 (AIPMT 2006)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q72_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 73,
+          "questionNumber": 73,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 73 (AIPMT 2006)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q73_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 74,
+          "questionNumber": 74,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 74 (AIPMT 2006)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q74_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 75,
+          "questionNumber": 75,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 75 (AIPMT 2005)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q75_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 76,
+          "questionNumber": 76,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 76 (AIPMT 2005)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q76_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 77,
+          "questionNumber": 77,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 77 (AIPMT 2004)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q77_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 78,
+          "questionNumber": 78,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 78 (AIPMT 2003)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q78_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 79,
+          "questionNumber": 79,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 79 (AIPMT 2003)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q79_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 80,
+          "questionNumber": 80,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 80 (AIPMT 2002)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q80_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 81,
+          "questionNumber": 81,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 81 (AIPMT 2002)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q81_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 82,
+          "questionNumber": 82,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 82 (AIPMT 2002)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q82_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 83,
+          "questionNumber": 83,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 83 (AIPMT 2002)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q83_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 84,
+          "questionNumber": 84,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 84 (AIPMT 2001)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q84_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 85,
+          "questionNumber": 85,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 85 (AIPMT 2001)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q85_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 86,
+          "questionNumber": 86,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 86 (AIPMT 2001)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q86_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 87,
+          "questionNumber": 87,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 87 (AIPMT 2000)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q87_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 88,
+          "questionNumber": 88,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 88 (AIPMT 2000)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q88_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 89,
+          "questionNumber": 89,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 89 (AIPMT 1999)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q89_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 90,
+          "questionNumber": 90,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 90 (AIPMT 1999)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q90_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 91,
+          "questionNumber": 91,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 91 (AIPMT 1998)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q91_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 92,
+          "questionNumber": 92,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 92 (AIPMT 1998)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q92_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 93,
+          "questionNumber": 93,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 93 (AIPMT 1998)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q93_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 94,
+          "questionNumber": 94,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 94 (AIPMT 1997)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q94_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 95,
+          "questionNumber": 95,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 95 (AIPMT 1997)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q95_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 96,
+          "questionNumber": 96,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 96 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q96_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 97,
+          "questionNumber": 97,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 97 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q97_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 98,
+          "questionNumber": 98,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 98 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q98_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 99,
+          "questionNumber": 99,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 99 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q99_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 100,
+          "questionNumber": 100,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 100 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q100_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 101,
+          "questionNumber": 101,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 101 (AIPMT 1995)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q101_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 102,
+          "questionNumber": 102,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 102 (AIPMT 1995)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q102_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 103,
+          "questionNumber": 103,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 103 (AIPMT 1993)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q103_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 104,
+          "questionNumber": 104,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 104 (AIPMT 1993)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q104_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 105,
+          "questionNumber": 105,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 105 (AIPMT 1993)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q105_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 106,
+          "questionNumber": 106,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 106 (AIPMT 1992)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q106_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 107,
+          "questionNumber": 107,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 107 (AIPMT 1991)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q107_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 108,
+          "questionNumber": 108,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 108 (AIPMT 1991)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q108_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 109,
+          "questionNumber": 109,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 109 (AIPMT 1990)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q109_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 110,
+          "questionNumber": 110,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 110 (AIPMT 1990)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q110_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 111,
+          "questionNumber": 111,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 111 (AIPMT 1990)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q111_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 112,
+          "questionNumber": 112,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 112 (AIPMT 1989)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q112_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 113,
+          "questionNumber": 113,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 113 (AIPMT 1989)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q113_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 114,
+          "questionNumber": 114,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 114 (AIPMT 1988)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q114_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 115,
+          "questionNumber": 115,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 115 (AIPMT 1988)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q115_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 116,
+          "questionNumber": 116,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 116 (AIPMT 1988)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q116_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 117,
+          "questionNumber": 117,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 117 (NEET 2017)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q117_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A, D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 118,
+          "questionNumber": 118,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 118 (NEET 2022 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q118_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 119,
+          "questionNumber": 119,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 119 (NEET 2020 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q119_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 120,
+          "questionNumber": 120,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 120 (AIPMT 2011 Prelims)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q120_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 121,
+          "questionNumber": 121,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 121 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q121_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 122,
+          "questionNumber": 122,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 122 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q122_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 123,
+          "questionNumber": 123,
+          "type": "MCQ",
+          "sectionId": "physics",
+          "sectionName": "Physics",
+          "questionText": "Question 123 (AIPMT 1991)",
+          "imageUrl": "assets/neet_topicwise_physics_dual_nature_of_radiation_and_matter/q123_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        }
+      ]
+    }
+  ]
+}

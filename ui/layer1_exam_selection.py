@@ -30,6 +30,7 @@ class ExamCard(QFrame):
         features: List[str],
         paper_count: int,
         is_active: bool = True,
+        chips: Optional[List[tuple]] = None,
         parent=None
     ):
         super().__init__(parent)
@@ -37,6 +38,7 @@ class ExamCard(QFrame):
         self.title = title
         self.color_theme = color_theme
         self.is_active = is_active
+        self.chips = chips
         self.setObjectName("examPortalCard")
 
         # Constrain dimensions so the card does not take up all horizontal/vertical space
@@ -86,15 +88,21 @@ class ExamCard(QFrame):
         # Quick Overview Chips
         chips_h = QHBoxLayout()
         chips_h.setSpacing(8)
-        c1 = QLabel("⏱ 31 Full-Length PYQs")
-        c1.setStyleSheet("background-color: #f1f5f9; color: #1e3a8a; font-weight: 600; font-size: 11px; padding: 3px 8px; border-radius: 4px;")
-        c2 = QLabel("📑 72 Topic-Wise Tests")
-        c2.setStyleSheet("background-color: #f1f5f9; color: #0284c7; font-weight: 600; font-size: 11px; padding: 3px 8px; border-radius: 4px;")
-        c3 = QLabel("🎯 4,780+ Questions")
-        c3.setStyleSheet("background-color: #f1f5f9; color: #15803d; font-weight: 600; font-size: 11px; padding: 3px 8px; border-radius: 4px;")
-        chips_h.addWidget(c1)
-        chips_h.addWidget(c2)
-        chips_h.addWidget(c3)
+        if self.chips:
+            for chip_text, text_col, bg_col in self.chips:
+                c = QLabel(chip_text)
+                c.setStyleSheet(f"background-color: {bg_col}; color: {text_col}; font-weight: 600; font-size: 11px; padding: 3px 8px; border-radius: 4px;")
+                chips_h.addWidget(c)
+        else:
+            c1 = QLabel("⏱ 31 Full-Length PYQs")
+            c1.setStyleSheet("background-color: #f1f5f9; color: #1e3a8a; font-weight: 600; font-size: 11px; padding: 3px 8px; border-radius: 4px;")
+            c2 = QLabel("📑 72 Topic-Wise Tests")
+            c2.setStyleSheet("background-color: #f1f5f9; color: #0284c7; font-weight: 600; font-size: 11px; padding: 3px 8px; border-radius: 4px;")
+            c3 = QLabel("🎯 4,780+ Questions")
+            c3.setStyleSheet("background-color: #f1f5f9; color: #15803d; font-weight: 600; font-size: 11px; padding: 3px 8px; border-radius: 4px;")
+            chips_h.addWidget(c1)
+            chips_h.addWidget(c2)
+            chips_h.addWidget(c3)
         chips_h.addStretch()
         layout.addLayout(chips_h)
 
@@ -178,9 +186,9 @@ class ExamSelectionWindow(QWidget):
         b_layout.setContentsMargins(20, 16, 20, 16)
 
         left_v = QVBoxLayout()
-        logo_lbl = QLabel("<h1>GATE CBT Examination Simulator</h1>")
+        logo_lbl = QLabel("<h1>CBT Examination Simulator</h1>")
         logo_lbl.setStyleSheet("color: #1e3a8a; margin: 0;")
-        sub_lbl = QLabel("High-Fidelity Offline Computer Based Test (CBT) System for GATE Electronics & Communication (ECE)")
+        sub_lbl = QLabel("High-Fidelity Offline Computer Based Test (CBT) Simulator for GATE EC & NEET UG Medical Entrance")
         sub_lbl.setStyleSheet("color: #475569; font-size: 13px;")
         
         status_row = QHBoxLayout()
@@ -289,6 +297,7 @@ class ExamSelectionWindow(QWidget):
         # Count available papers
         all_papers = self.storage_manager.load_all_papers()
         gate_cnt = sum(1 for p in all_papers if p.exam_type.upper() == "GATE")
+        neet_cnt = sum(1 for p in all_papers if p.exam_type.upper() in ("NEET", "NEET UG"))
 
         exams_config = [
             {
@@ -297,6 +306,11 @@ class ExamSelectionWindow(QWidget):
                 "subtitle": "Official Previous Year Papers (PYQ 2000–2026) and 72 Topic-wise Chapter Tests with full formulas, diagrams, calculator, and evaluation.",
                 "badge": "★ PRIMARY & ACTIVE",
                 "color": "#1a56a5",
+                "chips": [
+                    ("⏱ 31 Full-Length PYQs", "#1e3a8a", "#f1f5f9"),
+                    ("📑 72 Topic-Wise Tests", "#0284c7", "#f1f5f9"),
+                    ("🎯 4,780+ Questions", "#15803d", "#f1f5f9")
+                ],
                 "features": [
                     "Official GATE TCS iON Scientific Virtual Calculator",
                     "MCQ (+1/-0.33, +2/-0.67), MSQ (No neg), NAT (Virtual Keypad)",
@@ -305,6 +319,28 @@ class ExamSelectionWindow(QWidget):
                     "100% Offline Mode with Strict Fullscreen Proctoring"
                 ],
                 "count": gate_cnt
+            },
+            {
+                "id": "NEET",
+                "title": "NEET UG (National Eligibility cum Entrance Test)",
+                "subtitle": "Official PYQs (AIPMT 1988–2015 & NEET 2013–2026) and 95 Topic-wise Physics, Chemistry, and Biology modules with official +4/-1 grading.",
+                "badge": "★ NEW CBT SIMULATOR",
+                "color": "#0d9488",
+                "chips": [
+                    ("⏱ 51 Full-Length PYQs", "#042f2e", "#ccfbf1"),
+                    ("📑 95 Topic-Wise Tests", "#0f766e", "#f0fdfa"),
+                    ("🎯 18,870+ Questions", "#15803d", "#f0fdf4"),
+                    ("⚠️ 15 Out-of-Syllabus Tagged", "#b45309", "#fef3c7")
+                ],
+                "features": [
+                    "Official NTA NEET CBT Exam Simulation Mode",
+                    "Standard NEET +4 / -1 Marking Scheme (+4 Correct, -1 Incorrect, 0 Unattempted)",
+                    "146 Total Papers: 51 Full-Length & 95 Topic-Wise Modules",
+                    "15 Out-of-Syllabus Chapters clearly flagged and segregated for practice",
+                    "Physics, Chemistry, Botany, and Zoology sections with full high-resolution diagrams",
+                    "Complete local offline attempts tracking and comprehensive review"
+                ],
+                "count": neet_cnt
             }
         ]
 
@@ -316,10 +352,11 @@ class ExamSelectionWindow(QWidget):
                 badge_text=conf["badge"],
                 color_theme=conf["color"],
                 features=conf["features"],
-                paper_count=conf["count"]
+                paper_count=conf["count"],
+                chips=conf.get("chips")
             )
             card.selected.connect(self.exam_selected.emit)
-            self.grid_layout.addWidget(card, 0, 0, Qt.AlignmentFlag.AlignHCenter | Qt.AlignmentFlag.AlignTop)
+            self.grid_layout.addWidget(card, 0, i, Qt.AlignmentFlag.AlignHCenter | Qt.AlignmentFlag.AlignTop)
 
     def set_candidate_profile(self, name: str, roll: str, phone: str = ""):
         self.student_name = name

@@ -160,6 +160,20 @@ class QuestionDisplayWidget(QWidget):
 
         mb_layout.addWidget(self.lbl_q_num)
         mb_layout.addWidget(self.lbl_q_type)
+
+        self.lbl_oos = QLabel("⚠️ Out of Syllabus")
+        self.lbl_oos.setStyleSheet("""
+            background-color: #fef3c7;
+            color: #92400e;
+            font-size: 11px;
+            font-weight: bold;
+            padding: 2px 8px;
+            border-radius: 4px;
+            border: 1px solid #fde68a;
+        """)
+        self.lbl_oos.setVisible(False)
+        mb_layout.addWidget(self.lbl_oos)
+
         mb_layout.addStretch()
         mb_layout.addWidget(self.lbl_marks)
         main_layout.addWidget(meta_bar)
@@ -271,6 +285,9 @@ class QuestionDisplayWidget(QWidget):
         pos_txt = f"+{question.positive_marks}"
         neg_txt = f"-{question.negative_marks}" if question.negative_marks > 0 else "0 (No negative marking)"
         self.lbl_marks.setText(f"Marks: {pos_txt}  |  Negative: {neg_txt}")
+
+        is_oos = getattr(question, "is_out_of_syllabus", False)
+        self.lbl_oos.setVisible(bool(is_oos))
 
         # 2. Update Question Text
         formatted_text = question.question_text.replace("\n", "<br>")

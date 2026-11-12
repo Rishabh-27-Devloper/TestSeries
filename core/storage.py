@@ -55,6 +55,9 @@ class StorageManager:
         year = data.get("year")
         description = data.get("description", "")
         instructions = data.get("instructions", [])
+        is_oos_paper = bool(data.get("isOutOfSyllabus") or data.get("is_out_of_syllabus", False))
+        subject = data.get("subject")
+        chapter = data.get("chapter")
         
         raw_sections = data.get("sections", [])
         sections: List[Section] = []
@@ -100,6 +103,7 @@ class StorageManager:
                 tol_min = q_data.get("toleranceMin")
                 tol_max = q_data.get("toleranceMax")
                 explanation = q_data.get("explanation", "")
+                q_oos = bool(q_data.get("isOutOfSyllabus") or q_data.get("is_out_of_syllabus", False) or is_oos_paper)
                 
                 # Options for MCQ/MSQ
                 options: List[Option] = []
@@ -142,7 +146,8 @@ class StorageManager:
                     tolerance_min=tol_min,
                     tolerance_max=tol_max,
                     explanation=explanation,
-                    status=QuestionStatus.NOT_VISITED
+                    status=QuestionStatus.NOT_VISITED,
+                    is_out_of_syllabus=q_oos
                 )
                 questions.append(question)
                 global_q_num += 1
@@ -164,7 +169,10 @@ class StorageManager:
             year=year,
             description=description,
             sections=sections,
-            instructions=instructions
+            instructions=instructions,
+            is_out_of_syllabus=is_oos_paper,
+            subject=subject,
+            chapter=chapter
         )
 
     def save_attempt(self, result: ExamResult) -> str:
@@ -210,7 +218,8 @@ class StorageManager:
                     "timeSpent": ev.time_spent,
                     "explanation": ev.explanation,
                     "imageUrl": ev.image_url,
-                    "questionText": ev.question_text
+                    "questionText": ev.question_text,
+                    "isOutOfSyllabus": ev.is_out_of_syllabus
                 }
                 for ev in result.evaluations
             ]
@@ -306,7 +315,8 @@ class StorageManager:
                     time_spent=int(ev_d.get("timeSpent", 0)),
                     explanation=ev_d.get("explanation"),
                     image_url=ev_d.get("imageUrl"),
-                    question_text=ev_d.get("questionText")
+                    question_text=ev_d.get("questionText"),
+                    is_out_of_syllabus=bool(ev_d.get("isOutOfSyllabus", False))
                 ))
 
             return ExamResult(

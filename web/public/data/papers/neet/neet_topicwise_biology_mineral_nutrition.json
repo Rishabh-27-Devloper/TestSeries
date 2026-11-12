@@ -1,0 +1,2017 @@
+{
+  "paperId": "neet_topicwise_biology_mineral_nutrition",
+  "title": "NEET - Mineral Nutrition (Biology)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 62,
+  "totalMarks": 248.0,
+  "totalQuestions": 62,
+  "isOutOfSyllabus": true,
+  "is_out_of_syllabus": true,
+  "hasOutOfSyllabusQuestions": true,
+  "outOfSyllabusCount": 62,
+  "subject": "Biology",
+  "chapter": "Mineral Nutrition",
+  "description": "NEET UG NEET - Mineral Nutrition (Biology) - 62 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "botany",
+      "sectionName": "Botany",
+      "totalQuestions": 62,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 1 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 2 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 3 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 4 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 5 (NEET 2022 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 6 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 7 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 8 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 9 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 10 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 11 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 12 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 13 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 14 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 15 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 16 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 17 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 18 (AIPMT 2015)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 19 (AIPMT 2015)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q19_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 20 (AIPMT 2015 Cancelled Paper)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q20_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 21 (AIPMT 2014)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q21_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 22 (NEET 2013 (Karnataka))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q22_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 23 (NEET 2013 (Karnataka))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q23_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 24 (NEET 2013)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q24_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 25 (AIPMT 2012 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q25_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 26 (AIPMT 2012 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q26_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 27 (AIPMT 2012 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q27_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 28 (AIPMT 2011 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q28_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 29 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q29_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 30 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q30_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 31 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q31_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 32 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q32_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 33 (AIPMT 2010 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q33_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 34 (AIPMT 2010 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q34_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 35 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q35_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 36 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q36_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 37 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q37_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 38 (AIPMT 2007)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q38_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 39 (AIPMT 2007)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q39_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 40 (AIPMT 2006)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q40_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 41 (AIPMT 2005)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q41_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 42 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q42_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 43 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q43_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 44 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q44_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 45 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q45_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 46 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q46_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 47 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q47_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 48 (AIPMT 2002)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q48_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 49 (AIPMT 2001)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q49_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 50 (AIPMT 2001)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q50_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 51 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q51_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 52 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q52_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 53 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q53_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 54 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q54_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 55 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q55_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 56 (AIPMT 1995)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q56_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 57 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q57_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 58 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q58_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 59 (AIPMT 1992)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q59_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 60 (AIPMT 1991)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q60_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 61 (AIPMT 1989)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q61_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "type": "MCQ",
+          "sectionId": "botany",
+          "sectionName": "Botany",
+          "questionText": "Question 62 (AIPMT 1989)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_mineral_nutrition/q62_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        }
+      ]
+    }
+  ]
+}

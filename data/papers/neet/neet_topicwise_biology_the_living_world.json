@@ -1,0 +1,1441 @@
+{
+  "paperId": "neet_topicwise_biology_the_living_world",
+  "title": "NEET - The Living World (Biology)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 44,
+  "totalMarks": 176.0,
+  "totalQuestions": 44,
+  "isOutOfSyllabus": false,
+  "is_out_of_syllabus": false,
+  "hasOutOfSyllabusQuestions": false,
+  "outOfSyllabusCount": 0,
+  "subject": "Biology",
+  "chapter": "The Living World",
+  "description": "NEET UG NEET - The Living World (Biology) - 44 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "biology",
+      "sectionName": "Biology",
+      "totalQuestions": 44,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 1 (RE-NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 2 (RE-NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 3 (RE-NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 4 (NEET 2026)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 5 (NEET 2023 Manipur)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 6 (NEET 2023 Manipur)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 7 (NEET 2022 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 8 (NEET 2021)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 9 (NEET 2019 (Odisha))",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 10 (NEET 2019)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 11 (NEET 2017)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 12 (NEET 2016 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 13 (NEET 2016 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 14 (NEET 2016 Phase 1)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 15 (NEET 2013 (Karnataka))",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 16 (AIPMT 2012 Mains)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 17 (AIPMT 2011 Mains)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 18 (AIPMT 2011 Prelims)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 19 (AIPMT 2007)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q19_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 20 (AIPMT 2007)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q20_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 21 (AIPMT 2007)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q21_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 22 (AIPMT 2005)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q22_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 23 (AIPMT 2003)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q23_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 24 (AIPMT 2003)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q24_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 25 (AIPMT 2003)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q25_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 26 (AIPMT 2001)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q26_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 27 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q27_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 28 (AIPMT 1993)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q28_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 29 (AIPMT 1993)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q29_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 30 (AIPMT 1992)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q30_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 31 (AIPMT 1992)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q31_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 32 (AIPMT 1992)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q32_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 33 (AIPMT 1992)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q33_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 34 (AIPMT 1991)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q34_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 35 (AIPMT 1990)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q35_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 36 (AIPMT 1990)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q36_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 37 (AIPMT 1990)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q37_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 38 (AIPMT 1988)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q38_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 39 (AIPMT 1988)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q39_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 40 (NEET 2022 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q40_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 41 (NEET 2019 (Odisha))",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q41_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 42 (NEET 2018)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q42_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 43 (NEET 2016 Phase 2)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q43_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 44 (NEET 2013)",
+          "imageUrl": "assets/neet_topicwise_biology_the_living_world/q44_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        }
+      ]
+    }
+  ]
+}

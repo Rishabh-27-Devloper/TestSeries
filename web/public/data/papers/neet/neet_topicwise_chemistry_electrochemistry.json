@@ -1,0 +1,2945 @@
+{
+  "paperId": "neet_topicwise_chemistry_electrochemistry",
+  "title": "NEET - Electrochemistry (Chemistry)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 91,
+  "totalMarks": 364.0,
+  "totalQuestions": 91,
+  "isOutOfSyllabus": false,
+  "is_out_of_syllabus": false,
+  "hasOutOfSyllabusQuestions": false,
+  "outOfSyllabusCount": 0,
+  "subject": "Chemistry",
+  "chapter": "Electrochemistry",
+  "description": "NEET UG NEET - Electrochemistry (Chemistry) - 91 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "chemistry",
+      "sectionName": "Chemistry",
+      "totalQuestions": 91,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 1 (RE-NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 2 (RE-NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 3 (NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 4 (NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 5 (NEET 2025)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 6 (NEET 2024 (Re-Examination))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 7 (NEET 2024 (Re-Examination))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 8 (NEET 2024)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 9 (NEET 2024)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 10 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 11 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 12 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 13 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 14 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 15 (NEET 2022 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 16 (NEET 2022 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 17 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 18 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 19 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q19_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 20 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q20_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 21 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q21_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 22 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q22_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 23 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q23_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 24 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q24_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 25 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q25_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 26 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q26_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 27 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q27_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 28 (NEET 2019)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q28_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 29 (NEET 2019)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q29_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 30 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q30_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 31 (NEET 2017)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q31_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 32 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q32_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 33 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q33_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 34 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q34_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 35 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q35_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 36 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q36_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 37 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q37_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 38 (AIPMT 2015)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q38_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 39 (AIPMT 2015 Cancelled Paper)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q39_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 40 (AIPMT 2014)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q40_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 41 (AIPMT 2014)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q41_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 42 (NEET 2013 (Karnataka))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q42_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 43 (NEET 2013 (Karnataka))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q43_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 44 (NEET 2013)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q44_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 45 (NEET 2013)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q45_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 46 (NEET 2013)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q46_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 47 (AIPMT 2012 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q47_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 48 (AIPMT 2012 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q48_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 49 (AIPMT 2012 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q49_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 50 (AIPMT 2012 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q50_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 51 (AIPMT 2011 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q51_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 52 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q52_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 53 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q53_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 54 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q54_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 55 (AIPMT 2010 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q55_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 56 (AIPMT 2010 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q56_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 57 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q57_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 58 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q58_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 59 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q59_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 60 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q60_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 61 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q61_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 62 (AIPMT 2008)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q62_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 63 (AIPMT 2008)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q63_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 64 (AIPMT 2008)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q64_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 65,
+          "questionNumber": 65,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 65 (AIPMT 2007)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q65_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 66,
+          "questionNumber": 66,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 66 (AIPMT 2007)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q66_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 67,
+          "questionNumber": 67,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 67 (AIPMT 2006)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q67_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 68,
+          "questionNumber": 68,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 68 (AIPMT 2006)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q68_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 69,
+          "questionNumber": 69,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 69 (AIPMT 2005)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q69_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 70,
+          "questionNumber": 70,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 70 (AIPMT 2005)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q70_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 71,
+          "questionNumber": 71,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 71 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q71_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 72,
+          "questionNumber": 72,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 72 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q72_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 73,
+          "questionNumber": 73,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 73 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q73_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 74,
+          "questionNumber": 74,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 74 (AIPMT 2002)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q74_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 75,
+          "questionNumber": 75,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 75 (AIPMT 2002)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q75_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 76,
+          "questionNumber": 76,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 76 (AIPMT 2001)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q76_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 77,
+          "questionNumber": 77,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 77 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q77_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 78,
+          "questionNumber": 78,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 78 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q78_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 79,
+          "questionNumber": 79,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 79 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q79_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 80,
+          "questionNumber": 80,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 80 (AIPMT 1999)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q80_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 81,
+          "questionNumber": 81,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 81 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q81_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 82,
+          "questionNumber": 82,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 82 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q82_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 83,
+          "questionNumber": 83,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 83 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q83_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 84,
+          "questionNumber": 84,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 84 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q84_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 85,
+          "questionNumber": 85,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 85 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q85_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 86,
+          "questionNumber": 86,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 86 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q86_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 87,
+          "questionNumber": 87,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 87 (AIPMT 1995)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q87_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 88,
+          "questionNumber": 88,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 88 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q88_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 89,
+          "questionNumber": 89,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 89 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q89_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 90,
+          "questionNumber": 90,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 90 (AIPMT 1993)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q90_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 91,
+          "questionNumber": 91,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 91 (AIPMT 1992)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_electrochemistry/q91_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        }
+      ]
+    }
+  ]
+}

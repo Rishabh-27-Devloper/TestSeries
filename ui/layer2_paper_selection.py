@@ -67,6 +67,20 @@ class PaperCard(QFrame):
             att_badge.setObjectName("badgeNotAttempted")
         top_row.addWidget(att_badge)
 
+        # Out of syllabus badge
+        if getattr(self.paper, "is_out_of_syllabus", False):
+            oos_badge = QLabel("⚠️ OUT OF SYLLABUS")
+            oos_badge.setStyleSheet("""
+                background-color: #fef3c7;
+                color: #92400e;
+                font-size: 10px;
+                font-weight: bold;
+                padding: 2px 7px;
+                border-radius: 4px;
+                border: 1px solid #fde68a;
+            """)
+            top_row.addWidget(oos_badge)
+
         top_row.addStretch()
 
         type_lbl = QLabel(f"Exam: <b>{self.paper.exam_type}</b>")
@@ -480,36 +494,68 @@ class PaperSelectionWindow(QWidget):
         self.chapter_filter.blockSignals(True)
         self.chapter_filter.clear()
 
-        # Core GATE EC Subjects first
-        core_subjects = [
-            "All Chapters / Subjects",
-            "Digital Circuits",
-            "Communications",
-            "Signals & Systems",
-            "Control Systems",
-            "Networks",
-            "Electronic Devices",
-            "Analog Circuits",
-            "Electromagnetics",
-            "Engineering Mathematics",
-            "General Aptitude"
-        ]
-        self.chapter_filter.addItems(core_subjects)
+        is_neet = self.exam_type.upper() in ("NEET", "NEET UG")
 
-        # Extract distinct chapters from topic-wise papers
-        chapters = set()
-        for p in self.all_papers:
-            if "topic" in p.category.lower():
-                m = re.search(r'GATE EC - (.+?)(?: \((.+?)\))?$', p.title)
-                if m:
-                    ch_name = m.group(1).strip()
-                    if ch_name:
-                        chapters.add(ch_name)
+        if is_neet:
+            core_subjects = [
+                "All Chapters / Subjects",
+                "⚠️ Out of Syllabus Chapters (15 Tests)",
+                "Physics",
+                "Chemistry",
+                "Biology",
+                "Botany",
+                "Zoology",
+                "Physical Chemistry",
+                "Inorganic Chemistry",
+                "Organic Chemistry"
+            ]
+            self.chapter_filter.addItems(core_subjects)
 
-        if chapters:
-            self.chapter_filter.addItem("─── Specific Topic Chapters ───")
-            for ch in sorted(chapters):
-                self.chapter_filter.addItem(ch)
+            # Extract distinct chapters from topic-wise papers
+            chapters = set()
+            for p in self.all_papers:
+                if getattr(p, "chapter", None) and p.chapter != "Full Length PYQ":
+                    chapters.add(p.chapter)
+                elif "topic" in p.category.lower():
+                    m = re.search(r'NEET - (.+?)(?: \((.+?)\))?$', p.title)
+                    if m:
+                        chapters.add(m.group(1).strip())
+
+            if chapters:
+                self.chapter_filter.addItem("─── Specific Topic Chapters ───")
+                for ch in sorted(chapters):
+                    self.chapter_filter.addItem(ch)
+        else:
+            # Core GATE EC Subjects
+            core_subjects = [
+                "All Chapters / Subjects",
+                "Digital Circuits",
+                "Communications",
+                "Signals & Systems",
+                "Control Systems",
+                "Networks",
+                "Electronic Devices",
+                "Analog Circuits",
+                "Electromagnetics",
+                "Engineering Mathematics",
+                "General Aptitude"
+            ]
+            self.chapter_filter.addItems(core_subjects)
+
+            # Extract distinct chapters from topic-wise papers
+            chapters = set()
+            for p in self.all_papers:
+                if "topic" in p.category.lower():
+                    m = re.search(r'GATE EC - (.+?)(?: \((.+?)\))?$', p.title)
+                    if m:
+                        ch_name = m.group(1).strip()
+                        if ch_name:
+                            chapters.add(ch_name)
+
+            if chapters:
+                self.chapter_filter.addItem("─── Specific Topic Chapters ───")
+                for ch in sorted(chapters):
+                    self.chapter_filter.addItem(ch)
 
         # Restore previous selection if still valid
         idx = self.chapter_filter.findText(current_selection)
@@ -521,12 +567,25 @@ class PaperSelectionWindow(QWidget):
         self.chapter_filter.blockSignals(False)
 
     def _matches_chapter_filter(self, paper: ExamPaper, ch_filter: str) -> bool:
+        if ch_filter.startswith("───"):
+            return True
+
+        if "out of syllabus" in ch_filter.lower():
+            return bool(getattr(paper, "is_out_of_syllabus", False))
+
         q = ch_filter.lower().strip()
         p_title = paper.title.lower()
         p_desc = (paper.description or "").lower()
+        p_sub = (getattr(paper, "subject", "") or "").lower()
+        p_ch = (getattr(paper, "chapter", "") or "").lower()
 
-        if q in p_title or q in p_desc:
+        if q in p_title or q in p_desc or q in p_sub or q in p_ch:
             return True
+
+        # Check section names
+        for sec in paper.sections:
+            if q in sec.section_name.lower():
+                return True
 
         # Normalized subject synonyms
         if "signal" in q and ("signal" in p_title or "signal" in p_desc):
@@ -580,7 +639,9 @@ class PaperSelectionWindow(QWidget):
                 in_title = query in p.title.lower()
                 in_desc = query in (p.description or "").lower()
                 in_year = query in str(p.year or "")
-                if not (in_title or in_desc or in_year):
+                in_sub = query in (getattr(p, "subject", "") or "").lower()
+                in_ch = query in (getattr(p, "chapter", "") or "").lower()
+                if not (in_title or in_desc or in_year or in_sub or in_ch):
                     continue
 
             self.filtered_papers.append(p)

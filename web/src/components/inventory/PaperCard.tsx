@@ -46,9 +46,16 @@ export const PaperCard: React.FC<PaperCardProps> = ({
       <div className="p-5">
         {/* Top badges bar */}
         <div className="flex items-center justify-between gap-2 mb-2.5">
-          <span className="text-[11px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-blue-100 text-[#1a56a5] border border-blue-200 truncate max-w-[160px]">
-            {paper.chapter || paper.subject || 'GATE EC'}
-          </span>
+          <div className="flex items-center gap-1.5 flex-wrap min-w-0">
+            <span className="text-[11px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-blue-100 text-[#1a56a5] border border-blue-200 truncate max-w-[150px]">
+              {paper.chapter || paper.subject || (paper.examType === 'NEET' ? 'NEET UG' : 'GATE EC')}
+            </span>
+            {paper.isOutOfSyllabus && (
+              <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-amber-100 text-amber-900 border border-amber-300 shrink-0">
+                ⚠️ Out of Syllabus
+              </span>
+            )}
+          </div>
 
           {isAttempted ? (
             <span className="inline-flex items-center gap-1 text-[11px] font-bold text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full border border-emerald-300">

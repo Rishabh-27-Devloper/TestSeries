@@ -1,0 +1,2881 @@
+{
+  "paperId": "neet_topicwise_biology_digestion_and_absorption",
+  "title": "NEET - Digestion and Absorption (Biology)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 89,
+  "totalMarks": 356.0,
+  "totalQuestions": 89,
+  "isOutOfSyllabus": true,
+  "is_out_of_syllabus": true,
+  "hasOutOfSyllabusQuestions": true,
+  "outOfSyllabusCount": 89,
+  "subject": "Biology",
+  "chapter": "Digestion and Absorption",
+  "description": "NEET UG NEET - Digestion and Absorption (Biology) - 89 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "zoology",
+      "sectionName": "Zoology",
+      "totalQuestions": 89,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 1 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 2 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 3 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 4 (NEET 2022 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 5 (NEET 2022 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 6 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 7 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 8 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 9 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 10 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 11 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 12 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 13 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 14 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 15 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 16 (NEET 2019)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 17 (NEET 2019)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 18 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 19 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q19_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 20 (NEET 2017)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q20_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 21 (NEET 2017)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q21_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 22 (NEET 2017)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q22_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 23 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q23_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 24 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q24_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 25 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q25_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 26 (AIPMT 2015)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q26_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 27 (AIPMT 2015)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q27_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 28 (AIPMT 2015 Cancelled Paper)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q28_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 29 (AIPMT 2015 Cancelled Paper)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q29_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 30 (AIPMT 2014)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q30_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 31 (AIPMT 2014)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q31_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 32 (NEET 2013 (Karnataka))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q32_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 33 (NEET 2013 (Karnataka))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q33_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 34 (NEET 2013)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q34_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 35 (AIPMT 2012 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q35_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 36 (AIPMT 2012 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q36_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 37 (AIPMT 2011 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q37_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 38 (AIPMT 2011 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q38_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 39 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q39_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 40 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q40_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 41 (AIPMT 2010 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q41_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 42 (AIPMT 2010 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q42_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 43 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q43_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 44 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q44_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 45 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q45_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 46 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q46_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 47 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q47_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 48 (AIPMT 2009)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q48_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 49 (AIPMT 2008)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q49_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 50 (AIPMT 2008)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q50_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 51 (AIPMT 2007)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q51_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 52 (AIPMT 2006)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q52_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 53 (AIPMT 2005)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q53_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 54 (AIPMT 2005)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q54_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 55 (AIPMT 2005)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q55_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 56 (AIPMT 2005)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q56_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 57 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q57_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 58 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q58_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 59 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q59_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 60 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q60_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 61 (AIPMT 2002)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q61_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 62 (AIPMT 2002)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q62_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 63 (AIPMT 2002)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q63_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 64 (AIPMT 2001)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q64_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 65,
+          "questionNumber": 65,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 65 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q65_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 66,
+          "questionNumber": 66,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 66 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q66_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 67,
+          "questionNumber": 67,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 67 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q67_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 68,
+          "questionNumber": 68,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 68 (AIPMT 2000)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q68_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 69,
+          "questionNumber": 69,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 69 (AIPMT 1999)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q69_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 70,
+          "questionNumber": 70,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 70 (AIPMT 1999)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q70_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 71,
+          "questionNumber": 71,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 71 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q71_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 72,
+          "questionNumber": 72,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 72 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q72_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 73,
+          "questionNumber": 73,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 73 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q73_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 74,
+          "questionNumber": 74,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 74 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q74_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 75,
+          "questionNumber": 75,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 75 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q75_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 76,
+          "questionNumber": 76,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 76 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q76_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 77,
+          "questionNumber": 77,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 77 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q77_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 78,
+          "questionNumber": 78,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 78 (AIPMT 1993)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q78_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 79,
+          "questionNumber": 79,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 79 (AIPMT 1993)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q79_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 80,
+          "questionNumber": 80,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 80 (AIPMT 1992)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q80_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 81,
+          "questionNumber": 81,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 81 (AIPMT 1991)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q81_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 82,
+          "questionNumber": 82,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 82 (AIPMT 1991)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q82_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 83,
+          "questionNumber": 83,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 83 (AIPMT 1990)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q83_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 84,
+          "questionNumber": 84,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 84 (AIPMT 1990)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q84_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 85,
+          "questionNumber": 85,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 85 (AIPMT 1990)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q85_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 86,
+          "questionNumber": 86,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 86 (AIPMT 1988)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q86_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 87,
+          "questionNumber": 87,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 87 (AIPMT 1988)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q87_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 88,
+          "questionNumber": 88,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 88 (AIPMT 1988)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q88_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 89,
+          "questionNumber": 89,
+          "type": "MCQ",
+          "sectionId": "zoology",
+          "sectionName": "Zoology",
+          "questionText": "Question 89 (AIPMT 2003)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_digestion_and_absorption/q89_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B, D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        }
+      ]
+    }
+  ]
+}

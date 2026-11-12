@@ -1,0 +1,2337 @@
+{
+  "paperId": "neet_topicwise_biology_breathing_and_exchange_of_gases",
+  "title": "NEET - Breathing and Exchange of Gases (Biology)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 72,
+  "totalMarks": 288.0,
+  "totalQuestions": 72,
+  "isOutOfSyllabus": false,
+  "is_out_of_syllabus": false,
+  "hasOutOfSyllabusQuestions": false,
+  "outOfSyllabusCount": 0,
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases",
+  "description": "NEET UG NEET - Breathing and Exchange of Gases (Biology) - 72 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "biology",
+      "sectionName": "Biology",
+      "totalQuestions": 72,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 1 (RE-NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 2 (NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 3 (NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 4 (NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 5 (NEET 2024 (Re-Examination))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 6 (NEET 2024 (Re-Examination))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 7 (NEET 2024)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 8 (NEET 2024)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 9 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 10 (NEET 2023 Manipur)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 11 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 12 (NEET 2022 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 13 (NEET 2022 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 14 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 15 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 16 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 17 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 18 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 19 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q19_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 20 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q20_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 21 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q21_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 22 (NEET 2020 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q22_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 23 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q23_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 24 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q24_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 25,
+          "questionNumber": 25,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 25 (NEET 2019)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q25_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 26,
+          "questionNumber": 26,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 26 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q26_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 27,
+          "questionNumber": 27,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 27 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q27_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 28,
+          "questionNumber": 28,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 28 (NEET 2018)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q28_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 29,
+          "questionNumber": 29,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 29 (NEET 2017)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q29_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 30,
+          "questionNumber": 30,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 30 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q30_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 31,
+          "questionNumber": 31,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 31 (NEET 2016 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q31_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 32,
+          "questionNumber": 32,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 32 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q32_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 33,
+          "questionNumber": 33,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 33 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q33_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 34,
+          "questionNumber": 34,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 34 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q34_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 35,
+          "questionNumber": 35,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 35 (AIPMT 2015)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q35_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 36,
+          "questionNumber": 36,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 36 (AIPMT 2015 Cancelled Paper)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q36_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 37,
+          "questionNumber": 37,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 37 (AIPMT 2014)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q37_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 38,
+          "questionNumber": 38,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 38 (NEET 2013)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q38_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 39,
+          "questionNumber": 39,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 39 (AIPMT 2012 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q39_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 40,
+          "questionNumber": 40,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 40 (AIPMT 2012 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q40_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 41,
+          "questionNumber": 41,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 41 (AIPMT 2011 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q41_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 42,
+          "questionNumber": 42,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 42 (AIPMT 2011 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q42_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 43,
+          "questionNumber": 43,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 43 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q43_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 44,
+          "questionNumber": 44,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 44 (AIPMT 2011 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q44_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 45,
+          "questionNumber": 45,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 45 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q45_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 46,
+          "questionNumber": 46,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 46 (AIPMT 2010 Prelims)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q46_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 47,
+          "questionNumber": 47,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 47 (AIPMT 2008)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q47_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 48,
+          "questionNumber": 48,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 48 (AIPMT 2008)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q48_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 49,
+          "questionNumber": 49,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 49 (AIPMT 2006)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q49_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 50,
+          "questionNumber": 50,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 50 (AIPMT 2006)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q50_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 51,
+          "questionNumber": 51,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 51 (AIPMT 2006)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q51_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 52,
+          "questionNumber": 52,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 52 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q52_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 53,
+          "questionNumber": 53,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 53 (AIPMT 2004)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q53_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 54,
+          "questionNumber": 54,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 54 (AIPMT 1999)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q54_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 55,
+          "questionNumber": 55,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 55 (AIPMT 1999)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q55_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 56,
+          "questionNumber": 56,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 56 (AIPMT 1999)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q56_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 57,
+          "questionNumber": 57,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 57 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q57_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 58,
+          "questionNumber": 58,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 58 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q58_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 59,
+          "questionNumber": 59,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 59 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q59_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 60,
+          "questionNumber": 60,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 60 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q60_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 61,
+          "questionNumber": 61,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 61 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q61_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 62,
+          "questionNumber": 62,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 62 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q62_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 63,
+          "questionNumber": 63,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 63 (AIPMT 1995)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q63_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 64,
+          "questionNumber": 64,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 64 (AIPMT 1995)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q64_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 65,
+          "questionNumber": 65,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 65 (AIPMT 1995)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q65_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 66,
+          "questionNumber": 66,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 66 (AIPMT 1995)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q66_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 67,
+          "questionNumber": 67,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 67 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q67_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 68,
+          "questionNumber": 68,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 68 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q68_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 69,
+          "questionNumber": 69,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 69 (AIPMT 1993)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q69_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 70,
+          "questionNumber": 70,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 70 (AIPMT 1991)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q70_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 71,
+          "questionNumber": 71,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 71 (AIPMT 1990)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q71_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 72,
+          "questionNumber": 72,
+          "type": "MCQ",
+          "sectionId": "biology",
+          "sectionName": "Biology",
+          "questionText": "Question 72 (AIPMT 1990)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_biology_breathing_and_exchange_of_gases/q72_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        }
+      ]
+    }
+  ]
+}

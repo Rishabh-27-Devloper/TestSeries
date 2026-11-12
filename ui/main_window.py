@@ -25,7 +25,7 @@ from ui.layer_dashboard import StudentDashboardWindow
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("GATE CBT Examination Simulator - Offline Test Series")
+        self.setWindowTitle("CBT Examination Simulator - Offline Test Series (GATE EC & NEET UG)")
         self.resize(1280, 820)
         self.setMinimumSize(1024, 680)
 

@@ -1,0 +1,609 @@
+{
+  "paperId": "neet_topicwise_chemistry_nuclear_chemistry",
+  "title": "NEET - Nuclear Chemistry (Chemistry)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 30,
+  "totalMarks": 72.0,
+  "totalQuestions": 18,
+  "isOutOfSyllabus": false,
+  "is_out_of_syllabus": false,
+  "hasOutOfSyllabusQuestions": false,
+  "outOfSyllabusCount": 0,
+  "subject": "Chemistry",
+  "chapter": "Nuclear Chemistry",
+  "description": "NEET UG NEET - Nuclear Chemistry (Chemistry) - 18 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "chemistry",
+      "sectionName": "Chemistry",
+      "totalQuestions": 18,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 1 (AIPMT 2005)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 2 (AIPMT 2004)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 3 (AIPMT 2003)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 4 (AIPMT 2002)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 5 (AIPMT 2001)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 6 (AIPMT 2001)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 7 (AIPMT 2000)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 8 (AIPMT 1999)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 9 (AIPMT 1999)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 10 (AIPMT 1999)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 11 (AIPMT 1998)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 12 (AIPMT 1997)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 13 (AIPMT 1997)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 14 (AIPMT 1996)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 15 (AIPMT 1995)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 16 (AIPMT 1994)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 17 (AIPMT 1989)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "chemistry",
+          "sectionName": "Chemistry",
+          "questionText": "Question 18 (AIPMT 1989)",
+          "imageUrl": "assets/neet_topicwise_chemistry_nuclear_chemistry/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": false,
+          "is_out_of_syllabus": false
+        }
+      ]
+    }
+  ]
+}

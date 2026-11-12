@@ -1,0 +1,801 @@
+{
+  "paperId": "neet_topicwise_chemistry_hydrogen",
+  "title": "NEET - Hydrogen (Chemistry)",
+  "category": "Topic-wise PYQ",
+  "year": null,
+  "examType": "NEET",
+  "durationMinutes": 30,
+  "totalMarks": 96.0,
+  "totalQuestions": 24,
+  "isOutOfSyllabus": true,
+  "is_out_of_syllabus": true,
+  "hasOutOfSyllabusQuestions": true,
+  "outOfSyllabusCount": 24,
+  "subject": "Chemistry",
+  "chapter": "Hydrogen",
+  "description": "NEET UG NEET - Hydrogen (Chemistry) - 24 Questions (+4/-1 marking scheme)",
+  "instructions": [
+    "This test contains multiple-choice questions with 4 options each.",
+    "Each question carries +4.0 marks for the correct answer.",
+    "There is a negative marking of -1.0 marks for each incorrect response.",
+    "Unattempted questions will not be evaluated and carry 0 marks.",
+    "Questions marked with 'Out of Syllabus' are from removed chapters kept for practice."
+  ],
+  "sections": [
+    {
+      "sectionId": "inorganic_chemistry",
+      "sectionName": "Inorganic Chemistry",
+      "totalQuestions": 24,
+      "questions": [
+        {
+          "questionId": 1,
+          "questionNumber": 1,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 1 (NEET 2026)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q1_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 2,
+          "questionNumber": 2,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 2 (NEET 2023)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q2_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 3,
+          "questionNumber": 3,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 3 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q3_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 4,
+          "questionNumber": 4,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 4 (NEET 2022 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q4_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 5,
+          "questionNumber": 5,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 5 (NEET 2021)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q5_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 6,
+          "questionNumber": 6,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 6 (NEET 2020 Phase 2)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q6_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 7,
+          "questionNumber": 7,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 7 (NEET 2019 (Odisha))",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q7_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 8,
+          "questionNumber": 8,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 8 (NEET 2019)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q8_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 9,
+          "questionNumber": 9,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 9 (AIPMT 2010 Mains)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q9_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 10,
+          "questionNumber": 10,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 10 (AIPMT 1999)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q10_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 11,
+          "questionNumber": 11,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 11 (AIPMT 1998)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q11_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 12,
+          "questionNumber": 12,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 12 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q12_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 13,
+          "questionNumber": 13,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 13 (AIPMT 1997)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q13_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 14,
+          "questionNumber": 14,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 14 (AIPMT 1996)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q14_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 15,
+          "questionNumber": 15,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 15 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q15_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "D",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 16,
+          "questionNumber": 16,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 16 (AIPMT 1994)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q16_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 17,
+          "questionNumber": 17,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 17 (AIPMT 1992)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q17_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 18,
+          "questionNumber": 18,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 18 (AIPMT 1992)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q18_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 19,
+          "questionNumber": 19,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 19 (AIPMT 1991)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q19_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 20,
+          "questionNumber": 20,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 20 (AIPMT 1990)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q20_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 21,
+          "questionNumber": 21,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 21 (AIPMT 1989)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q21_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "A",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 22,
+          "questionNumber": 22,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 22 (AIPMT 1989)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q22_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 23,
+          "questionNumber": 23,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 23 (AIPMT 1988)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q23_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        },
+        {
+          "questionId": 24,
+          "questionNumber": 24,
+          "type": "MCQ",
+          "sectionId": "inorganic_chemistry",
+          "sectionName": "Inorganic Chemistry",
+          "questionText": "Question 24 (NEET 2016 Phase 1)",
+          "imageUrl": "data/papers/neet/assets/neet_topicwise_chemistry_hydrogen/q24_slice.png",
+          "positiveMarks": 4.0,
+          "negativeMarks": 1.0,
+          "correctAnswer": "B, C",
+          "options": [
+            {
+              "id": "A",
+              "text": "(A)"
+            },
+            {
+              "id": "B",
+              "text": "(B)"
+            },
+            {
+              "id": "C",
+              "text": "(C)"
+            },
+            {
+              "id": "D",
+              "text": "(D)"
+            }
+          ],
+          "isOutOfSyllabus": true,
+          "is_out_of_syllabus": true
+        }
+      ]
+    }
+  ]
+}

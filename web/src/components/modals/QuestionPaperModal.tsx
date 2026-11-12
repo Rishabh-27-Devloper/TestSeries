@@ -73,6 +73,11 @@ export const QuestionPaperModal: React.FC<QuestionPaperModalProps> = ({
                     <span className="text-xs font-semibold uppercase px-2 py-0.5 rounded bg-slate-100 text-slate-700 border border-slate-200">
                       {q.type}
                     </span>
+                    {q.isOutOfSyllabus && (
+                      <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded border border-amber-300">
+                        ⚠️ Out of Syllabus
+                      </span>
+                    )}
                     <span className="text-xs text-slate-600 font-medium">
                       Section: <strong className="text-slate-800">{q.sectionName}</strong>
                     </span>

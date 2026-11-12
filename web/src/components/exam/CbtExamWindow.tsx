@@ -394,7 +394,9 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
       {/* 1. Official TCS iON Top Bar */}
       <header className="bg-[#1a56a5] text-white min-h-[48px] sm:h-14 px-2.5 sm:px-4 flex items-center justify-between gap-1.5 sm:gap-4 shrink-0 shadow-sm z-20">
         <div className="flex items-center gap-1.5 sm:gap-3 min-w-0 flex-1">
-          <div className="font-extrabold text-base tracking-wide hidden sm:block shrink-0">GATE CBT</div>
+          <div className="font-extrabold text-base tracking-wide hidden sm:block shrink-0">
+            {paper.examType === 'NEET' ? 'NEET CBT' : 'GATE CBT'}
+          </div>
           <div className="h-4 w-px bg-white/20 hidden sm:block shrink-0" />
           <div className="font-semibold text-xs sm:text-sm truncate" title={paper.title}>
             {paper.title}
@@ -506,6 +508,11 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
               <span className="px-2 py-0.5 rounded font-bold uppercase tracking-wider bg-blue-100 text-[#1a56a5] border border-blue-200 text-[10px] sm:text-xs">
                 {currentQ.type}
               </span>
+              {currentQ.isOutOfSyllabus && (
+                <span className="text-amber-800 bg-amber-100 px-2 py-0.5 rounded border border-amber-300 font-bold text-[10px] sm:text-xs flex items-center gap-1">
+                  ⚠️ Out of Syllabus (Practice Only)
+                </span>
+              )}
               {currentQ.type === 'MSQ' && (
                 <span className="hidden md:inline text-purple-700 bg-purple-50 px-2 py-0.5 rounded border border-purple-200 font-semibold text-[11px]">
                   One or more options correct

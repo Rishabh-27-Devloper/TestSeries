@@ -86,6 +86,7 @@ export function evaluateExam(
         explanation: '',
         imageUrl: q.imageUrl,
         questionText: q.questionText,
+        isOutOfSyllabus: q.isOutOfSyllabus,
       });
     }
 

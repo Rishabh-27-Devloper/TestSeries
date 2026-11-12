@@ -16,7 +16,8 @@ interface PaperInventoryProps {
   onOpenProfile: () => void;
 }
 
-const POPULAR_SUBJECTS = [
+const POPULAR_GATE_SUBJECTS = [
+  'Full Length (PYQs)',
   'Digital Circuits',
   'Signals and Systems',
   'Control Systems',
@@ -27,7 +28,30 @@ const POPULAR_SUBJECTS = [
   'Networks',
   'Engineering Mathematics',
   'General Aptitude',
+];
+
+const POPULAR_NEET_SUBJECTS = [
   'Full Length (PYQs)',
+  '⚠️ Out of Syllabus',
+  'Biology',
+  'Chemistry',
+  'Physics',
+  'Botany',
+  'Zoology',
+  'Physical Chemistry',
+  'Inorganic Chemistry',
+  'Organic Chemistry',
+];
+
+const POPULAR_COMBINED_SUBJECTS = [
+  'Full Length (PYQs)',
+  '⚠️ Out of Syllabus',
+  'Biology',
+  'Chemistry',
+  'Physics',
+  'Digital Circuits',
+  'Communications',
+  'Signals and Systems',
 ];
 
 function checkSubjectOrChapterMatch(paper: PaperIndexItem, targetChapter: string): boolean {
@@ -39,9 +63,40 @@ function checkSubjectOrChapterMatch(paper: PaperIndexItem, targetChapter: string
   const title = (paper.title || '').toLowerCase().trim();
   const cat = (paper.category || '').toLowerCase().trim();
 
+  // Out of syllabus filter
+  if (t === '⚠️ out of syllabus' || t.includes('out of syllabus')) {
+    return Boolean(paper.isOutOfSyllabus);
+  }
+
+  // NEET Subjects
+  if (t === 'physics') {
+    return s.includes('physics') || c.includes('physics') || title.includes('physics');
+  }
+  if (t === 'chemistry') {
+    return s.includes('chemistry') || c.includes('chemistry') || title.includes('chemistry');
+  }
+  if (t === 'biology') {
+    return s.includes('biology') || c.includes('biology') || title.includes('biology');
+  }
+  if (t === 'botany') {
+    return s.includes('botan') || c.includes('botan') || title.includes('botan');
+  }
+  if (t === 'zoology') {
+    return s.includes('zoolog') || c.includes('zoolog') || title.includes('zoolog');
+  }
+  if (t === 'physical chemistry') {
+    return s.includes('physical') || c.includes('physical');
+  }
+  if (t === 'inorganic chemistry') {
+    return s.includes('inorganic') || c.includes('inorganic');
+  }
+  if (t === 'organic chemistry') {
+    return s.includes('organic') || c.includes('organic');
+  }
+
   // Core Subject / Category semantic matchers
   if (t === 'full length (pyqs)' || t === 'full length' || t === 'pyq') {
-    return cat === 'pyq' || c.includes('full length') || title.includes('official examination');
+    return cat === 'pyq' || cat.includes('full length') || c.includes('full length') || title.includes('official examination') || title.includes('neet 20') || title.includes('aipmt');
   }
   if (t === 'electronic devices & circuits' || t === 'electronic devices') {
     return (
@@ -99,6 +154,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
   onOpenDashboard,
   onOpenProfile,
 }) => {
+  const [selectedExam, setSelectedExam] = useState<'ALL' | 'GATE' | 'NEET'>('ALL');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedChapter, setSelectedChapter] = useState('ALL');
   const [selectedStatus, setSelectedStatus] = useState<'ALL' | 'ATTEMPTED' | 'UNATTEMPTED'>('ALL');
@@ -116,21 +172,37 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
     [allAttempts]
   );
 
+  const gateCount = useMemo(() => papers.filter((p) => (p.examType || 'GATE').toUpperCase() === 'GATE').length, [papers]);
+  const neetCount = useMemo(() => papers.filter((p) => (p.examType || '').toUpperCase() === 'NEET').length, [papers]);
+
+  const popularSubjects = useMemo(() => {
+    if (selectedExam === 'NEET') return POPULAR_NEET_SUBJECTS;
+    if (selectedExam === 'GATE') return POPULAR_GATE_SUBJECTS;
+    return POPULAR_COMBINED_SUBJECTS;
+  }, [selectedExam]);
+
   // Extract unique chapters and topics (excluding 'Full Length')
   const chaptersList = useMemo(() => {
     const set = new Set<string>();
     papers.forEach((p) => {
+      if (selectedExam !== 'ALL' && (p.examType || 'GATE').toUpperCase() !== selectedExam) return;
       if (p.chapter && p.chapter.trim() && p.chapter.trim().toLowerCase() !== 'full length') {
         set.add(p.chapter.trim());
       }
     });
     return Array.from(set).sort();
-  }, [papers]);
+  }, [papers, selectedExam]);
 
   // Filter & sort logic
   const filteredPapers = useMemo(() => {
     return papers
       .filter((paper) => {
+        // Exam Filter
+        const pExam = (paper.examType || 'GATE').toUpperCase();
+        if (selectedExam !== 'ALL' && pExam !== selectedExam) {
+          return false;
+        }
+
         // Search term matching
         if (searchQuery.trim()) {
           const q = searchQuery.toLowerCase().trim();
@@ -159,7 +231,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
         if (sortBy === 'MARKS') return b.totalMarks - a.totalMarks;
         return 0;
       });
-  }, [papers, searchQuery, selectedChapter, selectedStatus, sortBy, attemptedPaperIds]);
+  }, [papers, selectedExam, searchQuery, selectedChapter, selectedStatus, sortBy, attemptedPaperIds]);
 
   // Aggregate stats
   const totalQuestions = useMemo(
@@ -178,20 +250,20 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
         <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 min-h-[56px] sm:min-h-[64px] py-2 sm:py-0 flex items-center justify-between gap-3">
           {/* Logo & Brand */}
           <div className="flex items-center gap-2.5 sm:gap-3 min-w-0">
-            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-[#1a56a5] text-white flex items-center justify-center font-black text-lg sm:text-xl shadow-xs shrink-0">
-              G
+            <div className={`w-9 h-9 sm:w-10 sm:h-10 rounded-lg ${selectedExam === 'NEET' ? 'bg-teal-700' : 'bg-[#1a56a5]'} text-white flex items-center justify-center font-black text-lg sm:text-xl shadow-xs shrink-0 transition-colors`}>
+              {selectedExam === 'NEET' ? 'N' : selectedExam === 'GATE' ? 'G' : 'C'}
             </div>
             <div className="min-w-0">
               <div className="flex items-center gap-1.5 sm:gap-2">
                 <h1 className="font-bold text-slate-900 text-sm sm:text-base md:text-lg leading-tight truncate">
-                  GATE CBT Exam Portal
+                  {selectedExam === 'NEET' ? 'NEET UG CBT Exam Portal' : selectedExam === 'GATE' ? 'GATE CBT Exam Portal' : 'National CBT Exam Portal'}
                 </h1>
-                <span className="hidden sm:inline-block text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-blue-100 text-blue-800 shrink-0">
-                  {profile.branch ? profile.branch.split(' ')[0] : 'EC'} 2026
+                <span className={`hidden sm:inline-block text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${selectedExam === 'NEET' ? 'bg-teal-100 text-teal-800' : 'bg-blue-100 text-blue-800'} shrink-0`}>
+                  {selectedExam === 'NEET' ? 'NEET 2026' : profile.branch ? profile.branch.split(' ')[0] : 'EC'} 2026
                 </span>
               </div>
               <p className="hidden sm:block text-xs text-slate-500 leading-tight truncate">
-                Official TCS iON Architecture &amp; Grading Standards
+                {selectedExam === 'NEET' ? 'Official NTA Medical CBT Architecture & Grading' : 'Official TCS iON Architecture & Grading Standards'}
               </p>
             </div>
           </div>
@@ -203,7 +275,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
               className="flex items-center gap-1.5 sm:gap-2 px-2.5 py-1.5 sm:px-3.5 sm:py-1.5 rounded-lg border border-slate-200 hover:border-blue-400 bg-white hover:bg-blue-50/50 text-slate-700 text-xs font-semibold transition shrink-0"
               title="Analytics & Attempt History"
             >
-              <BarChart3 size={15} className="text-[#1a56a5]" />
+              <BarChart3 size={15} className={selectedExam === 'NEET' ? 'text-teal-700' : 'text-[#1a56a5]'} />
               <span className="hidden md:inline">Analytics &amp; History</span>
             </button>
 
@@ -212,7 +284,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
               className="flex items-center gap-1.5 sm:gap-2 p-1.5 sm:px-3 sm:py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-medium transition shrink-0"
               title="Edit Profile"
             >
-              <div className="w-6 h-6 rounded-full bg-[#1a56a5] text-white flex items-center justify-center text-xs font-bold shrink-0">
+              <div className={`w-6 h-6 rounded-full ${selectedExam === 'NEET' ? 'bg-teal-700' : 'bg-[#1a56a5]'} text-white flex items-center justify-center text-xs font-bold shrink-0`}>
                 {profile.name ? profile.name.charAt(0).toUpperCase() : 'U'}
               </div>
               <span className="hidden md:inline font-semibold text-slate-800">{profile.name}</span>
@@ -221,27 +293,38 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
         </div>
       </header>
 
-      {/* Hero Stats Banner (Solid Institutional Blue) */}
-      <section className="bg-[#1a56a5] text-white py-8 px-4 sm:px-6 lg:px-8 border-b border-[#144584]">
+      {/* Hero Stats Banner (Solid Institutional Color) */}
+      <section className={`${selectedExam === 'NEET' ? 'bg-teal-800 border-teal-900' : 'bg-[#1a56a5] border-[#144584]'} text-white py-8 px-4 sm:px-6 lg:px-8 border-b transition-colors duration-300`}>
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="space-y-2 text-center md:text-left">
-            <div className="inline-flex items-center gap-1.5 text-xs font-medium px-2.5 py-1 rounded-full bg-white/10 text-blue-100 border border-white/20">
-              <GraduationCap size={14} className="text-blue-200" />
-              100+ Hours of GATE CBT Practice Compiled
+            <div className="inline-flex items-center gap-1.5 text-xs font-medium px-2.5 py-1 rounded-full bg-white/10 text-white/90 border border-white/20">
+              <GraduationCap size={14} className="text-white/80" />
+              {selectedExam === 'NEET'
+                ? '146 Official NEET UG Tests & Topic Banks'
+                : selectedExam === 'GATE'
+                ? '100+ Hours of GATE CBT Practice Compiled'
+                : 'GATE EC & NEET UG CBT Examinations Compiled'}
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
-              Test Series &amp; Full Syllabus Mock Papers
+              {selectedExam === 'NEET'
+                ? 'NEET UG CBT Medical Entrance Tests'
+                : selectedExam === 'GATE'
+                ? 'GATE EC Test Series & Mock Papers'
+                : 'Test Series & Full Syllabus Mock Papers'}
             </h2>
-            <p className="text-sm text-blue-100 max-w-2xl leading-relaxed">
-              Standardized with official GATE markings (+1, +2, -0.33, -0.67), MSQ multi-select validation,
-              NAT decimal range checks, and full virtual scientific calculator.
+            <p className="text-sm text-white/90 max-w-2xl leading-relaxed">
+              {selectedExam === 'NEET'
+                ? 'Official AIPMT/NEET Full-Length PYQs (1988–2026) and 95 Topic-wise Physics, Chemistry, and Biology modules with official +4 / -1 grading and 15 Out-of-Syllabus modules marked.'
+                : selectedExam === 'GATE'
+                ? 'Standardized with official GATE markings (+1, +2, -0.33, -0.67), MSQ multi-select validation, NAT decimal range checks, and full virtual scientific calculator.'
+                : 'Standardized CBT examination simulation for GATE Electronics & Communication and NEET UG Medical Entrance with instant offline evaluation.'}
             </p>
           </div>
 
           {/* Quick Metrics */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 w-full md:w-auto">
             <div className="bg-white/10 rounded-lg p-3 text-center border border-white/15">
-              <div className="text-2xl font-black">{papers.length}</div>
+              <div className="text-2xl font-black">{filteredPapers.length}</div>
               <div className="text-[11px] text-blue-100 uppercase font-medium">Test Papers</div>
             </div>
             <div className="bg-white/10 rounded-lg p-3 text-center border border-white/15">
@@ -264,6 +347,61 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full">
         {/* Controls Bar: Search & Filters */}
         <div className="bg-white rounded-xl border border-slate-200 p-4 shadow-xs space-y-4 mb-6">
+          {/* Exam Portal Switcher Tabs */}
+          <div className="flex items-center gap-2 pb-3 border-b border-slate-100 flex-wrap">
+            <span className="text-xs font-bold text-slate-500 uppercase tracking-wider mr-1">
+              Examination Portal:
+            </span>
+            <button
+              onClick={() => {
+                setSelectedExam('ALL');
+                setSelectedChapter('ALL');
+              }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 ${
+                selectedExam === 'ALL'
+                  ? 'bg-slate-900 text-white shadow-xs'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+              }`}
+            >
+              <span>All Exams</span>
+              <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${selectedExam === 'ALL' ? 'bg-white/20' : 'bg-slate-200 text-slate-700'}`}>
+                {papers.length}
+              </span>
+            </button>
+            <button
+              onClick={() => {
+                setSelectedExam('GATE');
+                setSelectedChapter('ALL');
+              }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 ${
+                selectedExam === 'GATE'
+                  ? 'bg-[#1a56a5] text-white shadow-xs'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+              }`}
+            >
+              <span>GATE EC</span>
+              <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${selectedExam === 'GATE' ? 'bg-white/20' : 'bg-slate-200 text-slate-700'}`}>
+                {gateCount}
+              </span>
+            </button>
+            <button
+              onClick={() => {
+                setSelectedExam('NEET');
+                setSelectedChapter('ALL');
+              }}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 ${
+                selectedExam === 'NEET'
+                  ? 'bg-teal-700 text-white shadow-xs'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+              }`}
+            >
+              <span>NEET UG</span>
+              <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${selectedExam === 'NEET' ? 'bg-white/20' : 'bg-slate-200 text-slate-700'}`}>
+                {neetCount}
+              </span>
+            </button>
+          </div>
+
           <div className="grid grid-cols-1 md:grid-cols-12 gap-3 items-center">
             {/* Search Input */}
             <div className="relative md:col-span-5">
@@ -275,7 +413,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search by topic, chapter, subject (e.g. Boolean, FFT, EDC)..."
+                placeholder={selectedExam === 'NEET' ? "Search NEET tests (e.g. Genetics, Optics, Electrochemistry)..." : "Search by topic, chapter, subject (e.g. Boolean, FFT, EDC)..."}
                 className="w-full pl-9 pr-4 py-2 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-[#1a56a5] focus:border-transparent outline-none text-slate-800 placeholder-slate-400"
               />
               {searchQuery && (
@@ -296,9 +434,9 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
                   onChange={(e) => setSelectedChapter(e.target.value)}
                   className="w-full px-3 py-2 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-[#1a56a5] outline-none text-slate-800 bg-white"
                 >
-                  <option value="ALL">📚 All Subjects &amp; Chapters ({papers.length} Papers)</option>
-                  <optgroup label="Core Subjects">
-                    {POPULAR_SUBJECTS.map((subj) => (
+                  <option value="ALL">📚 All Subjects &amp; Chapters ({filteredPapers.length} Papers)</option>
+                  <optgroup label="Popular Subjects &amp; Filters">
+                    {popularSubjects.map((subj) => (
                       <option key={subj} value={subj}>
                         {subj}
                       </option>
@@ -322,9 +460,9 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
                 onChange={(e) => setSelectedStatus(e.target.value as any)}
                 className="w-full px-3 py-2 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-[#1a56a5] outline-none text-slate-800 bg-white font-medium"
               >
-                <option value="ALL">⚡ All Tests ({papers.length})</option>
-                <option value="ATTEMPTED">✓ Attempted Only ({attemptedPaperIds.size})</option>
-                <option value="UNATTEMPTED">○ Unattempted Only ({papers.length - attemptedPaperIds.size})</option>
+                <option value="ALL">⚡ All Tests ({filteredPapers.length})</option>
+                <option value="ATTEMPTED">✓ Attempted Only</option>
+                <option value="UNATTEMPTED">○ Unattempted Only</option>
               </select>
             </div>
           </div>
@@ -335,15 +473,22 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
               <span className="font-semibold text-slate-700 flex items-center gap-1 shrink-0">
                 <Filter size={12} /> Popular:
               </span>
-              {POPULAR_SUBJECTS.map((subj) => {
+              {popularSubjects.map((subj) => {
                 const isSelected = selectedChapter === subj;
+                const isOos = subj.includes('Out of Syllabus');
                 return (
                   <button
                     key={subj}
                     onClick={() => setSelectedChapter(isSelected ? 'ALL' : subj)}
                     className={`px-2.5 py-1 rounded-full text-xs font-medium transition shrink-0 whitespace-nowrap ${
                       isSelected
-                        ? 'bg-[#1a56a5] text-white shadow-xs font-semibold'
+                        ? isOos
+                          ? 'bg-amber-600 text-white shadow-xs font-bold'
+                          : selectedExam === 'NEET'
+                          ? 'bg-teal-700 text-white shadow-xs font-semibold'
+                          : 'bg-[#1a56a5] text-white shadow-xs font-semibold'
+                        : isOos
+                        ? 'bg-amber-100 text-amber-900 border border-amber-300 hover:bg-amber-200'
                         : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
                     }`}
                   >

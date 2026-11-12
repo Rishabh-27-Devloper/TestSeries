@@ -12,7 +12,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2026 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2026.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2026.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2026",
+    "title": "NEET 2026",
+    "category": "PYQ Full Length",
+    "year": 2026,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2026 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2026.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_re_neet_2026",
+    "title": "RE-NEET 2026",
+    "category": "PYQ Full Length",
+    "year": 2026,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG RE-NEET 2026 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_re_neet_2026.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2025",
@@ -27,7 +60,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2025 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2025.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2025.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2025",
+    "title": "NEET 2025",
+    "category": "PYQ Full Length",
+    "year": 2025,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2025 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2025.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2024",
@@ -42,7 +92,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2024 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2024.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2024.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2024",
+    "title": "NEET 2024",
+    "category": "PYQ Full Length",
+    "year": 2024,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2024 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2024.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2024_re_examination",
+    "title": "NEET 2024 (Re-Examination)",
+    "category": "PYQ Full Length",
+    "year": 2024,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2024 (Re-Examination) - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2024_re_examination.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2023",
@@ -57,7 +140,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2023 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2023.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2023.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2023",
+    "title": "NEET 2023",
+    "category": "PYQ Full Length",
+    "year": 2023,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2023 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2023.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2023_manipur",
+    "title": "NEET 2023 Manipur",
+    "category": "PYQ Full Length",
+    "year": 2023,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2023 Manipur - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2023_manipur.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2022",
@@ -72,7 +188,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2022 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2022.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2022.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2022_phase_1",
+    "title": "NEET 2022 Phase 1",
+    "category": "PYQ Full Length",
+    "year": 2022,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2022 Phase 1 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2022_phase_1.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2022_phase_2",
+    "title": "NEET 2022 Phase 2",
+    "category": "PYQ Full Length",
+    "year": 2022,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2022 Phase 2 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2022_phase_2.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2021",
@@ -87,7 +236,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2021 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2021.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2021.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2021",
+    "title": "NEET 2021",
+    "category": "PYQ Full Length",
+    "year": 2021,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2021 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2021.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2020",
@@ -102,7 +268,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2020 Electronics and Communication Engineering (EC) examination paper with full question diagrams and official answers.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2020.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2020.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2020_phase_1",
+    "title": "NEET 2020 Phase 1",
+    "category": "PYQ Full Length",
+    "year": 2020,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2020 Phase 1 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2020_phase_1.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2020_phase_2",
+    "title": "NEET 2020 Phase 2",
+    "category": "PYQ Full Length",
+    "year": 2020,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2020 Phase 2 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2020_phase_2.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2019",
@@ -117,7 +316,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2019 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2019.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2019.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2019",
+    "title": "NEET 2019",
+    "category": "PYQ Full Length",
+    "year": 2019,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2019 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2019.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2019_odisha",
+    "title": "NEET 2019 (Odisha)",
+    "category": "PYQ Full Length",
+    "year": 2019,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2019 (Odisha) - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2019_odisha.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2018",
@@ -132,7 +364,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2018 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2018.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2018.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2018",
+    "title": "NEET 2018",
+    "category": "PYQ Full Length",
+    "year": 2018,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2018 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2018.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2017_SET1",
@@ -147,7 +396,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2017 Electronics and Communication Engineering (EC) examination paper with full question diagrams and official answers.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2017_set1.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2017_set1.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2017_SET2",
@@ -162,7 +412,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2017 Electronics and Communication Engineering (EC) examination paper with full question diagrams and official answers.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2017_set2.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2017_set2.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2017",
+    "title": "NEET 2017",
+    "category": "PYQ Full Length",
+    "year": 2017,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2017 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2017.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2016",
@@ -177,7 +444,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2016 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2016.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2016.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2016_phase_1",
+    "title": "NEET 2016 Phase 1",
+    "category": "PYQ Full Length",
+    "year": 2016,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2016 Phase 1 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2016_phase_1.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2016_phase_2",
+    "title": "NEET 2016 Phase 2",
+    "category": "PYQ Full Length",
+    "year": 2016,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2016 Phase 2 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2016_phase_2.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2015",
@@ -192,7 +492,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2015 Electronics and Communication Engineering (EC) examination paper with full question diagrams and official answers.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2015.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2015.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2015",
+    "title": "AIPMT 2015",
+    "category": "PYQ Full Length",
+    "year": 2015,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2015 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2015.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2015_cancelled_paper",
+    "title": "AIPMT 2015 Cancelled Paper",
+    "category": "PYQ Full Length",
+    "year": 2015,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2015 Cancelled Paper - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2015_cancelled_paper.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2014_S1",
@@ -207,7 +540,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2014 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s1.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s1.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2014_S2",
@@ -222,7 +556,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2014 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s2.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s2.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2014_S3",
@@ -237,7 +572,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2014 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s3.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s3.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2014_S4",
@@ -252,7 +588,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2014 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s4.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2014_s4.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2014",
+    "title": "AIPMT 2014",
+    "category": "PYQ Full Length",
+    "year": 2014,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2014 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2014.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2013",
@@ -267,7 +620,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2013 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2013.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2013.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2013",
+    "title": "NEET 2013",
+    "category": "PYQ Full Length",
+    "year": 2013,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2013 - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2013.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_neet_2013_karnataka",
+    "title": "NEET 2013 (Karnataka)",
+    "category": "PYQ Full Length",
+    "year": 2013,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 720.0,
+    "totalQuestions": 180,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG NEET 2013 (Karnataka) - 180 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_neet_2013_karnataka.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2012",
@@ -282,7 +668,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2012 Electronics and Communication Engineering (EC) examination paper with General Aptitude and Core EC sections.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2012.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2012.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2012_mains",
+    "title": "AIPMT 2012 Mains",
+    "category": "PYQ Full Length",
+    "year": 2012,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 480.0,
+    "totalQuestions": 120,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2012 Mains - 120 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2012_mains.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2012_prelims",
+    "title": "AIPMT 2012 Prelims",
+    "category": "PYQ Full Length",
+    "year": 2012,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2012 Prelims - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2012_prelims.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2011",
@@ -297,7 +716,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2011 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2011.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2011.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2011_mains",
+    "title": "AIPMT 2011 Mains",
+    "category": "PYQ Full Length",
+    "year": 2011,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 480.0,
+    "totalQuestions": 120,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2011 Mains - 120 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2011_mains.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2011_prelims",
+    "title": "AIPMT 2011 Prelims",
+    "category": "PYQ Full Length",
+    "year": 2011,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2011 Prelims - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2011_prelims.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2010",
@@ -312,7 +764,40 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2010 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2010.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2010.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2010_mains",
+    "title": "AIPMT 2010 Mains",
+    "category": "PYQ Full Length",
+    "year": 2010,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 480.0,
+    "totalQuestions": 120,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2010 Mains - 120 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2010_mains.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2010_prelims",
+    "title": "AIPMT 2010 Prelims",
+    "category": "PYQ Full Length",
+    "year": 2010,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2010 Prelims - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2010_prelims.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2009",
@@ -327,7 +812,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Official GATE 2009 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2009.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2009.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2009",
+    "title": "AIPMT 2009",
+    "category": "PYQ Full Length",
+    "year": 2009,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2009 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2009.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2008",
@@ -342,7 +844,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Official GATE 2008 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2008.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2008.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2008",
+    "title": "AIPMT 2008",
+    "category": "PYQ Full Length",
+    "year": 2008,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2008 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2008.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2007",
@@ -357,7 +876,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Official GATE 2007 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2007.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2007.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2007",
+    "title": "AIPMT 2007",
+    "category": "PYQ Full Length",
+    "year": 2007,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2007 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2007.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2006",
@@ -372,7 +908,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Official GATE 2006 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2006.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2006.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2006",
+    "title": "AIPMT 2006",
+    "category": "PYQ Full Length",
+    "year": 2006,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2006 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2006.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2005",
@@ -387,7 +940,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Official GATE 2005 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2005.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2005.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2005",
+    "title": "AIPMT 2005",
+    "category": "PYQ Full Length",
+    "year": 2005,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2005 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2005.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2004",
@@ -402,7 +972,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Official GATE 2004 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2004.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2004.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2004",
+    "title": "AIPMT 2004",
+    "category": "PYQ Full Length",
+    "year": 2004,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2004 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2004.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2003",
@@ -417,7 +1004,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Official GATE 2003 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2003.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2003.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2003",
+    "title": "AIPMT 2003",
+    "category": "PYQ Full Length",
+    "year": 2003,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2003 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2003.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2002",
@@ -432,7 +1036,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2002 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2002.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2002.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2002",
+    "title": "AIPMT 2002",
+    "category": "PYQ Full Length",
+    "year": 2002,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2002 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2002.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2001",
@@ -447,7 +1068,24 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2001 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2001.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2001.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2001",
+    "title": "AIPMT 2001",
+    "category": "PYQ Full Length",
+    "year": 2001,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2001 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2001.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "GATE_EC_2000",
@@ -462,7 +1100,216 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 2,
     "description": "Official GATE 2000 Electronics and Communication Engineering (EC) examination paper with individual high-resolution question graphics.",
-    "jsonPath": "data/papers/gate_ec/gate_ec_2000.json"
+    "jsonPath": "data/papers/gate_ec/gate_ec_2000.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_2000",
+    "title": "AIPMT 2000",
+    "category": "PYQ Full Length",
+    "year": 2000,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 2000 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_2000.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1999",
+    "title": "AIPMT 1999",
+    "category": "PYQ Full Length",
+    "year": 1999,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1999 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1999.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1998",
+    "title": "AIPMT 1998",
+    "category": "PYQ Full Length",
+    "year": 1998,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1998 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1998.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1997",
+    "title": "AIPMT 1997",
+    "category": "PYQ Full Length",
+    "year": 1997,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 768.0,
+    "totalQuestions": 192,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1997 - 192 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1997.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1996",
+    "title": "AIPMT 1996",
+    "category": "PYQ Full Length",
+    "year": 1996,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 744.0,
+    "totalQuestions": 186,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1996 - 186 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1996.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1995",
+    "title": "AIPMT 1995",
+    "category": "PYQ Full Length",
+    "year": 1995,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 748.0,
+    "totalQuestions": 187,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1995 - 187 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1995.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1994",
+    "title": "AIPMT 1994",
+    "category": "PYQ Full Length",
+    "year": 1994,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 800.0,
+    "totalQuestions": 200,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1994 - 200 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1994.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1993",
+    "title": "AIPMT 1993",
+    "category": "PYQ Full Length",
+    "year": 1993,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 828.0,
+    "totalQuestions": 207,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1993 - 207 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1993.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1992",
+    "title": "AIPMT 1992",
+    "category": "PYQ Full Length",
+    "year": 1992,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 748.0,
+    "totalQuestions": 187,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1992 - 187 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1992.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1991",
+    "title": "AIPMT 1991",
+    "category": "PYQ Full Length",
+    "year": 1991,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 724.0,
+    "totalQuestions": 181,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1991 - 181 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1991.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1990",
+    "title": "AIPMT 1990",
+    "category": "PYQ Full Length",
+    "year": 1990,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 636.0,
+    "totalQuestions": 159,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1990 - 159 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1990.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1989",
+    "title": "AIPMT 1989",
+    "category": "PYQ Full Length",
+    "year": 1989,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 660.0,
+    "totalQuestions": 165,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1989 - 165 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1989.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_full_aipmt_1988",
+    "title": "AIPMT 1988",
+    "category": "PYQ Full Length",
+    "year": 1988,
+    "examType": "NEET",
+    "durationMinutes": 200,
+    "totalMarks": 528.0,
+    "totalQuestions": 132,
+    "chapter": "Full Length PYQ",
+    "subject": "NEET Comprehensive",
+    "sectionsCount": 3,
+    "description": "NEET UG AIPMT 1988 - 132 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_full_aipmt_1988.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_555_timer",
@@ -477,7 +1324,8 @@
     "subject": "Analog Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for 555 Timer in Analog Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_555_timer.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_555_timer.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_analog_communication_systems",
@@ -492,7 +1340,8 @@
     "subject": "Communications",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Analog Communication Systems in Communications.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_analog_communication_systems.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_analog_communication_systems.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_analog_to_digital_and_digital_to_analog_converters",
@@ -507,7 +1356,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Analog to Digital and Digital to Analog Converters in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_analog_to_digital_and_digital_to_analog_converters.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_analog_to_digital_and_digital_to_analog_converters.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_antennas",
@@ -522,7 +1372,8 @@
     "subject": "Electromagnetics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Antennas in Electromagnetics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_antennas.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_antennas.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_bjt_and_fet",
@@ -537,7 +1388,8 @@
     "subject": "Electronic Devices",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for BJT and FET in Electronic Devices.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_bjt_and_fet.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_bjt_and_fet.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_basic_of_control_systems",
@@ -552,7 +1404,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Basic of Control Systems in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_basic_of_control_systems.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_basic_of_control_systems.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_bipolar_junction_transistor",
@@ -567,7 +1420,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Bipolar Junction Transistor in Electronics & Communication.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_bipolar_junction_transistor.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_bipolar_junction_transistor.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_boolean_algebra",
@@ -582,7 +1436,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Boolean Algebra in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_boolean_algebra.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_boolean_algebra.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_calculus",
@@ -597,7 +1452,8 @@
     "subject": "Engineering Mathematics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Calculus in Engineering Mathematics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_calculus.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_calculus.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_combinational_circuits",
@@ -612,7 +1468,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Combinational Circuits in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_combinational_circuits.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_combinational_circuits.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_compensators",
@@ -627,7 +1484,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Compensators in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_compensators.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_compensators.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_complex_variable",
@@ -642,7 +1500,8 @@
     "subject": "Engineering Mathematics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Complex Variable in Engineering Mathematics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_complex_variable.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_complex_variable.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_continuous_time_linear_invariant_system",
@@ -657,7 +1516,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Continuous Time Linear Invariant System in Electronics & Communication.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_continuous_time_linear_invariant_system.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_continuous_time_linear_invariant_system.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_continuous_time_signal_laplace_transform",
@@ -672,7 +1532,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Continuous Time Signal Laplace Transform in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_continuous_time_signal_laplace_transform.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_continuous_time_signal_laplace_transform.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_differential_equations",
@@ -687,7 +1548,8 @@
     "subject": "Engineering Mathematics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Differential Equations in Engineering Mathematics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_differential_equations.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_differential_equations.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_digital_communication_systems",
@@ -702,7 +1564,8 @@
     "subject": "Communications",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Digital Communication Systems in Communications.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_digital_communication_systems.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_digital_communication_systems.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_diodes",
@@ -717,7 +1580,8 @@
     "subject": "Electronic Devices",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Diodes in Electronic Devices.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_diodes.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_diodes.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_discrete_fourier_transform_and_fast_fourier_transform",
@@ -732,7 +1596,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Discrete Fourier Transform and Fast Fourier Transform in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_fourier_transform_and_fast_fourier_transform.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_fourier_transform_and_fast_fourier_transform.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_discrete_time_linear_time_invariant_systems",
@@ -747,7 +1612,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Discrete Time Linear Time Invariant Systems in Electronics & Communication.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_time_linear_time_invariant_systems.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_time_linear_time_invariant_systems.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_discrete_time_signal_fourier_series_fourier_transform",
@@ -762,7 +1628,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Discrete Time Signal Fourier Series Fourier Transform in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_time_signal_fourier_series_fourier_transform.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_time_signal_fourier_series_fourier_transform.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_discrete_time_signal_z_transform",
@@ -777,7 +1644,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Discrete Time Signal Z Transform in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_time_signal_z_transform.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_discrete_time_signal_z_transform.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_fet_and_mosfet",
@@ -792,7 +1660,8 @@
     "subject": "Electronic Devices",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for FET and MOSFET in Electronic Devices.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_fet_and_mosfet.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_fet_and_mosfet.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_feedback_amplifier",
@@ -807,7 +1676,8 @@
     "subject": "Analog Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Feedback Amplifier in Analog Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_feedback_amplifier.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_feedback_amplifier.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_fourier_transform",
@@ -822,7 +1692,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Fourier Transform in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_fourier_transform.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_fourier_transform.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_frequency_response",
@@ -837,7 +1708,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Frequency Response in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_frequency_response.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_frequency_response.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_frequency_response_analysis",
@@ -852,7 +1724,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Frequency Response Analysis in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_frequency_response_analysis.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_frequency_response_analysis.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_fundamentals_of_information_theory",
@@ -867,7 +1740,8 @@
     "subject": "Communications",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Fundamentals of Information Theory in Communications.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_fundamentals_of_information_theory.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_fundamentals_of_information_theory.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_ic_basics_and_mosfet",
@@ -882,7 +1756,8 @@
     "subject": "Electronic Devices",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for IC Basics and MOSFET in Electronic Devices.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_ic_basics_and_mosfet.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_ic_basics_and_mosfet.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_instruction_set_and_programming_with_8085",
@@ -897,7 +1772,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Instruction Set and Programming with 8085 in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_instruction_set_and_programming_with_8085.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_instruction_set_and_programming_with_8085.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_linear_algebra",
@@ -912,7 +1788,8 @@
     "subject": "Engineering Mathematics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Linear Algebra in Engineering Mathematics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_linear_algebra.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_linear_algebra.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_logic_families",
@@ -927,7 +1804,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Logic Families in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_logic_families.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_logic_families.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_logic_gates",
@@ -942,7 +1820,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Logic Gates in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_logic_gates.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_logic_gates.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_logical_reasoning",
@@ -957,7 +1836,8 @@
     "subject": "General Aptitude",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Logical Reasoning in General Aptitude.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_logical_reasoning.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_logical_reasoning.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_maxwell_equations",
@@ -972,7 +1852,8 @@
     "subject": "Electromagnetics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Maxwell Equations in Electromagnetics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_maxwell_equations.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_maxwell_equations.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_miscellaneous_1",
@@ -987,7 +1868,8 @@
     "subject": "1) (Electronics & Communication",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Miscellaneous (1) in Electronics & Communication.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_miscellaneous_1.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_miscellaneous_1.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_miscellaneous_2",
@@ -1002,7 +1884,8 @@
     "subject": "2) (Electronics & Communication",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Miscellaneous (2) in Electronics & Communication.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_miscellaneous_2.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_miscellaneous_2.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_miscellaneous",
@@ -1017,7 +1900,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Miscellaneous in Electronics & Communication.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_miscellaneous.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_miscellaneous.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_network_graphs",
@@ -1032,7 +1916,8 @@
     "subject": "Networks",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Network Graphs in Networks.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_network_graphs.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_network_graphs.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_network_theorems",
@@ -1047,7 +1932,8 @@
     "subject": "Networks",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Network Theorems in Networks.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_network_theorems.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_network_theorems.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_noise_in_digital_communication",
@@ -1062,7 +1948,8 @@
     "subject": "Communications",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Noise In Digital Communication in Communications.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_noise_in_digital_communication.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_noise_in_digital_communication.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_number_system_and_code_convertions",
@@ -1077,7 +1964,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Number System and Code Convertions in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_number_system_and_code_convertions.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_number_system_and_code_convertions.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_numerical_ability",
@@ -1092,7 +1980,8 @@
     "subject": "General Aptitude",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Numerical Ability in General Aptitude.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_numerical_ability.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_numerical_ability.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_numerical_methods",
@@ -1107,7 +1996,8 @@
     "subject": "Engineering Mathematics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Numerical Methods in Engineering Mathematics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_numerical_methods.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_numerical_methods.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_operational_amplifier",
@@ -1122,7 +2012,8 @@
     "subject": "Analog Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Operational Amplifier in Analog Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_operational_amplifier.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_operational_amplifier.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_oscillators",
@@ -1137,7 +2028,8 @@
     "subject": "Analog Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Oscillators in Analog Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_oscillators.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_oscillators.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_pn_junction",
@@ -1152,7 +2044,8 @@
     "subject": "Electronic Devices",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for PN Junction in Electronic Devices.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_pn_junction.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_pn_junction.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_pin_details_of_8085_and_interfacing_with_8085",
@@ -1167,7 +2060,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Pin Details of 8085 and Interfacing with 8085 in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_pin_details_of_8085_and_interfacing_with_8085.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_pin_details_of_8085_and_interfacing_with_8085.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_power_amplifier",
@@ -1182,7 +2076,8 @@
     "subject": "Analog Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Power Amplifier in Analog Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_power_amplifier.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_power_amplifier.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_probability_and_statistics",
@@ -1197,7 +2092,8 @@
     "subject": "Engineering Mathematics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Probability and Statistics in Engineering Mathematics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_probability_and_statistics.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_probability_and_statistics.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_random_signals_and_noise",
@@ -1212,7 +2108,8 @@
     "subject": "Communications",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Random Signals and Noise in Communications.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_random_signals_and_noise.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_random_signals_and_noise.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series",
@@ -1227,7 +2124,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Representation of Continuous Time Signal Fourier Series in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_representation_of_continuous_time_signal_fourier_series.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_root_locus_diagram",
@@ -1242,7 +2140,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Root Locus Diagram in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_root_locus_diagram.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_root_locus_diagram.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_sampling",
@@ -1257,7 +2156,8 @@
     "subject": "Communications",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Sampling in Communications.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_sampling.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_sampling.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_semiconductor_memories",
@@ -1272,7 +2172,8 @@
     "subject": "Electronic Devices",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Semiconductor Memories in Electronic Devices.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_semiconductor_memories.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_semiconductor_memories.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_semiconductor_physics",
@@ -1287,7 +2188,8 @@
     "subject": "Electronic Devices",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Semiconductor Physics in Electronic Devices.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_semiconductor_physics.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_semiconductor_physics.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_sequential_circuits",
@@ -1302,7 +2204,8 @@
     "subject": "Digital Circuits",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Sequential Circuits in Digital Circuits.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_sequential_circuits.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_sequential_circuits.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_signal_flow_graph_and_block_diagram",
@@ -1317,7 +2220,8 @@
     "subject": "Networks",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Signal Flow Graph and Block Diagram in Networks.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_signal_flow_graph_and_block_diagram.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_signal_flow_graph_and_block_diagram.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_sinusoidal_steady_state_response",
@@ -1332,7 +2236,8 @@
     "subject": "Networks",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Sinusoidal Steady State Response in Networks.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_sinusoidal_steady_state_response.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_sinusoidal_steady_state_response.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_stability",
@@ -1347,7 +2252,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Stability in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_stability.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_stability.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_state_equations_for_networks",
@@ -1362,7 +2268,8 @@
     "subject": "Networks",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for State Equations For Networks in Networks.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_state_equations_for_networks.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_state_equations_for_networks.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_state_space_analysis",
@@ -1377,7 +2284,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for State Space Analysis in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_state_space_analysis.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_state_space_analysis.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_time_response_analysis",
@@ -1392,7 +2300,8 @@
     "subject": "Control Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Time Response Analysis in Control Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_time_response_analysis.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_time_response_analysis.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_transform_theory",
@@ -1407,7 +2316,8 @@
     "subject": "Electronics & Communication",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Transform Theory in Electronics & Communication.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transform_theory.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transform_theory.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_transient_response",
@@ -1422,7 +2332,8 @@
     "subject": "Networks",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Transient Response in Networks.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transient_response.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transient_response.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_transmission_lines",
@@ -1437,7 +2348,8 @@
     "subject": "Electromagnetics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Transmission Lines in Electromagnetics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transmission_lines.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transmission_lines.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_transmission_of_signal_through_continuous_time_lti_systems",
@@ -1452,7 +2364,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Transmission of Signal Through Continuous Time LTI Systems in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transmission_of_signal_through_continuous_time_lti_systems.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transmission_of_signal_through_continuous_time_lti_systems.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_transmission_of_signal_through_discrete_time_lti_systems",
@@ -1467,7 +2380,8 @@
     "subject": "Signals And Systems",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Transmission of Signal Through Discrete Time Lti Systems in Signals And Systems.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transmission_of_signal_through_discrete_time_lti_systems.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_transmission_of_signal_through_discrete_time_lti_systems.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_two_port_networks",
@@ -1482,7 +2396,8 @@
     "subject": "Networks",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Two Port Networks in Networks.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_two_port_networks.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_two_port_networks.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_uniform_plane_waves",
@@ -1497,7 +2412,8 @@
     "subject": "Electromagnetics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Uniform Plane Waves in Electromagnetics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_uniform_plane_waves.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_uniform_plane_waves.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_vector_calculus",
@@ -1512,7 +2428,8 @@
     "subject": "Engineering Mathematics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Vector Calculus in Engineering Mathematics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_vector_calculus.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_vector_calculus.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_verbal_ability",
@@ -1527,7 +2444,8 @@
     "subject": "General Aptitude",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Verbal Ability in General Aptitude.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_verbal_ability.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_verbal_ability.json",
+    "isOutOfSyllabus": false
   },
   {
     "paperId": "gate_ec_topicwise_waveguides",
@@ -1542,6 +2460,1527 @@
     "subject": "Electromagnetics",
     "sectionsCount": 1,
     "description": "Chapter-wise Previous Year Questions for Waveguides in Electromagnetics.",
-    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_waveguides.json"
+    "jsonPath": "data/papers/gate_ec_topicwise/gate_ec_topicwise_waveguides.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_alcohol_phenols_and_ethers",
+    "title": "NEET - Alcohol, Phenols and Ethers (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 78,
+    "totalMarks": 312.0,
+    "totalQuestions": 78,
+    "chapter": "Alcohol, Phenols and Ethers",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Alcohol, Phenols and Ethers (Chemistry) - 78 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_alcohol_phenols_and_ethers.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_aldehydes_ketones_and_carboxylic_acids",
+    "title": "NEET - Aldehydes, Ketones and Carboxylic Acids (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 138,
+    "totalMarks": 552.0,
+    "totalQuestions": 138,
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Aldehydes, Ketones and Carboxylic Acids (Chemistry) - 138 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_aldehydes_ketones_and_carboxylic_acids.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_alternating_current",
+    "title": "NEET - Alternating Current (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 75,
+    "totalMarks": 300.0,
+    "totalQuestions": 75,
+    "chapter": "Alternating Current",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Alternating Current (Physics) - 75 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_alternating_current.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_anatomy_of_flowering_plants",
+    "title": "NEET - Anatomy of Flowering Plants (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 127,
+    "totalMarks": 508.0,
+    "totalQuestions": 127,
+    "chapter": "Anatomy of Flowering Plants",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Anatomy of Flowering Plants (Biology) - 127 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_anatomy_of_flowering_plants.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_animal_kingdom",
+    "title": "NEET - Animal Kingdom (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 202,
+    "totalMarks": 808.0,
+    "totalQuestions": 202,
+    "chapter": "Animal Kingdom",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Animal Kingdom (Biology) - 202 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_animal_kingdom.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_atoms_and_nuclei",
+    "title": "NEET - Atoms and Nuclei (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 188,
+    "totalMarks": 752.0,
+    "totalQuestions": 188,
+    "chapter": "Atoms and Nuclei",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Atoms and Nuclei (Physics) - 188 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_atoms_and_nuclei.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_biodiversity_and_conservation",
+    "title": "NEET - Biodiversity and Conservation (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 104,
+    "totalMarks": 416.0,
+    "totalQuestions": 104,
+    "chapter": "Biodiversity and Conservation",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Biodiversity and Conservation (Biology) - 104 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_biodiversity_and_conservation.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_biological_classification",
+    "title": "NEET - Biological Classification (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 177,
+    "totalMarks": 708.0,
+    "totalQuestions": 177,
+    "chapter": "Biological Classification",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Biological Classification (Biology) - 177 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_biological_classification.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_biomolecules",
+    "title": "NEET - Biomolecules (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 142,
+    "totalMarks": 568.0,
+    "totalQuestions": 142,
+    "chapter": "Biomolecules",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Biomolecules (Biology) - 142 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_biomolecules.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_biomolecules",
+    "title": "NEET - Biomolecules (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 81,
+    "totalMarks": 324.0,
+    "totalQuestions": 81,
+    "chapter": "Biomolecules",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Biomolecules (Chemistry) - 81 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_biomolecules.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_biotechnology_principles_and_processes",
+    "title": "NEET - Biotechnology Principles and Processes (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 143,
+    "totalMarks": 572.0,
+    "totalQuestions": 143,
+    "chapter": "Biotechnology Principles and Processes",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Biotechnology Principles and Processes (Biology) - 143 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_biotechnology_principles_and_processes.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_biotechnology_and_it_s_applications",
+    "title": "NEET - Biotechnology and It's Applications (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 99,
+    "totalMarks": 396.0,
+    "totalQuestions": 99,
+    "chapter": "Biotechnology and It's Applications",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Biotechnology and It's Applications (Biology) - 99 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_biotechnology_and_it_s_applications.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_body_fluids_and_its_circulation",
+    "title": "NEET - Body Fluids and Its Circulation (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 112,
+    "totalMarks": 448.0,
+    "totalQuestions": 112,
+    "chapter": "Body Fluids and Its Circulation",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Body Fluids and Its Circulation (Biology) - 112 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_body_fluids_and_its_circulation.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_breathing_and_exchange_of_gases",
+    "title": "NEET - Breathing and Exchange of Gases (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 72,
+    "totalMarks": 288.0,
+    "totalQuestions": 72,
+    "chapter": "Breathing and Exchange of Gases",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Breathing and Exchange of Gases (Biology) - 72 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_breathing_and_exchange_of_gases.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_capacitor",
+    "title": "NEET - Capacitor (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 47,
+    "totalMarks": 188.0,
+    "totalQuestions": 47,
+    "chapter": "Capacitor",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Capacitor (Physics) - 47 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_capacitor.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_cell_the_unit_of_life",
+    "title": "NEET - Cell - The Unit of Life (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 195,
+    "totalMarks": 780.0,
+    "totalQuestions": 195,
+    "chapter": "Cell - The Unit of Life",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Cell - The Unit of Life (Biology) - 195 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_cell_the_unit_of_life.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_cell_cycle_and_cell_division",
+    "title": "NEET - Cell Cycle and Cell Division (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 102,
+    "totalMarks": 408.0,
+    "totalQuestions": 102,
+    "chapter": "Cell Cycle and Cell Division",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Cell Cycle and Cell Division (Biology) - 102 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_cell_cycle_and_cell_division.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_center_of_mass_and_collision",
+    "title": "NEET - Center of Mass and Collision (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 57,
+    "totalMarks": 228.0,
+    "totalQuestions": 57,
+    "chapter": "Center of Mass and Collision",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Center of Mass and Collision (Physics) - 57 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_center_of_mass_and_collision.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_chemical_bonding_and_molecular_structure",
+    "title": "NEET - Chemical Bonding and Molecular Structure (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 167,
+    "totalMarks": 668.0,
+    "totalQuestions": 167,
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Chemical Bonding and Molecular Structure (Chemistry) - 167 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_chemical_bonding_and_molecular_structure.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_chemical_coordination_and_integration",
+    "title": "NEET - Chemical Coordination and Integration (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 109,
+    "totalMarks": 436.0,
+    "totalQuestions": 109,
+    "chapter": "Chemical Coordination and Integration",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Chemical Coordination and Integration (Biology) - 109 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_chemical_coordination_and_integration.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_chemical_equilibrium",
+    "title": "NEET - Chemical Equilibrium (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 45,
+    "totalMarks": 180.0,
+    "totalQuestions": 45,
+    "chapter": "Chemical Equilibrium",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Chemical Equilibrium (Chemistry) - 45 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_chemical_equilibrium.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_chemical_kinetics",
+    "title": "NEET - Chemical Kinetics (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 85,
+    "totalMarks": 340.0,
+    "totalQuestions": 85,
+    "chapter": "Chemical Kinetics",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Chemical Kinetics (Chemistry) - 85 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_chemical_kinetics.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_chemistry_in_everyday_life",
+    "title": "NEET - Chemistry in Everyday Life (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 30,
+    "totalMarks": 104.0,
+    "totalQuestions": 26,
+    "chapter": "Chemistry in Everyday Life",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Chemistry in Everyday Life (Chemistry) - 26 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_chemistry_in_everyday_life.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_coordination_compounds",
+    "title": "NEET - Coordination Compounds (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 121,
+    "totalMarks": 484.0,
+    "totalQuestions": 121,
+    "chapter": "Coordination Compounds",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Coordination Compounds (Chemistry) - 121 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_coordination_compounds.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_current_electricity",
+    "title": "NEET - Current Electricity (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 173,
+    "totalMarks": 692.0,
+    "totalQuestions": 173,
+    "chapter": "Current Electricity",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Current Electricity (Physics) - 173 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_current_electricity.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_digestion_and_absorption",
+    "title": "NEET - Digestion and Absorption (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 89,
+    "totalMarks": 356.0,
+    "totalQuestions": 89,
+    "chapter": "Digestion and Absorption",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Digestion and Absorption (Biology) - 89 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_digestion_and_absorption.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_physics_dual_nature_of_radiation_and_matter",
+    "title": "NEET - Dual Nature of Radiation and Matter (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 123,
+    "totalMarks": 492.0,
+    "totalQuestions": 123,
+    "chapter": "Dual Nature of Radiation and Matter",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Dual Nature of Radiation and Matter (Physics) - 123 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_dual_nature_of_radiation_and_matter.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_ecosystem",
+    "title": "NEET - Ecosystem (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 111,
+    "totalMarks": 444.0,
+    "totalQuestions": 111,
+    "chapter": "Ecosystem",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Ecosystem (Biology) - 111 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_ecosystem.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_electrochemistry",
+    "title": "NEET - Electrochemistry (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 91,
+    "totalMarks": 364.0,
+    "totalQuestions": 91,
+    "chapter": "Electrochemistry",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Electrochemistry (Chemistry) - 91 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_electrochemistry.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_electromagnetic_induction",
+    "title": "NEET - Electromagnetic Induction (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 57,
+    "totalMarks": 228.0,
+    "totalQuestions": 57,
+    "chapter": "Electromagnetic Induction",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Electromagnetic Induction (Physics) - 57 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_electromagnetic_induction.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_electromagnetic_waves",
+    "title": "NEET - Electromagnetic Waves (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 56,
+    "totalMarks": 224.0,
+    "totalQuestions": 56,
+    "chapter": "Electromagnetic Waves",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Electromagnetic Waves (Physics) - 56 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_electromagnetic_waves.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_electrostatics",
+    "title": "NEET - Electrostatics (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 95,
+    "totalMarks": 380.0,
+    "totalQuestions": 95,
+    "chapter": "Electrostatics",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Electrostatics (Physics) - 95 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_electrostatics.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_environmental_chemistry",
+    "title": "NEET - Environmental Chemistry (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 30,
+    "totalMarks": 72.0,
+    "totalQuestions": 18,
+    "chapter": "Environmental Chemistry",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Environmental Chemistry (Chemistry) - 18 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_environmental_chemistry.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_biology_environmental_issues",
+    "title": "NEET - Environmental Issues (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 152,
+    "totalMarks": 608.0,
+    "totalQuestions": 152,
+    "chapter": "Environmental Issues",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Environmental Issues (Biology) - 152 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_environmental_issues.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_biology_evolution",
+    "title": "NEET - Evolution (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 189,
+    "totalMarks": 756.0,
+    "totalQuestions": 189,
+    "chapter": "Evolution",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Evolution (Biology) - 189 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_evolution.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_excretory_products_and_their_elimination",
+    "title": "NEET - Excretory Products and Their Elimination (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 72,
+    "totalMarks": 288.0,
+    "totalQuestions": 72,
+    "chapter": "Excretory Products and Their Elimination",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Excretory Products and Their Elimination (Biology) - 72 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_excretory_products_and_their_elimination.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_gaseous_state",
+    "title": "NEET - Gaseous State (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 64,
+    "totalMarks": 256.0,
+    "totalQuestions": 64,
+    "chapter": "Gaseous State",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Gaseous State (Chemistry) - 64 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_gaseous_state.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_physics_geometrical_optics",
+    "title": "NEET - Geometrical Optics (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 114,
+    "totalMarks": 456.0,
+    "totalQuestions": 114,
+    "chapter": "Geometrical Optics",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Geometrical Optics (Physics) - 114 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_geometrical_optics.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_gravitation",
+    "title": "NEET - Gravitation (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 88,
+    "totalMarks": 352.0,
+    "totalQuestions": 88,
+    "chapter": "Gravitation",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Gravitation (Physics) - 88 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_gravitation.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_haloalkanes_and_haloarenes",
+    "title": "NEET - Haloalkanes and Haloarenes (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 50,
+    "totalMarks": 200.0,
+    "totalQuestions": 50,
+    "chapter": "Haloalkanes and Haloarenes",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Haloalkanes and Haloarenes (Chemistry) - 50 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_haloalkanes_and_haloarenes.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_heat_and_thermodynamics",
+    "title": "NEET - Heat and Thermodynamics (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 163,
+    "totalMarks": 652.0,
+    "totalQuestions": 163,
+    "chapter": "Heat and Thermodynamics",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Heat and Thermodynamics (Physics) - 163 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_heat_and_thermodynamics.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_human_health_and_diseases",
+    "title": "NEET - Human Health and Diseases (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 171,
+    "totalMarks": 684.0,
+    "totalQuestions": 171,
+    "chapter": "Human Health and Diseases",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Human Health and Diseases (Biology) - 171 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_human_health_and_diseases.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_human_reproduction",
+    "title": "NEET - Human Reproduction (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 149,
+    "totalMarks": 596.0,
+    "totalQuestions": 149,
+    "chapter": "Human Reproduction",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Human Reproduction (Biology) - 149 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_human_reproduction.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_hydrocarbons",
+    "title": "NEET - Hydrocarbons (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 103,
+    "totalMarks": 412.0,
+    "totalQuestions": 103,
+    "chapter": "Hydrocarbons",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Hydrocarbons (Chemistry) - 103 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_hydrocarbons.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_hydrogen",
+    "title": "NEET - Hydrogen (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 30,
+    "totalMarks": 96.0,
+    "totalQuestions": 24,
+    "chapter": "Hydrogen",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Hydrogen (Chemistry) - 24 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_hydrogen.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_ionic_equilibrium",
+    "title": "NEET - Ionic Equilibrium (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 89,
+    "totalMarks": 356.0,
+    "totalQuestions": 89,
+    "chapter": "Ionic Equilibrium",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Ionic Equilibrium (Chemistry) - 89 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_ionic_equilibrium.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_laws_of_motion",
+    "title": "NEET - Laws of Motion (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 83,
+    "totalMarks": 332.0,
+    "totalQuestions": 83,
+    "chapter": "Laws of Motion",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Laws of Motion (Physics) - 83 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_laws_of_motion.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_locomotion_and_movement",
+    "title": "NEET - Locomotion and Movement (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 78,
+    "totalMarks": 312.0,
+    "totalQuestions": 78,
+    "chapter": "Locomotion and Movement",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Locomotion and Movement (Biology) - 78 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_locomotion_and_movement.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_magnetism_and_matter",
+    "title": "NEET - Magnetism and Matter (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 49,
+    "totalMarks": 196.0,
+    "totalQuestions": 49,
+    "chapter": "Magnetism and Matter",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Magnetism and Matter (Physics) - 49 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_magnetism_and_matter.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_microbes_in_human_welfare",
+    "title": "NEET - Microbes in Human Welfare (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 99,
+    "totalMarks": 396.0,
+    "totalQuestions": 99,
+    "chapter": "Microbes in Human Welfare",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Microbes in Human Welfare (Biology) - 99 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_microbes_in_human_welfare.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_mineral_nutrition",
+    "title": "NEET - Mineral Nutrition (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 62,
+    "totalMarks": 248.0,
+    "totalQuestions": 62,
+    "chapter": "Mineral Nutrition",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Mineral Nutrition (Biology) - 62 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_mineral_nutrition.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_biology_molecular_basis_of_inheritance",
+    "title": "NEET - Molecular Basis of Inheritance (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 255,
+    "totalMarks": 1020.0,
+    "totalQuestions": 255,
+    "chapter": "Molecular Basis of Inheritance",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Molecular Basis of Inheritance (Biology) - 255 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_molecular_basis_of_inheritance.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_morphology_of_flowering_plants",
+    "title": "NEET - Morphology of Flowering Plants (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 162,
+    "totalMarks": 648.0,
+    "totalQuestions": 162,
+    "chapter": "Morphology of Flowering Plants",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Morphology of Flowering Plants (Biology) - 162 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_morphology_of_flowering_plants.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_motion_in_a_plane",
+    "title": "NEET - Motion in a Plane (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 75,
+    "totalMarks": 300.0,
+    "totalQuestions": 75,
+    "chapter": "Motion in a Plane",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Motion in a Plane (Physics) - 75 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_motion_in_a_plane.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_motion_in_a_straight_line",
+    "title": "NEET - Motion in a Straight Line (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 66,
+    "totalMarks": 264.0,
+    "totalQuestions": 66,
+    "chapter": "Motion in a Straight Line",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Motion in a Straight Line (Physics) - 66 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_motion_in_a_straight_line.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_moving_charges_and_magnetism",
+    "title": "NEET - Moving Charges and Magnetism (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 104,
+    "totalMarks": 416.0,
+    "totalQuestions": 104,
+    "chapter": "Moving Charges and Magnetism",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Moving Charges and Magnetism (Physics) - 104 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_moving_charges_and_magnetism.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_neural_control_and_coordination",
+    "title": "NEET - Neural Control and Coordination (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 82,
+    "totalMarks": 328.0,
+    "totalQuestions": 82,
+    "chapter": "Neural Control and Coordination",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Neural Control and Coordination (Biology) - 82 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_neural_control_and_coordination.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_nuclear_chemistry",
+    "title": "NEET - Nuclear Chemistry (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 30,
+    "totalMarks": 72.0,
+    "totalQuestions": 18,
+    "chapter": "Nuclear Chemistry",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Nuclear Chemistry (Chemistry) - 18 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_nuclear_chemistry.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_organic_compounds_containing_nitrogen",
+    "title": "NEET - Organic Compounds Containing Nitrogen (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 76,
+    "totalMarks": 304.0,
+    "totalQuestions": 76,
+    "chapter": "Organic Compounds Containing Nitrogen",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Organic Compounds Containing Nitrogen (Chemistry) - 76 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_organic_compounds_containing_nitrogen.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_organisms_and_populations",
+    "title": "NEET - Organisms and Populations (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 124,
+    "totalMarks": 496.0,
+    "totalQuestions": 124,
+    "chapter": "Organisms and Populations",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Organisms and Populations (Biology) - 124 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_organisms_and_populations.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_oscillations",
+    "title": "NEET - Oscillations (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 85,
+    "totalMarks": 340.0,
+    "totalQuestions": 85,
+    "chapter": "Oscillations",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Oscillations (Physics) - 85 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_oscillations.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_periodic_table_and_periodicity",
+    "title": "NEET - Periodic Table and Periodicity (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 70,
+    "totalMarks": 280.0,
+    "totalQuestions": 70,
+    "chapter": "Periodic Table and Periodicity",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Periodic Table and Periodicity (Chemistry) - 70 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_periodic_table_and_periodicity.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_photosynthesis_in_higher_plants",
+    "title": "NEET - Photosynthesis in Higher Plants (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 128,
+    "totalMarks": 512.0,
+    "totalQuestions": 128,
+    "chapter": "Photosynthesis in Higher Plants",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Photosynthesis in Higher Plants (Biology) - 128 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_photosynthesis_in_higher_plants.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_plant_growth_and_development",
+    "title": "NEET - Plant Growth and Development (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 135,
+    "totalMarks": 540.0,
+    "totalQuestions": 135,
+    "chapter": "Plant Growth and Development",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Plant Growth and Development (Biology) - 135 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_plant_growth_and_development.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_plant_kingdom",
+    "title": "NEET - Plant Kingdom (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 176,
+    "totalMarks": 704.0,
+    "totalQuestions": 176,
+    "chapter": "Plant Kingdom",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Plant Kingdom (Biology) - 176 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_plant_kingdom.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_polymers",
+    "title": "NEET - Polymers (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 40,
+    "totalMarks": 160.0,
+    "totalQuestions": 40,
+    "chapter": "Polymers",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Polymers (Chemistry) - 40 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_polymers.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_biology_principles_of_inheritance_and_variation",
+    "title": "NEET - Principles of Inheritance and Variation (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 272,
+    "totalMarks": 1088.0,
+    "totalQuestions": 272,
+    "chapter": "Principles of Inheritance and Variation",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Principles of Inheritance and Variation (Biology) - 272 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_principles_of_inheritance_and_variation.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_processes_of_isolation_of_elements",
+    "title": "NEET - Processes of Isolation of Elements (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 33,
+    "totalMarks": 132.0,
+    "totalQuestions": 33,
+    "chapter": "Processes of Isolation of Elements",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Processes of Isolation of Elements (Chemistry) - 33 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_processes_of_isolation_of_elements.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_physics_properties_of_matter",
+    "title": "NEET - Properties of Matter (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 68,
+    "totalMarks": 272.0,
+    "totalQuestions": 68,
+    "chapter": "Properties of Matter",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Properties of Matter (Physics) - 68 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_properties_of_matter.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_redox_reactions",
+    "title": "NEET - Redox Reactions (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 36,
+    "totalMarks": 144.0,
+    "totalQuestions": 36,
+    "chapter": "Redox Reactions",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Redox Reactions (Chemistry) - 36 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_redox_reactions.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_reproduction_in_organisms",
+    "title": "NEET - Reproduction in Organisms (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 30,
+    "totalMarks": 108.0,
+    "totalQuestions": 27,
+    "chapter": "Reproduction in Organisms",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Reproduction in Organisms (Biology) - 27 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_reproduction_in_organisms.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_biology_reproductive_health",
+    "title": "NEET - Reproductive Health (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 69,
+    "totalMarks": 276.0,
+    "totalQuestions": 69,
+    "chapter": "Reproductive Health",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Reproductive Health (Biology) - 69 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_reproductive_health.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_respiration_in_plants",
+    "title": "NEET - Respiration in Plants (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 73,
+    "totalMarks": 292.0,
+    "totalQuestions": 73,
+    "chapter": "Respiration in Plants",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Respiration in Plants (Biology) - 73 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_respiration_in_plants.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_rotational_motion",
+    "title": "NEET - Rotational Motion (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 108,
+    "totalMarks": 432.0,
+    "totalQuestions": 108,
+    "chapter": "Rotational Motion",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Rotational Motion (Physics) - 108 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_rotational_motion.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_semiconductor_electronics",
+    "title": "NEET - Semiconductor Electronics (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 167,
+    "totalMarks": 668.0,
+    "totalQuestions": 167,
+    "chapter": "Semiconductor Electronics",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Semiconductor Electronics (Physics) - 167 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_semiconductor_electronics.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_sexual_reproduction_in_flowering_plants",
+    "title": "NEET - Sexual Reproduction in Flowering Plants (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 163,
+    "totalMarks": 652.0,
+    "totalQuestions": 163,
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Sexual Reproduction in Flowering Plants (Biology) - 163 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_sexual_reproduction_in_flowering_plants.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_solid_state",
+    "title": "NEET - Solid State (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 66,
+    "totalMarks": 264.0,
+    "totalQuestions": 66,
+    "chapter": "Solid State",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Solid State (Chemistry) - 66 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_solid_state.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_solutions",
+    "title": "NEET - Solutions (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 70,
+    "totalMarks": 280.0,
+    "totalQuestions": 70,
+    "chapter": "Solutions",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Solutions (Chemistry) - 70 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_solutions.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_some_basic_concepts_of_chemistry",
+    "title": "NEET - Some Basic Concepts of Chemistry (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 84,
+    "totalMarks": 336.0,
+    "totalQuestions": 84,
+    "chapter": "Some Basic Concepts of Chemistry",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Some Basic Concepts of Chemistry (Chemistry) - 84 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_some_basic_concepts_of_chemistry.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_some_basic_concepts_of_organic_chemistry",
+    "title": "NEET - Some Basic Concepts of Organic Chemistry (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 130,
+    "totalMarks": 520.0,
+    "totalQuestions": 130,
+    "chapter": "Some Basic Concepts of Organic Chemistry",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Some Basic Concepts of Organic Chemistry (Chemistry) - 130 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_some_basic_concepts_of_organic_chemistry.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_strategies_for_enhancement_in_food_production",
+    "title": "NEET - Strategies for Enhancement in Food Production (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 73,
+    "totalMarks": 292.0,
+    "totalQuestions": 73,
+    "chapter": "Strategies for Enhancement in Food Production",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Strategies for Enhancement in Food Production (Biology) - 73 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_strategies_for_enhancement_in_food_production.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_biology_structural_organisation_in_animals",
+    "title": "NEET - Structural Organisation in Animals (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 130,
+    "totalMarks": 520.0,
+    "totalQuestions": 130,
+    "chapter": "Structural Organisation in Animals",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Structural Organisation in Animals (Biology) - 130 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_structural_organisation_in_animals.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_structure_of_atom",
+    "title": "NEET - Structure of Atom (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 90,
+    "totalMarks": 360.0,
+    "totalQuestions": 90,
+    "chapter": "Structure of Atom",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Structure of Atom (Chemistry) - 90 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_structure_of_atom.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_surface_chemistry",
+    "title": "NEET - Surface Chemistry (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 34,
+    "totalMarks": 136.0,
+    "totalQuestions": 34,
+    "chapter": "Surface Chemistry",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Surface Chemistry (Chemistry) - 34 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_surface_chemistry.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_biology_the_living_world",
+    "title": "NEET - The Living World (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 44,
+    "totalMarks": 176.0,
+    "totalQuestions": 44,
+    "chapter": "The Living World",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - The Living World (Biology) - 44 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_the_living_world.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_thermodynamics",
+    "title": "NEET - Thermodynamics (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 100,
+    "totalMarks": 400.0,
+    "totalQuestions": 100,
+    "chapter": "Thermodynamics",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Thermodynamics (Chemistry) - 100 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_thermodynamics.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_biology_transport_in_plants",
+    "title": "NEET - Transport in Plants (Biology)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 69,
+    "totalMarks": 276.0,
+    "totalQuestions": 69,
+    "chapter": "Transport in Plants",
+    "subject": "Biology",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Transport in Plants (Biology) - 69 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_biology_transport_in_plants.json",
+    "isOutOfSyllabus": true
+  },
+  {
+    "paperId": "neet_topicwise_physics_units_measurement",
+    "title": "NEET - Units & Measurement (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 82,
+    "totalMarks": 328.0,
+    "totalQuestions": 82,
+    "chapter": "Units & Measurement",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Units & Measurement (Physics) - 82 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_units_measurement.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_vector_algebra",
+    "title": "NEET - Vector Algebra (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 30,
+    "totalMarks": 16.0,
+    "totalQuestions": 4,
+    "chapter": "Vector Algebra",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Vector Algebra (Physics) - 4 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_vector_algebra.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_wave_optics",
+    "title": "NEET - Wave Optics (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 58,
+    "totalMarks": 232.0,
+    "totalQuestions": 58,
+    "chapter": "Wave Optics",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Wave Optics (Physics) - 58 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_wave_optics.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_waves",
+    "title": "NEET - Waves (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 92,
+    "totalMarks": 368.0,
+    "totalQuestions": 92,
+    "chapter": "Waves",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Waves (Physics) - 92 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_waves.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_physics_work_energy_and_power",
+    "title": "NEET - Work, Energy and Power (Physics)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 69,
+    "totalMarks": 276.0,
+    "totalQuestions": 69,
+    "chapter": "Work, Energy and Power",
+    "subject": "Physics",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - Work, Energy and Power (Physics) - 69 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_physics_work_energy_and_power.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_d_and_f_block_elements",
+    "title": "NEET - d and f Block Elements (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 105,
+    "totalMarks": 420.0,
+    "totalQuestions": 105,
+    "chapter": "d and f Block Elements",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - d and f Block Elements (Chemistry) - 105 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_d_and_f_block_elements.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_p_block_elements",
+    "title": "NEET - p-Block Elements (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 161,
+    "totalMarks": 644.0,
+    "totalQuestions": 161,
+    "chapter": "p-Block Elements",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - p-Block Elements (Chemistry) - 161 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_p_block_elements.json",
+    "isOutOfSyllabus": false
+  },
+  {
+    "paperId": "neet_topicwise_chemistry_s_block_elements",
+    "title": "NEET - s-Block Elements (Chemistry)",
+    "category": "Topic-wise PYQ",
+    "year": null,
+    "examType": "NEET",
+    "durationMinutes": 59,
+    "totalMarks": 236.0,
+    "totalQuestions": 59,
+    "chapter": "s-Block Elements",
+    "subject": "Chemistry",
+    "sectionsCount": 1,
+    "description": "NEET UG NEET - s-Block Elements (Chemistry) - 59 Questions (+4/-1 marking scheme)",
+    "jsonPath": "data/papers/neet/neet_topicwise_chemistry_s_block_elements.json",
+    "isOutOfSyllabus": true
   }
 ]

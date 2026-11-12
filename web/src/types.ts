@@ -31,6 +31,7 @@ export interface Question {
   status: QuestionStatus;
   visited?: boolean;
   timeSpent?: number;
+  isOutOfSyllabus?: boolean;
 }
 
 export interface Section {
@@ -39,6 +40,7 @@ export interface Section {
   totalQuestions: number;
   cutoffMarks?: number;
   questions: Question[];
+  isOutOfSyllabus?: boolean;
 }
 
 export interface ExamPaper {
@@ -52,6 +54,9 @@ export interface ExamPaper {
   description?: string;
   instructions?: string[];
   sections: Section[];
+  isOutOfSyllabus?: boolean;
+  subject?: string;
+  chapter?: string;
 }
 
 export interface PaperIndexItem {
@@ -68,6 +73,7 @@ export interface PaperIndexItem {
   sectionsCount: number;
   description?: string;
   jsonPath: string;
+  isOutOfSyllabus?: boolean;
 }
 
 export interface QuestionEvaluation {
@@ -87,6 +93,7 @@ export interface QuestionEvaluation {
   explanation?: string;
   imageUrl?: string;
   questionText?: string;
+  isOutOfSyllabus?: boolean;
 }
 
 export interface ExamResult {

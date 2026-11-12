@@ -523,6 +523,11 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                         <span className="text-xs text-slate-600">
                           Section: <strong>{q.sectionName}</strong>
                         </span>
+                        {q.isOutOfSyllabus && (
+                          <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded border border-amber-300">
+                            ⚠️ Out of Syllabus
+                          </span>
+                        )}
                       </div>
 
                       <div className="flex items-center gap-3">

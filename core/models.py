@@ -57,6 +57,7 @@ class Question:
     candidate_answer: Any = None                # Student's response: "A", ["A","B"], or "12.5"
     time_spent_seconds: int = 0                 # Time spent on this question
     visited: bool = False
+    is_out_of_syllabus: bool = False
 
     def is_answered(self) -> bool:
         if self.candidate_answer is None:
@@ -88,6 +89,9 @@ class ExamPaper:
     description: Optional[str] = None           # Brief summary of paper
     sections: List[Section] = field(default_factory=list)
     instructions: Optional[List[str]] = None
+    is_out_of_syllabus: bool = False
+    subject: Optional[str] = None
+    chapter: Optional[str] = None
 
     @property
     def all_questions(self) -> List[Question]:
@@ -119,6 +123,7 @@ class QuestionEvaluation:
     explanation: Optional[str] = None
     image_url: Optional[str] = None
     question_text: Optional[str] = None
+    is_out_of_syllabus: bool = False
 
 
 @dataclass

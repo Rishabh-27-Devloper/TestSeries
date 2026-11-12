@@ -154,7 +154,8 @@ class ExamEvaluator:
                 time_spent=q.time_spent_seconds,
                 explanation=q.explanation,
                 image_url=q.image_url,
-                question_text=q.question_text
+                question_text=q.question_text,
+                is_out_of_syllabus=q.is_out_of_syllabus
             ))
 
         total_questions = len(paper.all_questions)
