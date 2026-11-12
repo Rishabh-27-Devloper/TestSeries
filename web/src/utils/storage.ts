@@ -80,14 +80,38 @@ export function saveAttempt(result: ExamResult): void {
   }
 }
 
-export function clearUserAttempts(): void {
+export function getAttemptsByExam(examType: string): ExamResult[] {
+  const norm = (examType || '').trim().toUpperCase();
+  return getAllAttempts().filter((a) => {
+    const aType = (a.examType || '').trim().toUpperCase();
+    if (norm === 'NEET' || norm === 'NEET UG') {
+      return aType === 'NEET' || aType === 'NEET UG';
+    }
+    return aType === norm;
+  });
+}
+
+export function clearUserAttempts(examType?: string): void {
   try {
-    localStorage.removeItem(ATTEMPTS_KEY);
-    for (let i = localStorage.length - 1; i >= 0; i--) {
-      const k = localStorage.key(i);
-      if (k && (k.startsWith('test_series_attempts_') || k === 'test_series_attempts')) {
-        localStorage.removeItem(k);
+    if (!examType) {
+      localStorage.removeItem(ATTEMPTS_KEY);
+      for (let i = localStorage.length - 1; i >= 0; i--) {
+        const k = localStorage.key(i);
+        if (k && (k.startsWith('test_series_attempts_') || k === 'test_series_attempts')) {
+          localStorage.removeItem(k);
+        }
       }
+    } else {
+      const norm = examType.trim().toUpperCase();
+      const all = getAllAttempts();
+      const remaining = all.filter((a) => {
+        const aType = (a.examType || '').trim().toUpperCase();
+        if (norm === 'NEET' || norm === 'NEET UG') {
+          return aType !== 'NEET' && aType !== 'NEET UG';
+        }
+        return aType !== norm;
+      });
+      localStorage.setItem(ATTEMPTS_KEY, JSON.stringify(remaining));
     }
   } catch (e) {
     console.error('Failed to clear user attempts', e);
@@ -196,6 +220,7 @@ export const storage = {
   getUserProfile,
   saveUserProfile,
   getAllAttempts,
+  getAttemptsByExam,
   saveAttempt,
   clearUserAttempts,
   deleteAttemptsForPaper,

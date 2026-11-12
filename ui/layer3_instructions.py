@@ -113,7 +113,7 @@ class InstructionsScreen(QWidget):
                 <li>Once you click <b>'I am ready to begin'</b>, the exam will launch in <b>STRICT FULLSCREEN KIOSK MODE</b>.</li>
                 <li>Pressing <b>Alt+Tab, Windows key, clicking outside the window, or launching external software</b> is strictly recorded as a security breach.</li>
                 <li>Maximum <b>3 warnings</b> will be issued. On the 3rd breach, your test will be <b>TERMINATED AND AUTO-SUBMITTED IMMEDIATELY</b>.</li>
-                <li>An authentic <b>GATE Virtual Scientific Calculator</b> is available on screen during the test via the top-bar button.</li>
+                {f"<li><b>Calculators Prohibited:</b> In accordance with official NTA NEET UG examination rules, virtual or physical calculators and electronic calculation aids are strictly prohibited. No calculator is provided.</li>" if self.paper.exam_type.upper() in ("NEET", "NEET UG") else "<li>An authentic <b>GATE Virtual Scientific Calculator</b> is available on screen during the test via the top-bar button.</li>"}
             </ul>
         </div>
         """

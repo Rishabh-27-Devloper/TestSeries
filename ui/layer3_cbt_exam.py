@@ -86,13 +86,16 @@ class CbtExamWindow(QWidget):
 
         h_layout.addStretch()
 
-        # Virtual Scientific Calculator Toggle Button
-        self.btn_calc = QPushButton("🖩  Virtual Calculator")
-        self.btn_calc.setObjectName("btnHeaderCalc")
-        self.btn_calc.setFixedHeight(34)
-        self.btn_calc.setCursor(Qt.CursorShape.PointingHandCursor)
-        self.btn_calc.clicked.connect(self._toggle_calculator)
-        h_layout.addWidget(self.btn_calc)
+        # Virtual Scientific Calculator Toggle Button (GATE only - strictly prohibited in NEET UG)
+        if self.paper.exam_type.upper() not in ("NEET", "NEET UG"):
+            self.btn_calc = QPushButton("🖩  Virtual Calculator")
+            self.btn_calc.setObjectName("btnHeaderCalc")
+            self.btn_calc.setFixedHeight(34)
+            self.btn_calc.setCursor(Qt.CursorShape.PointingHandCursor)
+            self.btn_calc.clicked.connect(self._toggle_calculator)
+            h_layout.addWidget(self.btn_calc)
+        else:
+            self.btn_calc = None
 
         # Countdown Timer Widget
         self.timer_widget = ExamTimerWidget(duration_minutes=self.paper.duration_minutes, parent=self)
@@ -330,6 +333,8 @@ class CbtExamWindow(QWidget):
         self.security_mgr.start_exam_security()
 
     def _toggle_calculator(self):
+        if not getattr(self, "btn_calc", None):
+            return
         if self.calculator.isVisible():
             self.calculator.hide()
         else:

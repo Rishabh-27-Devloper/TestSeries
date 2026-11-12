@@ -88,6 +88,7 @@ class StudentDashboardWindow(QWidget):
         self.student_name = student_name
         self.roll_number = roll_number
         self.phone_number = phone_number
+        self.active_exam_filter: str = "GATE"
 
         self._init_ui()
 
@@ -165,6 +166,8 @@ class StudentDashboardWindow(QWidget):
 
     def set_result(self, result: ExamResult):
         self.latest_result = result
+        if result and getattr(result, "exam_type", None):
+            self.active_exam_filter = result.exam_type
         self._build_analytics_tab()
         self._build_review_tab()
         self._build_trends_tab()
@@ -575,7 +578,57 @@ class StudentDashboardWindow(QWidget):
         layout.setContentsMargins(18, 16, 18, 16)
         layout.setSpacing(14)
 
-        attempts = self.storage_manager.load_all_attempts()
+        # Exam Separation Switcher (GATE vs NEET)
+        gate_attempts = self.storage_manager.load_all_attempts("GATE")
+        neet_attempts = self.storage_manager.load_all_attempts("NEET")
+        is_neet = self.active_exam_filter.upper() in ("NEET", "NEET UG")
+
+        filter_bar = QHBoxLayout()
+        btn_gate = QPushButton(f"🎓 GATE EC Attempts ({len(gate_attempts)})")
+        btn_gate.setCursor(Qt.CursorShape.PointingHandCursor)
+        btn_neet = QPushButton(f"🩺 NEET UG Attempts ({len(neet_attempts)})")
+        btn_neet.setCursor(Qt.CursorShape.PointingHandCursor)
+
+        btn_gate.setStyleSheet(f"""
+            QPushButton {{
+                background-color: {"#1a56a5" if not is_neet else "#ffffff"};
+                color: {"#ffffff" if not is_neet else "#334155"};
+                font-weight: bold;
+                font-size: 12px;
+                padding: 6px 16px;
+                border: 1px solid {"#1a56a5" if not is_neet else "#cbd5e1"};
+                border-radius: 6px;
+            }}
+        """)
+        btn_neet.setStyleSheet(f"""
+            QPushButton {{
+                background-color: {"#0d9488" if is_neet else "#ffffff"};
+                color: {"#ffffff" if is_neet else "#334155"};
+                font-weight: bold;
+                font-size: 12px;
+                padding: 6px 16px;
+                border: 1px solid {"#0d9488" if is_neet else "#cbd5e1"};
+                border-radius: 6px;
+            }}
+        """)
+
+        def _switch_to_gate():
+            self.active_exam_filter = "GATE"
+            self._build_trends_tab()
+
+        def _switch_to_neet():
+            self.active_exam_filter = "NEET"
+            self._build_trends_tab()
+
+        btn_gate.clicked.connect(_switch_to_gate)
+        btn_neet.clicked.connect(_switch_to_neet)
+
+        filter_bar.addWidget(btn_gate)
+        filter_bar.addWidget(btn_neet)
+        filter_bar.addStretch()
+        layout.addLayout(filter_bar)
+
+        attempts = neet_attempts if is_neet else gate_attempts
 
         # Cumulative Metrics Row
         cum_frame = QFrame()

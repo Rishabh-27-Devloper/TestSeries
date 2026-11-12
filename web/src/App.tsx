@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import type { ExamPaper, ExamResult, PaperIndexItem } from './types';
 import { storage } from './utils/storage';
+import { ExamSelectionPortal } from './components/portal/ExamSelectionPortal';
 import { PaperInventory } from './components/inventory/PaperInventory';
 import { InstructionsView } from './components/exam/InstructionsView';
 import { CbtExamWindow } from './components/exam/CbtExamWindow';
@@ -8,10 +9,11 @@ import { StudentDashboard } from './components/dashboard/StudentDashboard';
 import { UserProfileModal } from './components/modals/UserProfileModal';
 import { Loader2 } from 'lucide-react';
 
-type AppView = 'INVENTORY' | 'INSTRUCTIONS' | 'EXAM' | 'DASHBOARD';
+type AppView = 'PORTAL' | 'INVENTORY' | 'INSTRUCTIONS' | 'EXAM' | 'DASHBOARD';
 
 export function App() {
-  const [view, setView] = useState<AppView>('INVENTORY');
+  const [view, setView] = useState<AppView>('PORTAL');
+  const [selectedExam, setSelectedExam] = useState<'GATE' | 'NEET'>('GATE');
   const [papers, setPapers] = useState<PaperIndexItem[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [loadingPaper, setLoadingPaper] = useState<boolean>(false);
@@ -66,12 +68,25 @@ export function App() {
   const handleOpenDashboard = () => {
     const attempts = storage.getAllAttempts();
     if (attempts.length > 0) {
-      setCurrentResult(attempts[0]);
+      // Prefer an attempt matching currently selected exam if available
+      const matched = attempts.find(
+        (a) => (a.examType || '').toUpperCase() === selectedExam.toUpperCase()
+      );
+      setCurrentResult(matched || attempts[0]);
       setView('DASHBOARD');
     } else {
       alert(`No test attempts recorded. Attempt a paper first to view your personal performance analytics.`);
     }
   };
+
+  // Filter papers for currently selected exam portal (Strict separation)
+  const currentPortalPapers = papers.filter((p) => {
+    const et = (p.examType || 'GATE').toUpperCase();
+    if (selectedExam === 'NEET') {
+      return et === 'NEET' || et === 'NEET UG';
+    }
+    return et === 'GATE';
+  });
 
   // Loading Screen
   if (loading) {
@@ -79,13 +94,13 @@ export function App() {
       <div className="h-screen w-screen flex flex-col items-center justify-center bg-slate-50 font-sans">
         <div className="flex flex-col items-center gap-4">
           <div className="w-14 h-14 rounded-2xl bg-[#1a56a5] text-white flex items-center justify-center font-black text-2xl shadow-lg">
-            G
+            C
           </div>
           <div className="flex items-center gap-2 text-slate-700 text-sm font-semibold">
             <Loader2 className="animate-spin text-[#1a56a5]" size={20} />
-            <span>Loading GATE CBT Test Series Platform...</span>
+            <span>Loading CBT Examination Simulator Platform...</span>
           </div>
-          <p className="text-xs text-slate-400">Loading 100+ Test Papers &amp; Question Database</p>
+          <p className="text-xs text-slate-400">Loading GATE EC &amp; NEET UG Archive (249 Papers &amp; 23,650+ Questions)</p>
         </div>
       </div>
     );
@@ -96,11 +111,11 @@ export function App() {
     return (
       <div className="h-screen w-screen flex flex-col items-center justify-center bg-slate-50 font-sans">
         <div className="flex flex-col items-center gap-3">
-          <Loader2 className="animate-spin text-[#1a56a5]" size={36} />
+          <Loader2 className={`animate-spin ${selectedExam === 'NEET' ? 'text-teal-700' : 'text-[#1a56a5]'}`} size={36} />
           <div className="text-base font-bold text-slate-800">
             Preparing Examination Paper &amp; Slices...
           </div>
-          <p className="text-xs text-slate-500">Configuring TCS iON Test Engine &amp; Timers</p>
+          <p className="text-xs text-slate-500">Configuring CBT Test Engine &amp; Timers</p>
         </div>
       </div>
     );
@@ -108,14 +123,30 @@ export function App() {
 
   return (
     <div className="min-h-screen bg-slate-50">
-      {/* View 1: Paper Inventory (Layer 2) */}
+      {/* View 0: Multi-Exam Selection Portal (Layer 1) */}
+      {view === 'PORTAL' && (
+        <ExamSelectionPortal
+          papers={papers}
+          profile={profile}
+          onSelectExam={(exam) => {
+            setSelectedExam(exam);
+            setView('INVENTORY');
+          }}
+          onOpenDashboard={handleOpenDashboard}
+          onOpenProfile={() => setShowProfileModal(true)}
+        />
+      )}
+
+      {/* View 1: Paper Inventory (Layer 2) - Completely Separated by Exam */}
       {view === 'INVENTORY' && (
         <PaperInventory
-          key={profile.name}
-          papers={papers}
+          key={`${profile.name}_${selectedExam}`}
+          papers={currentPortalPapers}
+          selectedExam={selectedExam}
           onSelectPaper={handleSelectPaper}
           onOpenDashboard={handleOpenDashboard}
           onOpenProfile={() => setShowProfileModal(true)}
+          onBackToPortal={() => setView('PORTAL')}
         />
       )}
 
@@ -148,6 +179,7 @@ export function App() {
       {view === 'DASHBOARD' && currentResult && (
         <StudentDashboard
           currentResult={currentResult}
+          selectedExam={selectedExam}
           onRetakeExam={handleRetakeExam}
           onBackToInventory={() => setView('INVENTORY')}
           onLoadPastAttempt={(att) => setCurrentResult(att)}
@@ -157,6 +189,7 @@ export function App() {
       {/* Global Candidate Profile Modal */}
       <UserProfileModal
         isOpen={showProfileModal}
+        selectedExam={selectedExam}
         onClose={() => setShowProfileModal(false)}
         onProfileUpdated={(updated) => setProfile(updated)}
       />

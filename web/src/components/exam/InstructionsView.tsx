@@ -121,10 +121,16 @@ export const InstructionsView: React.FC<InstructionsViewProps> = ({
                 <strong>Numerical Answer Type (NAT):</strong> Enter real value with virtual numeric
                 keypad. No negative marking.
               </li>
-              <li>
-                An on-screen <strong>GATE Virtual Scientific Calculator</strong> is accessible via
-                the top bar calculator button.
-              </li>
+              {paper.examType === 'NEET' ? (
+                <li>
+                  <strong>Calculators Prohibited:</strong> In accordance with official NTA NEET UG examination rules, virtual or physical calculators and electronic calculation aids are strictly prohibited. No calculator is provided.
+                </li>
+              ) : (
+                <li>
+                  An on-screen <strong>GATE Virtual Scientific Calculator</strong> is accessible via
+                  the top bar calculator button.
+                </li>
+              )}
             </ol>
           </div>
 

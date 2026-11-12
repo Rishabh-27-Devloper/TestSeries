@@ -405,14 +405,16 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
 
         {/* Tools, Live Timer & Palette */}
         <div className="flex items-center gap-1 sm:gap-2.5 shrink-0">
-          <button
-            onClick={() => setShowCalculator(true)}
-            className="p-1.5 sm:px-2.5 sm:py-1 rounded bg-white/10 hover:bg-white/20 text-white transition border border-white/20 shrink-0"
-            title="Open Scientific Calculator"
-          >
-            <Calculator size={14} className="sm:w-[15px] sm:h-[15px]" />
-            <span className="hidden md:inline text-xs ml-1 font-medium">Calculator</span>
-          </button>
+          {paper.examType !== 'NEET' && (
+            <button
+              onClick={() => setShowCalculator(true)}
+              className="p-1.5 sm:px-2.5 sm:py-1 rounded bg-white/10 hover:bg-white/20 text-white transition border border-white/20 shrink-0"
+              title="Open Scientific Calculator"
+            >
+              <Calculator size={14} className="sm:w-[15px] sm:h-[15px]" />
+              <span className="hidden md:inline text-xs ml-1 font-medium">Calculator</span>
+            </button>
+          )}
 
           <button
             onClick={() => setShowQuestionPaper(true)}
@@ -879,7 +881,9 @@ export const CbtExamWindow: React.FC<CbtExamWindowProps> = ({
       )}
 
       {/* Modals */}
-      <GateCalculatorModal isOpen={showCalculator} onClose={() => setShowCalculator(false)} />
+      {paper.examType !== 'NEET' && (
+        <GateCalculatorModal isOpen={showCalculator} onClose={() => setShowCalculator(false)} />
+      )}
       <QuestionPaperModal
         isOpen={showQuestionPaper}
         paper={paper}

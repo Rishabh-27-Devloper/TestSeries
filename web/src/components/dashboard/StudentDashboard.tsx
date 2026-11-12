@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import confetti from 'canvas-confetti';
 import {
   Trophy,
@@ -16,6 +16,8 @@ import {
   Target,
   AlertTriangle,
   Trash2,
+  GraduationCap,
+  Stethoscope,
 } from 'lucide-react';
 import type { ExamResult, QuestionEvaluation } from '../../types';
 import {
@@ -30,6 +32,7 @@ import { ImageZoomModal } from '../modals/ImageZoomModal';
 
 interface StudentDashboardProps {
   currentResult: ExamResult;
+  selectedExam?: 'GATE' | 'NEET' | string;
   onRetakeExam: (paperId: string) => void;
   onBackToInventory: () => void;
   onLoadPastAttempt?: (attempt: ExamResult) => void;
@@ -37,6 +40,7 @@ interface StudentDashboardProps {
 
 export const StudentDashboard: React.FC<StudentDashboardProps> = ({
   currentResult: initialResult,
+  selectedExam,
   onRetakeExam,
   onBackToInventory,
   onLoadPastAttempt,
@@ -46,14 +50,33 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
   const [activeResult, setActiveResult] = useState<ExamResult>(initialResult);
   const [solutionFilter, setSolutionFilter] = useState<'ALL' | 'CORRECT' | 'INCORRECT' | 'UNATTEMPTED'>('ALL');
   const [zoomImage, setZoomImage] = useState<string | null>(null);
-  const [pastAttempts, setPastAttempts] = useState<ExamResult[]>(() =>
-    getAllAttempts()
-  );
+
+  const [historyExamFilter, setHistoryExamFilter] = useState<'GATE' | 'NEET'>(() => {
+    const et = (initialResult?.examType || selectedExam || 'GATE').toUpperCase();
+    return et === 'NEET' || et === 'NEET UG' ? 'NEET' : 'GATE';
+  });
+
+  const [allAttempts, setAllAttempts] = useState<ExamResult[]>(() => getAllAttempts());
+
+  const gateAttempts = useMemo(() => {
+    return allAttempts.filter((a) => (a.examType || '').toUpperCase() === 'GATE');
+  }, [allAttempts]);
+
+  const neetAttempts = useMemo(() => {
+    return allAttempts.filter((a) => {
+      const et = (a.examType || '').toUpperCase();
+      return et === 'NEET' || et === 'NEET UG';
+    });
+  }, [allAttempts]);
+
+  const currentExamAttempts = historyExamFilter === 'NEET' ? neetAttempts : gateAttempts;
 
   const handleClearHistory = () => {
-    if (confirm(`Are you sure you want to clear your test attempt history? This cannot be undone.`)) {
-      clearUserAttempts();
-      setPastAttempts([]);
+    const examLabel = historyExamFilter === 'NEET' ? 'NEET UG' : 'GATE EC';
+    if (confirm(`Are you sure you want to clear your ${examLabel} test attempt history? This will only remove your ${examLabel} attempts.`)) {
+      clearUserAttempts(historyExamFilter);
+      const remaining = getAllAttempts();
+      setAllAttempts(remaining);
     }
   };
 
@@ -65,7 +88,7 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
     ) {
       deleteSingleAttempt(att.timestamp, att.paperId);
       const remaining = getAllAttempts();
-      setPastAttempts(remaining);
+      setAllAttempts(remaining);
       if (remaining.length > 0) {
         if (activeResult.timestamp === att.timestamp && activeResult.paperId === att.paperId) {
           setActiveResult(remaining[0]);
@@ -199,7 +222,7 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
             }`}
           >
             <TrendingUp size={16} />
-            Past Attempts ({pastAttempts.length})
+            Past Attempts ({allAttempts.length})
           </button>
         </div>
       </header>
@@ -426,8 +449,10 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                   <strong className="text-rose-700">
                     -{activeResult.negativeMarks.toFixed(2)} marks
                   </strong>{' '}
-                  from {activeResult.incorrectCount} incorrect answers. In GATE, avoiding 3
-                  uncertain guesses often boosts AIR rank by 500+ positions.
+                  from {activeResult.incorrectCount} incorrect answers.
+                  {activeResult.examType === 'NEET'
+                    ? ' In NEET UG (+4.0 / -1.0), each negative mark costs hundreds of state ranks. Eliminating speculative guesses is key to crossing 650+.'
+                    : ' In GATE, avoiding 3 uncertain guesses often boosts AIR rank by 500+ positions.'}
                 </p>
               </div>
             </div>
@@ -636,33 +661,61 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
         {/* ========================================================================= */}
         {activeTab === 'TRENDS' && (
           <div className="space-y-6">
-            {/* Cumulative Stats */}
+            {/* Exam Separation Switcher */}
+            <div className="flex items-center gap-2 p-1.5 bg-slate-200/70 rounded-2xl w-fit">
+              <button
+                onClick={() => setHistoryExamFilter('GATE')}
+                className={`flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition ${
+                  historyExamFilter === 'GATE'
+                    ? 'bg-[#1a56a5] text-white shadow-sm'
+                    : 'text-slate-600 hover:text-slate-900 hover:bg-white/50'
+                }`}
+              >
+                <GraduationCap size={15} />
+                <span>GATE EC History ({gateAttempts.length})</span>
+              </button>
+              <button
+                onClick={() => setHistoryExamFilter('NEET')}
+                className={`flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition ${
+                  historyExamFilter === 'NEET'
+                    ? 'bg-teal-700 text-white shadow-sm'
+                    : 'text-slate-600 hover:text-slate-900 hover:bg-white/50'
+                }`}
+              >
+                <Stethoscope size={15} />
+                <span>NEET UG History ({neetAttempts.length})</span>
+              </button>
+            </div>
+
+            {/* Cumulative Stats for Current Exam Selection */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
               <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-xs">
-                <div className="text-xs font-semibold text-slate-500 uppercase">Tests Taken</div>
-                <div className="text-3xl font-black text-slate-900 mt-1">{pastAttempts.length}</div>
+                <div className="text-xs font-semibold text-slate-500 uppercase">
+                  {historyExamFilter === 'NEET' ? 'NEET Tests Taken' : 'GATE Tests Taken'}
+                </div>
+                <div className="text-3xl font-black text-slate-900 mt-1">{currentExamAttempts.length}</div>
                 <div className="text-[11px] text-slate-400 mt-1">Recorded sessions</div>
               </div>
 
               <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-xs">
                 <div className="text-xs font-semibold text-slate-500 uppercase">Average Marks %</div>
-                <div className="text-3xl font-black text-[#1a56a5] mt-1">
-                  {pastAttempts.length > 0
+                <div className={`text-3xl font-black mt-1 ${historyExamFilter === 'NEET' ? 'text-teal-700' : 'text-[#1a56a5]'}`}>
+                  {currentExamAttempts.length > 0
                     ? (
-                        pastAttempts.reduce((s: number, a: ExamResult) => s + a.percentageScore, 0) /
-                        pastAttempts.length
+                        currentExamAttempts.reduce((s: number, a: ExamResult) => s + a.percentageScore, 0) /
+                        currentExamAttempts.length
                       ).toFixed(1)
                     : 0}
                   %
                 </div>
-                <div className="text-[11px] text-slate-400 mt-1">Across all tests</div>
+                <div className="text-[11px] text-slate-400 mt-1">In {historyExamFilter === 'NEET' ? 'NEET UG' : 'GATE EC'}</div>
               </div>
 
               <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-xs">
                 <div className="text-xs font-semibold text-slate-500 uppercase">Highest Score</div>
                 <div className="text-3xl font-black text-emerald-700 mt-1">
-                  {pastAttempts.length > 0
-                    ? Math.max(...pastAttempts.map((a: ExamResult) => a.scoreObtained)).toFixed(2)
+                  {currentExamAttempts.length > 0
+                    ? Math.max(...currentExamAttempts.map((a: ExamResult) => a.scoreObtained)).toFixed(2)
                     : 0}
                 </div>
                 <div className="text-[11px] text-emerald-600 mt-1">Personal record</div>
@@ -672,7 +725,7 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                 <div className="text-xs font-semibold text-slate-500 uppercase">Total Practice</div>
                 <div className="text-3xl font-black text-amber-600 mt-1">
                   {Math.round(
-                    pastAttempts.reduce((s: number, a: ExamResult) => s + a.durationTakenSeconds, 0) /
+                    currentExamAttempts.reduce((s: number, a: ExamResult) => s + a.durationTakenSeconds, 0) /
                       60
                   )}{' '}
                   <span className="text-xs font-normal text-slate-500">mins</span>
@@ -686,31 +739,41 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
               <div className="px-6 py-4 border-b border-slate-200 flex flex-wrap items-center justify-between gap-3">
                 <div>
                   <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                    <span>Attempts History for {profile.name}</span>
+                    <span>
+                      {historyExamFilter === 'NEET' ? '🩺 NEET UG' : '🎓 GATE EC'} Attempt History for {profile.name}
+                    </span>
                   </h3>
                   <p className="text-xs text-slate-500">
-                    Personal scorecard log. Attempts are securely stored in your browser's private local storage.
+                    {historyExamFilter === 'NEET' ? 'NEET UG (+4 / -1)' : 'GATE EC (+1/+2, -0.33/-0.67)'} test records stored securely in your browser's private local storage.
                   </p>
                 </div>
                 <div className="flex items-center gap-2">
-                  <span className="text-xs font-semibold px-2.5 py-1 bg-blue-50 text-blue-800 rounded">
-                    {pastAttempts.length} Records
+                  <span className={`text-xs font-semibold px-2.5 py-1 rounded ${
+                    historyExamFilter === 'NEET' ? 'bg-teal-50 text-teal-800' : 'bg-blue-50 text-blue-800'
+                  }`}>
+                    {currentExamAttempts.length} Records
                   </span>
-                  {pastAttempts.length > 0 && (
+                  {currentExamAttempts.length > 0 && (
                     <button
                       onClick={handleClearHistory}
                       className="px-2.5 py-1 text-xs text-rose-600 hover:text-rose-800 hover:bg-rose-50 border border-rose-200 rounded transition font-medium"
-                      title="Clear only your personal attempt history"
+                      title="Clear only your attempt history for this exam"
                     >
-                      Clear My Log
+                      Clear {historyExamFilter === 'NEET' ? 'NEET' : 'GATE'} Log
                     </button>
                   )}
                 </div>
               </div>
 
-              {pastAttempts.length === 0 ? (
-                <div className="p-8 text-center text-xs text-slate-500">
-                  No previous attempts recorded yet.
+              {currentExamAttempts.length === 0 ? (
+                <div className="p-12 text-center text-xs text-slate-500 space-y-2">
+                  <div className="text-2xl">{historyExamFilter === 'NEET' ? '🩺' : '🎓'}</div>
+                  <div className="font-semibold text-slate-700">
+                    No {historyExamFilter === 'NEET' ? 'NEET UG' : 'GATE EC'} attempts recorded yet.
+                  </div>
+                  <p className="text-slate-400 max-w-sm mx-auto">
+                    Start a test in the {historyExamFilter === 'NEET' ? 'NEET UG' : 'GATE EC'} portal to review your scorecard, solutions, and accuracy analytics here.
+                  </p>
                 </div>
               ) : (
                 <div className="overflow-x-auto max-h-[500px] overflow-y-auto">
@@ -727,7 +790,7 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                       </tr>
                     </thead>
                     <tbody className="divide-y divide-slate-100 font-medium text-slate-800">
-                      {pastAttempts.map((att: ExamResult) => {
+                      {currentExamAttempts.map((att: ExamResult) => {
                         const isCurrentActive =
                           att.timestamp === activeResult.timestamp &&
                           att.paperId === activeResult.paperId;
@@ -786,7 +849,9 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
                               </button>
                               <button
                                 onClick={() => onRetakeExam(att.paperId)}
-                                className="px-3 py-1 bg-[#1a56a5] hover:bg-blue-700 text-white rounded font-semibold text-xs shadow-xs transition"
+                                className={`px-3 py-1 text-white rounded font-semibold text-xs shadow-xs transition ${
+                                  historyExamFilter === 'NEET' ? 'bg-teal-700 hover:bg-teal-800' : 'bg-[#1a56a5] hover:bg-blue-700'
+                                }`}
                               >
                                 Retake
                               </button>

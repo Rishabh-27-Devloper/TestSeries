@@ -135,4 +135,5 @@ export interface UserProfile {
   email?: string;
   targetYear: string;
   branch: string;
+  targetExam?: 'GATE' | 'NEET';
 }

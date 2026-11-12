@@ -4,6 +4,7 @@ import {
   Filter,
   BarChart3,
   GraduationCap,
+  ArrowLeft,
 } from 'lucide-react';
 import type { PaperIndexItem, UserProfile } from '../../types';
 import { PaperCard } from './PaperCard';
@@ -11,9 +12,11 @@ import { getAllAttempts, getUserProfile } from '../../utils/storage';
 
 interface PaperInventoryProps {
   papers: PaperIndexItem[];
+  selectedExam: 'GATE' | 'NEET';
   onSelectPaper: (paper: PaperIndexItem) => void;
   onOpenDashboard: () => void;
   onOpenProfile: () => void;
+  onBackToPortal: () => void;
 }
 
 const POPULAR_GATE_SUBJECTS = [
@@ -43,16 +46,7 @@ const POPULAR_NEET_SUBJECTS = [
   'Organic Chemistry',
 ];
 
-const POPULAR_COMBINED_SUBJECTS = [
-  'Full Length (PYQs)',
-  '⚠️ Out of Syllabus',
-  'Biology',
-  'Chemistry',
-  'Physics',
-  'Digital Circuits',
-  'Communications',
-  'Signals and Systems',
-];
+
 
 function checkSubjectOrChapterMatch(paper: PaperIndexItem, targetChapter: string): boolean {
   if (targetChapter === 'ALL') return true;
@@ -150,11 +144,12 @@ function checkSubjectOrChapterMatch(paper: PaperIndexItem, targetChapter: string
 
 export const PaperInventory: React.FC<PaperInventoryProps> = ({
   papers,
+  selectedExam,
   onSelectPaper,
   onOpenDashboard,
   onOpenProfile,
+  onBackToPortal,
 }) => {
-  const [selectedExam, setSelectedExam] = useState<'ALL' | 'GATE' | 'NEET'>('ALL');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedChapter, setSelectedChapter] = useState('ALL');
   const [selectedStatus, setSelectedStatus] = useState<'ALL' | 'ATTEMPTED' | 'UNATTEMPTED'>('ALL');
@@ -172,37 +167,25 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
     [allAttempts]
   );
 
-  const gateCount = useMemo(() => papers.filter((p) => (p.examType || 'GATE').toUpperCase() === 'GATE').length, [papers]);
-  const neetCount = useMemo(() => papers.filter((p) => (p.examType || '').toUpperCase() === 'NEET').length, [papers]);
-
   const popularSubjects = useMemo(() => {
-    if (selectedExam === 'NEET') return POPULAR_NEET_SUBJECTS;
-    if (selectedExam === 'GATE') return POPULAR_GATE_SUBJECTS;
-    return POPULAR_COMBINED_SUBJECTS;
+    return selectedExam === 'NEET' ? POPULAR_NEET_SUBJECTS : POPULAR_GATE_SUBJECTS;
   }, [selectedExam]);
 
   // Extract unique chapters and topics (excluding 'Full Length')
   const chaptersList = useMemo(() => {
     const set = new Set<string>();
     papers.forEach((p) => {
-      if (selectedExam !== 'ALL' && (p.examType || 'GATE').toUpperCase() !== selectedExam) return;
       if (p.chapter && p.chapter.trim() && p.chapter.trim().toLowerCase() !== 'full length') {
         set.add(p.chapter.trim());
       }
     });
     return Array.from(set).sort();
-  }, [papers, selectedExam]);
+  }, [papers]);
 
   // Filter & sort logic
   const filteredPapers = useMemo(() => {
     return papers
       .filter((paper) => {
-        // Exam Filter
-        const pExam = (paper.examType || 'GATE').toUpperCase();
-        if (selectedExam !== 'ALL' && pExam !== selectedExam) {
-          return false;
-        }
-
         // Search term matching
         if (searchQuery.trim()) {
           const q = searchQuery.toLowerCase().trim();
@@ -231,7 +214,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
         if (sortBy === 'MARKS') return b.totalMarks - a.totalMarks;
         return 0;
       });
-  }, [papers, selectedExam, searchQuery, selectedChapter, selectedStatus, sortBy, attemptedPaperIds]);
+  }, [papers, searchQuery, selectedChapter, selectedStatus, sortBy, attemptedPaperIds]);
 
   // Aggregate stats
   const totalQuestions = useMemo(
@@ -248,22 +231,31 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
       {/* Top Main Navigation Header */}
       <header className="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-xs">
         <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 min-h-[56px] sm:min-h-[64px] py-2 sm:py-0 flex items-center justify-between gap-3">
-          {/* Logo & Brand */}
+          {/* Change Exam & Brand */}
           <div className="flex items-center gap-2.5 sm:gap-3 min-w-0">
+            <button
+              onClick={onBackToPortal}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-slate-300 hover:border-slate-400 bg-white hover:bg-slate-50 text-slate-700 text-xs font-bold transition shrink-0 shadow-2xs"
+              title="Return to Layer 1 Exam Selection Portal"
+            >
+              <ArrowLeft size={14} />
+              <span className="hidden sm:inline">Change Exam</span>
+            </button>
+
             <div className={`w-9 h-9 sm:w-10 sm:h-10 rounded-lg ${selectedExam === 'NEET' ? 'bg-teal-700' : 'bg-[#1a56a5]'} text-white flex items-center justify-center font-black text-lg sm:text-xl shadow-xs shrink-0 transition-colors`}>
-              {selectedExam === 'NEET' ? 'N' : selectedExam === 'GATE' ? 'G' : 'C'}
+              {selectedExam === 'NEET' ? 'N' : 'G'}
             </div>
             <div className="min-w-0">
               <div className="flex items-center gap-1.5 sm:gap-2">
                 <h1 className="font-bold text-slate-900 text-sm sm:text-base md:text-lg leading-tight truncate">
-                  {selectedExam === 'NEET' ? 'NEET UG CBT Exam Portal' : selectedExam === 'GATE' ? 'GATE CBT Exam Portal' : 'National CBT Exam Portal'}
+                  {selectedExam === 'NEET' ? 'NEET UG CBT Exam Portal' : 'GATE CBT Exam Portal'}
                 </h1>
                 <span className={`hidden sm:inline-block text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${selectedExam === 'NEET' ? 'bg-teal-100 text-teal-800' : 'bg-blue-100 text-blue-800'} shrink-0`}>
                   {selectedExam === 'NEET' ? 'NEET 2026' : profile.branch ? profile.branch.split(' ')[0] : 'EC'} 2026
                 </span>
               </div>
               <p className="hidden sm:block text-xs text-slate-500 leading-tight truncate">
-                {selectedExam === 'NEET' ? 'Official NTA Medical CBT Architecture & Grading' : 'Official TCS iON Architecture & Grading Standards'}
+                {selectedExam === 'NEET' ? 'Official NTA Medical CBT Architecture & Grading (+4 / -1)' : 'Official TCS iON Architecture & Grading Standards (+1/+2, -0.33/-0.67)'}
               </p>
             </div>
           </div>
@@ -301,23 +293,17 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
               <GraduationCap size={14} className="text-white/80" />
               {selectedExam === 'NEET'
                 ? '146 Official NEET UG Tests & Topic Banks'
-                : selectedExam === 'GATE'
-                ? '100+ Hours of GATE CBT Practice Compiled'
-                : 'GATE EC & NEET UG CBT Examinations Compiled'}
+                : '100+ Hours of GATE CBT Practice Compiled'}
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
               {selectedExam === 'NEET'
                 ? 'NEET UG CBT Medical Entrance Tests'
-                : selectedExam === 'GATE'
-                ? 'GATE EC Test Series & Mock Papers'
-                : 'Test Series & Full Syllabus Mock Papers'}
+                : 'GATE EC Test Series & Mock Papers'}
             </h2>
             <p className="text-sm text-white/90 max-w-2xl leading-relaxed">
               {selectedExam === 'NEET'
                 ? 'Official AIPMT/NEET Full-Length PYQs (1988–2026) and 95 Topic-wise Physics, Chemistry, and Biology modules with official +4 / -1 grading and 15 Out-of-Syllabus modules marked.'
-                : selectedExam === 'GATE'
-                ? 'Standardized with official GATE markings (+1, +2, -0.33, -0.67), MSQ multi-select validation, NAT decimal range checks, and full virtual scientific calculator.'
-                : 'Standardized CBT examination simulation for GATE Electronics & Communication and NEET UG Medical Entrance with instant offline evaluation.'}
+                : 'Standardized with official GATE markings (+1, +2, -0.33, -0.67), MSQ multi-select validation, NAT decimal range checks, and full virtual scientific calculator.'}
             </p>
           </div>
 
@@ -347,58 +333,26 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full">
         {/* Controls Bar: Search & Filters */}
         <div className="bg-white rounded-xl border border-slate-200 p-4 shadow-xs space-y-4 mb-6">
-          {/* Exam Portal Switcher Tabs */}
-          <div className="flex items-center gap-2 pb-3 border-b border-slate-100 flex-wrap">
-            <span className="text-xs font-bold text-slate-500 uppercase tracking-wider mr-1">
-              Examination Portal:
-            </span>
-            <button
-              onClick={() => {
-                setSelectedExam('ALL');
-                setSelectedChapter('ALL');
-              }}
-              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 ${
-                selectedExam === 'ALL'
-                  ? 'bg-slate-900 text-white shadow-xs'
-                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-              }`}
-            >
-              <span>All Exams</span>
-              <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${selectedExam === 'ALL' ? 'bg-white/20' : 'bg-slate-200 text-slate-700'}`}>
-                {papers.length}
+          {/* Active Portal Info Bar */}
+          <div className="flex items-center justify-between pb-3 border-b border-slate-100 flex-wrap gap-2">
+            <div className="flex items-center gap-2">
+              <span className="text-xs font-bold text-slate-500 uppercase tracking-wider">
+                Active Portal:
               </span>
-            </button>
-            <button
-              onClick={() => {
-                setSelectedExam('GATE');
-                setSelectedChapter('ALL');
-              }}
-              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 ${
-                selectedExam === 'GATE'
-                  ? 'bg-[#1a56a5] text-white shadow-xs'
-                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-              }`}
-            >
-              <span>GATE EC</span>
-              <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${selectedExam === 'GATE' ? 'bg-white/20' : 'bg-slate-200 text-slate-700'}`}>
-                {gateCount}
+              <span className={`px-2.5 py-1 rounded-md text-xs font-extrabold uppercase ${
+                selectedExam === 'NEET' ? 'bg-teal-50 text-teal-800 border border-teal-200' : 'bg-blue-50 text-blue-800 border border-blue-200'
+              }`}>
+                {selectedExam === 'NEET' ? '🩺 NEET UG Medical CBT' : '🎓 GATE EC Engineering CBT'}
               </span>
-            </button>
-            <button
-              onClick={() => {
-                setSelectedExam('NEET');
-                setSelectedChapter('ALL');
-              }}
-              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 ${
-                selectedExam === 'NEET'
-                  ? 'bg-teal-700 text-white shadow-xs'
-                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-              }`}
-            >
-              <span>NEET UG</span>
-              <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${selectedExam === 'NEET' ? 'bg-white/20' : 'bg-slate-200 text-slate-700'}`}>
-                {neetCount}
+              <span className="text-xs font-medium text-slate-500">
+                ({filteredPapers.length} papers in this portal)
               </span>
+            </div>
+            <button
+              onClick={onBackToPortal}
+              className="text-xs text-slate-500 hover:text-slate-800 font-semibold underline underline-offset-2 flex items-center gap-1"
+            >
+              <span>← Switch to {selectedExam === 'NEET' ? 'GATE' : 'NEET'} Portal</span>
             </button>
           </div>
 

@@ -114,6 +114,7 @@ class MainWindow(QMainWindow):
 
     def _on_exam_selected(self, exam_type: str):
         self._ensure_normal_window()
+        self.dashboard.active_exam_filter = exam_type
         self.layer2.set_exam_type(exam_type)
         self.stack.setCurrentWidget(self.layer2)
 
@@ -183,6 +184,7 @@ class MainWindow(QMainWindow):
 
     def _open_dashboard(self):
         self._ensure_normal_window()
+        self.dashboard._build_trends_tab()
         self.stack.setCurrentWidget(self.dashboard)
 
     def _ensure_normal_window(self):
