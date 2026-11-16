@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D23_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 23,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Find VC(t) for t > 0",
+  "imageUrl": "assets/practice/nt/dpp_23_transient_analysis/q5.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-23 (Transient Analysis)."
+}

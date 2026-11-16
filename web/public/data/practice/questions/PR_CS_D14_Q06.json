@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D14_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The open loop transfer function of a unity feedback\nsystem is given by \n(\n)\n(\n)(\n)\n2\n( )\n2\n10\n+ \uf061\n=\n+\n+\ns\nG s\ns s\ns\n, where \u03b1 \n(\u03b1 > 0) is system parameter. \nThe break - away point and intersection point with \nimaginary axis are respectively \n(a)\n\u20136.94, \u00b1 j3.69\n(b)\n\u20131.05, \u00b1 j4.69\n(c)\n\u20131.05, \u00b1 j8.69\n(d)\n6 94 \u00b1 j4 69",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20136.94, \u00b1 j3.69"
+    },
+    {
+      "id": "B",
+      "text": "\u20131.05, \u00b1 j4.69"
+    },
+    {
+      "id": "C",
+      "text": "\u20131.05, \u00b1 j8.69"
+    },
+    {
+      "id": "D",
+      "text": "6 94 \u00b1 j4 69"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

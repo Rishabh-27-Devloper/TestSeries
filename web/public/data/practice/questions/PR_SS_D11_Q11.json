@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The convolution \u03b4[\ud835\udc5b\u22124] \u2217\u03b4[\ud835\udc5b+ 2] \u2217\u03b4[\ud835\udc5b\u22123] is \nequal to \u03b4[\ud835\udc5b\u2212\ud835\udc58] such that the value of k is _____.",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q11.png",
+  "options": null,
+  "correctAnswer": "5",
+  "toleranceMin": 4.95,
+  "toleranceMax": 5.05,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

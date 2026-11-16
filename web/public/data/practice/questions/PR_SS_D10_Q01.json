@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D10_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "LTI System and Its Properties",
+  "dppNumber": 10,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider a LTI system with impulse response h(t) and\ninput x(t), the output of system is y(t). The value of\noutput at t = 5 is\nh(t)\n0\n10\nt\n2.0",
+  "imageUrl": "assets/practice/ss/dpp_10_lti_system_and_its_properties/q1.png",
+  "options": null,
+  "correctAnswer": "18",
+  "toleranceMin": 17.82,
+  "toleranceMax": 18.18,
+  "explanation": "Practice Question from Signal and System DPP-10 (LTI System and Its Properties)."
+}

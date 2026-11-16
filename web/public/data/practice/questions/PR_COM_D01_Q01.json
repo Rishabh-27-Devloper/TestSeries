@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D01_Q01",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "An AM modulator has output\nx(t) = A cos 400\u03c0t + B cos380\u03c0t + B cos 420\u03c0t\nThe carrier power is 100 W and the efficiency of 40%.\nThe values of A and B are\n (a)\n14.14, 8.16\n(b) 50, 10\n(c)\n22.36, 13.46\n(d) None of the above",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "14.14, 8.16"
+    },
+    {
+      "id": "B",
+      "text": "50, 10"
+    },
+    {
+      "id": "C",
+      "text": "22.36, 13.46"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

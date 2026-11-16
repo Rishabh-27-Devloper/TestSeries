@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \n \n \n \nMEDIUM\n8. \nWhat is the transfer function for given Bode plot shown\nin the figure. \n \n \n(a) \n2\n3\n4(s\n0.5)\n(s\n10)\n+\n+\n \n(b) \n2\n3\n4000(s\n0.5)\n(s\n10)\n+\n+\n \n \n(c) \n2\n3\n4(s\n0.5)\n160\n(s\n10)\n+\n+\n \n(d) \n2\n3\n16000(s\n0.5)\n(s\n10)\n+\n+\n \nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

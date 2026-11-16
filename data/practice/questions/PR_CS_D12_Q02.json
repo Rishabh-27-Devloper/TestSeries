@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D12_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In a negative non-unity feedback system forward path\nTF G(s) = K1/s (s + 1) and feedback path TF\nH(s) = 1 + K2s.\nThe steady state error for unit step input is\n(a) 0.16\n(b) 1\n(c) 0\n(d) \uf0a5\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.16"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "0"
+    },
+    {
+      "id": "D",
+      "text": "\uf0a5"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D06_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FS, K-map, Decoder, De-Mux",
+  "dppNumber": 6,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A combinational ckt using decoder and OR gate is\nas given below :\no/p y1 & y2 combinedly represents:\n(a)\nHalf adder\n(b) Half subtractor with subtraction (B\u2013A)\n(c)\nHalf subtractor with subtraction (A\u2013B)\n(d) Comparator o/p with (A > B)\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_06_fs_k_map_decoder_de_mux/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Half adder"
+    },
+    {
+      "id": "B",
+      "text": "Half subtractor with subtraction"
+    },
+    {
+      "id": "C",
+      "text": "Half subtractor with subtraction"
+    },
+    {
+      "id": "D",
+      "text": "Comparator o/p with"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-06 (FS, K-map, Decoder, De-Mux)."
+}

@@ -1,0 +1,38 @@
+{
+  "questionId": "PR_SS_D13_Q24",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Assertion (A) : A memory less system is causal. \n \nReason (R) : A system is causal if the output at any \ntime depends only on values of input at that time and \nin the past. \n \n(a) Both A and R are true and R is the correct \nexplanation of A \n \n(b) Both A and R are true but R is NOT the correct \nexplanation of A \n \n(c) A is true but R is false \n \n(d) A is false but R is true \nConvolution and Its Properties",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q24.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both A and R are true and R is the correct"
+    },
+    {
+      "id": "B",
+      "text": "Both A and R are true but R is NOT the correct"
+    },
+    {
+      "id": "C",
+      "text": "A is true but R is false"
+    },
+    {
+      "id": "D",
+      "text": "A is false but R is true"
+    },
+    {
+      "id": "A",
+      "text": ": A memory less system is causal."
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

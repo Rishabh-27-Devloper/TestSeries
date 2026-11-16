@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D22_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n7. \nThe system with the open loop transfer function \n(\n)\n2\n1\nG(s)H(s)\ns s\ns\n1\n=\n+ +\n has a gain margin of  \n \n(a) \u20136 dB \n(b) 0 dB",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20136 dB"
+    },
+    {
+      "id": "B",
+      "text": "0 dB"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

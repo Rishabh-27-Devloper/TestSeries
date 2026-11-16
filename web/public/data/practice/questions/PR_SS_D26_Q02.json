@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D26_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Properties of CTFT",
+  "dppNumber": 26,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "\ud835\udf14\n2. \nConsider the following statements regarding CTFT of \ntwo functions f1(t) and f2(t) shown in the figure. \n1. \nCTFT of f1(t) is real and even. \n2. \nCTFT of f2(t) is real and odd.",
+  "imageUrl": "assets/practice/ss/dpp_26_properties_of_ctft/q2.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-26 (Properties of CTFT)."
+}

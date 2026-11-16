@@ -1,0 +1,21 @@
+{
+  "questionId": "PR_NT_D32_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 32,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "If current in the given circuit is 2 A, then find values \nR, L and C (\uf077 = 40 rad/sec) \n \n \nThe circuit is in resonance",
+  "imageUrl": "assets/practice/nt/dpp_32_resonance/q5.png",
+  "options": null,
+  "correctAnswer": [
+    "45 \uf057",
+    "875 MH",
+    "714.28 \uf06dF"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-32 (Resonance)."
+}

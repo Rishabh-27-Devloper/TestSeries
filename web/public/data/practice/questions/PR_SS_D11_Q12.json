@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q12",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The convolution \ud835\udc66[\ud835\udc5b] = \ud835\udc62[\ud835\udc5b] \u2217\ud835\udc62[\ud835\udc5b\u22123] be n + k, \nthen the value of k is _____.",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q12.png",
+  "options": null,
+  "correctAnswer": "-2",
+  "toleranceMin": -1.98,
+  "toleranceMax": -2.02,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

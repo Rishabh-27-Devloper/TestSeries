@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D13_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 13",
+  "dppNumber": 13,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A digital to analog-converter with input (0)10 is as\ngiven below:\nReference voltage used for logic \u20181\u2019 is 5 V. Then  % \nresolution of above DAC will be______. \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_13_digital_electronics_practice_sheet_13/q6.png",
+  "options": null,
+  "correctAnswer": "14.28",
+  "toleranceMin": 14.1372,
+  "toleranceMax": 14.422799999999999,
+  "explanation": "Practice Question from Digital Electronics DPP-13 (Digital Electronics Practice Sheet 13)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D24_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 24,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In above figure C is taken such that the value of \ndamping factor comes out exactly equal to the natural \nfrequency of system. The time constant of circuit is  \n \n(a) Circuit have two or more time constants \n \n(b) 8 \n \n(c) 2 \n \n(d) C must be given",
+  "imageUrl": "assets/practice/nt/dpp_24_transient_analysis/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Circuit have two or more time constants"
+    },
+    {
+      "id": "B",
+      "text": "8"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "C must be given"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-24 (Transient Analysis)."
+}

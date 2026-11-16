@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D11_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part - 4)",
+  "dppNumber": 11,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Digital Electronics - Sequential Circuits (Part - 4) - Question 5",
+  "imageUrl": "assets/practice/de/dpp_11_sequential_circuits_part_4/q5.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-11 (Sequential Circuits (Part - 4))."
+}

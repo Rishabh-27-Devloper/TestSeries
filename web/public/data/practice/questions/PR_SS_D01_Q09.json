@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D01_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of Signal, Quantizer and Sampler",
+  "dppNumber": 1,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A current impulse of 5\u03b4(t), is forced through a \ncapacitor C. The voltage Vc(t), across the capacitor is \ngiven by \n \n(a) 5t \n(b) 5u(t) \u2013 C \n \n(c)  5 t\nC \n(d)  5u(t)\nC",
+  "imageUrl": "assets/practice/ss/dpp_01_types_of_signal_quantizer_and_sampler/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5t"
+    },
+    {
+      "id": "B",
+      "text": "5u"
+    },
+    {
+      "id": "C",
+      "text": "5 t"
+    },
+    {
+      "id": "D",
+      "text": "5u"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-01 (Types of Signal, Quantizer and Sampler)."
+}

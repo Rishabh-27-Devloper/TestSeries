@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q51",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 51,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The current in the RL-circuit shown below is \n( )\n10cos(5\n/ 4)A\ni t\nt\n\uf03d\n\uf02d\uf070\n.  \nThe value of the inductor (rounded off to two \ndecimal places) is _____H.  \n \nElectronics : 2020",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q51.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

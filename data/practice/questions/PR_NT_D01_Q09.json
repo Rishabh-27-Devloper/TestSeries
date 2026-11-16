@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D01_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 1,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The V-I characteristics of element is given below. \nWhich of the following diagram represent linear \nelement? \n  \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d) Both (b) and (c)",
+  "imageUrl": "assets/practice/nt/dpp_01_basic_concept_of_network/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "Both"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-01 (Basic Concept of Network)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D12_Q11",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A counter has to be designed to generate a sequence \n \n \n0 \u2013 2 \u2013 22 \u2013 23 \u2013 24 \u2013 25 \u2013 26 \n \nto design the counter appropriate number of FFs \nneeded is ______________.",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q11.png",
+  "options": null,
+  "correctAnswer": "7",
+  "toleranceMin": 6.93,
+  "toleranceMax": 7.07,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

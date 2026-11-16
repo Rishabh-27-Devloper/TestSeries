@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Find the voltage (Vx) across 2 \uf057 resistance at (t = 0 ). \nThe switch was closed for a long time and opened at t \n= 0. \n \n \n(a) \n9\n2\n14\n\uf02d\n\uf02d\nt\ne\n \n(b) \n9\n2\n7\n\uf02d\n\uf02d\nt\ne\n \n \n(c) \u201328 \n(d) \u201314",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "9"
+    },
+    {
+      "id": "B",
+      "text": "9"
+    },
+    {
+      "id": "C",
+      "text": "\u201328"
+    },
+    {
+      "id": "D",
+      "text": "\u201314"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

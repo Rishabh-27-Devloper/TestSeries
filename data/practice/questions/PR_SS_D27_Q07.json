@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D27_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis and Filter Analysis",
+  "dppNumber": 27,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of\n2\n| X(j ) | d\nis\n\uf0a5\n\uf02d\uf0a5\n\uf077\n\uf077\n\uf0f2\n(a) 19/3\u03c0\n(b) 26\u03c0\n(c)\n13/2\u03c0\n(d) None of these",
+  "imageUrl": "assets/practice/ss/dpp_27_system_analysis_and_filter_analysis/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "19/3\u03c0"
+    },
+    {
+      "id": "B",
+      "text": "26\u03c0"
+    },
+    {
+      "id": "C",
+      "text": "13/2\u03c0"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-27 (System Analysis and Filter Analysis)."
+}

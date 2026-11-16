@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D13_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n     \n EASY  \n15. \nThe root locus plot (for K > 0) of a negative \nfeedback system is shown in the figure below.  \n \n \n \nThe value of \u201cK\u201d at the points s = \uf0b1 j1 on the root \nlocus is _______.",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q15.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The current I in 2 \uf057 resistor is _____A  \n \n4\uf057\n\u2013 +\n9V\nI\n\uf036\uf057\n2\uf057\n\uf033\uf057\n\u2013 +\n21 V",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q1.png",
+  "options": null,
+  "correctAnswer": "4.2",
+  "toleranceMin": 4.158,
+  "toleranceMax": 4.242,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

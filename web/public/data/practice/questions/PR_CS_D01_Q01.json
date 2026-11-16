@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A feedback control system is shown below. The\ntransfer function for this system is\n(a)\n1\n2\n1 1\n2\n3\n1+\nG G\nH G G G\n(b) \n(\n)\n2\n3\n1\n1\n2\n3\n1+\nG G\nG\nH G G\n(c)\n2\n3\n1 1\n2\n3\n1+\nG G\nH G G G\n(d) (\n)\n2\n3\n1\n2\n3\n1+\nG G\nH G G\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

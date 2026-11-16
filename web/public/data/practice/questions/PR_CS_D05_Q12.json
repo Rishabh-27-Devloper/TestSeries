@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D05_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The unit impulse response of a second order under \u2013 \ndamped system starting from rest is given by  \nc(t) = 12.5e\u20136tsin 8t, t \u2265 0. The steady \u2013 state value of \nthe unit step response of the system is equal to \n________.  \n \n \nNAT \n \n \n \n        MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q12.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

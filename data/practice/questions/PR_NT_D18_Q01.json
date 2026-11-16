@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D18_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 18,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the above network, the Y-parameters of the \nnetwork are:",
+  "imageUrl": "assets/practice/nt/dpp_18_two_port_network/q1.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-18 (Two port network)."
+}

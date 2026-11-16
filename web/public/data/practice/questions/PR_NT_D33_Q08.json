@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D33_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The power consumed in the given circuit is _____\n(a)\n1.8 VA\n(b) 1.8 kw\n(c)\n50.4 kw\n(d) 50.41 VA\n3\uf057\n~\nj 4\uf057\n1\uf057\nj\uf057\n1\uf057\n-j\uf057\n120V, 50HZ",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.8 VA"
+    },
+    {
+      "id": "B",
+      "text": "1.8 kw"
+    },
+    {
+      "id": "C",
+      "text": "50.4 kw"
+    },
+    {
+      "id": "D",
+      "text": "50.41 VA"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

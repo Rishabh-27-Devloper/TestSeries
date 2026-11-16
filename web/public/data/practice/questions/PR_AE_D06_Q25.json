@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q25",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 25,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the modified astable multivibrator shown\nbelow.\nAssume diodes D1 and D2 are ideal. For what threshold \nvalues of vC does the schmitt trigger change state? \n(a) \n2\n3\nCC\nV\n and 1\n3\nCC\nV\n     (b) 1\n3\nCC\nV\n and \n1\n3\nCC\nV\n\u2212\n(c) \n2\n3\nCC\nV\n and \n2\n3\nCC\nV\n\u2212\n  (d) \nCC\nV\n and \nCC\nV\n\u2212",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q25.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "CC"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D02_Q11",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Power absorb by dependent voltage source is _____W",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q11.png",
+  "options": null,
+  "correctAnswer": "-768",
+  "toleranceMin": -760.3199999999999,
+  "toleranceMax": -775.6800000000001,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

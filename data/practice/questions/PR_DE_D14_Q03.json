@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D14_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In a counter type ADC if we double the input analog\nvoltage then\n(a)\nConversion time will be double for sure.\n(b) Conversion time will be half for sure.\n(c)\nConversion time will increase and may be\ndouble or may not be double.\n(d) None of these\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conversion time will be double for sure."
+    },
+    {
+      "id": "B",
+      "text": "Conversion time will be half for sure."
+    },
+    {
+      "id": "C",
+      "text": "Conversion time will increase and may be"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

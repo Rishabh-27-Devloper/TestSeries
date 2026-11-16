@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of Thevenin's resistance across RL is",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q4.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

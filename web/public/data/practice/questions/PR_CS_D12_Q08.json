@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For ufb system shown below, the forward path is\n( )\n(\n)(\n)(\n)\n(\n)(\n)\n20 s\n3 s\n4 s\n8\nG s\ns\u00b2 s\n2 s\n15\n+\n+\n+\n=\n+\n+\nIf input is 30t\u00b2, then steady state error is____. \nNAT \n    MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q8.png",
+  "options": null,
+  "correctAnswer": "0.9375",
+  "toleranceMin": 0.8875,
+  "toleranceMax": 0.9875,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

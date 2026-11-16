@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D05_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n6.\nA unity feedback control system has\n( )\n(\n)\n2\nK\nG s\ns 1 sT\n=\n+\nThe order and type of the closed \u2013 loop system will \nbe  \n(a)\n3 and 1\n(b) 2 and 3\n(c)\n3 and 2\n(d) 3 and 3\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3 and 1"
+    },
+    {
+      "id": "B",
+      "text": "2 and 3"
+    },
+    {
+      "id": "C",
+      "text": "3 and 2"
+    },
+    {
+      "id": "D",
+      "text": "3 and 3"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

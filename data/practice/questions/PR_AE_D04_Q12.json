@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q12",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider a circuit shown in figure below. The \nparameter of NMOS is given as \n \n \nk\u2019n, = 100\uf06dA/V2 \n \n \n5\nW\nL \uf03d\n \n \n \nVTN = + 1V \n \n \nThe value of Q-Point (VDSQ, IDQ) is \n \n(a) 8.77 V, 89.7 \uf06dA \n \n(b) 1.599 V, 89.7 \uf06dA \n \n(c) 8.77 V, 143.7 \uf06dA \n \n(d) 6.82 V, 143.7 \uf06dA \n \nCommon Data For Q. 13 & 14 : \nConsider the circuit shown in figure below, the transistor \nparameters are as follows: \n \n \nKn = 0.445 mA/V2 \n \n \nVTN = 0.2 V",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "8.77 V, 89.7 \uf06dA"
+    },
+    {
+      "id": "B",
+      "text": "1.599 V, 89.7 \uf06dA"
+    },
+    {
+      "id": "C",
+      "text": "8.77 V, 143.7 \uf06dA"
+    },
+    {
+      "id": "D",
+      "text": "6.82 V, 143.7 \uf06dA"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

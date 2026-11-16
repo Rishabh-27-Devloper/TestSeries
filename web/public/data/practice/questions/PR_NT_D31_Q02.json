@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D31_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 31,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of capacitor for resonant circuit having \nfrequency 60 Hz and inductance of 20 H. \n \n(a) 20 F \n(b) 20 mF \n \n(c) 0.35 \uf06dF \n(d) 3 \uf06dF",
+  "imageUrl": "assets/practice/nt/dpp_31_resonance/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "20 F"
+    },
+    {
+      "id": "B",
+      "text": "20 mF"
+    },
+    {
+      "id": "C",
+      "text": "0.35 \uf06dF"
+    },
+    {
+      "id": "D",
+      "text": "3 \uf06dF"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-31 (Resonance)."
+}

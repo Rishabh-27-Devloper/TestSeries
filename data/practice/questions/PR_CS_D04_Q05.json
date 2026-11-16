@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D04_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Q\n5. \nThe Impulse response of a system is given as \n( )\n(\n)\n(\n)\n8\ns\nH s\n8 s 1\n\u2212\n=\n+\n. The final value of its step response \nwill be_____. \nMCQ          \n                         EASY",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q5.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

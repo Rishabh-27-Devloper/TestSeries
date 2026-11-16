@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q28",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 28,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the two random variables X and Y related as \nY = X2. If the probability density function of X has \neven symmetry, then \n \n(a) X and Y are correlated function \n \n(b) X and Y are orthogonal function \n \n(c) Both (a) and (b) \n \n(d) None of these \n \nCommon Data For Q. 29 \u2013 31: \nConsider a random variable Y defined as \n1\n=\n=\uf0e5\nn\ni\ni\nY\nX \nwhere the variables X1, X2, .... Xn are statistically \nindependent and defined as \n1\n(with probability p)\n0 (with probability (1\n))\n\uf0ec\n= \uf0ed\n\u2212\n\uf0ee\ni\nX\np",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q28.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "X and Y are correlated function"
+    },
+    {
+      "id": "B",
+      "text": "X and Y are orthogonal function"
+    },
+    {
+      "id": "C",
+      "text": "Both"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

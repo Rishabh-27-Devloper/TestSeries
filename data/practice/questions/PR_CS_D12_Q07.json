@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The forward \u2013 path transfer function of a ufb system is\n( )\n(\n)(\n)\n(\n)(\n)\n2\n2\n3\n1000 s\n4s\n20 s\n20s\n15\nG s\ns\ns\n2 s\n10\n+\n+\n+\n+\n=\n+\n+\n System has r(t\n= t\u00b3 applied to its input. Steady state error is______. \nNAT \n    MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q7.png",
+  "options": null,
+  "correctAnswer": "0.0004",
+  "toleranceMin": -0.049600000000000005,
+  "toleranceMax": 0.0504,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

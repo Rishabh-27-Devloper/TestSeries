@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D14_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "simplified if waveforms symmetries are used.\n4.\nThe amplitude spectrum is continuous\nWhich of the above statements is/are correct?\n(a)\n1, 2 and 4\n(b) 2, 3, and 4\n(c)\n1, 3 and 4\n(d) 1, 2, and 3\n4.\nMatch List I (Signals) with List II (Fourier Series\nCoefficients of Signals) and select the answer using the\ncodes given below\nList I (Signals)\n(a)\n\uf028\n\uf029\n\uf028\n\uf029\n0\n0\nx t\nt\nx t\nt\n\uf02d\n\uf02b\n\uf02b\n(b)\nEven {x(t)}\n(c)\nReal {x(t)}\n(d) \n\uf028\uf029\n2\n2\nd x t\ndt\nList II (Fourier Series Coefficients of Signals) \n(1) \n2\n2\n0\nk\nk C\n\uf02d\uf077\n(2) \n*\n2\nk\nk\nC\nC\uf02d\n\uf02b",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1, 2 and 4"
+    },
+    {
+      "id": "B",
+      "text": "2, 3, and 4"
+    },
+    {
+      "id": "C",
+      "text": "1, 3 and 4"
+    },
+    {
+      "id": "D",
+      "text": "1, 2, and 3"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

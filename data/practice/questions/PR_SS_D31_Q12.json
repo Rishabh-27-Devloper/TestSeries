@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D31_Q12",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & System",
+  "dppNumber": 31,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider a signal x[n] with fundamental period \nN = 10, defined as follows \n \n1,\n0\nn\n7\nx[n]\n0,\n8\nn\n9\n\uf0a3\n\uf0a3\n\uf0ec\n\uf03d\uf0ed\n\uf0a3\n\uf0a3\n\uf0ee\n  \n \nLet ak be the FS coefficients of x[n] and bk be the FS \ncoefficient of another signal y[n] = x[n] \u2013x[n \u2013 1], \nthen \n5\n5\nb\n________.\na \uf03d",
+  "imageUrl": "assets/practice/ss/dpp_31_signals_system/q12.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-31 (Signals & System)."
+}

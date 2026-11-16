@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D16_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 16,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of Rth  is ______\uf057.",
+  "imageUrl": "assets/practice/nt/dpp_16_network_theorem/q3.png",
+  "options": null,
+  "correctAnswer": "1.67",
+  "toleranceMin": 1.6533,
+  "toleranceMax": 1.6866999999999999,
+  "explanation": "Practice Question from Network Theory DPP-16 (Network Theorem)."
+}

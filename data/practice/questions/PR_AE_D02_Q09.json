@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D02_Q09",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "( )\n( )\n9. \nIn the circuit shown. Vs is a 10 V square wave of \nperiod, T = 4 ms with R = 500 \uf057 and C = 10 \uf06dF. The \ncapacitor is initially uncharged at t = 0, and the diode \nis assumed to be ideal. The voltage across the \ncapacitor (Vc) at 3 ms is equal to _____ volts (rounded \noff to one decimal place).",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q9.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D04_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "F(x,y,z)\nxy\nxy\nxyz\nxyz\n=\n+\n+\n+\nThen the minimized solution of f(x,y,z) will be \n(a)\nx\ny\n+\n(b)\nx y\n(c)\nx y z\n(d)\nx\ny\nz\n+\n+\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "x"
+    },
+    {
+      "id": "B",
+      "text": "x y"
+    },
+    {
+      "id": "C",
+      "text": "x y z"
+    },
+    {
+      "id": "D",
+      "text": "x"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

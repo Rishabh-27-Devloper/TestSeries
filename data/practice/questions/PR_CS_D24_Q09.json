@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D24_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n9. \nWhen a phase lag compensation is used in a system, \nthen gain crossover frequency, bandwidth and \nnatural frequency are respectively \n( )\ni\nd i\nd i\nd",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q9.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

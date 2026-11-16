@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D07_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Two stage SOP circuit can directly be implemented \n \n \n(a) Using NAND gates at first stage & AND gate \nat second stage. \n \n(b) Using NAND gates only at both first & second \nstage. \n \n(c) Using NOR gates only at both first & second \nstage. \n \n(d) None of these.",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Using NAND gates at first stage & AND gate"
+    },
+    {
+      "id": "B",
+      "text": "Using NAND gates only at both first & second"
+    },
+    {
+      "id": "C",
+      "text": "Using NOR gates only at both first & second"
+    },
+    {
+      "id": "D",
+      "text": "None of these."
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

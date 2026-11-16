@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q05",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "( )\n( )\n5.\nA half-wave rectifier having a resistance load of 1 k\uf057\nrectifies an a.c. voltage of 325 V peak value and the\ndiode has a forward resistance of 100 \uf057. What is the\nRMS value of the current?\n(a)\n295.4 mA\n(b) 94.0 mA\n(c)\n147.7 mA\n(d) 208.0 mA",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "295.4 mA"
+    },
+    {
+      "id": "B",
+      "text": "94.0 mA"
+    },
+    {
+      "id": "C",
+      "text": "147.7 mA"
+    },
+    {
+      "id": "D",
+      "text": "208.0 mA"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

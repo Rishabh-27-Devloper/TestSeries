@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D25_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 25,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider two CT signal f(t) and g(t) shown in figure. \n \n \n \nIf CTFT of f(t) is given by, \n  \nj\nj2\n1\nF(j )\n[1\ne\n2e\n]\nj\n\uf02d\uf077\n\uf02d\n\uf077\n\uf077\uf03d\n\uf02b\n\uf02d\n\uf077\n \n \nThen CTFT of signal g(t) will be \n(a) \nj2\nj\n2 [e\ne\n2]\nj\n\uf077\n\uf077\n\uf02b\n\uf02d\n\uf077\n \n(b) \nj2\nj3\nj4\n1 [e\ne\n2e\n]\nj\n\uf02d\n\uf077\n\uf02d\n\uf077\n\uf077\n\uf02b\n\uf02d\n\uf077\n \n(c) \nj2\nj4\n1 [1\ne\n2e\n]\nj\n\uf02d\n\uf077\n\uf02d\n\uf077\n\uf02b\n\uf02d\n\uf077\n \n \n(d) None of the above \n \n \nStatement for Linked Questions \nConsider a triangular pulse x(t) shown in the figure. \nThe Fourier transform of x(t) is given as \nj\nj\n2\n1\nx(j )\ne\nj e\n1\n\uf077\n\uf077\n\uf0e9\n\uf0f9\n\uf077\uf03d\n\uf02d\uf077\n\uf02d\n\uf0eb\n\uf0fb\n\uf077\n \n \ng(t)",
+  "imageUrl": "assets/practice/ss/dpp_25_signal_system/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "j2"
+    },
+    {
+      "id": "B",
+      "text": "j2"
+    },
+    {
+      "id": "C",
+      "text": "j2"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-25 (Signal & System)."
+}

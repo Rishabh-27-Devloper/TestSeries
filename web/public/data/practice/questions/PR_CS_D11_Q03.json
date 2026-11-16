@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D11_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n   EASY \n3.\nThe Routh - Hurwitz array is given for a third order\ncharacteristic equation as follows\n3s\n1 \n5 \n0 \n2s\n2 \nK \n0 \n1s\n10\n2\nK\n\u2212\n0 \n0s\nK \nIf the above system is marginally stable, then the\nfrequency of oscillation is \n(a) 5 rad/sec\n(b) \n5 rad/sec \n(c)\n10 rad/sec\n(d)\n10 rad/sec \nMCQ \n   HARD",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 rad/sec"
+    },
+    {
+      "id": "B",
+      "text": "5 rad/sec"
+    },
+    {
+      "id": "C",
+      "text": "10 rad/sec"
+    },
+    {
+      "id": "D",
+      "text": "10 rad/sec"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

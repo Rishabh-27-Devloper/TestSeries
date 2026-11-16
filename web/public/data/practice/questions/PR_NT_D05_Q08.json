@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D05_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If all the resistors of star connection is scaled by k-\ntimes the each resistor of delta connection is scaled \nby: \n \n(a) 2k-times \n(b) k-times \n \n(c) 3k-times \n(d) 4k-times",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2k-times"
+    },
+    {
+      "id": "B",
+      "text": "k-times"
+    },
+    {
+      "id": "C",
+      "text": "3k-times"
+    },
+    {
+      "id": "D",
+      "text": "4k-times"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

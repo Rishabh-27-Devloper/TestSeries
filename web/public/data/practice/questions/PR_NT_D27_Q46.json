@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q46",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 46,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A series R-L-C circuit is excited with a 50V, 50 Hz \nsinusoidal source. The voltages across the resistance \nand the capacitance are shown in the figure. The \nvoltage across the inductor \uf028\n\uf029\nL\nV\n is _________V. \n \nInstrumentation : 2017",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q46.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

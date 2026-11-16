@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D22_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the Laplace transform of a signal \ud835\udc4c\ud835\udc4c(\ud835\udc60\ud835\udc60) =\n1\n(\ud835\udc60\ud835\udc60 \u20131), then \nits final value is \n(a) \u20131 \n(b) 0 \n(c) 1 \n(d) Unbounded",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20131"
+    },
+    {
+      "id": "B",
+      "text": "0"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "Unbounded"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

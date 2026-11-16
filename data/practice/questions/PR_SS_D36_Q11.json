@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D36_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 36,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "What is the value of X(ej\u03c0) ?",
+  "imageUrl": "assets/practice/ss/dpp_36_signal_system/q11.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-36 (Signal & System)."
+}

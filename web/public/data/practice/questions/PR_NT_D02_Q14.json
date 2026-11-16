@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D02_Q14",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The voltage across the capacitor is given by V(t) = e\u2013t \nsin (t). The current passing through it at t = 0 sec is \n________? (Take C = 2F)",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q14.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

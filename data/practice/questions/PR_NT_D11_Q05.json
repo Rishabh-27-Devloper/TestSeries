@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Thevenin voltage across RL is _____V.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q5.png",
+  "options": null,
+  "correctAnswer": "30",
+  "toleranceMin": 29.7,
+  "toleranceMax": 30.3,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_CS_D15_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \nMEDIUM\n4.\nWhich one of the following is the root locus of a\nsystem with open loop transfer function of\n( )\n( )\n(\n)\n(\n)(\n)\nK s\n1.5\nG s H s\ns s\n1 s\n5\n+\n=\n+\n+\n(a) \n(b)\n(c)\n(d)",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

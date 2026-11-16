@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D06_Q45",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 45,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the Colpitts oscillator circuit shown in figure\nbelow with parameters L = 1 \uf06dH, C1 = 1 nF, C2 = 1 nF,\nR = 4 k\uf057. What is the oscillation frequency (in MHz)",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q45.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

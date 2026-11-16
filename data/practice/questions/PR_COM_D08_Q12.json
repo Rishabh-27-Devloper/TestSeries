@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D08_Q12",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Information Theory",
+  "dppNumber": 8,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The minimum required average code word length to \nrepresent this source for error - free deconstruction \nis \n \n(a)  0.3468 \n(b)  1.8464 \n \n(c)  2.9636 \n(d)  3.6936",
+  "imageUrl": "assets/practice/comm/dpp_08_information_theory/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.3468"
+    },
+    {
+      "id": "B",
+      "text": "1.8464"
+    },
+    {
+      "id": "C",
+      "text": "2.9636"
+    },
+    {
+      "id": "D",
+      "text": "3.6936"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-08 (Information Theory)."
+}

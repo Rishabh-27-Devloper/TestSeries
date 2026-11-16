@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D02_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The overall transfer function\nC\nR of the system \nshown in figure will be\n(a) G\n(b) \n2\nG\n1\nH\n+\n(c) \n(\n)\n1\n2\nG\n1\nH\n(1\nH )\n+\n+\n(d) \n1\n2\nG\n1\nH\nH\n+\n+\nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "G"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

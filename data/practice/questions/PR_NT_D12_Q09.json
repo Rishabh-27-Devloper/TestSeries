@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D12_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 12,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of Norton current at terminal a-b is \n_____A.",
+  "imageUrl": "assets/practice/nt/dpp_12_network_theorem/q9.png",
+  "options": null,
+  "correctAnswer": "10",
+  "toleranceMin": 9.9,
+  "toleranceMax": 10.1,
+  "explanation": "Practice Question from Network Theory DPP-12 (Network Theorem)."
+}

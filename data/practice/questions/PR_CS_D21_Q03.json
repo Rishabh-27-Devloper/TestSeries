@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D21_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - III",
+  "dppNumber": 21,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n3. \nConsider the gain-phase plot shown in figure below: \n \n \nThe gain margin and phase margin are \n \n(a) \u20132 dB, 40\u00b0 \n(b) 2 dB, 40\u00b0 \n \n(c) 2 dB, 140\u00b0 \n(d) \u20132 dB, 140\u00b0 \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_21_nyquist_plot_iii/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20132 dB, 40\u00b0"
+    },
+    {
+      "id": "B",
+      "text": "2 dB, 40\u00b0"
+    },
+    {
+      "id": "C",
+      "text": "2 dB, 140\u00b0"
+    },
+    {
+      "id": "D",
+      "text": "\u20132 dB, 140\u00b0"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-21 (Nyquist Plot - III)."
+}

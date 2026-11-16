@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \n       EASY\n3.\nIn the system shown in figure, the input x(t) = 2 sin\nt. In the steady-state, the response y(t) will be\n(a) \n1 sin(t\n45 )\n2\n\u2212\n\uf0b0\n(b) \n1 sin(t\n45 )\n2\n+\n\uf0b0\n(c)\n2sin(t\n45 )\n+\n\uf0b0\n(d)\n2sin(t\n45 )\n\u2212\n\uf0b0\nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 sin"
+    },
+    {
+      "id": "B",
+      "text": "1 sin"
+    },
+    {
+      "id": "C",
+      "text": "2sin"
+    },
+    {
+      "id": "D",
+      "text": "2sin"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

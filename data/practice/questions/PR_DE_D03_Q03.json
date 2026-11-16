@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D03_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A digital circuit is as given below:\nThis circuit implements : \n(a)\nA + B\n(b) A \u2013 B\n(c)\nB \u2013 A\n(d) None of these",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A + B"
+    },
+    {
+      "id": "B",
+      "text": "A \u2013 B"
+    },
+    {
+      "id": "C",
+      "text": "B \u2013 A"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

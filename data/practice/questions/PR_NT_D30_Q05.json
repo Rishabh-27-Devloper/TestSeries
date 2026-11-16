@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D30_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Locus Diagram",
+  "dppNumber": 30,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For question (4), Replace 10 \uf057 resistance with R\nwhich is Varying from 0 to \u221e & Consider the value\nof capacitive reactance 20 \uf057 the local diagram for I\nwill",
+  "imageUrl": "assets/practice/nt/dpp_30_locus_diagram/q5.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-30 (Locus Diagram)."
+}

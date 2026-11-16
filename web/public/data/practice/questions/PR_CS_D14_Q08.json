@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D14_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8. \nFigure shows the asymptote, root locus on real axis \nand location of poles and centroid.  \n \n \n \nBreak-in point of the root locus is \n \n(a) \u20133  \n(b) \u20132 \n \n(c) 1.18 \n(d) \u20132.82 \nMCQ\nMEDIUM\nj1\n-60\u00b0\n-60\u00b0\n-2\n-3\ncentroid\nj1\nAsymptote\nRoot Locus \non real axis\nj\uf077",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20133"
+    },
+    {
+      "id": "B",
+      "text": "\u20132"
+    },
+    {
+      "id": "C",
+      "text": "1.18"
+    },
+    {
+      "id": "D",
+      "text": "\u20132.82"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

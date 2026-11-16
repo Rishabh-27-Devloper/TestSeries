@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_SS_D15_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Exponential FS of a periodic function x(t) = 7 + sin \n(4t) \n+ \ncos \n(8t) \n+ cos \n(16t) is \ngiven \nas \n0\nj\nt\nn\nn\nx(t)\nc e\n\u221e\n\u03c9\n=\u2212\u221e\n= \u2211\n \n \nThe value of coefficient c\u20131 is  \n \n(a) \n1\n2\n\u2212j \n \n(b) \n1\n2 j \n1",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

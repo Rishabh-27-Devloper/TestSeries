@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D27_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis and Filter Analysis",
+  "dppNumber": 27,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of\nj2\n2sin\nX(j )\ne\nd\nis\n\uf0a5\n\uf077\n\uf02d\uf0a5\n\uf077\n\uf0e6\n\uf0f6\n\uf077\n\uf077\n\uf0e7\n\uf0f7\n\uf077\n\uf0e8\n\uf0f8\n\uf0f2\n(a) 5\u03c0\n(b) 7/2\n(c)\n7\u03c0\n(d) None of these",
+  "imageUrl": "assets/practice/ss/dpp_27_system_analysis_and_filter_analysis/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5\u03c0"
+    },
+    {
+      "id": "B",
+      "text": "7/2"
+    },
+    {
+      "id": "C",
+      "text": "7\u03c0"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-27 (System Analysis and Filter Analysis)."
+}

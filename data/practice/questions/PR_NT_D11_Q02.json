@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of I in 2 \uf057 resistor is _____A.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q2.png",
+  "options": null,
+  "correctAnswer": "3",
+  "toleranceMin": 2.9699999999999998,
+  "toleranceMax": 3.0300000000000002,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

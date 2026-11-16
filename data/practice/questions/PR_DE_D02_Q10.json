@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D02_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-2)",
+  "dppNumber": 2,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A logical expression is given as:\nf(A, B, C)\nA\nABC\n=\n+\n, then minimum number\nof 2-input NAND gate require to implement\nabove logical function is ______ .\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_02_boolean_theorems_and_basics_of_gates_p/q10.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Digital Electronics DPP-02 (Boolean Theorems and Basics of Gates (Part-2))."
+}

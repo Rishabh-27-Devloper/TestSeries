@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D20_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System analysis using Laplace Transform",
+  "dppNumber": 20,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Laplace transform of a signal x(t) is \n \n \n \nIf the time signal x(t) be \n \nx(t) A\u03b4(t) + (e\u20133t \u2013 e\u20132t) u(t) \n \nThen, the value of constant A in the expression \nis_________ \n \n2\n2\n2s\n10s\n11\nX(s)\ns\n5s\n6\n\uf02b\n\uf02b\n\uf03d\n\uf02b\n\uf02b",
+  "imageUrl": "assets/practice/ss/dpp_20_system_analysis_using_laplace_transfor/q7.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-20 (System analysis using Laplace Transform)."
+}

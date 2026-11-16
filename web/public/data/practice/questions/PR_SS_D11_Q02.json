@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the given input x(t) and impulse response h(t), what\nwill be the output y(t) at t = 0.5 ?\n\ud835\udc65(\ud835\udc61) = \ud835\udc52\ud835\udc61\ud835\udc62(\u2212\ud835\udc61) \n\u210e(\ud835\udc61) = 2\ud835\udc62(\ud835\udc61) \u2212\ud835\udc62(\ud835\udc61\u22121) \u2212\ud835\udc62(\ud835\udc61\u22122)",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q2.png",
+  "options": null,
+  "correctAnswer": "1.174",
+  "toleranceMin": 1.1622599999999998,
+  "toleranceMax": 1.18574,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

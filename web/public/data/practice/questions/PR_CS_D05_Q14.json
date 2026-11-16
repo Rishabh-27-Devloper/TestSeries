@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D05_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A control system is defined by the following \nmathematical relationship  \n(\n)\n2\n2t\n2\nd x\ndx\n6\n5x\n12 1 e\ndt\ndt\n\u2212\n+\n+\n=\n\u2212\n \n \nThe response x(t) of the system as t \u2192 \uf0a5 is ______. \n \n \n \nNAT \n \n \n \n        MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q14.png",
+  "options": null,
+  "correctAnswer": "2.4",
+  "toleranceMin": 2.376,
+  "toleranceMax": 2.424,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

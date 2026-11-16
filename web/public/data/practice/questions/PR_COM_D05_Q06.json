@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D05_Q06",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 5,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "x(t) would be recovered from the product x(t) c(t) by\nusing an ideal LPF if X(j\uf077) = 0 for\n(a)\n\uf077 > 2000\uf070\n(b)\n\uf077 > 1000\uf070\n(c)\n\uf077 < 1000\uf070\n(d)\n\uf077 < 2000\uf070",
+  "imageUrl": "assets/practice/comm/dpp_05_ece_in/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf077 > 2000\uf070"
+    },
+    {
+      "id": "B",
+      "text": "\uf077 > 1000\uf070"
+    },
+    {
+      "id": "C",
+      "text": "\uf077 < 1000\uf070"
+    },
+    {
+      "id": "D",
+      "text": "\uf077 < 2000\uf070"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-05 (ECE/IN)."
+}

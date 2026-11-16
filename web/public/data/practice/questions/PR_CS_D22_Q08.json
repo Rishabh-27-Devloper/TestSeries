@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D22_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8. \nConsider a certain system \n \nStatement I: Gain margin of the system is 14 dB. \n \nStatement II: The point of the intersection of the \nNyquist plot with respect to negative real axis is \n0.2. \n(a) Both statements are correct \n(b) Both statements are incorrect \n(c) Statement I is correct, statement II is incorrect \n(d) Statement I is incorrect, statement II is correct \n \nMCQ   \n \n \n       \n EASY \n0 8s",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both statements are correct"
+    },
+    {
+      "id": "B",
+      "text": "Both statements are incorrect"
+    },
+    {
+      "id": "C",
+      "text": "Statement I is correct, statement II is incorrect"
+    },
+    {
+      "id": "D",
+      "text": "Statement I is incorrect, statement II is correct"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

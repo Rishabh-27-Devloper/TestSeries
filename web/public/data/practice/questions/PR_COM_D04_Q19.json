@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D04_Q19",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The valid power density spectrum is \n \n(a) \n2\n2\n2\n1\n\uf077\n+ \uf077+ \uf077\nj\n \n(b) \n2\n4\n( )\n1\n\uf077\n\u2212\uf064\uf077\n\uf077+\n \n \n(c) \n2\n(\n1)\n\u2212\uf077\u2212\ne\n \n(d) \n2\n6\n2\n3\n3\n\uf077\n\uf077+ \uf077+",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

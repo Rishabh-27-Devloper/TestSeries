@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of Vth at a \u2013 b is _____V.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q7.png",
+  "options": null,
+  "correctAnswer": "20",
+  "toleranceMin": 19.8,
+  "toleranceMax": 20.2,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

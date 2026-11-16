@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D28_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Sampling and It\u2019s Type",
+  "dppNumber": 28,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "\ud835\udf0b\n2.\nThe frequency spectrum of a signal x(t) is shown in\nthe figure below\nIfthe signal is sampled with a sampling period \nTs = \ud835\udf0b\ud835\udf0b/2 sec, the spectrum of sampled signal is \n(a) \n(b) \n(c) \n(d) None of these",
+  "imageUrl": "assets/practice/ss/dpp_28_sampling_and_it_s_type/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-28 (Sampling and It\u2019s Type)."
+}

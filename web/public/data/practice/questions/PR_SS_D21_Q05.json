@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D21_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis Using Laplace Transform",
+  "dppNumber": 21,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "\ud835\udeff\n \n5.   A system is described by a differential equation as \nfollows \n \ndy(t)\n2y(t)\nu(t)\ndt\n+\n=\n \n \nAssume that the initial conditions are zero. The \nsignal, y(t) will be\nkt\n(1\ne )u(t)\nk\n\u2212\nsuch that the value of k \nis __________________.",
+  "imageUrl": "assets/practice/ss/dpp_21_system_analysis_using_laplace_transfor/q5.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-21 (System Analysis Using Laplace Transform)."
+}

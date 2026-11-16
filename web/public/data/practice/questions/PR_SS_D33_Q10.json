@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D33_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 33,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The system y[n] = cy[n \u2013 1] \u2013 0.12y[n \u2013 2] + x[n \n\u2013 1] + x[n \u2013 2] is stable |c| < __________.",
+  "imageUrl": "assets/practice/ss/dpp_33_signal_system/q10.png",
+  "options": null,
+  "correctAnswer": "1.12",
+  "toleranceMin": 1.1088,
+  "toleranceMax": 1.1312000000000002,
+  "explanation": "Practice Question from Signal and System DPP-33 (Signal & System)."
+}

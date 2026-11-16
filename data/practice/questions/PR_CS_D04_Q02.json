@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D04_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n2. \nConsider a signal x(t) = e\u2013tu(t) and Laplace \ntransform pair\n( )\n( )\nL\nx t\nX s\n\uf0ac\u23af\u2192\n. Match list I \n(Laplace transform) with list II (inverse Laplace \ntransform) and choose the correct answer using the \ncode given below. \n \nList\u2013I \nList\u2013II \n(Laplace Transform) \n(Inverse Laplace \nTransform) \n \nP. sX(s) \n1. (1\u2013e\u2013t), t > 0 \n \nQ. \n( )\nX s\ns\n \n2. \n(\n) (\n)\n\u2013 t\u20132\ne\nu t \u2013 2 \n \nR. X(2s) \n3. \u2013e\u2013t, t > 0 \n \n \nS. e\u20132s X (s) \n4. \n( )\n\u20131/2\n1 e\nu t\n2\n  \nCodes: \n \n \nP \nQ \nR \nS \n \n(a) 4 \n2 \n1 \n3 \n \n(b) 3 \n1 \n4 \n2 \n \n(c) 1 \n3 \n2 \n4 \n \n(d) 3 \n4 \n1 \n2",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

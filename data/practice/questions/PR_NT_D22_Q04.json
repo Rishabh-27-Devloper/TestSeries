@@ -1,0 +1,21 @@
+{
+  "questionId": "PR_NT_D22_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "The voltage VC1, VC2 and VC3 across the capacitor in \nthe circuit under steady state are respectively",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q4.png",
+  "options": null,
+  "correctAnswer": [
+    "100/7",
+    "25/3",
+    "125/21"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

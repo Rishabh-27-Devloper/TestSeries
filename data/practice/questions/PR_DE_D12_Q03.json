@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D12_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "To design a counter with counting sequence 0 \u2013 3 \u2013\n1 \u2013 2 \u2013 0 the circuit will be\n(a)\n(b)",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q3.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

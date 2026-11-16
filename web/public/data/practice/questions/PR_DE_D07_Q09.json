@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D07_Q09",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Two add two 5 bit numbers, we required m H.A.s \nand n-OR gates then minimum value of (m + n) \n________.",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q9.png",
+  "options": null,
+  "correctAnswer": "13",
+  "toleranceMin": 12.87,
+  "toleranceMax": 13.13,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

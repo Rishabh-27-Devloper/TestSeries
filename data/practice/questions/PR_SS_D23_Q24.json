@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D23_Q24",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If impulse response is given by \n2\n1\n( )\n1\n=\n+\nh t\nt\n. Which \nof the following sketch is correct for output \nresponse ( )\n( )\n( )\n=\n\uf0c4\ny t\nh t\nu t . \n \n(a) \n \n \n(b)\n \n \n \n(c) \n \n \n(d)",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q24.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

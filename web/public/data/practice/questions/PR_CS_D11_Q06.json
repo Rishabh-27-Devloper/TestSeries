@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D11_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n   HARD \n6.\nThe characteristic equation of a system is\n4\n3\n2\n3\n12\n(\n16)\ns\ns\ns\nK\ns\nK\n+\n+\n+\n\u2212\n+\nThe range of K for the system to be stable is \n(a)\n23.3 < K < 35.7 \n(b) \u201323.3 < K < 35.7\n(c)\n\u201333.3 < K < \u201335.7 (d) \u201323.3 < K < \u201335\nMCQ\nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "23.3 < K < 35.7"
+    },
+    {
+      "id": "B",
+      "text": "\u201323.3 < K < 35.7"
+    },
+    {
+      "id": "C",
+      "text": "\u201333.3 < K < \u201335.7"
+    },
+    {
+      "id": "D",
+      "text": "\u201323.3 < K < \u201335"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

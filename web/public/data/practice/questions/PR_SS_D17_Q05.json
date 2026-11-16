@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_SS_D17_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Properties of CTFS",
+  "dppNumber": 17,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The waveform shown in figure (a) is applied to the \ncircuit shown in figure (b). Determine the rms value of",
+  "imageUrl": "assets/practice/ss/dpp_17_properties_of_ctfs/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "is applied to the"
+    },
+    {
+      "id": "B",
+      "text": ". Determine the rms value of"
+    }
+  ],
+  "correctAnswer": "0.299",
+  "toleranceMin": 0.249,
+  "toleranceMax": 0.349,
+  "explanation": "Practice Question from Signal and System DPP-17 (Properties of CTFS)."
+}

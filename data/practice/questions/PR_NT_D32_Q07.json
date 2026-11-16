@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D32_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 32,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the circuit is in resonance the amplitude of \nsinusoidal voltage across capacitor is  \n \n \n(a) 24 V \n(b) 12.5 V \n \n(c) 17.7 V \n(d) 11 V",
+  "imageUrl": "assets/practice/nt/dpp_32_resonance/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "24 V"
+    },
+    {
+      "id": "B",
+      "text": "12.5 V"
+    },
+    {
+      "id": "C",
+      "text": "17.7 V"
+    },
+    {
+      "id": "D",
+      "text": "11 V"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-32 (Resonance)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For a non-unity feedback control system, the dc gain and\ndamping ratio are 2 and 0.45 respectively. What is the\nresonant peak magnitude? \n \n(a) \nr\nM\n1\n= \n(b) \nr\nM\n0.707\n=\n \n \n(c) \nr\nM\n1.30\n=\n \n(d) \nr\nM\n2.5\n=\n \nMCQ \n  \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "r"
+    },
+    {
+      "id": "B",
+      "text": "r"
+    },
+    {
+      "id": "C",
+      "text": "r"
+    },
+    {
+      "id": "D",
+      "text": "r"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

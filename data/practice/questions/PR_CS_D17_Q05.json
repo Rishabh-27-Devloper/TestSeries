@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D17_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n5.\nFor type three system, the lowest frequency asymptote\nwill have the slope of\n(a)\n\u201320 dB/octave\n(b) \u20136 dB/octave",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u201320 dB/octave"
+    },
+    {
+      "id": "B",
+      "text": "\u20136 dB/octave"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

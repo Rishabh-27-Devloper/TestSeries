@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q36",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 36,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of voltage gain Av = \no\ni\n\uf075\n\uf075is \n \n(a) \u2013 3.85 \n(b) \u2013 367.72 \n \n(c) \u2013 2.99 \n(d) None of the above \n \ni",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q36.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u2013 3.85"
+    },
+    {
+      "id": "B",
+      "text": "\u2013 367.72"
+    },
+    {
+      "id": "C",
+      "text": "\u2013 2.99"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

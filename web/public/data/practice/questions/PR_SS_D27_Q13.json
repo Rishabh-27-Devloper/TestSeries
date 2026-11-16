@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D27_Q13",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis and Filter Analysis",
+  "dppNumber": 27,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the input to this system is\nx(t) = cos (4\u03c0t + \u03b8), then output will be\n(a)\n\u20134/3 cos(4\u03c0t + \u03b8)\n(b) 4\ud835\udf0b/3 cos(4\u03c0t + \u03b8)\n(c)\n4/3\ud835\udf0b cos(4\u03c0t + \u03b8)\n(d) 0",
+  "imageUrl": "assets/practice/ss/dpp_27_system_analysis_and_filter_analysis/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20134/3 cos"
+    },
+    {
+      "id": "B",
+      "text": "4\ud835\udf0b/3 cos"
+    },
+    {
+      "id": "C",
+      "text": "4/3\ud835\udf0b cos"
+    },
+    {
+      "id": "D",
+      "text": "0"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-27 (System Analysis and Filter Analysis)."
+}

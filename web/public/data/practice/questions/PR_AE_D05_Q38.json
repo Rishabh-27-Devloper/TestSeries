@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q38",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 38,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the input resistance Rin2 seen from input \nvoltage vin2? \n \n(a) 10 k\uf057 \n(b) 110 k\uf057 \n \n(c) 105 k\uf057 \n(d) 9.16 k\uf057 \n \nCommon Data for Q.39 and 40 \n \nConsider the circuit shown in the figure below. The \ntransistor parameters are: \n \n \nVTN = 2.5 V \n \n \nKn = 0.25 A/V2 \n \nThe op-amp is ideal.",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q38.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 k\uf057"
+    },
+    {
+      "id": "B",
+      "text": "110 k\uf057"
+    },
+    {
+      "id": "C",
+      "text": "105 k\uf057"
+    },
+    {
+      "id": "D",
+      "text": "9.16 k\uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

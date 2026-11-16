@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_CS_D08_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A pair of complex conjugate poles in the s- plane is\nrequired to meet the specifications: damping ratio\n0.707\n\uf078\uf0b3\n and natural frequency \nn\n2\n\uf077\n\uf0b3\n rad/sec for\npositive damping. Which of the following regions in s \nplane satisfy the given specifications? \n \n(a)\n \n \n \n(b)",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

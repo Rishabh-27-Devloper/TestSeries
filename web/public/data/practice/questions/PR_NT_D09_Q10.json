@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_NT_D09_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 9,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The V-I characteristics of element is given below, \nwhich of the following diagram represent non-linear \nelement? \n  \n \n(a) \n \n \n(b)",
+  "imageUrl": "assets/practice/nt/dpp_09_basic_concept_of_network/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-09 (Basic Concept of Network)."
+}

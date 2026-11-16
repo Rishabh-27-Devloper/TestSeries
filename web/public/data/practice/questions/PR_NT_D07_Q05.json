@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of V1 is _____ V.",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q5.png",
+  "options": null,
+  "correctAnswer": "8",
+  "toleranceMin": 7.92,
+  "toleranceMax": 8.08,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

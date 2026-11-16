@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D01_Q20",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 20,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "What will be the power (in watt) in sideband of the\nsignal?\nCommon Data for 21 and 22\nThe flourier transfer M(f) of a signal m(t) is shown in\nfigure below. It is to be transmitted a source to\ndestination. It is known that the signal is normalized,\nmeaning that\u20131 < m(t) < 1",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q20.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D17_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 17,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Find \uf06711 of above question.  \n \n(a) \n103\n260\n \n(b) 8\n7 \n \n(c) \n8\n15\n \n(d) \n40\n221",
+  "imageUrl": "assets/practice/nt/dpp_17_two_port_network/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "103"
+    },
+    {
+      "id": "B",
+      "text": "8"
+    },
+    {
+      "id": "C",
+      "text": "8"
+    },
+    {
+      "id": "D",
+      "text": "40"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-17 (Two port network)."
+}

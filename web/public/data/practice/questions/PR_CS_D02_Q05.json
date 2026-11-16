@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D02_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n5.\nIn the figure below, the number of forward path\nis/are\n(a) 1\n(b) 2",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

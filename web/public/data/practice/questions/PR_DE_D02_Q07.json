@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D02_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-2)",
+  "dppNumber": 2,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A logical circuit is as given below:\nOutput y is \n(a) A\n(b)\nB\n(c)\nA\n(d) B",
+  "imageUrl": "assets/practice/de/dpp_02_boolean_theorems_and_basics_of_gates_p/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A"
+    },
+    {
+      "id": "B",
+      "text": "B"
+    },
+    {
+      "id": "C",
+      "text": "A"
+    },
+    {
+      "id": "D",
+      "text": "B"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-02 (Boolean Theorems and Basics of Gates (Part-2))."
+}

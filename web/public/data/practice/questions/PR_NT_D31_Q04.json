@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D31_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 31,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Value of resonant frequency is \n \n(a) 20.83 rad/sec \n(b) 12.50 rad/sec \n \n(c) 10.71 rad/sec \n(d) 50 rad/sec",
+  "imageUrl": "assets/practice/nt/dpp_31_resonance/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "20.83 rad/sec"
+    },
+    {
+      "id": "B",
+      "text": "12.50 rad/sec"
+    },
+    {
+      "id": "C",
+      "text": "10.71 rad/sec"
+    },
+    {
+      "id": "D",
+      "text": "50 rad/sec"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-31 (Resonance)."
+}

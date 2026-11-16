@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_COM_D07_Q23",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Noise In Communication",
+  "dppNumber": 7,
+  "questionNumber": 23,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the circuit shown in figure below \n \n \nWhat should be the load resistance RL, so that the \nmaximum available noise power available from R1, \nR2 and R3 is delivered to it? \n \na) \n1\n2\n1\n2\n3\nR\nR\nR\nR\nR\n+\n+\n+\n \n(b) \n3\n1\n2\n1\n2\n3\n(\n)\nR R\nR\nR\nR\nR\n+\n+\n+\n \n \n(c) \n1\n2\n1\n2\n3\nR\nR\nR\nR\nR\n+\n+\n+\n \n(d) \n1\n2\n3\n1\n2\n3\n(\n)\nR R\nR\nR\nR\nR\n+\n+\n+\n \nCommon Data for Q.No-24 to 26 \nConsider a cascade of three amplifiers having the \nspecifications given in table below. \nAmplifier \nNo. \nNoise \nFigure(F) \nEquivalent \nTemperature (Te) \nGain \n(G) \n1 \n- \n300 K \n10 dB \n2 \n6 dB \n- \n30 dB \n3 \n11 dB \n- \n30 dB",
+  "imageUrl": "assets/practice/comm/dpp_07_noise_in_communication/q23.png",
+  "options": [
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-07 (Noise In Communication)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q39",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 39,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the circuit shown below, the supply voltage is 10 \nsin(1000t) volts. The peak value of the steady state \ncurrent through the 1 \u03a9 resistor, in amperes, is ____.",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q39.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

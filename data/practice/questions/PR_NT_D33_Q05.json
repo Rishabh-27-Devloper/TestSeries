@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D33_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The complex power absorbed by the load is _______\nVA.\n(a)\n765.54 \u2220\u201322.62 (b) 765.54\u222022.62\n(c)\n1630.72 \u2220\u201350.19\n(d)2727 \u222025.27\n110 0\u00b0 V\n\u2220\n~\nZS\n2\uf057\nj3\uf057\n5\uf057\n+\nVL\n-\n-j6\uf057\nZL",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "765.54 \u2220\u201322.62"
+    },
+    {
+      "id": "B",
+      "text": "765.54\u222022.62"
+    },
+    {
+      "id": "C",
+      "text": "1630.72 \u2220\u201350.19"
+    },
+    {
+      "id": "D",
+      "text": "2727 \u222025.27"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

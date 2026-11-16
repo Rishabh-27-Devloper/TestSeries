@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D05_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n9. \nConsider the network function:  \n( )\n(\n)\n(\n)(\n)\n2 s\n3\nH s\ns\n2 s\n4\n+\n=\n+\n+\n \n \nWhat is the steady \u2013 state response due to a unit \nstep input?  \n \n(a) 4/3 \n(b) 1/2 \n \n(c) 3/4 \n(d) 1 \n \n \nMCQ \n \n \n \n        MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4/3"
+    },
+    {
+      "id": "B",
+      "text": "1/2"
+    },
+    {
+      "id": "C",
+      "text": "3/4"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

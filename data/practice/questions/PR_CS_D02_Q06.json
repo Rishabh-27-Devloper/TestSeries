@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D02_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nEASY \n6.\nThe value of X3/ X1 for the SFG shown below is\n(a) 8\n(b) 2\n(c) 12\n(d) 5\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "8"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "12"
+    },
+    {
+      "id": "D",
+      "text": "5"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

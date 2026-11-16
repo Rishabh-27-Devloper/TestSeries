@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of Rth  at a \u2013 b is _____ \uf057.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q8.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

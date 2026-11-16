@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D08_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-1)",
+  "dppNumber": 8,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following statement is true?\n(a)\nMaster-Slave ff is used to avoid race-around\ncondition.\n(b) Edge triggered J-K FF has problem of race-\naround condition when J = 1, K = 1\n(c)\nRace-around condition occurs in S-R ff with S\n= 1, R = 1\n(d) None of these",
+  "imageUrl": "assets/practice/de/dpp_08_sequential_circuits_part_1/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Master-Slave ff is used to avoid race-around"
+    },
+    {
+      "id": "B",
+      "text": "Edge triggered J-K FF has problem of race-"
+    },
+    {
+      "id": "C",
+      "text": "Race-around condition occurs in S-R ff with S"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-08 (Sequential Circuits (Part-1))."
+}

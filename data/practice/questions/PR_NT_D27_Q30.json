@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_NT_D27_Q30",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 30,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The voltage across the capacitor, as shown in the \nfigure, is expressed as  \n \n1\n1\n1\n2\n2\n2\n( )\nsin(\n)\nsin(\n)\nc\nV t\nA\nt\nA\nt\n\uf03d\n\uf077\uf02d\uf071\n\uf02b\n\uf077\n\uf02d\uf071\n \n \n \nThe values of \n1A and \n2\nA respectively, are  \n(A) 2.0 and 1.98 \n(B) 2.0 and 4.20 \n(C) 2.5 and 3.50",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q30.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.0 and 1.98"
+    },
+    {
+      "id": "B",
+      "text": "2.0 and 4.20"
+    },
+    {
+      "id": "C",
+      "text": "2.5 and 3.50"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

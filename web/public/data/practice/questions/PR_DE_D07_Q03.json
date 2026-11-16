@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D07_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A circuit is designed as shown: \n \n \n \n \n \n \nOutput P is 1 when the majority of input lines are \n\u20180\u2019. Output P is \n \n \n(a) xy + yz + zx \n \n(b) \n+\n+\nx y\ny z\nz x \n \n(c) \n+\n+\nx\ny\nz \n \n(d)\n+\nxy\nyz",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "xy + yz + zx"
+    },
+    {
+      "id": "B",
+      "text": "+"
+    },
+    {
+      "id": "C",
+      "text": "+"
+    },
+    {
+      "id": "D",
+      "text": "+"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D12_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Interconnection of LTI System",
+  "dppNumber": 12,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the two identical LTI system cascaded as \nfollows \n \n \nImpulse response of the each systems is \u210e1(\ud835\udc61) =\n\u210e2(\ud835\udc61) = \ud835\udc52\u22122\ud835\udc61\ud835\udc62(\ud835\udc61). If the impulse response of the \noverall system is h(t), then \n\u210e(\ud835\udc61)\n\u210e1(\ud835\udc61)|\n\ud835\udc61=2\n= _______",
+  "imageUrl": "assets/practice/ss/dpp_12_interconnection_of_lti_system/q7.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-12 (Interconnection of LTI System)."
+}

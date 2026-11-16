@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D12_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A circuit is as given below :\nAbove circuit can work as \n(a)\nPositive level triggered T-FF.\n(b) Negative level triggered T-FF.\n(c)\nLevel triggered D-FF.\n(d) Edge triggered T-FF\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive level triggered T-FF."
+    },
+    {
+      "id": "B",
+      "text": "Negative level triggered T-FF."
+    },
+    {
+      "id": "C",
+      "text": "Level triggered D-FF."
+    },
+    {
+      "id": "D",
+      "text": "Edge triggered T-FF"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

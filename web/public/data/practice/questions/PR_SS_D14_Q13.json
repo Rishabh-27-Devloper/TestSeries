@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D14_Q13",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The DC coefficient (a0) of the CTFS of signal x(t) \nshown in figure is ______",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q13.png",
+  "options": null,
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

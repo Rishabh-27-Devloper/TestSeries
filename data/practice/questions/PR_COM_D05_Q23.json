@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D05_Q23",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 5,
+  "questionNumber": 23,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "It is desired to obtain a 1-volt rms signal at the \nreceiving end. This can be accomplished by using \nrepeaters. If the repeaters yield a maximum output of \n1 volt and have a voltage gain of 100, then the \nnumber of repeaters needed is  \n \n(a)  100 \n(b)  25 \n \n(c)  5 \n(d)  40 \n \nCommon Data For 23 to 25 : \nThe probability density of a signal X(t) is given by \n \n( )\nfor |\n|\n4volt\n( )\n0\notherwise\n\u2212\n\uf0ec\uf0ef\n\uf0a3\n= \uf0ed\n\uf0ef\uf0ee\nx\nX t\nke\nX\nf\nx\n \n23. \nIf the signal X(t) is quantized into 4 levels, what will \nbe the step size of each level ? \n \n(a)  2 volt \n(b)  8 volt \n \n(c)  32 volt \n(d)  1 volt",
+  "imageUrl": "assets/practice/comm/dpp_05_ece_in/q23.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "100"
+    },
+    {
+      "id": "B",
+      "text": "25"
+    },
+    {
+      "id": "C",
+      "text": "5"
+    },
+    {
+      "id": "D",
+      "text": "40"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-05 (ECE/IN)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D03_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following circuits can be used as\nuniversal circuit :\nThen which of the following is true? \n(a)\ncircuit \u2013 1 and circuit \u2013 2 both\n(b) circuit \u2013 1 only\n(c)\ncircuit \u2013 2 only\n(d) Neither circuit \u2013 1 nor circuit \u2013 2\n\ud835\udc34\u0305\ud835\udc35\u0305\u0305\u0305\u0305\u0305",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "circuit \u2013 1 and circuit \u2013 2 both"
+    },
+    {
+      "id": "B",
+      "text": "circuit \u2013 1 only"
+    },
+    {
+      "id": "C",
+      "text": "circuit \u2013 2 only"
+    },
+    {
+      "id": "D",
+      "text": "Neither circuit \u2013 1 nor circuit \u2013 2"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

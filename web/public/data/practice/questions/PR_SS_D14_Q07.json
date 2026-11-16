@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D14_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The trigonometric Fourier series of the signal x(t) \nShown in figure will contain \n \n \n(a) non-zero dc component and odd harmonics of \ncosine function \n \n(b) zero dc component and even harmonics of cosine \nfunction. \n \n(c) none-zero dc component and odd harmonics of \nsine function \n \n(d) zero dc components and even harmonics of sine \nfunction",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "non-zero dc component and odd harmonics of"
+    },
+    {
+      "id": "B",
+      "text": "zero dc component and even harmonics of cosine"
+    },
+    {
+      "id": "C",
+      "text": "none-zero dc component and odd harmonics of"
+    },
+    {
+      "id": "D",
+      "text": "zero dc components and even harmonics of sine"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

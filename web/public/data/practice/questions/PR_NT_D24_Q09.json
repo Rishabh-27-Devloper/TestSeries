@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D24_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 24,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Initially, the switch is in position 1 and then it is \nmoved to position 2 at t = 0. Determine I(0+) and \nVC(0+).",
+  "imageUrl": "assets/practice/nt/dpp_24_transient_analysis/q9.png",
+  "options": null,
+  "correctAnswer": "10 MA AND 1.67 V",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-24 (Transient Analysis)."
+}

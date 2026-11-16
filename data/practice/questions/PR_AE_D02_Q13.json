@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q13",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "An non-ideal diode is biased with a voltage of \u20130.03V \nand diode current of I1 is measured. The thermal \nvoltage is 26 mV and \n15\n13\n\uf068=\n. The voltage in V at \nwhich the measured current increases by 1.5I1 is \nclosest to \n \n(a) \u20134.50 \n(b) \u20130.09 \n \n(c) \u20130.02 \n(d) \u20131.50",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20134.50"
+    },
+    {
+      "id": "B",
+      "text": "\u20130.09"
+    },
+    {
+      "id": "C",
+      "text": "\u20130.02"
+    },
+    {
+      "id": "D",
+      "text": "\u20131.50"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

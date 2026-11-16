@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D07_Q13",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of System",
+  "dppNumber": 7,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For an input x[n], output y[n] of a system is related as \ny[n] = x[n] + n. The system is  \n \n(a) linear, time-invariant, and stable \n \n(b)  non-linear, time-variant, and unstable \n(c)\nlinear time invariant and unstable",
+  "imageUrl": "assets/practice/ss/dpp_07_types_of_system/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "linear, time-invariant, and stable"
+    },
+    {
+      "id": "B",
+      "text": "non-linear, time-variant, and unstable"
+    },
+    {
+      "id": "C",
+      "text": "linear time invariant and unstable"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-07 (Types of System)."
+}

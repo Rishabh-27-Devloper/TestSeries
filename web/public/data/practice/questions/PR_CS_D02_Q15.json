@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D02_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the signal flow graph shown in figure\nthe overall gain C/R is ____________.",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q15.png",
+  "options": null,
+  "correctAnswer": "2.02",
+  "toleranceMin": 1.9998,
+  "toleranceMax": 2.0402,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

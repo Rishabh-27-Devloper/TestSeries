@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A second order system has a natural frequency of\noscillations of 3 rad/sec and damping ratio of 0.5. Wha\nare the values of resonant frequency and resonant peak\nof the system? \n \n(a) 1.5 rad/sec and 1.16 \n \n(b) 1.16 rad/sec and 1.5 \n \n(c) 1.16 rad/sec and 2.1 \n \n(d) 2.1 rad/sec and 1.16 \nMCQ \n  \n \n    EASY",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.5 rad/sec and 1.16"
+    },
+    {
+      "id": "B",
+      "text": "1.16 rad/sec and 1.5"
+    },
+    {
+      "id": "C",
+      "text": "1.16 rad/sec and 2.1"
+    },
+    {
+      "id": "D",
+      "text": "2.1 rad/sec and 1.16"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

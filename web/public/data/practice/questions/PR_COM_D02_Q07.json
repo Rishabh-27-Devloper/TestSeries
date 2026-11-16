@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_COM_D02_Q07",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The higher the modulation index in FM\n(a)\nthe greater the number of sidebands and the\nwider the bandwidth\n(b)\nthe greater the number of sidebands and the\nnarrower the bandwidth\n(c)\nthe fewer the number of sidebands and the wider\nthe bandwidth",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "the greater the number of sidebands and the"
+    },
+    {
+      "id": "B",
+      "text": "the greater the number of sidebands and the"
+    },
+    {
+      "id": "C",
+      "text": "the fewer the number of sidebands and the wider"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

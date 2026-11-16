@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The current across inductor i(t) is ________ \n \n \nIf i(0) = 5 A \n \n(a) \n3\n5\n0.5\n\uf02dt\ne\n \n(b) \n5\n3\n5\n\uf02dt\ne\n \n \n(c) \n3\n50\n5\n\uf02d\nt\ne\n \n(d) \n3\n50\n0.5\n\uf02d\nt\ne",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3"
+    },
+    {
+      "id": "B",
+      "text": "5"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

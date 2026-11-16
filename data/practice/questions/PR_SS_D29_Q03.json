@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D29_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 29,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Increased pulse-width in the flat-top sampling, leads\nto\n(a)\nAttenuation of high frequencies in reproduction.\n(b) Attenuation of low frequencies in reproduction.\n(c)\nGreater aliasing errors in reproduction.\n(d) No harmful effects in reproduction.",
+  "imageUrl": "assets/practice/ss/dpp_29_signal_system/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attenuation of high frequencies in reproduction."
+    },
+    {
+      "id": "B",
+      "text": "Attenuation of low frequencies in reproduction."
+    },
+    {
+      "id": "C",
+      "text": "Greater aliasing errors in reproduction."
+    },
+    {
+      "id": "D",
+      "text": "No harmful effects in reproduction."
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-29 (Signal & System)."
+}

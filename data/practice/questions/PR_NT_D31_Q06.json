@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D31_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 31,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the resonant frequency of the given network \n \n \n(a) 44.72 Krad/sec \n(b) 13.47 Krad/sec \n \n(c) 20 Krad/sec \n(d) 17.17 Krad/sec",
+  "imageUrl": "assets/practice/nt/dpp_31_resonance/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "44.72 Krad/sec"
+    },
+    {
+      "id": "B",
+      "text": "13.47 Krad/sec"
+    },
+    {
+      "id": "C",
+      "text": "20 Krad/sec"
+    },
+    {
+      "id": "D",
+      "text": "17.17 Krad/sec"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-31 (Resonance)."
+}

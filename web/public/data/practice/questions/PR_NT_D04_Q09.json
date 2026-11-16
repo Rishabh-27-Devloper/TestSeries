@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D04_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of VAB is ____ V.\n \nA\nB\n\uf036\uf057\n\uf034\uf057\n3 V\n2 V",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q9.png",
+  "options": null,
+  "correctAnswer": "2.4",
+  "toleranceMin": 2.376,
+  "toleranceMax": 2.424,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

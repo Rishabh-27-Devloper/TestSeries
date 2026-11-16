@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q20",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 20,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the following op-amp circuit, given that open loop \nvoltage gain Aol = 10 k\uf057. If output resistance of op-\namp is zero then closed-loop input impedance at the \nnon-inverting terminal of the op-amp is \n \n \n(a) 10 k\uf057 \n(b) 25 k\uf057 \n \n(c) 0.1 M\uf057 \n(d) 500 M\uf057",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q20.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 k\uf057"
+    },
+    {
+      "id": "B",
+      "text": "25 k\uf057"
+    },
+    {
+      "id": "C",
+      "text": "0.1 M\uf057"
+    },
+    {
+      "id": "D",
+      "text": "500 M\uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

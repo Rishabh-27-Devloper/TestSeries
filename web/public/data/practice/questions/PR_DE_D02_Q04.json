@@ -1,0 +1,37 @@
+{
+  "questionId": "PR_DE_D02_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-2)",
+  "dppNumber": 2,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "A logic circuit has 4-input & 1-output line as\nshown:\nOutput y is '1' wherever no. of zeroes on input \nside are odd, then output y can be expressed as:  \n(a) \ud835\udc34\u2299\ud835\udc35\u2299\ud835\udc36\u2299\ud835\udc37\n(b) \ud835\udc34\u2299\ud835\udc35\u2299\ud835\udc36\u2299\ud835\udc37\n(c)\nA\nB\nC\nD\n\uf0c5\n\uf0c5\n\uf0c5\n(d) None of these\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_02_boolean_theorems_and_basics_of_gates_p/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\ud835\udc34\u2299\ud835\udc35\u2299\ud835\udc36\u2299\ud835\udc37"
+    },
+    {
+      "id": "B",
+      "text": "\ud835\udc34\u2299\ud835\udc35\u2299\ud835\udc36\u2299\ud835\udc37"
+    },
+    {
+      "id": "C",
+      "text": "A"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": [
+    "B",
+    "C"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-02 (Boolean Theorems and Basics of Gates (Part-2))."
+}

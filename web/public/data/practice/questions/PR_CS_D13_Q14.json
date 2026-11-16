@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D13_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n \n     EASY \n14. \nThe characteristic equation of a unity negative \nfeedback \ncontrol \nsystem \nis \ngiven \nby \n3\n2\ns\n5s\n6s\nKs\nK\n0\n+\n+\n+\n+\n=\n. The intersection of the \nasymptotes of the root locus will be at s = ______. \n \nNAT\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q14.png",
+  "options": null,
+  "correctAnswer": "-2",
+  "toleranceMin": -1.98,
+  "toleranceMax": -2.02,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

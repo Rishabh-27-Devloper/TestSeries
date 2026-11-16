@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D21_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - III",
+  "dppNumber": 21,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "OLTF of a unity feedback system is \n10\ns\n10\n+\n. The \ngain margin of the system is  \n \n(a) 0 dB \n(b) 1 dB \n \n(c) 10 Db \n(d) \u221e dB",
+  "imageUrl": "assets/practice/cs/dpp_21_nyquist_plot_iii/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0 dB"
+    },
+    {
+      "id": "B",
+      "text": "1 dB"
+    },
+    {
+      "id": "C",
+      "text": "10 Db"
+    },
+    {
+      "id": "D",
+      "text": "\u221e dB"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-21 (Nyquist Plot - III)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D07_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n10. Group-I lists a set of four transfer function. Group-II\ngives a list of possible step response. Match the step\nresponses with the corresponding transfer function,\nand choose the correct option.\nGroup \u2013 I \n(Transfer Functions) \nP. \n2\n400\ns\n12s\n400\n+\n+\nQ. \n2\n900\ns\n90s\n900\n+\n+\nR. \n2\n225\ns\n30s\n225\n+\n+\nS. \n2\n625\ns\n625\n+\nGroup-II \n(Step Responses) \n1. \n15t\n15t\nc(t)\nA\nBe\nCte\n\u2212\n\u2212\n=\n+\n+\n2. \n(\n)\n6t\nc(t)\nA\nBe\ncos 19.08\n\u2212\n=\n+\n+\n+ \uf066\n3.\nc(t)\nA\nBcos(25t\n)\n=\n+\n+ \uf066\n4. \n78.54t\n11.46t\nc(t)\nA\nBe\nCe\n\u2212\n\u2212\n=\n+\n+\nP \nQ \nR \nS \n(a) 2\n1 \n4 \n3 \n(b) 2\n4 \n1 \n3 \n(c) 4\n2 \n1 \n3 \n(d) 3\n4 \n1 \n2",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

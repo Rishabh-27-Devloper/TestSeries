@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D21_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - III",
+  "dppNumber": 21,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n9. \nThe Nyquist plot of a open-loop transfer function \nG(j\uf077) H(j\uf077) of a system encloses the (\u20131, j0) point. \nThe gain margin of the system is  \n \n(a) less than zero \n \n(b) greater than zero \n \n(c) zero \n \n(d) infinity \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_21_nyquist_plot_iii/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "less than zero"
+    },
+    {
+      "id": "B",
+      "text": "greater than zero"
+    },
+    {
+      "id": "C",
+      "text": "zero"
+    },
+    {
+      "id": "D",
+      "text": "infinity"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-21 (Nyquist Plot - III)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D19_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & Systems",
+  "dppNumber": 19,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Laplace transform of a waveform f(t) shown in the\nfigure is \n2s\n4s\n2\n1\nF(s)\nA\nBe\nCe\ns\n\u2212\n\u2212\n\uf0e9\n\uf0f9\n=\n+\n+\n\uf0eb\n\uf0fb\nWhat is the values of constants B in the expression?",
+  "imageUrl": "assets/practice/ss/dpp_19_signals_systems/q3.png",
+  "options": null,
+  "correctAnswer": "-5",
+  "toleranceMin": -4.95,
+  "toleranceMax": -5.05,
+  "explanation": "Practice Question from Signal and System DPP-19 (Signals & Systems)."
+}

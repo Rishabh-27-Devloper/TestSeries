@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D22_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The one sided Laplace transform of signal u(t + 2) is \n\ud835\udc52\ud835\udc52\u2013\ud835\udc58\ud835\udc58\ud835\udc58\ud835\udc58\n\ud835\udc60\ud835\udc60 such that the value of k is _______________.",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q2.png",
+  "options": null,
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

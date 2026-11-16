@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D12_Q09",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "We have a T-FF, to convert it into D-FF, input T \nmust be \n \n(a) D \u2299 Q \n(b) D \u2295 Q \n \n(c) D \n(d) D \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "D \u2299 Q"
+    },
+    {
+      "id": "B",
+      "text": "D \u2295 Q"
+    },
+    {
+      "id": "C",
+      "text": "D"
+    },
+    {
+      "id": "D",
+      "text": "D"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

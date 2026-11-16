@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D06_Q35",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 35,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An op-amp has an open loop low frequency gain of\nA = 105 and an open loop 3 dB frequency fH = 4 Hz. If\nan inverting amplifier with a closed loop low\nfrequency gain of |Avf| = 50 uses this op-amp. What is\nthe value of the closed loop bandwidth (in kHz).",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q35.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

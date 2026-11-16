@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D15_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the feedback system shown below\nFor this system, the root locus is",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q6.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

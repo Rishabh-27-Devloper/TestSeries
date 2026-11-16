@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D24_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 24,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If the below network is in steady state find \nrelationship between I1 and I2  \n \n \n(a) I1 = 2 I2 \n(b) 2.5 I1 = I2 \n \n(c) I1 = 2.5 I2 \n(d) I1 = 1/2 I2",
+  "imageUrl": "assets/practice/nt/dpp_24_transient_analysis/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "I1 = 2 I2"
+    },
+    {
+      "id": "B",
+      "text": "2.5 I1 = I2"
+    },
+    {
+      "id": "C",
+      "text": "I1 = 2.5 I2"
+    },
+    {
+      "id": "D",
+      "text": "I1 = 1/2 I2"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-24 (Transient Analysis)."
+}

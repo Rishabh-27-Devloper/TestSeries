@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D03_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A logical circuit is as given below:\nFunction of logic circuit \u2013 1 & logic circuit \u2013 2 is \nsame. Then output y\uf0a21 will be \n(a)\nA \uf0c5 B\n(b) AB\n(c)\nAB\n(d) A \u2013 B\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A \uf0c5 B"
+    },
+    {
+      "id": "B",
+      "text": "AB"
+    },
+    {
+      "id": "C",
+      "text": "AB"
+    },
+    {
+      "id": "D",
+      "text": "A \u2013 B"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

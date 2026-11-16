@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D13_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider a system with input x(t) and output y(t) \nrelated as follows \n \n\uf028\uf029\n\uf028\uf029\n\uf07b\n\uf07d\nt\nd\ny t\ne\nx t\ndt\n\uf02d\n\uf03d\n \n \nWhich one of the following statements is TRUE? \n \n(a) The system is non linear \n \n(b) The system is time-invariant \n \n(c) The system is stable \n \n(d) The system has memory",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "The system is non linear"
+    },
+    {
+      "id": "B",
+      "text": "The system is time-invariant"
+    },
+    {
+      "id": "C",
+      "text": "The system is stable"
+    },
+    {
+      "id": "D",
+      "text": "The system has memory"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

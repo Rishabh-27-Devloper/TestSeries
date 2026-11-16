@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A feedback control system is shown below is\nsubjected to noise N(s)\nThe noise transfer function CN(s) / N(s) is \n(a)\n2\n1\n2\n1+\nG\nG G H\n(b)\n2\n1\n1+\nG\nG H\n(c)\n2\n2\n1+\nG\nG H\n(d) None of the above",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D15_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nBRAIN TEASER \n3.\n The characteristic equation of a unity feedback contro\nsystem is given by \n3\n2\n1\n2\ns\nK s\ns\nK\n0\n+\n+ +\n=\n. Consider\nthe following statements \nP.\nThe closed loop system is stable only for the\nvalue of K1 > K2.\nQ.\nThe closed loop system is stable only for the\nvalue of K1 < K2.\nR.\nThe closed loop system is marginal stable only\nfor the values of K1 = K2.\nS. For a given value of K2, all the root-locus\nbranches will terminate at infinity for variable\nK1 in the positive direction.\nT. For a given value of K1, all the root-locus\nbranches will terminate at infinity for variable\nK",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q3.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

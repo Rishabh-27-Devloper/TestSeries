@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D31_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & System",
+  "dppNumber": 31,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The discrete-time Fourier coefficients of signal \n4\n10\n2sin\nn\ncos\nn\n1\n19\n19\n\uf070\n\uf070\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf02b\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n is  \n \n(a) \n1\n1\nj [k\n2]\nj [k\n2]\n[k\n5]\n[k\n5]\n[k]\n2\n2\n\uf02d\uf064\n\uf02b\n\uf02b\uf064\n\uf02d\n\uf02b\n\uf064\n\uf02b\n\uf02b\n\uf064\n\uf02d\n\uf02b\uf064\n(b) \n1\n1\nj [k\n2]\nj [k\n2]\n[k\n5]\n[k\n5] 1\n2\n2\n\uf02d\uf064\n\uf02b\n\uf02b\uf064\n\uf02d\n\uf02b\n\uf064\n\uf02b\n\uf02b\n\uf064\n\uf02d\n\uf02b  \n \n(c) \n1\n1\nj [k\n2]\nj [k\n2]\n[k\n5]\n[k\n5]\n[k]\n2\n2\n\uf02d\uf064\n\uf02d\n\uf02b\uf064\n\uf02b\n\uf02b\n\uf064\n\uf02d\n\uf02b\n\uf064\n\uf02b\n\uf02b\uf064\n \n(d) None of the above",
+  "imageUrl": "assets/practice/ss/dpp_31_signals_system/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-31 (Signals & System)."
+}

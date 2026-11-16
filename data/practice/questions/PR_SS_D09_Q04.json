@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D09_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Basic Operations, Shifting/Reversal/Scaling,",
+  "dppNumber": 9,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "S2 is causal and stable. \n \nWhich of the above statements is/are true? \n \n(a)  1 and 4 \n(b)  2 and 4 \n \n(c)  1 and 3 \n(d)  2 and 3 \n66. Which of the following systems are causal and stable? \n \n(a) h(n) = 5n u(n \u2013 3) \n \n(b) h(n) = u(n + 3) \u2013 2u(n \u2013 2) \u2013 4 u(n \u2013 4) \n \n(c) u(t) = e2t u(\u2013 1 \u2013 t) \n \n(d) h(t) = e\u20134t u(t \u2013 2) \n67. Consider the complex exponential signal \n6\n13\n( )\nj\nt\nx t\ne\n\uf070\n\uf03d\n is \nsampled with sampling interval Ts = 1\n3 . Then the \nresulting signal fundamental time period is ______",
+  "imageUrl": "assets/practice/ss/dpp_09_basic_operations_shifting_reversal_sca/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 and 4"
+    },
+    {
+      "id": "B",
+      "text": "2 and 4"
+    },
+    {
+      "id": "C",
+      "text": "1 and 3"
+    },
+    {
+      "id": "D",
+      "text": "2 and 3"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-09 (Basic Operations, Shifting/Reversal/Scaling,)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D06_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Four systems A, B, C and D are found to have the\ndominant poles at the points \u20132 +j6, \u20133+ j6, \u201310+ j2, \u2013\n4 + j8 respectively. The choice of the system having\nmaximum damping and minimum natural frequency\nwould be\n(a)\nC and A respectively\n(b)\nB and C respectively\n(c)\nC and D respectively\n(d)\nA and C respectively",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "C and A respectively"
+    },
+    {
+      "id": "B",
+      "text": "B and C respectively"
+    },
+    {
+      "id": "C",
+      "text": "C and D respectively"
+    },
+    {
+      "id": "D",
+      "text": "A and C respectively"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

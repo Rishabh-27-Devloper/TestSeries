@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If Kt = 0 and Ka = 5, then the steady state error due to\nunit ramp input is _______. \nNAT \n \n \n         BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q10.png",
+  "options": null,
+  "correctAnswer": "0.2",
+  "toleranceMin": 0.15000000000000002,
+  "toleranceMax": 0.25,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

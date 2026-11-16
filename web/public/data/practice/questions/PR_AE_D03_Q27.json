@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q27",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 27,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider an amplifier circuit shown below. Transistor \nparameters are given as \u03b2 = 100 and Vthermal = 25 m V. \n \n \nThe input impedance and voltage gain respectively are \n \n(a) 0.99 k\uf057, 200 \n(b) 390 k\uf057, 200 \n \n(c) 0.99 k\uf057, \u2013 400 \n(d) 390 k\uf057, 400 \n \nCommon Data For Q.28 and 29: \n \nFor the circuit shown below transistor parameters are \n \n\u03b2 = 100, VBE (ON) = 0.7 V, VA = 80 V, (Vthermal = 26 \nmV)",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q27.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.99 k\uf057, 200"
+    },
+    {
+      "id": "B",
+      "text": "390 k\uf057, 200"
+    },
+    {
+      "id": "C",
+      "text": "0.99 k\uf057, \u2013 400"
+    },
+    {
+      "id": "D",
+      "text": "390 k\uf057, 400"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D03_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "x, y, z are i/Ps of a full adder then, sum output of full \nadder will be \u20181\u2019 if \n \n(a) \n1\nx y\ny z\nz x\n+\n+\n= \n \n(b) xyz = 1 \n \n(c) (x + y) (y + z) (z + x) = 0 \n \n(d) None of these",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "xyz = 1"
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

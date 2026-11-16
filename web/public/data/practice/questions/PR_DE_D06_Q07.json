@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D06_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FS, K-map, Decoder, De-Mux",
+  "dppNumber": 6,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A digital circuit is as given below:\noutput  y is \n(a) A\n(b) B\n(c) A.B\n(d) (A + B)\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_06_fs_k_map_decoder_de_mux/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A"
+    },
+    {
+      "id": "B",
+      "text": "B"
+    },
+    {
+      "id": "C",
+      "text": "A.B"
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-06 (FS, K-map, Decoder, De-Mux)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D04_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Laplace transform of x(t) is \n( )\n2\n6s\n1\nX s\ns\n2s\n2\n+\n=\n+\n+\n, \nthen the initial value of x(t) is\n.",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q6.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

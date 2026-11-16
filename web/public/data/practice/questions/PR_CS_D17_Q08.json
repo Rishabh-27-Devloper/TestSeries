@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D17_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8.\nThe transfer function of a system consists of poles at \u20135\n\u201310, and \u201320 and zeros at \u20138 and \u201315. The slope at the\ncorner frequency 15 changes from\n(a)\n20 dB to zero\n(b) \u201320 dB to zero\n(c)\nzero to 20 dB\n(d) zero to \u201320 dB\nMCQ \n       EASY",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "20 dB to zero"
+    },
+    {
+      "id": "B",
+      "text": "\u201320 dB to zero"
+    },
+    {
+      "id": "C",
+      "text": "zero to 20 dB"
+    },
+    {
+      "id": "D",
+      "text": "zero to \u201320 dB"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

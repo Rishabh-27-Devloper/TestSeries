@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D09_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 9,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The charge contained in given waveform is\u2014",
+  "imageUrl": "assets/practice/nt/dpp_09_basic_concept_of_network/q1.png",
+  "options": null,
+  "correctAnswer": "3",
+  "toleranceMin": 2.9699999999999998,
+  "toleranceMax": 3.0300000000000002,
+  "explanation": "Practice Question from Network Theory DPP-09 (Basic Concept of Network)."
+}

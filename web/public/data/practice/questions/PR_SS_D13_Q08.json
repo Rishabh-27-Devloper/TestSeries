@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D13_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A continuous time system is described by \n\uf028\uf029\n\uf028\uf029\nx t\ny t\ne\uf02d\n\uf03d\n, where y(t) is the output and x(t) is the \ninput, y(t) is bounded",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q8.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

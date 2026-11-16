@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D15_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "y\np\n \n2. \nImpulse train with strength 1/T",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q2.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

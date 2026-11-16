@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D08_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "p\n)\n6. \nThe closed loop poles of a system are shown in below\nfigure. The time taken to settle the response within 5%\nof tolerance is _____ sec. (correct upto two decima\nplaces)",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q6.png",
+  "options": null,
+  "correctAnswer": "867",
+  "toleranceMin": 858.33,
+  "toleranceMax": 875.67,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D05_Q14",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of Rab in given circuit is, \n \n \n(a) 20 \uf057 \n(b) 40 \uf057 \n \n(c) 80 \uf057 \n(d) 10 \uf057 \n \n10\uf057\n50\uf057\n30\uf057\n\uf032\uf034\uf057\n13\uf057\n25V +\u2013\na \nb\n20\uf057",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "20 \uf057"
+    },
+    {
+      "id": "B",
+      "text": "40 \uf057"
+    },
+    {
+      "id": "C",
+      "text": "80 \uf057"
+    },
+    {
+      "id": "D",
+      "text": "10 \uf057"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

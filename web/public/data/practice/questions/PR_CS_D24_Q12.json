@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The transfer function 1 0.5\n1\n+\n+\ns\ns represent a  \n \n(a) Lag network \n \n(b) Lead network \n \n(c) Lag\u2013lead network \n \n(d) Proportional controller \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lag network"
+    },
+    {
+      "id": "B",
+      "text": "Lead network"
+    },
+    {
+      "id": "C",
+      "text": "Lag\u2013lead network"
+    },
+    {
+      "id": "D",
+      "text": "Proportional controller"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

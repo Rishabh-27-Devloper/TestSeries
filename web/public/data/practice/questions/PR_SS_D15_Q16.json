@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D15_Q16",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider a periodic signal x(t) whose Fourier series \ncoefficient is defined as below \n \n| |\n2,\n0\n1\n,\nOtherwise\n2\n=\n\uf8f1\n\uf8f4\n= \uf8f2\uf8eb\n\uf8f6\n\uf8f4\uf8ec\n\uf8f7\n\uf8ed\n\uf8f8\n\uf8f3\nn\nn\nn\nc\nj\n \n \nWhich of the following is true? \n \n(a) x(t) is a real valued signal \n \n(b) x(t) is an even signal \n \n(c) \n( )\ndx t\ndt\n is an even signal \n \n(d) Both (b) and (c)",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q16.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "x"
+    },
+    {
+      "id": "B",
+      "text": "x"
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "Both"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

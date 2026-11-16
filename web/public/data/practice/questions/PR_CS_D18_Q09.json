@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \n \n \n \n      EASY \n9. \nFor the Bode plot shown in figure, the transfer function\nis  \n \n \n(a) \n1\ns\n1\ns\n\u2212\n+ \n(b) \n2\n1\n(1\ns)\n+\n \n \n(c) \n1\n1\ns\n+ \n(d) \n2\n1\ns(1\ns)\n+",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

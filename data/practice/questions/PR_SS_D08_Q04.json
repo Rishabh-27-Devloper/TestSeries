@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D08_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The period of the signal ( )\n5\n2cos5000\n=\n\u2212\n\uf070\nx t\nt\nt is  \n \n(a) 0.96 ms \n(b) 1.4 ms \n \n(c) 0.4 ms \n(d) Not periodic",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.96 ms"
+    },
+    {
+      "id": "B",
+      "text": "1.4 ms"
+    },
+    {
+      "id": "C",
+      "text": "0.4 ms"
+    },
+    {
+      "id": "D",
+      "text": "Not periodic"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D05_Q33",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 33,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the circuit shown in below.",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q33.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

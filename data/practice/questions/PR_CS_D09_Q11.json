@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D09_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The forward path transfer function of a unity\nfeedback system is\n( ) (\n)(\n)(\n)(\n)\n240\n1\n2\n3\n4\nG s\ns\ns\ns\ns\n=\n+\n+\n+\n+\nThe system is \n(a)\nStable\n(b) Unstable\n(c)\nMarginally stable",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stable"
+    },
+    {
+      "id": "B",
+      "text": "Unstable"
+    },
+    {
+      "id": "C",
+      "text": "Marginally stable"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

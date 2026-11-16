@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D04_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Power of periodic signal x(n) is 360 units, then power\nof \nn\n3x\n7\n2\n\uf0e6\n\uf0f6\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\nwill be________ units.",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q7.png",
+  "options": null,
+  "correctAnswer": "1620",
+  "toleranceMin": 1603.8,
+  "toleranceMax": 1636.2,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}

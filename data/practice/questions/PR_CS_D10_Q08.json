@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D10_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8.\nFor the block diagram shown below, the limiting\nvalue of K for stability of inner loop is found to be\nX < K < Y. The overall system will be stable, if and\nonly if\n(a)\n4X < K < 4Y\n(b) \n2\n2\nX\nY\nK\n\uf03c\n\uf03c\n(c)\n2X < K < 2Y\n(d) X < K < Y\nMCQ \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4X < K < 4Y"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2X < K < 2Y"
+    },
+    {
+      "id": "D",
+      "text": "X < K < Y"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

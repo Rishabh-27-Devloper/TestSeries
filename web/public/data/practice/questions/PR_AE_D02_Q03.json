@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_AE_D02_Q03",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "( )\n( )\n3.\nIn the voltage regulator shown in the figure. The load\ncurrent can vary from 100 mA to 500 mA. Assuming\nthat the Zener diode is ideal (i.e. the Zener knee\ncurrent is negligibly small and Zener resistance is zero\nin the breakdown region). The value of R is\n(a)\n7 \uf057\n(b) 70 \uf057\n( )\n70 \uf057\n(d)\n14 \uf057",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "7 \uf057"
+    },
+    {
+      "id": "B",
+      "text": "70 \uf057"
+    },
+    {
+      "id": "D",
+      "text": "14 \uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

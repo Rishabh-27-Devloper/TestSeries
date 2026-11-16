@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D03_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "We have two numbers A and B and both are 4-bit\nnumbers. To perform complete addition of these\ntwo numbers, total number of H.A.s + OR gate\nrequired is _______.\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q5.png",
+  "options": null,
+  "correctAnswer": "10",
+  "toleranceMin": 9.9,
+  "toleranceMax": 10.1,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

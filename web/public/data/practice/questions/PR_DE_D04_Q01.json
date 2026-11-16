@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D04_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "We have a 4-bit adder in which each full adder has\nsum delay of ts = 4 nsec and carry delay of 2 nsec.\nIn one minute number of additions completed by\nthis full adder is ________ \u00d7 109.\n[MSQ]",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q1.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

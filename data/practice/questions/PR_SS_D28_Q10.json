@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D28_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Sampling and It\u2019s Type",
+  "dppNumber": 28,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The energy of the signal t\u1240\n\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\n\ud835\udf0b\ud835\udf0b\ud835\udf0b\ud835\udf0b\u1241\n2\n is \n \n(a) \n1\n8\ud835\udf0b\ud835\udf0b3 \n(b) \n1\n4\ud835\udf0b\ud835\udf0b3 \n \n(c) \n1\n2\ud835\udf0b\ud835\udf0b3 \n(d) None of these",
+  "imageUrl": "assets/practice/ss/dpp_28_sampling_and_it_s_type/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-28 (Sampling and It\u2019s Type)."
+}

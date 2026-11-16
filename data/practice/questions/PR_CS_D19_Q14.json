@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D19_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n14. The root locus diagram for a control system is \nshown in figure.",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q14.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

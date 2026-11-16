@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D04_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8. \nThe inverse Laplace transform of the function \n(\n)(\n)\ns\n5\ns\n1 s\n3\n+\n+\n+\n is \n \n(a) 2e\u2013t \u2013 e\u20133t \n(b) 2e\u2013t + e\u20133t \n \n(c) e\u2013t \u2013 2e\u20133t \n(d) e\u2013t \u2013 e\u20133t \nMCQ          \n                         EASY",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2e\u2013t \u2013 e\u20133t"
+    },
+    {
+      "id": "B",
+      "text": "2e\u2013t + e\u20133t"
+    },
+    {
+      "id": "C",
+      "text": "e\u2013t \u2013 2e\u20133t"
+    },
+    {
+      "id": "D",
+      "text": "e\u2013t \u2013 e\u20133t"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

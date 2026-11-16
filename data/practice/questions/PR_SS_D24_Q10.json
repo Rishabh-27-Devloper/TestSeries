@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D24_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 24,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Fourier transform of signal \ud835\udeff\ud835\udeff(t + 1) + \ud835\udeff\ud835\udeff(t \u2013 1) is \nA cos \ud835\udf14\ud835\udf14 such that the value of a is _______________",
+  "imageUrl": "assets/practice/ss/dpp_24_signal_system/q10.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-24 (Signal & System)."
+}

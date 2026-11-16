@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D05_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8.\nThe unit impulse response of a system is\nh(t) = e\u2013t, t \u2265 0. For this system, the steady state\nvalue of the output for unit step input is equal to\n(a)\n\u20131\n(b) 0\n(c)\n1\n(d) \uf0a5",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20131"
+    },
+    {
+      "id": "B",
+      "text": "0"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "\uf0a5"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

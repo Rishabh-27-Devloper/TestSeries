@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D13_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 13,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of RL for maximum power transfer \nin the circuit is, \n \n \n(a) 18 \uf057 \n(b) 9 \uf057 \n \n(c) 12 \uf057 \n(d) 15 \uf057",
+  "imageUrl": "assets/practice/nt/dpp_13_network_theorem/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "18 \uf057"
+    },
+    {
+      "id": "B",
+      "text": "9 \uf057"
+    },
+    {
+      "id": "C",
+      "text": "12 \uf057"
+    },
+    {
+      "id": "D",
+      "text": "15 \uf057"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-13 (Network Theorem)."
+}

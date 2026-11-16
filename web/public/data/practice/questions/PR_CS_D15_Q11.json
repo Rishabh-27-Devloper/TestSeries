@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_CS_D15_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nEASY \n11. A ufb system has open-loop transfer function\n( )\n(\n)\n(\n)\nK s\nG s\n,\n0\ns\u00b2 s\n+ \uf061\n=\n\uf062\uf03e\uf061\uf03e\n+ \uf062\n The valid root- for this\nsystem is \n(a)\n(b)\n(c)\n(d)\nMCQ\nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q11.png",
+  "options": [
+    {
+      "id": "D",
+      "text": "MCQ"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

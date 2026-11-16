@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D19_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & Systems",
+  "dppNumber": 19,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The unilateral Laplace transform of a signal x(t) is\n2\n3\n2\n( )\n2\n10\n+\n=\n+\n+\ns\nX s\ns\ns\nThe time signal x(t) is \n(a) \n1\n3\ncos3\nsin3\n( )\n3\n\u2212\n\u2212\n\uf0e6\n\uf0f6\n\u2212\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\nt\nt\ne\nt\ne\nt u t\n(b) \n( )\n1\n3\nsin3\ncos3\n3\n\u2212\n\u2212\n\uf0e6\n\uf0f6\n\u2212\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\nt\nt\ne\nt\ne\nt u t\n(c) (\n) ( )\n3\ncos3\nsin3\n\u2212\n\u2212\n\u2212\nt\nt\ne\nt\ne\nt u t\n(d) (\n) ( )\n3\nsin3\n3\ncos3\n\u2212\n\u2212\n+\nt\nt\ne\nt\ne\nt u t",
+  "imageUrl": "assets/practice/ss/dpp_19_signals_systems/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-19 (Signals & Systems)."
+}

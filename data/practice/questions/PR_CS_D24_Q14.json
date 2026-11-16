@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n14. The transfer function of a phase compensator is \ngiven by (1 + aTs)/(1 + Ts) where a > 1 and T > \n0. The maximum phase shift provided by a \nsuch compensator is \n \n(a) \n1\n1\ntan\n1\n\u2212\n+\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\u2212\n\uf0e8\n\uf0f8\na\na\n \n(b) \n1\n1\nsin\n1\n\u2212\n\u2212\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n+\n\uf0e8\n\uf0f8\na\na\n \n \n(c) \n1\n1\ntan\n1\n\u2212\n\u2212\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n+\n\uf0e8\n\uf0f8\na\na\n \n(d) \n1\n1\ncos\n1\n\u2212\n\u2212\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n+\n\uf0e8\n\uf0f8\na\na\n \nMSQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

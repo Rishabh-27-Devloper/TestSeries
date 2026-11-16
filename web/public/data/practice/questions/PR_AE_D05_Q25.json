@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q25",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 25,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In following amplifier circuit, the op-amp is ideal. The \nvoltage v\u2013 at inverting terminal is \n \n \n(a) 0 V \n(b) \u20131.2 V \n \n(c) \u20133 V \n(d) 2.1 V \n \nCommon Data for Q.26 and 27 \n \nFor an ideal op-amp circuit shown in the following \nfigure, the open loop gain of op-amp is AOL.",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q25.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0 V"
+    },
+    {
+      "id": "B",
+      "text": "\u20131.2 V"
+    },
+    {
+      "id": "C",
+      "text": "\u20133 V"
+    },
+    {
+      "id": "D",
+      "text": "2.1 V"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

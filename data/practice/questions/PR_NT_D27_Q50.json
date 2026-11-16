@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q50",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 50,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the circuit shown below, the switch is closed at t \n= 0. The value of \uf071 in degrees which will give the \nmaximum value of DC offset of the current at the \ntime of switching is : \n \n \n(A) 60  \n(B) \u221230  \n \n(C) 90  \n(D) \u221245 \nElectrical : 2019",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q50.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "60"
+    },
+    {
+      "id": "B",
+      "text": "\u221230"
+    },
+    {
+      "id": "C",
+      "text": "90"
+    },
+    {
+      "id": "D",
+      "text": "\u221245"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

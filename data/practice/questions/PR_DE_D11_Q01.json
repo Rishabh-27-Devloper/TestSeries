@@ -1,0 +1,37 @@
+{
+  "questionId": "PR_DE_D11_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part - 4)",
+  "dppNumber": 11,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "An asynchronous counter is designed using 10 FFs\nhaving MOD No. 1000. Delay of each FF used is 8\nn sec, then for which clock frequencies, counter will\nwork properly.\n(a)\n12.5 MHz\n(b) 1.25 MHz\n(c)\n125 MHz\n(d) 25 MHz\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_11_sequential_circuits_part_4/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "12.5 MHz"
+    },
+    {
+      "id": "B",
+      "text": "1.25 MHz"
+    },
+    {
+      "id": "C",
+      "text": "125 MHz"
+    },
+    {
+      "id": "D",
+      "text": "25 MHz"
+    }
+  ],
+  "correctAnswer": [
+    "A",
+    "B"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-11 (Sequential Circuits (Part - 4))."
+}

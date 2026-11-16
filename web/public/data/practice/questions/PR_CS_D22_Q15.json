@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D22_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The magnitude of open loop transfer function at \nphase crossover frequency for the open loop \ntransfer function \n3\n8\n( )\n(\n2)\nG s\ns\n=\n+\n is _______.",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q15.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

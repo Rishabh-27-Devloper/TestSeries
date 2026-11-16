@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D01_Q10",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "We have a trans conductance amplifier with Ri = 10 k\u03a9,\nRo = 10 k\u03a9, Gm = 5 A/V. Convert this amplifier into\nvoltage Amplifier then, AV of this amplifier is ______?",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q10.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

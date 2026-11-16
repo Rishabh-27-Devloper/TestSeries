@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D17_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \n \n \n \n       EASY\n14. The damping ratio is  \n \n(a) 0.063 \n(b) 0.179 \n \n(d) 0.483 \n(d) 0.639 \n \nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.063"
+    },
+    {
+      "id": "B",
+      "text": "0.179"
+    },
+    {
+      "id": "D",
+      "text": "0.483"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

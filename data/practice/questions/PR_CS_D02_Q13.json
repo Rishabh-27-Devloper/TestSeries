@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D02_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The transfer function between y2 and y1 in\nfigure, is _______. If, 2a = b = 4c = 2.\nMCQ \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q13.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

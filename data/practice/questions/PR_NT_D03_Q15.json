@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D03_Q15",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The power supplied by 3V source is\n(a)\n5 W\n(b) 1 W\n(c)\n0 W\n(d) 3 W",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 W"
+    },
+    {
+      "id": "B",
+      "text": "1 W"
+    },
+    {
+      "id": "C",
+      "text": "0 W"
+    },
+    {
+      "id": "D",
+      "text": "3 W"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

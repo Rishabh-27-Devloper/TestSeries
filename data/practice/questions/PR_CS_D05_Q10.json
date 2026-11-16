@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D05_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n10. A system is shown in below  \n \n \nIf R(s) is unit impulse input, the rise time and \nsettling time for this system is  \n \n(a) 0.22 s, 0.4 s  \n(b) 0.4 s, 0.22 s  \n \n(c) 0.22 s, 0.12 s \n(d) 0.12 s, 0.22 s  \n \n \nNAT \n \n \n \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.22 s, 0.4 s"
+    },
+    {
+      "id": "B",
+      "text": "0.4 s, 0.22 s"
+    },
+    {
+      "id": "C",
+      "text": "0.22 s, 0.12 s"
+    },
+    {
+      "id": "D",
+      "text": "0.12 s, 0.22 s"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

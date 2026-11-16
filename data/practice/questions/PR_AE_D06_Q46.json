@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D06_Q46",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 46,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the Hartely oscillator shown in figure, what is the\nvalue of oscillation frequency (in kHz)?\nby clicking here:- https://forms.gle/t2SzQVvQcs638c4r5 \nection: Link for web: https://smart.link/sdfez8ejd80if",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q46.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

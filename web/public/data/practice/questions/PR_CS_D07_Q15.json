@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D07_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \nHARD \n15. The open loop transfer function of a unity feedback\nsystem is given below\n(\n)\nK\nG(s)\ns 1\nsT\n=\n+\nWhere, K and T are real positive constants. By \nwhat factor should the amplifier gain be reduced \nso that the peak overshoot of unit step response \nof the system is reduced from 75 % to 25 %",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q15.png",
+  "options": null,
+  "correctAnswer": "0.051",
+  "toleranceMin": 0.000999999999999994,
+  "toleranceMax": 0.101,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

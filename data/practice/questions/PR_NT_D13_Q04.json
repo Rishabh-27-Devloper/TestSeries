@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D13_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 13,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of maximum power in the load is  \n________W",
+  "imageUrl": "assets/practice/nt/dpp_13_network_theorem/q4.png",
+  "options": null,
+  "correctAnswer": "2.9",
+  "toleranceMin": 2.871,
+  "toleranceMax": 2.929,
+  "explanation": "Practice Question from Network Theory DPP-13 (Network Theorem)."
+}

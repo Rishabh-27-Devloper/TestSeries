@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D22_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The unilateral Laplace transform of a signal x(t) is \n \n2\n2s\n2\n2s\n11s\n16\ne\nX(s)\ns\n5s\n6\n\u2212\n+\n+\n\u2212\n=\n+\n+\n \n \nThe time signal x(t) is; \n(a) 2\ud835\udeff\ud835\udeff(\ud835\udc61\ud835\udc61) + \u12403\ud835\udc52\ud835\udc52\u20132\ud835\udc61\ud835\udc61\u2013 2\ud835\udc52\ud835\udc52\u20133\ud835\udc61\ud835\udc61\u1241\ud835\udc62\ud835\udc62(\ud835\udc61\ud835\udc61\u2013 2) \n(b) \n\u20132t\n\u20133t\n\u20132(t\u20132)\n\u20133(t\u20132)\n2 (t)\n(2e\ne\ne\ne\n) u(t)\n\u03b4\n+\n\u2212\n+\n+\n \n(c) \n\u20132t\n\u20133t\n\u20132t\n\u20133t\n2 (t)\n(2e\ne\n)u(t)\n(e\n\u2013 e\n) u(t \u2013 2)\n\u03b4\n+\n\u2212\n+\n \n \n(d) \n\u20132t\n\u20133t\n\u20132(t\u20132)\n\u20133(t 2)\n2 (t)\n(2e\ne\n)u(t)\n(e\n\u2013 e\n) u(t \u2013 2)\n\u2212\n\u03b4\n+\n\u2212\n+",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2\ud835\udeff\ud835\udeff"
+    },
+    {
+      "id": "B",
+      "text": "\u20132t"
+    },
+    {
+      "id": "C",
+      "text": "\u20132t"
+    },
+    {
+      "id": "D",
+      "text": "\u20132t"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

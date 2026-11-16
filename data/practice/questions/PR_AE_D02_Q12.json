@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q12",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the figure, silicon diode is carrying a constant \ncurrent of 1 mA. When the temperature of the diode is \n20\u00b0C, VD is found to be 700 mV. If the temperature \nrises to 40\u00b0C, VD becomes approx equal to \n \n \n(a) 740 mV \n(b) 650 mV \n \n(c) 680 mV \n(d) 700 mV",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "740 mV"
+    },
+    {
+      "id": "B",
+      "text": "650 mV"
+    },
+    {
+      "id": "C",
+      "text": "680 mV"
+    },
+    {
+      "id": "D",
+      "text": "700 mV"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

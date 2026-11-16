@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D29_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 29,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For question 4, the value of element L or C is   \n \n(a) 15.8 mF \n(b) 25 \uf06dF \n \n(c) 19.8 mH \n(d) 25 H",
+  "imageUrl": "assets/practice/nt/dpp_29_phasor_diagram/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "15.8 mF"
+    },
+    {
+      "id": "B",
+      "text": "25 \uf06dF"
+    },
+    {
+      "id": "C",
+      "text": "19.8 mH"
+    },
+    {
+      "id": "D",
+      "text": "25 H"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-29 (Phasor Diagram)."
+}

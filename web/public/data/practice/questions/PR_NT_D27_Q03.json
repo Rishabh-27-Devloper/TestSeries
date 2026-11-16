@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In the following circuit, i(t) under steady state is\n(A) zero\n(B) 5\n(C) 7.07 sint\n(D) \n0\n7.07sin(\n45 )\nt \uf02d\nElectrical : 1993",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "zero"
+    },
+    {
+      "id": "B",
+      "text": "5"
+    },
+    {
+      "id": "C",
+      "text": "7.07 sint"
+    },
+    {
+      "id": "D",
+      "text": "0"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

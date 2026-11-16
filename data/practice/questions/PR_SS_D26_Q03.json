@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D26_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Properties of CTFT",
+  "dppNumber": 26,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "CTFT of f1(t) is imaginary and even.",
+  "imageUrl": "assets/practice/ss/dpp_26_properties_of_ctft/q3.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-26 (Properties of CTFT)."
+}

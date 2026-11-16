@@ -1,0 +1,37 @@
+{
+  "questionId": "PR_SS_D15_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "Only odd harmonics are present \n \nCodes: \n \n \nA \nB \nC \nD \n \n(a) 1 \n1 \n1 \n1 \n \n(b) 1 \n1 \n1 \n1 \n \n(c) 1 \n1 \n1 \n1 \n \n(d) 1 \n1 \n1 \n1 \n2. \nFourier series for a given below waveform is :",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": [
+    "C",
+    "D"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

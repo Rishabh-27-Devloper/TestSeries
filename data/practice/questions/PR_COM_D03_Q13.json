@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q13",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The joint distribution function is \n \n(a) \n2\n2\n2\n2\n(\n1)\n5\n5\n, 0\n4 and\n0\n4\n1\n1\n1\n[\n5\n],\n4 and\n0\n4\n\u2212\n+\n\u2212\n\u2212\n\u2212\n\uf0ec\n\uf0e9\n\uf0f9\n+\n\uf0ef\n\uf0ea\n\uf0fa\n\u2212\n\uf0a3\n\uf0a3\n=\n\uf0ef\n+\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n\uf0ed\n\uf0ef\n+\n\u2212\n\uf03e\n\uf03e\n\uf0ef\uf0ee\nx\ny\ny\ny\ny\nx\ne\ne\nx\ny\nx\ne\ne\nx\ny\n \n \n(b) \n2\n2\n2\n2\n(\n1)\n5\n5\n, 0\n4 and\n0\n8\n1\n1\n1\n[\n5\n],\n4 and\n0\n2\n\u2212\n+\n\u2212\n\u2212\n\u2212\n\uf0ec\uf0e9\n\uf0f9\n+\n\uf0ef\uf0ea\n\uf0fa\n\u2212\n\uf0a3\n\uf0a3\n=\n\uf0ef\n+\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n\uf0ed\n\uf0ef\n+\n\u2212\n\uf03e\n\uf03e\n\uf0ef\uf0ee\nx\ny\ny\ny\ny\nx\ne\ne\nx\ny\nx\ne\ne\nx\ny\n \n \n(c) \n2\n2\n2\n2\n(\n1)\n5\n5\n, 0\n4 and\n0\n8\n1\n1\n1\n[\n5\n],\n4 and\n0\n4\n\u2212\n+\n\u2212\n\u2212\n\u2212\n\uf0ec\uf0e9\n\uf0f9\n+\n\uf0ef\uf0ea\n\uf0fa\n\u2212\n\uf0a3\n\uf0a3\n=\n\uf0ef\n+\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n\uf0ed\n\uf0ef\n+\n\u2212\n\uf03e\n\uf03e\n\uf0ef\uf0ee\nx\ny\ny\ny\ny\nx\ne\ne\nx\ny\nx\ne\ne\nx\ny\n \n \n(d) \n2\n2\n2\n2\n(\n1)\n5\n5\n, 0\n4 and\n0\n4\n1\n1\n1\n[\n5\n],\n4 and\n0\n2\n\u2212\n+\n\u2212\n\u2212\n\u2212\n\uf0ec\n\uf0e9\n\uf0f9\n+\n\uf0ef\n\uf0ea\n\uf0fa\n\u2212\n\uf0a3\n\uf0a3\n=\n\uf0ef\n+\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n\uf0ed\n\uf0ef\n+\n\u2212\n\uf03e\n\uf03e\n\uf0ef\uf0ee\nx\ny\ny\ny\ny\nx\ne\ne\nx\ny\nx\ne\ne\nx\ny\n \n \nCommon Data For Q.14 \u2013 17: \nThe joint probability density function of random variables \nX and Y is \n2\n2\n(\n)\n2\n, ( , )\n( )\n( )\n+\n\u2212\n=\nx\ny\nX Y\nf\nx y\nxy e\nu x u y",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

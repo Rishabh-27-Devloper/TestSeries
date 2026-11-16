@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D05_Q03",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the circuit shown below the value of vo is",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q3.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

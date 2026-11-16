@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the given figure the switch was open for a long \ntime find voltage across inductor (VL) if switch is \nclose at t = 0 \n \n \n(a) \u201330 e\u20133t \n(b) \u201310 e\u20131.2t \n \n(c) 30 e\u20133t \n(d) 10 e\u20131.2t",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u201330 e\u20133t"
+    },
+    {
+      "id": "B",
+      "text": "\u201310 e\u20131.2t"
+    },
+    {
+      "id": "C",
+      "text": "30 e\u20133t"
+    },
+    {
+      "id": "D",
+      "text": "10 e\u20131.2t"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

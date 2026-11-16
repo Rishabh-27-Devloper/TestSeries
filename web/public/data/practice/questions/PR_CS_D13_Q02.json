@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D13_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A unity feedback system has open loop poles at s = \u2013\n2 \uf0b1 j2, s = \u20131, and s = 0; and a zero at s = \u2013 3. The\nangle made by the root locus asymptotes with the\nreal axis and the point of Intersection of the\nasymptotes are\n(a)\n(60\u00b0, \u201360\u00b0, 180\u00b0) and \u20133/2\n(b)\n(60\u00b0, \u201360\u00b0, 180\u00b0) and \u20132/3\n(c)\n(45\u00b0, \u201345\u00b0, 180\u00b0) and \u20132/3\n(d)\n(45\u00b0, \u201345\u00b0, 180\u00b0) and \u20134/3\nMCQ \n     EASY",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q2.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

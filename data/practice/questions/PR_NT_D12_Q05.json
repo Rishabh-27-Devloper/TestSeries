@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D12_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 12,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "By using Norton theorem the value of ix is _____A.",
+  "imageUrl": "assets/practice/nt/dpp_12_network_theorem/q5.png",
+  "options": null,
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Network Theory DPP-12 (Network Theorem)."
+}

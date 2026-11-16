@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D17_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 17,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Find the z-parameters of the below given two-port \nnetwork.",
+  "imageUrl": "assets/practice/nt/dpp_17_two_port_network/q1.png",
+  "options": null,
+  "correctAnswer": "3",
+  "toleranceMin": 2.9699999999999998,
+  "toleranceMax": 3.0300000000000002,
+  "explanation": "Practice Question from Network Theory DPP-17 (Two port network)."
+}

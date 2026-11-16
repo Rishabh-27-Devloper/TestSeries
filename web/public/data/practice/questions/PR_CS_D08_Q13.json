@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D08_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A feedback system for a generator is shown below \n \n \nWhere G = 210\u00b112% and H = 0.12.  Then the\npercentage change in the generator\u2019s output is______.",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q13.png",
+  "options": null,
+  "correctAnswer": "33",
+  "toleranceMin": 32.67,
+  "toleranceMax": 33.33,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

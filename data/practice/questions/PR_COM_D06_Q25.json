@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_COM_D06_Q25",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "PRACTICE SHEET 01",
+  "dppNumber": 6,
+  "questionNumber": 25,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The separation between the ratios of bit energy to \nnoise power density for the two cases is  \n \n(a) \n0.85 dB \n(b) 1.56 dB \n \n(c) \n8.57 dB \n(c) 1.93 dB \n \n \nCommon Data for Q.26 and 27: \n \nA digital communication system consists of a \ntransmission line with 100 digital (regenerative) \nrepeaters. Binary antipodal signals are used for \ntransmitting the information",
+  "imageUrl": "assets/practice/comm/dpp_06_practice_sheet_01/q25.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.85 dB"
+    },
+    {
+      "id": "B",
+      "text": "1.56 dB"
+    },
+    {
+      "id": "C",
+      "text": "8.57 dB"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-06 (PRACTICE SHEET 01)."
+}

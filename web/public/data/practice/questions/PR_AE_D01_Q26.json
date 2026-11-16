@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D01_Q26",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 26,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of the DC output voltage (Vo, dc) is ______ \nvolts.",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q26.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

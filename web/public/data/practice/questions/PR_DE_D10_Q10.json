@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D10_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-3)",
+  "dppNumber": 10,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "[NAT] \n \n \n           \n  \n \nMOD-10 & MOD-20 counters are cascaded to \ndesign MOD-200 counter, then minimum number \nof ffs required is______.",
+  "imageUrl": "assets/practice/de/dpp_10_sequential_circuits_part_3/q10.png",
+  "options": null,
+  "correctAnswer": "9",
+  "toleranceMin": 8.91,
+  "toleranceMax": 9.09,
+  "explanation": "Practice Question from Digital Electronics DPP-10 (Sequential Circuits (Part-3))."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D05_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A combinational circuit is designed using MUX as \nshown below :- \n \n \noutput  y is  \n \n(a) A\nB\n+\n \n(b) A.B \n \n(c) A\nB\n\uf0c5\n \n(d) A \u2a00 B \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A"
+    },
+    {
+      "id": "B",
+      "text": "A.B"
+    },
+    {
+      "id": "C",
+      "text": "A"
+    },
+    {
+      "id": "D",
+      "text": "A \u2a00 B"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q14",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the circuit shown in the  figure the instantaneous \ncurrent \n is \n \n \n(A) \n A \n \n(B) \n A \n \n(C) \n A \n \n(D) \n0\n5\n60 A\n\uf0d0\uf02d\n \nElectronics : : 2005 \n1( )\ni t\n0\n10 3\n90\n2\n\uf0d0\n0\n10 3\n90\n2\n\uf0d0\uf02d\n0\n5 60\n\uf0d0",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A"
+    },
+    {
+      "id": "B",
+      "text": "A"
+    },
+    {
+      "id": "C",
+      "text": "A"
+    },
+    {
+      "id": "D",
+      "text": "0"
+    }
+  ],
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

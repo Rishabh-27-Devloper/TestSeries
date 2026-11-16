@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q36",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 36,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The figure shows the per-phase equivalent circuit of \na two-pole three-phase induction motor operating at \n50Hz. The \u201cair-gap\u201d voltage, Vg across the \nmagnetizing inductance, is 210Vrms, and the slip s, \nis 0.05. The torque (in Nm) produced by the motor is \n_______.",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q36.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

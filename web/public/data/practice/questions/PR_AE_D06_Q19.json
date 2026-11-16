@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q19",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For minimum value of 'K' for oscillation, the\nfrequency of oscillation is\n(a) \n1\n2\n2 RC\n\uf070\n(b) \n1\n2\n3 RC\n\uf070\n(c) \n1\n2\n4 RC\n\uf070\n(d) \n1\n2 RC\n\uf070\nCommon Data for Q.20 to 21: \nConsider the oscillator circuit shown below.",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

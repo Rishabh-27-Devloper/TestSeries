@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D01_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The block diagram shown in figure I and figure \u2013 II \nare equivalent for the value of P = ____.",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q15.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

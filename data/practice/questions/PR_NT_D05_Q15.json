@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D05_Q15",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of current I is _____ A. \n \n60 V +\u2013\nI\n+\n\u2013Vx\n3\uf057\n5\uf057\n0.04 Vx\n5\uf057\n0.04Vx",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q15.png",
+  "options": null,
+  "correctAnswer": "5",
+  "toleranceMin": 4.95,
+  "toleranceMax": 5.05,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

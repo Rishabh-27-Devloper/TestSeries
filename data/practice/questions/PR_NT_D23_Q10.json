@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D23_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 23,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In question 9, find VC(2)",
+  "imageUrl": "assets/practice/nt/dpp_23_transient_analysis/q10.png",
+  "options": null,
+  "correctAnswer": "12.97 V",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-23 (Transient Analysis)."
+}

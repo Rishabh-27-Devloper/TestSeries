@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q16",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the number of turns of a coil is double then it \ninductance will be \n \n(a) Increase 8 times (b) Decrease 4 times \n \n(c) Increase 2 times (d) Increase 4 times",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q16.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increase 8 times"
+    },
+    {
+      "id": "B",
+      "text": "Decrease 4 times"
+    },
+    {
+      "id": "C",
+      "text": "Increase 2 times"
+    },
+    {
+      "id": "D",
+      "text": "Increase 4 times"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

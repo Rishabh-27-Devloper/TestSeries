@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D24_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 24,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider a CT signal shown in the figure below \n \nThe magnitude spectra |X(j\ud835\udf14\ud835\udf14)| of the signal is \n \n(a) \n \n(b) \n \n(c) \n \n(d)",
+  "imageUrl": "assets/practice/ss/dpp_24_signal_system/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-24 (Signal & System)."
+}

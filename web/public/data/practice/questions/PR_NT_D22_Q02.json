@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The time constant of given network is  \n \n \n(a) 1 s \n(b) 2 s \n \n(c) 3 s \n(d) 4 s",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 s"
+    },
+    {
+      "id": "B",
+      "text": "2 s"
+    },
+    {
+      "id": "C",
+      "text": "3 s"
+    },
+    {
+      "id": "D",
+      "text": "4 s"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

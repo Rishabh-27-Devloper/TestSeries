@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D23_Q28",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 28,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Given the Laplace transform, \n0\n( )\n( )\nst\nV s\ne\nv t dt\n\uf0a5\u2212\n= \uf0f2\n. \n \nThe inverse transform v(t) is  \n \n(a) \n( )\n\uf073+ \uf0a5\n\uf073\u2212\uf0a5\uf0f2\nj\nj\nV s ds \n \n(b) \n1\n( )\n2\nj\nst\nj\ne V s ds\nj\n\uf073+ \uf0a5\n\uf073\u2212\uf0a5\n\uf070\uf0f2\n \n \n(c) \n0\n1\n( )\n2\nst\ne V s ds\nj\n\uf0a5\n\uf070\uf0f2\n \n \n(d) \n1\n( )\n2\nj\nst\nj\ne\nV s ds\nj\n\uf073+ \uf0a5\n\u2212\n\uf073\u2212\uf0a5\n\uf070\uf0f2",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q28.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "0"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

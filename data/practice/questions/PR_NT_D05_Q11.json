@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D05_Q11",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A y-network has resistance of 10 \u03a9 each in two of its \narms, while the third arm has a resistance of 11 \u03a9. In \nthe equivalent \u2206-network, the lowest value among the \nthree is, \n \n(a) 19.09\uf057 \n(b) 29.09\uf057 \n \n(c) 33\uf057 \n(d) 22\uf057",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "19.09\uf057"
+    },
+    {
+      "id": "B",
+      "text": "29.09\uf057"
+    },
+    {
+      "id": "C",
+      "text": "33\uf057"
+    },
+    {
+      "id": "D",
+      "text": "22\uf057"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D10_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "LTI System and Its Properties",
+  "dppNumber": 10,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A system with the impulse response h(t) = 6\uf064 (t + 5)\n(a)\nhas memory and is stable\n(b) does not have memory and is unstable\n(c)\nhas memory and is unstable\n(d) none of the above",
+  "imageUrl": "assets/practice/ss/dpp_10_lti_system_and_its_properties/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "has memory and is stable"
+    },
+    {
+      "id": "B",
+      "text": "does not have memory and is unstable"
+    },
+    {
+      "id": "C",
+      "text": "has memory and is unstable"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-10 (LTI System and Its Properties)."
+}

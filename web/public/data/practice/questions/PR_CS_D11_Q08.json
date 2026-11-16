@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT \n   EASY \n8.\nThe OLTF of a unity negative feedback system is\n2\n5(\n)\n( )\n(2\n1)\n+\n=\n+\ns\nK\nG s\ns\ns\nThe value of \u2018K\u2019 for the system to be oscillatory is \n_______. \nNAT\nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q8.png",
+  "options": null,
+  "correctAnswer": "0.5",
+  "toleranceMin": 0.45,
+  "toleranceMax": 0.55,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

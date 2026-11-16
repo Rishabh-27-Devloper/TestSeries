@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D29_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 29,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For given if overall power factor us 0.95 (lagging) \nthen value of capacitance C is _______ \uf06dF.",
+  "imageUrl": "assets/practice/nt/dpp_29_phasor_diagram/q9.png",
+  "options": null,
+  "correctAnswer": "28.5",
+  "toleranceMin": 28.215,
+  "toleranceMax": 28.785,
+  "explanation": "Practice Question from Network Theory DPP-29 (Phasor Diagram)."
+}

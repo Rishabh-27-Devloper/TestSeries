@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D05_Q22",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 22,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the figure amplifier circuit, each op-amp has an \ninput offset voltage of 10 mV, op-amp is ideal \notherwise, output vo1 and vo2 for an input vin = 0 \nrespectively are \n \n \n(a) 100 mV, \u2013440 mV \n \n(b) 110 mV, \u2013500 mV",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q22.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "100 mV, \u2013440 mV"
+    },
+    {
+      "id": "B",
+      "text": "110 mV, \u2013500 mV"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

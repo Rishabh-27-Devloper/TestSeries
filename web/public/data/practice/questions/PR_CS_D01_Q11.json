@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n11. Consider the block diagram shown in figure,  \n \n \nWhich of the following is an equivalent graph of \nabove system is  \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d) \n \nMCQ \n  \n      BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "MCQ"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

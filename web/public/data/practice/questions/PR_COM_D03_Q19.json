@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q19",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The mean value of the random variable \n \n2\n(\n3 )\n2\n3\n=\n+\n+\n+\nW\nX\nY\nX\n is  \n \n(a) 98\n3\n+\n \n(b) 98\n3\n\u2212\n \n \n(c) 49\n3\n\u2212\n \n(d) 49\n3\n+\n \n \nCommon Data For Q.20 and 21: \nThe outcome of an experiment is an integer X whose value \nis equally likely to be any integer in the range 1 \u2264 X \u2264 4. \nThe experiment is performed twice, yielding the outcomes \nX1 and X2. Let A be the event that X1 = X2, let B be the event \nthat X1 > X2, and let C be the event that X1 + X2 \u2265 6.",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "98"
+    },
+    {
+      "id": "B",
+      "text": "98"
+    },
+    {
+      "id": "C",
+      "text": "49"
+    },
+    {
+      "id": "D",
+      "text": "49"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

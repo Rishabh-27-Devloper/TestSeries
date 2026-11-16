@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D06_Q13",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of I is _______A",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q13.png",
+  "options": null,
+  "correctAnswer": "0.5",
+  "toleranceMin": 0.45,
+  "toleranceMax": 0.55,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

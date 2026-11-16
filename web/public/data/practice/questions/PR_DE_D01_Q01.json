@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D01_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-1)",
+  "dppNumber": 1,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "(A + B) (A + C) (\n)\n+\nA\nC is equivalent to\n(a) A + BC\n(b)\n+\nA\nBC\n(c) 0\n(d) A\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_01_boolean_theorems_and_basics_of_gates_p/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A + BC"
+    },
+    {
+      "id": "B",
+      "text": "+"
+    },
+    {
+      "id": "C",
+      "text": "0"
+    },
+    {
+      "id": "D",
+      "text": "A"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-01 (Boolean Theorems and Basics of Gates (Part-1))."
+}

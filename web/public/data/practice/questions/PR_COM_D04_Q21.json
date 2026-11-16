@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D04_Q21",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 21,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Common Data for Q.21 and 22: \nA random process X(t) is applied to a network with \nimpulse response h(t) = u(t) te\u2013at where a > 0 is a \nconstant. The cross correlation of X(t) with the output \nY(t) is known to have the same form \n( )\n( )\n\u2212\uf074\n\uf074=\n\uf074\uf074\na\nXY\nR\nu\ne\n \n21. If \uf074 \u2264 0, then the auto correlation of Y(t) is \n \n(a) \n0\n3\n4\n4\n\u2212\n\uf074\n+ \uf074\na e\na\n \n(b) \n2\n1\n3\n\u2212\n\uf074\n+ \uf074\na\na e\na\n \n \n(c) \n2\n4\n8\n\u2212\n\uf074\n+ \uf074\na\na e\na\n \n(d) \n3\n1\n4\n\u2212\n\uf074\n+ \uf074\na\na e\na",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q21.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

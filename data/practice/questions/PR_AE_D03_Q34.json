@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D03_Q34",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 34,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider an amplifier circuit shown in figure. If the \ntransistor Q1 and Q2 has parameters gm1, r\u03c01 and gm2, \nr\u03c02 respectively, then voltage gain | A\u03c5 | is \n \n \n(a) \n1\n2\n2\n2\n1\nm\nm\ng\nr\ng\nr\n\uf070\n\uf070\n+\n \n(b) \n2\n2\n2\n2\n1\nm\nm\ng\nr\ng\nr\n\uf070\n\uf070\n+\n \n1\n1\ng\nr\n1\n1\ng\nr",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q34.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

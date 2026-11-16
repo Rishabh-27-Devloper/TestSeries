@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n1. \nFor a type \u20181\u2019 order \u20183\u2019 system, the polar plot is \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d) \n \nMCQ \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "MCQ"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

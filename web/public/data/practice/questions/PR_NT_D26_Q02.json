@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D26_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 26,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "When we apply sinusoidal input to a system, then \noutput is sinusoidal having _____ frequency, _____ \namplitude & _____ phase.  \n \n(a) same, same, same \n \n(b) same, different, different \n \n(c) different, same, same \n \n(d) different, different, different",
+  "imageUrl": "assets/practice/nt/dpp_26_sinusoidal_steady_state_analysis/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "same, same, same"
+    },
+    {
+      "id": "B",
+      "text": "same, different, different"
+    },
+    {
+      "id": "C",
+      "text": "different, same, same"
+    },
+    {
+      "id": "D",
+      "text": "different, different, different"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-26 (Sinusoidal Steady State Analysis)."
+}

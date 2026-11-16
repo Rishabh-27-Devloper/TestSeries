@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D07_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Two logical functions: \n \nf1 (A, B) = \u03a3(1, 2) \n \nf2(A, B) = \u03a3 (0, 1, 3) \n \nthen output f(A, B) will be \n \n \n \n \n \n(a) \u03a3(1, 2) \n(b) \u03a3(0, 1, 3) \n \n(c) \u03a3(0, 1, 2, 3) \n(d) \u03a3(1) \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u03a3"
+    },
+    {
+      "id": "B",
+      "text": "\u03a3"
+    },
+    {
+      "id": "C",
+      "text": "\u03a3"
+    },
+    {
+      "id": "D",
+      "text": "\u03a3"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

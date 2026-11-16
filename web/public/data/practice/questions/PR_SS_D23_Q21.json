@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D23_Q21",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 21,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If \n2\n27\n97\n33\n+\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n+\n\uf0e8\n\uf0f8\ns\ns\ns\n is the Laplace transform of f(t), then \n(\n)\n0+\nf\n is  \n \n(a) Zero \n(b) 97/33 \n \n(c) 27 \n(d) Infinity",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q21.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zero"
+    },
+    {
+      "id": "B",
+      "text": "97/33"
+    },
+    {
+      "id": "C",
+      "text": "27"
+    },
+    {
+      "id": "D",
+      "text": "Infinity"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q31",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 31,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A capacitor C is to be connected across the \nterminals \u201eA\u201f and \u201eB\u201f as shown in the figure so that \nthe power factor of the parallel combination \nbecomes unity. The value of the capacitance \nrequired in \u00b5F is________. \n \nInstrumentation : 2014",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q31.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

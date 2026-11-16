@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D01_Q01",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The input Impedance and output Impedance of Current\nAmplifier is\n(a)\nLow,  Low\n(b) High, High\n(c)\nLow, High\n(d) High, Low",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low,  Low"
+    },
+    {
+      "id": "B",
+      "text": "High, High"
+    },
+    {
+      "id": "C",
+      "text": "Low, High"
+    },
+    {
+      "id": "D",
+      "text": "High, Low"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

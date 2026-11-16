@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D27_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis and Filter Analysis",
+  "dppNumber": 27,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of\nX(j )d\nis\n\uf0a5\n\uf02d\uf0a5\n\uf077\n\uf077\n\uf0f2\n(a) 4\u03c0\n(b) 2\n(c)\n2\u03c0\n(d) 1/\u03c0\n2 i\n\uf0a5\n\uf0e6\n\uf0f6",
+  "imageUrl": "assets/practice/ss/dpp_27_system_analysis_and_filter_analysis/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4\u03c0"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2\u03c0"
+    },
+    {
+      "id": "D",
+      "text": "1/\u03c0"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-27 (System Analysis and Filter Analysis)."
+}

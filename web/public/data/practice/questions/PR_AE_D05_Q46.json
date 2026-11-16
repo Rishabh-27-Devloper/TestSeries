@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q46",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 46,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the amplifier circuit shown below, where Av \nis the voltage gain of amplifier. \n \n \nWhat is the value of input resistance, \n\uf03d\nin\nin\nin\nv\nR\ni\n? \n \n(a) \n1\uf02d\nv\nf\nv\nA R\nA \n(b) (1\n)\n\uf02d\nv\nf\nA R \n \n(c) \n1\uf02d\nf\nv\nR\nA \n(d) (1\n)\n\uf02d\nv\nf\nv\nA\nR\nA",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q46.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1\uf02d"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": "1\uf02d"
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

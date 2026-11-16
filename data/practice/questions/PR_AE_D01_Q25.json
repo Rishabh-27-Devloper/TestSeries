@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D01_Q25",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 25,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If v1 = v2 = 0, then output voltage v0 is ______ volts. \n \nCommon Data For Q.26 and 27 : \nGiven that a half-wave rectifier circuit driven from a \ntransformer having a secondary voltage of 12.6 Vrms, f = 60 \nHz with R = 15 \uf057 and C = 25 mF. Assume the diode on \nvoltage Von = 1 V.",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q25.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

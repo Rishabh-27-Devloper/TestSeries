@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D14_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Thevenin theorem and MPTT",
+  "dppNumber": 14,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A 24V battery of internal resistance r = 4 is connected \nto a variable resistance R. The rate of heat dissipation \nin the resistor is maximum when the current drawn \nfrom the battery is I. Current drawn from the battery \nwill be I/2 when R is equal to, \n \n(a) 8\u2126 \n(b) 12\u2126 \n \n(c) 16\u2126 \n(d) 20\u2126",
+  "imageUrl": "assets/practice/nt/dpp_14_thevenin_theorem_and_mptt/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "8\u2126"
+    },
+    {
+      "id": "B",
+      "text": "12\u2126"
+    },
+    {
+      "id": "C",
+      "text": "16\u2126"
+    },
+    {
+      "id": "D",
+      "text": "20\u2126"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-14 (Thevenin theorem and MPTT)."
+}

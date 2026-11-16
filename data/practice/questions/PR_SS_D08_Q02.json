@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D08_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The sum of two or more arbitrary sinusoids is  \n \n(a) always periodic \n \n(b) Periodic under certain conditions \n \n(c) Never periodic  \n \n(d) Periodic only if all the sinusoids are identical \nin frequency and phase",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "always periodic"
+    },
+    {
+      "id": "B",
+      "text": "Periodic under certain conditions"
+    },
+    {
+      "id": "C",
+      "text": "Never periodic"
+    },
+    {
+      "id": "D",
+      "text": "Periodic only if all the sinusoids are identical"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

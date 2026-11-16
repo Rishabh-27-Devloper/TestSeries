@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D06_Q21",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "PRACTICE SHEET 01",
+  "dppNumber": 6,
+  "questionNumber": 21,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What will be the bit error probability if BPSK scheme \nis used? \n \n(a) \n1.8 \u00d7 10\u20135 \n(b) 1.3 \u00d7 10\u201310  \n \n(c) \n1.8 \u00d7 10\u20136 \n(d) 1.3 \u00d7 10\u20135",
+  "imageUrl": "assets/practice/comm/dpp_06_practice_sheet_01/q21.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.8 \u00d7 10\u20135"
+    },
+    {
+      "id": "B",
+      "text": "1.3 \u00d7 10\u201310"
+    },
+    {
+      "id": "C",
+      "text": "1.8 \u00d7 10\u20136"
+    },
+    {
+      "id": "D",
+      "text": "1.3 \u00d7 10\u20135"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-06 (PRACTICE SHEET 01)."
+}

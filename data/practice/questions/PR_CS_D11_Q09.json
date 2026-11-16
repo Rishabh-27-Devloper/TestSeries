@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT \n        BRAIN TEASER \n9.\nA unity feedback control system has an open loop\ntransfer function consisting of two poles, two zero\nand variable gain K. The zeros are located at \u20132 and\n\u20131 and the poles at \u20130.1 and 1. The closed loop\nsystem will have two poles in RHP of s-plane, if",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q9.png",
+  "options": null,
+  "correctAnswer": "0.3",
+  "toleranceMin": 0.25,
+  "toleranceMax": 0.35,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

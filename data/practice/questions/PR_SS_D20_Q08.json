@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D20_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System analysis using Laplace Transform",
+  "dppNumber": 20,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Laplace transform of a signal x(t) is \n \n \n \nAt t = 2 sec, the time signal x(t) is ____________. \n \n \n3\n2\n5s\n4\nX(s)\ns\n3s\n2s\n\uf02b\n\uf03d\n\uf02b\n\uf02b",
+  "imageUrl": "assets/practice/ss/dpp_20_system_analysis_using_laplace_transfor/q8.png",
+  "options": null,
+  "correctAnswer": "2.142",
+  "toleranceMin": 2.12058,
+  "toleranceMax": 2.16342,
+  "explanation": "Practice Question from Signal and System DPP-20 (System analysis using Laplace Transform)."
+}

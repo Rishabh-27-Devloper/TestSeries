@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D25_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 25,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The Fourier transform of x1(t) shown in figure is",
+  "imageUrl": "assets/practice/ss/dpp_25_signal_system/q7.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-25 (Signal & System)."
+}

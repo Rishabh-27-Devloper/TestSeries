@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D15_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The characteristic equation of a linear control system is\ns\u00b2 + 5Ks + 9 = 0\nThe root loci of the system is\n(a)\n(b)\n(c)\n(d)",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q9.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

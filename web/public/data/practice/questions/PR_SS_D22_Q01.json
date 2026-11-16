@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D22_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The unilateral Laplace transform of a signal x(t) is \n \n2\n2\ns\n3\nX(s)\n(s\n2)(s\n2s\n1)\n\u2212\n=\n+\n+\n+\n \n \nIf the time signal x(t) be (e\u2013at \u2013 ate\u2013t) u(t), then the \nvalue of a is____________",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q1.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D10_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Two poles are repeated on j\u03c9 axis, which are\nsymmetrical about origin.\nSelect the correct answers using codes given below. \n(a)\nAll\n(b) 1, 2, 4, 5\n(c)\n1, 2, 3, 5\n(d) 1, 2, 3, 4\nMCQ \n       MEDIUM \n3.\nThe respective number of left hand, right hand and\nj\u03c9 \naxis \nroots \nof \nthe \nequation\n6\n5\n4\n2\n2\n2\n2\n2\n0\ns\ns\ns\ns\ns\n+\n+\n\u2212\n\u2212\n\u2212\n=\nare",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "All"
+    },
+    {
+      "id": "B",
+      "text": "1, 2, 4, 5"
+    },
+    {
+      "id": "C",
+      "text": "1, 2, 3, 5"
+    },
+    {
+      "id": "D",
+      "text": "1, 2, 3, 4"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

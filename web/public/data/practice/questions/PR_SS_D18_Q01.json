@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D18_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "EC/EE/IN",
+  "dppNumber": 18,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The Laplace transform of signal x(t) shown in figure is\n(a)\n2\n5\n2\n1\n\uf02d\n\uf02d\n\uf0e9\n\uf0f9\n\uf02d\n\uf0eb\n\uf0fb\ns\ns\ne\ne\ns\n(b)\n\uf028\n\uf029\n\uf028\n\uf029\n1\n1\n2\n5\n\uf02b\n\uf02b\n\uf02b\ns\ns\n(c)\n2\n5\n1\n\uf02d\n\uf02d\n\uf0e9\n\uf0f9\n\uf02d\n\uf0eb\n\uf0fb\ns\ns\ne\ne\ns\n(d)\n\uf028\n\uf029\n2\n5\n\uf02d\n\uf02d\n\uf02d\ns\ns\ne\ne",
+  "imageUrl": "assets/practice/ss/dpp_18_ec_ee_in/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "\uf028"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "\uf028"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-18 (EC/EE/IN)."
+}

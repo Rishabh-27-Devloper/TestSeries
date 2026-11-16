@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_NT_D18_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 18,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For which type of network we cannot find ABCD \nparameters. \n \n(a) \n \n \n (b)  \n \n \n(c) \n \n(d)",
+  "imageUrl": "assets/practice/nt/dpp_18_two_port_network/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-18 (Two port network)."
+}

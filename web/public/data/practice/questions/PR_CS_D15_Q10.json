@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D15_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nMEDIUM\n10. A closed - loop system has the characteristic function\n(s\u00b2 \u2013 4) (s + 1) + K (s \u2013 1) = 0. Its root locus plot against K is\n(a)\n(b)\n(c)\n(d)",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q10.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

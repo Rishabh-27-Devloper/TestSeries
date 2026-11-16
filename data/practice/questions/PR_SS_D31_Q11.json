@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D31_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & System",
+  "dppNumber": 31,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The DTFS coefficients ck of a signal x[n] with \nfundamental period N = 4 are given as c\u20131 = 2 \u2013 j2, \nc0 = 4, c1 = 2 + j2, c2 = 3. The coefficient \nc22 is_________.",
+  "imageUrl": "assets/practice/ss/dpp_31_signals_system/q11.png",
+  "options": null,
+  "correctAnswer": "3",
+  "toleranceMin": 2.9699999999999998,
+  "toleranceMax": 3.0300000000000002,
+  "explanation": "Practice Question from Signal and System DPP-31 (Signals & System)."
+}

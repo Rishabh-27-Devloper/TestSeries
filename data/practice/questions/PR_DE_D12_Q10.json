@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D12_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "We count to design a counter with counting \nsequence  0 \u2013 1 \u2013 2 \u2013 3 \u2013 0, using \n \nCircuit-A \u2192 Asynchronous counter \n \nCircuit-B \u2192 Synchronous counter \n \nFFs used in circuit-A and circuit-B are of same \nlogic family and logic gates used has 0 delay while \nFFs have delay of 25 nsec. Then which of the \nfollowing is true? \n \n(a) Maximum clock frequency is same in both the \ncircuits. \n \n(b) Maximum clock frequency is double in circuit-\nB compare to circuits-A. \n \n(c) Maximum clock frequency is half in circuit-B \ncompare to circuit-A \n \n(d) None of these \n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maximum clock frequency is same in both the"
+    },
+    {
+      "id": "B",
+      "text": "Maximum clock frequency is double in circuit-"
+    },
+    {
+      "id": "C",
+      "text": "Maximum clock frequency is half in circuit-B"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

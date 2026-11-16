@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D17_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 17,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "What are the Z-parameters of the given two-port \nnetwork? \n \n \n(a) \n3\n8\n2\n4\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n \n \n(b) 6\n4\n4\n10\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n \n \n(c) \n8\n1\n3\n8\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf02d\n\uf0eb\n\uf0fb\n \n \n(d) 6\n8\n2\n6\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb",
+  "imageUrl": "assets/practice/nt/dpp_17_two_port_network/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3"
+    },
+    {
+      "id": "B",
+      "text": "6"
+    },
+    {
+      "id": "C",
+      "text": "8"
+    },
+    {
+      "id": "D",
+      "text": "6"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-17 (Two port network)."
+}

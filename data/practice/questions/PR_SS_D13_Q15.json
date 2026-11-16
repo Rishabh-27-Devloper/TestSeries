@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D13_Q15",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The impulse response h(t) of a linear time invariant \ncontinuous \ntime \nsystem \nis \ndescribed \nby \n\uf028\n\uf029\n( )\n(\n) ( )\n(\n)\n,\nh t\nexp\nt u t\nexp\nt u\nt\n\uf03d\n\uf061\n\uf02b\n\uf062\n\uf02d\n where \nu(t) \ndenotes the unit step function, and \uf061 and \uf062 are real \nconstants. This system is stable if : \n \n(a) \uf061 is positive and \uf062 is positive \n \n(b) \uf061 is negative and \uf062 is negative \n \n(c) \uf061 is positive and \uf062 is negative \n \n(d) \uf061 is negative and \uf062 is positive",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf061 is positive and \uf062 is positive"
+    },
+    {
+      "id": "B",
+      "text": "\uf061 is negative and \uf062 is negative"
+    },
+    {
+      "id": "C",
+      "text": "\uf061 is positive and \uf062 is negative"
+    },
+    {
+      "id": "D",
+      "text": "\uf061 is negative and \uf062 is positive"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

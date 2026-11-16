@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q20",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 20,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the transistor parameters are \uf062 = 180 and early \nvoltage VA = 140 V and it is biased at ICQ = 2 mA, \nVthermal = 25.9 mV the value of hybrid - \u03c0 parameter \ngm, r\u03c0 and r0 are respectively. \n \n(a) 14 A/V, 2.33 k\uf057, 90 k\uf057  \n \n(b) 14 A/V, 90 k\uf057, 233 k\uf057 \n \n(c) 77 mA/V, 2.33 k\uf057, 70 k\uf057 \n \n(d) 77.2 mA/V, 2.33 k\uf057, 70 k\uf057 \n \n \nCommon Data For Q.21 and 22: \n \nConsider the circuit shown below. The transistor \nparameters are \u03b2 = 120 and VA = \u221e. (Vthermal = 0.0259 \n \nV)",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q20.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "14 A/V, 2.33 k\uf057, 90 k\uf057"
+    },
+    {
+      "id": "B",
+      "text": "14 A/V, 90 k\uf057, 233 k\uf057"
+    },
+    {
+      "id": "C",
+      "text": "77 mA/V, 2.33 k\uf057, 70 k\uf057"
+    },
+    {
+      "id": "D",
+      "text": "77.2 mA/V, 2.33 k\uf057, 70 k\uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

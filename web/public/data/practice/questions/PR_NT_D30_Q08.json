@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D30_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Locus Diagram",
+  "dppNumber": 30,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Find I.P.F. \n(a)\n0.98 lag\n(b)\n0.89 leading\n(c)\n0.89 lagging\n(d)\n0.98 leading",
+  "imageUrl": "assets/practice/nt/dpp_30_locus_diagram/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.98 lag"
+    },
+    {
+      "id": "B",
+      "text": "0.89 leading"
+    },
+    {
+      "id": "C",
+      "text": "0.89 lagging"
+    },
+    {
+      "id": "D",
+      "text": "0.98 leading"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-30 (Locus Diagram)."
+}

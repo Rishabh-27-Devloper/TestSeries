@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D01_Q40",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 40,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "An FM modulator has output \n \n\uf028\n\uf029\n0\n( )\n200cos\n2\n( )\nt\nc\nf\nx t\nt\nk\nm r d\n\uf03d\n\uf077\n\uf02b\uf070\n\uf074\n\uf0f2\n \n \nwhere kf  = 30 Hz/V. The m (t) is the rectangular pulse \nm(t) = 8 rect 1 (\n2)\n4 t\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf02d\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\nThe frequency deviation would \nbe  \n(a) 240u(t) \u2013 720u(t \u2013 4)  \n(b) 240u(t) + 720u (t \u2013 4)  \n(c) 240u(t) \u2013 80u(t \u2013 4) \n \n(d) 240[u(t) \u2013 u(t \u2013 4)]",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q40.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "240u"
+    },
+    {
+      "id": "B",
+      "text": "240u"
+    },
+    {
+      "id": "C",
+      "text": "240u"
+    },
+    {
+      "id": "D",
+      "text": "240[u"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

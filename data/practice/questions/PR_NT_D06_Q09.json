@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D06_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of current I by using source transformation \nis _________A.",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q9.png",
+  "options": null,
+  "correctAnswer": "27.4",
+  "toleranceMin": 27.125999999999998,
+  "toleranceMax": 27.674,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

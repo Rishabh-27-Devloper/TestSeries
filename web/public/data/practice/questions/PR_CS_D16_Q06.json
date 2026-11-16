@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The 3\u2013dB bandwidth of a typical second-order system\nwith the transfer function  \n2\nC(s)\n16\n,\nR(s)\ns\n4s\n16\n=\n+\n+\n is\ngiven by \n(a) 4.44\n(b) 5.08\n(c) 5.54\n(d) 6.92\nMCQ \n    EASY",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4.44"
+    },
+    {
+      "id": "B",
+      "text": "5.08"
+    },
+    {
+      "id": "C",
+      "text": "5.54"
+    },
+    {
+      "id": "D",
+      "text": "6.92"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

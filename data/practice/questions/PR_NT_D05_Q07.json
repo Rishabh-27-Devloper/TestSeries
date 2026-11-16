@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D05_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of R12 in given figure is _______ \u03a9. \n \n \n3\uf057\nR12\n3\uf057\n3\uf057",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q7.png",
+  "options": null,
+  "correctAnswer": "9",
+  "toleranceMin": 8.91,
+  "toleranceMax": 9.09,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

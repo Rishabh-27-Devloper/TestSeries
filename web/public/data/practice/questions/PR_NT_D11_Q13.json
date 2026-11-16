@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D11_Q13",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of Vth at terminal a-b is    \n \n \n(a) 24 V \n(b) 10 V \n \n(c) 12 V \n(d) 36 V",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "24 V"
+    },
+    {
+      "id": "B",
+      "text": "10 V"
+    },
+    {
+      "id": "C",
+      "text": "12 V"
+    },
+    {
+      "id": "D",
+      "text": "36 V"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

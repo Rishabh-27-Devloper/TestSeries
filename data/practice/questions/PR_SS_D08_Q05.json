@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D08_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The period of the signal ( )\n4sin3\n3sin\n=\n+\nx t\nt\nt is  \n \n(a) \n2 sec\n3\n\uf070\n \n(b) 2 sec\n3\n\uf070\n \n \n(c) 2\uf070 sec \n(d) Not periodic",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 sec"
+    },
+    {
+      "id": "B",
+      "text": "2 sec"
+    },
+    {
+      "id": "C",
+      "text": "2\uf070 sec"
+    },
+    {
+      "id": "D",
+      "text": "Not periodic"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

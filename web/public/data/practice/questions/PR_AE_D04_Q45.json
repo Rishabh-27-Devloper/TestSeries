@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q45",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 45,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the value of 3 dB frequency due to coupling \ncapacitor Cc1 ? \n \n(a) 70 Hz \n(b) 24.1 Hz \n \n(c) 59.4 Hz \n(d) 170 Hz",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q45.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "70 Hz"
+    },
+    {
+      "id": "B",
+      "text": "24.1 Hz"
+    },
+    {
+      "id": "C",
+      "text": "59.4 Hz"
+    },
+    {
+      "id": "D",
+      "text": "170 Hz"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D36_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 36,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The discrete time Fourier transform X(ej\u2126) of the \nsequence x[n] = {1, \u20131, 2, 2} at \u2126 = 0 is",
+  "imageUrl": "assets/practice/ss/dpp_36_signal_system/q2.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Signal and System DPP-36 (Signal & System)."
+}

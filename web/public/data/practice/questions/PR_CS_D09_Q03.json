@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D09_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider the following statements, the roots of the\ncharacteristic equation of a control system lead to\ninstability, if they lie\n(1) Multiple roots on the imaginary axis of the\ns-plane.\n(2) On the negative real axis of the s-plane\n(3) On the right-half of the s-plane\nWhich of the above are correct? \n(a)\n1, 2, 3\n(b) 1 & 2\n(c)\n2 & 3\n(d) 1 & 3",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1, 2, 3"
+    },
+    {
+      "id": "B",
+      "text": "1 & 2"
+    },
+    {
+      "id": "C",
+      "text": "2 & 3"
+    },
+    {
+      "id": "D",
+      "text": "1 & 3"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

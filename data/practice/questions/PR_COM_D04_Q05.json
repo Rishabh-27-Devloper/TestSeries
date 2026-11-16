@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D04_Q05",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The level at the start of any interval are equally\nprobable.\n5.\nThe auto-correlation function of the process is\n(a) \n2\n\u2212\uf061\uf074\ne\n(b) \n2\n\u2212\uf061\uf074\ne\n(c) \n\u2212\uf061\uf074\ne\n(d) \n\u2212\uf061\uf074\ne",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "\u2212\uf061\uf074"
+    },
+    {
+      "id": "D",
+      "text": "\u2212\uf061\uf074"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

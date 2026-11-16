@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D14_Q12",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n12. The \nFourier \nseries \ncoefficient \nof \nthe \nsignal \n\uf028\uf029\n\uf028\n\uf029\n4\n1\ny t\nx\nt\n\uf03d\n\uf02d\n is  \n \n(a) \n8\nn\nc\nT\n\uf070\n \n(b) 4\nn\nc\nT\n\uf070\n \n \n(c) \n8\njn T\nn\ne\nc\n\uf070\n\uf0e6\n\uf0f6\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n(d) None of the above",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "8"
+    },
+    {
+      "id": "B",
+      "text": "4"
+    },
+    {
+      "id": "C",
+      "text": "8"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

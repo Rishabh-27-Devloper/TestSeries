@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D17_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Properties of CTFS",
+  "dppNumber": 17,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The Fourier series of a real, even periodic signal will \ncontain only \n \n(a) cosine terms \n(b) sine terms \n \n(c) even terms \n(d) odd harmonic",
+  "imageUrl": "assets/practice/ss/dpp_17_properties_of_ctfs/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "cosine terms"
+    },
+    {
+      "id": "B",
+      "text": "sine terms"
+    },
+    {
+      "id": "C",
+      "text": "even terms"
+    },
+    {
+      "id": "D",
+      "text": "odd harmonic"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-17 (Properties of CTFS)."
+}

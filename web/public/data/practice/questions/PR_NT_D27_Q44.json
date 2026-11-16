@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q44",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 44,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the circuit shown, V is a sinusoidal voltage \nsource. The current I is in phase with voltage V. The \nratio amplitudeof voltageacrossthecapacitor\namplitudeof voltageacrosstheresistor \nis ___. \n \nElectronics : 2017",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q44.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

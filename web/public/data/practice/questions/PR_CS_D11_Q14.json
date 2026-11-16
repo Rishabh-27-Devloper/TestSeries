@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n           MEDIUM \n14. The transfer function of a unity feedback system is \n2\n5\n2\n+\n+\nK\ns\ns\n, for the closed loop poles to lie on left \nside of s = \u20132, the minimum value of K is _____. \n \nNAT\nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q14.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

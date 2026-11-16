@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D02_Q19",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If the current passing through the inductor is i(t) = e\u20133t \nsin (\uf070t) Amp. then voltage across the inductor at t = 1 \nsec is _________ volt. \n \n[Take L = 10H]",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q19.png",
+  "options": null,
+  "correctAnswer": "-1.56",
+  "toleranceMin": -1.5444,
+  "toleranceMax": -1.5756000000000001,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

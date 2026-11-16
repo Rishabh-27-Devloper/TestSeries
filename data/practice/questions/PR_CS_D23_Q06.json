@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D23_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "State Space Analysis - I",
+  "dppNumber": 23,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n6. \nThe Eigen values of A are \n \n(a) 0.325, \u20131.662 \uf0b1 j 0.562 \n \n(b) 2.325, 0.338 \uf0b1 j 0.562 \n \n(c) \u20132.325, \u20130.338 \uf0b1 j 0.562 \n \n(d) \u20130.325,1.662 \uf0b1 j 0.562 \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_23_state_space_analysis_i/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.325, \u20131.662 \uf0b1 j 0.562"
+    },
+    {
+      "id": "B",
+      "text": "2.325, 0.338 \uf0b1 j 0.562"
+    },
+    {
+      "id": "C",
+      "text": "\u20132.325, \u20130.338 \uf0b1 j 0.562"
+    },
+    {
+      "id": "D",
+      "text": "\u20130.325,1.662 \uf0b1 j 0.562"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-23 (State Space Analysis - I)."
+}

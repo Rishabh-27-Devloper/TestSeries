@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D08_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider a unity feedback system with open loop\ntransfer function \n( )\n.\n2\n= K\nG s\na The sensitivity of closed\nloop system with respect to a will be \n \n(a) \n+\nK\nK\na \n \n(b) \n2\n2\n\u2212\n+\na\nK\na \n \n(c) \n2\n2\n+\na\na\nK \n(d)\na",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "+"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "a"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

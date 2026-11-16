@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D01_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 1,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of current at t = 1.5 sec is\u2014",
+  "imageUrl": "assets/practice/nt/dpp_01_basic_concept_of_network/q2.png",
+  "options": null,
+  "correctAnswer": "-2",
+  "toleranceMin": -1.98,
+  "toleranceMax": -2.02,
+  "explanation": "Practice Question from Network Theory DPP-01 (Basic Concept of Network)."
+}

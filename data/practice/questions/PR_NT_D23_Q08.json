@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D23_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 23,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the same question 7 find the value of iC(0.1) \n \n(a) 0.9 A \n(b) 1.1 A \n \n(c) 0.7 A \n(d) 1.3 A",
+  "imageUrl": "assets/practice/nt/dpp_23_transient_analysis/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.9 A"
+    },
+    {
+      "id": "B",
+      "text": "1.1 A"
+    },
+    {
+      "id": "C",
+      "text": "0.7 A"
+    },
+    {
+      "id": "D",
+      "text": "1.3 A"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-23 (Transient Analysis)."
+}

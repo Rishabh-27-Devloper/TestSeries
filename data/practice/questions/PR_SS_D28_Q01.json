@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D28_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Sampling and It\u2019s Type",
+  "dppNumber": 28,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Which of the following signal can be recovered from\nits samples taken at 180 samples/sec?\n(a)\nsinc (150\ud835\udf0b\ud835\udf0bt)\n(b)\n2sinc (200\ud835\udf0b\ud835\udf0bt)\n(c)\ncos (200\ud835\udf0b\ud835\udf0bt)\n(d)\nNone",
+  "imageUrl": "assets/practice/ss/dpp_28_sampling_and_it_s_type/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "sinc"
+    },
+    {
+      "id": "B",
+      "text": "2sinc"
+    },
+    {
+      "id": "C",
+      "text": "cos"
+    },
+    {
+      "id": "D",
+      "text": "None"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-28 (Sampling and It\u2019s Type)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D07_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "It is given that: \n \nx1 \u2299 x2 \u2299 x3 \u2299 x4 = 0 \n \nThen which of the following is true? \n \n(a) x1 x2 + x3x4 = 1 \n \n(b) x1 \u2295 x2 + x2 \u2295 x3 + x3 \u2295 x4 = 1 \n \n(c) Sum of x1 , x2 , x3 , x4 will be odd \n \n(d) \n1 2\n2 3\n3 4\n1\n+\n+\n=\nx x\nx x\nx x\n \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "x1 x2 + x3x4 = 1"
+    },
+    {
+      "id": "B",
+      "text": "x1 \u2295 x2 + x2 \u2295 x3 + x3 \u2295 x4 = 1"
+    },
+    {
+      "id": "C",
+      "text": "Sum of x1 , x2 , x3 , x4 will be odd"
+    },
+    {
+      "id": "D",
+      "text": "1 2"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q19",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the value of Emitter to collector voltage \nVECQ? \n \n(a) 0.2 V \n \n(b) 13.61 V \n \n(c) 14.16 V \n \n(d) 15.16 V",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.2 V"
+    },
+    {
+      "id": "B",
+      "text": "13.61 V"
+    },
+    {
+      "id": "C",
+      "text": "14.16 V"
+    },
+    {
+      "id": "D",
+      "text": "15.16 V"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

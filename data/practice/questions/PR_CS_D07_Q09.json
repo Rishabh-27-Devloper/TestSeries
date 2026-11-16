@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D07_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n9.\nTime response of a standard 2nd order system to a\nstep input is \n(\n)\nt\n1\nke\nsin 4 t\n\u2212\n\u2212\n\uf070+ \uf066. Number of \noscillations by assuming 2% tolerance, before \nthe response settles is  \n(a) 2\n(b) 3\n(c) 4\n(d) 8\nMCQ    \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "8"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

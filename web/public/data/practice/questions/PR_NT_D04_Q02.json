@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D04_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the following circuit. If I4\u03a9 = 2A then the\nvalue of E is _____ V.\n\uf031\uf057\n\uf031\uf057\n\u2013+\n\uf031\uf057\n\uf034\uf057\n\uf036\uf057\n2A\nI\nE",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q2.png",
+  "options": null,
+  "correctAnswer": "31",
+  "toleranceMin": 30.69,
+  "toleranceMax": 31.31,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

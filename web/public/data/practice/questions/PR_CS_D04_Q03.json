@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D04_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If \n( )\n(\n)\n1\nX s\ns\n2\n=\n+\nis the one\u2013sided Laplace transform \nof x(t), then what will be the Laplace transform of \n( ) (\n)\n0\nx\nx t\nd\n\uf0a5\n\uf074\n\u2212\uf074\n\uf074\n\uf0f2\n and \n( )\ndx t\ndt\n respectively \n \n(a) \n(\n)\n2\ns\n1\n,\ns\n2\ns\n2\n+\n+\n \n(b) \n(\n) (\n)\n1\ns\n,\ns s\n2\ns\n2\n+\n+\n  \n \n(c) \n(\n)\n2\n1\ns\n, s\n2\ns\n2\n+\n+\n \n(d) \n(\n)\n(\n)\n2\n1\n1\n, s s\n2\ns\n2\n+\n+\n  \n \nMCQ   \n        \n      MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

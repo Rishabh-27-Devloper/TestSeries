@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D05_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 5,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following statement is not true?\n (a)\nThe sum of two even function is even.\n(b)\nThe sum of two odd function is odd.\n(c)\nThe sum of an even function and an odd function\nis odd.\n(d)\nThe sum of an even function and an odd function\nis neither even nor odd.",
+  "imageUrl": "assets/practice/ss/dpp_05_signal_and_systems/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "The sum of two even function is even."
+    },
+    {
+      "id": "B",
+      "text": "The sum of two odd function is odd."
+    },
+    {
+      "id": "C",
+      "text": "The sum of an even function and an odd function"
+    },
+    {
+      "id": "D",
+      "text": "The sum of an even function and an odd function"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-05 (Signal and Systems)."
+}

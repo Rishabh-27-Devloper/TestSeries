@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D16_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For a unity feedback control system with the forward\npath transfer function \n \nK\nG(s)\ns(s\n2)\n=\n+\n \n \nThe peak resonant magnitude Mr of the closed-loop\nfrequency response is 2. The corresponding value\nof the gain K (correct to two decimal places) is\n_______. \nMCQ \n  \n \n    EASY",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q9.png",
+  "options": null,
+  "correctAnswer": "14.9",
+  "toleranceMin": 14.751,
+  "toleranceMax": 15.049000000000001,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

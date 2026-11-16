@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D08_Q24",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "What will be the energy of a signal  \n \ny[n] = u[n] \u2013 u [n \u2013 4], u[n] is a unit step function?",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q24.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

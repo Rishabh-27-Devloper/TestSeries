@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D01_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The closed loop gain of the system shown in figure \nis _______.",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q14.png",
+  "options": null,
+  "correctAnswer": "0.4",
+  "toleranceMin": 0.35000000000000003,
+  "toleranceMax": 0.45,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

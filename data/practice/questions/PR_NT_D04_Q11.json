@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D04_Q11",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of equivalent voltage across a & b is. \n (a)\n-2V\n(b) +2V\n4A\n2A\n20 ohm\n10 ohm\nA\nB",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "-2V"
+    },
+    {
+      "id": "B",
+      "text": "+2V"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

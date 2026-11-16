@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D14_Q09",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If we arrange the ADCs according to their speed of \noperation then which of the following is true? \n \n(a) Counter type > SAR type > Dual slope type \n> Flash type \n \n(b) Flash type > Counter type > SAR type > Dual \nslope type \n \n(c) Dual slope type > Counter type > SAR type \n> Flash type \n \n(d) Flash type > SAR type > Counter type \n> Dual slope type \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Counter type > SAR type > Dual slope type"
+    },
+    {
+      "id": "B",
+      "text": "Flash type > Counter type > SAR type > Dual"
+    },
+    {
+      "id": "C",
+      "text": "Dual slope type > Counter type > SAR type"
+    },
+    {
+      "id": "D",
+      "text": "Flash type > SAR type > Counter type"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

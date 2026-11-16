@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D07_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n1.\nA step input is applied to a system with the transfer\nfunction \n(\n)\ns\nC(s)\ne\nR(s)\n1 0.5s\n\u2212\n=\n+\n. The output response \nwill be \n(a) \n(b) \n(c) \n(d) \nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "MCQ"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

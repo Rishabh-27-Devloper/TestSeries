@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D12_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 12,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Norton's equivalent resistance at a-b ab is ___ \u2126.",
+  "imageUrl": "assets/practice/nt/dpp_12_network_theorem/q1.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Network Theory DPP-12 (Network Theorem)."
+}

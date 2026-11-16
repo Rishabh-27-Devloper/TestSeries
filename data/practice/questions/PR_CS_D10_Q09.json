@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D10_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The forward-path transfer function of an unity\nfeedback system is\n(\n)\n(\n)(\n)(\n)\n2\n2\n( )\n1\n4\n1\nK s\nG s\ns\ns\ns\n+\n=\n+\n+\n\u2212\nThe range of K, that will make the system stable is \n(a)\n\u201312 < K < 2\n(b) \u201333 < K < 2\n(c)\nK > 2\n(d) Unstable\nMCQ \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u201312 < K < 2"
+    },
+    {
+      "id": "B",
+      "text": "\u201333 < K < 2"
+    },
+    {
+      "id": "C",
+      "text": "K > 2"
+    },
+    {
+      "id": "D",
+      "text": "Unstable"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_DE_D12_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A circuit is as given below :\nInitially FFs are at rest Q0Q1 = (00)2, then sequence \nthat will be generated after application of clock \npulses : \n(a)\n00 \u2013 10 \u2013 11 \u2013 00\n(b) 00 \u2013 01 \u2013 10 \u2013 11 \u2013 00",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "00 \u2013 10 \u2013 11 \u2013 00"
+    },
+    {
+      "id": "B",
+      "text": "00 \u2013 01 \u2013 10 \u2013 11 \u2013 00"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

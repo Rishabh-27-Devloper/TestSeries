@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q13",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The rms value of V(t) is _____ A. \n \n \n0\nt\nT\nT/2\nv (t)\n-1\n1",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q13.png",
+  "options": null,
+  "correctAnswer": "0.707",
+  "toleranceMin": 0.6569999999999999,
+  "toleranceMax": 0.757,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

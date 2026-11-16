@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D14_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ  \n \n \n                         MEDIUM \n9. \nThe \nopen \nloop \nTF \nof \na \nsystem \nis \n(\n)\n2\nk\nG(s)H(s)\ns s\n2s\n2\n=\n+\n+\n. The angle of departure at \n(\u20131 \u2013j) is  \n \n(a) 45 \n(b) \u201345 \n \n(c) 0\u00b0 \n(d) 90\u00b0 \nMCQ \n \n \n \n \n     EASY",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "45"
+    },
+    {
+      "id": "B",
+      "text": "\u201345"
+    },
+    {
+      "id": "C",
+      "text": "0\u00b0"
+    },
+    {
+      "id": "D",
+      "text": "90\u00b0"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

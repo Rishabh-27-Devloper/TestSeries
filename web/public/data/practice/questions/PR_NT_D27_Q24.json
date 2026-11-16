@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q24",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The current \nCI in the figure above is :  \n(A) \u2013j2A \n(B) \n1 A\n2\nj\n\uf02d\n \n(C) \n1 A\n2\nj\n\uf02b\n \n(D) +j2A \nElectrical : 2011 \nCommon Data for Next Two Questions:  \nConsider the circuit shown below",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q24.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u2013j2A"
+    },
+    {
+      "id": "B",
+      "text": "1 A"
+    },
+    {
+      "id": "C",
+      "text": "1 A"
+    },
+    {
+      "id": "D",
+      "text": "+j2A"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

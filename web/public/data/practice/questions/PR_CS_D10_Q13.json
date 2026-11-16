@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D10_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider a negative unity feedback system with\nopen loop transfer function given as\n4\n3\n2\n3\n2\n3\n8\n24\n30\n( )\n6\n10\n40\n60\ns\ns\ns\ns\nG s\ns\ns\ns\n\u2212\n\u2212\n+\n\u2212\n=\n+\n\u2212\n+\nThe number of closed loop zeros located in the right \nhalf of s-plane is ______.  \nNAT \n \n \n \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q13.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

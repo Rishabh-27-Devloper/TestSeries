@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D10_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The open loop transfer function of a unity feedback\ncontrol system \n20\n( )\n( )\n(\n1)(\n)\nG s H s\ns s\ns\nK\n=\n+\n+\n. Where, \nK is a variable parameter. The closed loop system \nwill be stable for all values of  \n(a)\nK > 0\n(b) 0 < K < 5\n(c)\nK < \u2013 5\n(d) K > 4\nNAT \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "K > 0"
+    },
+    {
+      "id": "B",
+      "text": "0 < K < 5"
+    },
+    {
+      "id": "C",
+      "text": "K < \u2013 5"
+    },
+    {
+      "id": "D",
+      "text": "K > 4"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

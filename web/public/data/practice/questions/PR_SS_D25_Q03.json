@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_SS_D25_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 25,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The Fourier transform of a voltage signal x(t) is X(f). \nThe unit of |X(f)| is \n(a)\nVolt\n(b) Volt sec",
+  "imageUrl": "assets/practice/ss/dpp_25_signal_system/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Volt"
+    },
+    {
+      "id": "B",
+      "text": "Volt sec"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-25 (Signal & System)."
+}

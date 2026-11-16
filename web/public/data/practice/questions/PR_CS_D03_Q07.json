@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D03_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n7.\nThe block diagram of a control system is shown in\nfigure. The transfer function G(s)=Y(s)/U(s) of the\nsystem is\n(a) \n1\ns\ns\n18 1\n1\n12\n3\n\uf0e6\n\uf0f6\uf0e6\n\uf0f6\n+\n+\n\uf0e7\n\uf0f7\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\uf0e8\n\uf0f8\n(b) \n1\ns\ns\n27 1\n1\n6\n9\n\uf0e6\n\uf0f6\uf0e6\n\uf0f6\n+\n+\n\uf0e7\n\uf0f7\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\uf0e8\n\uf0f8\n(c) \n1\ns\ns\n27 1\n1\n12\n9\n\uf0e6\n\uf0f6\uf0e6\n\uf0f6\n+\n+\n\uf0e7\n\uf0f7\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\uf0e8\n\uf0f8\n(d) \n1\ns\ns\n27 1\n1\n9\n3\n\uf0e6\n\uf0f6\uf0e6\n\uf0f6\n+\n+\n\uf0e7\n\uf0f7\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\uf0e8\n\uf0f8\nMCQ \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

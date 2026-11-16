@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D14_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Three real break point",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q3.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

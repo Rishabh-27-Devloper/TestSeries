@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D05_Q11",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is true: \n \n(a) MUX is non-universal circuit. \n(b) MUX can be used to implement half adder as \nwell as full adder. \n(c) 2:1 MUX has 1\u2013input line, 1\u2013output line and 2-\nselect line \n(d) If in a MUX input lines are 24 then minimum 4-\nselect lines are required for proper functioning.",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "MUX is non-universal circuit."
+    },
+    {
+      "id": "B",
+      "text": "MUX can be used to implement half adder as"
+    },
+    {
+      "id": "C",
+      "text": "2:1 MUX has 1\u2013input line, 1\u2013output line and 2-"
+    },
+    {
+      "id": "D",
+      "text": "If in a MUX input lines are 24 then minimum 4-"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

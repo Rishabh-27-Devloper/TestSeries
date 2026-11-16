@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D06_Q12",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of V1 in given circuit is _______V.",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q12.png",
+  "options": null,
+  "correctAnswer": "5",
+  "toleranceMin": 4.95,
+  "toleranceMax": 5.05,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

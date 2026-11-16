@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D02_Q11",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-2)",
+  "dppNumber": 2,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A logical function is given as:\nf(A, B)\nA\nAB\n=\n\uf0c5\n,  If we implement this logical\nfunction using 2-input NAND gate then,\nminimum number of NAND gate require is\n_______ .",
+  "imageUrl": "assets/practice/de/dpp_02_boolean_theorems_and_basics_of_gates_p/q11.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Digital Electronics DPP-02 (Boolean Theorems and Basics of Gates (Part-2))."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q47",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 47,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the inverting amplifier shown in figure \nbelow. \n \n \nIf open loop gain Aol = 104, then the value of input \nimpedance \n\uf03d\nin\nin\nin\nv\nR\ni\n is \n \n(a) 1 k\uf057 \n(b) 999 \uf057 \n \n(c) 1001 \uf057 \n(d) 11 k\uf057",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q47.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 k\uf057"
+    },
+    {
+      "id": "B",
+      "text": "999 \uf057"
+    },
+    {
+      "id": "C",
+      "text": "1001 \uf057"
+    },
+    {
+      "id": "D",
+      "text": "11 k\uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

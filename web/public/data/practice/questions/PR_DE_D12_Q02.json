@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D12_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "To convert J-K FF into D-FF, J-K input will be\n(a)\nJ\nD, K\nD\n=\n=\n(b) J = K = D\n(c)\nJ\nD, K\nD\n=\n=\n(d)\nJ\nK\nD\n=\n=\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "J"
+    },
+    {
+      "id": "B",
+      "text": "J = K = D"
+    },
+    {
+      "id": "C",
+      "text": "J"
+    },
+    {
+      "id": "D",
+      "text": "J"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

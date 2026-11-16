@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q28",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 28,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Small signal transconductance is  \n \n(a) 2 mA/V \n(b) 8 mA/V \n \n(c) 1 mA/V \n(d) 4 mA/V",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q28.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 mA/V"
+    },
+    {
+      "id": "B",
+      "text": "8 mA/V"
+    },
+    {
+      "id": "C",
+      "text": "1 mA/V"
+    },
+    {
+      "id": "D",
+      "text": "4 mA/V"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

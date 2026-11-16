@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D14_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Thevenin theorem and MPTT",
+  "dppNumber": 14,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the following circuit, the maximum power \ndelivered to \u2018R\u2019 is _____W. \n \n\u00b1\n20V\n6\u2126\nR\n3\u2126",
+  "imageUrl": "assets/practice/nt/dpp_14_thevenin_theorem_and_mptt/q9.png",
+  "options": null,
+  "correctAnswer": "22.2",
+  "toleranceMin": 21.977999999999998,
+  "toleranceMax": 22.422,
+  "explanation": "Practice Question from Network Theory DPP-14 (Thevenin theorem and MPTT)."
+}

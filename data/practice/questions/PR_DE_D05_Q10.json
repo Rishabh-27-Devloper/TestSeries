@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D05_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "To implement 1024 : 1, how many 4 : 1 MUXs are \nrequired _________. \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q10.png",
+  "options": null,
+  "correctAnswer": "341",
+  "toleranceMin": 337.59,
+  "toleranceMax": 344.41,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

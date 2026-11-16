@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D22_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the root locus diagram shown in \nfigure below, \n \n \nThe value of \u2018K\u2019 to have a phase margin PM = \n30\u00b0, is ______.  \n \nNAT  \n \n \n \n       \n EASY",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q13.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

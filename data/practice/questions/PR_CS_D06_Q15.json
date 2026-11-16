@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D06_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The system is \n \n(a) Over damped \n \n(b) Under damped \n \n(c) Critically damped \n \n(d) None of the above",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Over damped"
+    },
+    {
+      "id": "B",
+      "text": "Under damped"
+    },
+    {
+      "id": "C",
+      "text": "Critically damped"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

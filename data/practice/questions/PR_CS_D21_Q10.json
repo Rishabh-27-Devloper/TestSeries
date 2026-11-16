@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D21_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - III",
+  "dppNumber": 21,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n10. If the gain margin of a certain feedback system is \ngiven as 20 dB, the Nyquist plot will cross the \nnegative real axis at the point.  \n \n(a) s = \u2013 0.05 \n(b) s = \u2013 0.2 \n \n(c) s = \u2013 0.1 \n(d) s = \u2013 0.01",
+  "imageUrl": "assets/practice/cs/dpp_21_nyquist_plot_iii/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "s = \u2013 0.05"
+    },
+    {
+      "id": "B",
+      "text": "s = \u2013 0.2"
+    },
+    {
+      "id": "C",
+      "text": "s = \u2013 0.1"
+    },
+    {
+      "id": "D",
+      "text": "s = \u2013 0.01"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-21 (Nyquist Plot - III)."
+}

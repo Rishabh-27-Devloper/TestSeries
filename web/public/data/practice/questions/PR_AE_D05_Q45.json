@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D05_Q45",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 45,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the amplifier circuit shown below, assume op-amp \nis ideal. A potentiometer is used to realize an \nadjustable gain amplifier. \n \n \nIf x is the potentiometer setting, the voltage gain \n\uf03d\no\nv\nin\nv\nA\nv\n is \n \n(a) \n1\n1\uf02dx \n(b) \n1\n1\uf02bx \n1\n1",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q45.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D02_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The signal flow graph and equivalent block diagram\nshown below in Figure-I and Figure-II respectively\nrepresent the same system\nFig. I \u2013 signal flow graph \nFig. II \u2013 block diagram \nThe value of p should be \n(a) 1\n(b) s\u20131",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "s\u20131"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

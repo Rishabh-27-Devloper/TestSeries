@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D11_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The feedback system with characteristic equation\n4\n3\n2\n2\n5\n15\n0\n+\n+\n+\n+\n=\ns\ns\ns\nKs\n is\n(a)\nStable for all values of K\n(b)\nStable for positive value of K\n(c)\nStable for K < 10",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stable for all values of K"
+    },
+    {
+      "id": "B",
+      "text": "Stable for positive value of K"
+    },
+    {
+      "id": "C",
+      "text": "Stable for K < 10"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

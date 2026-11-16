@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D13_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 13",
+  "dppNumber": 13,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A digital to analog-converter is as given below:\nValue of voltage V1 will be ____ volts. \n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_13_digital_electronics_practice_sheet_13/q5.png",
+  "options": null,
+  "correctAnswer": "1.5",
+  "toleranceMin": 1.4849999999999999,
+  "toleranceMax": 1.5150000000000001,
+  "explanation": "Practice Question from Digital Electronics DPP-13 (Digital Electronics Practice Sheet 13)."
+}

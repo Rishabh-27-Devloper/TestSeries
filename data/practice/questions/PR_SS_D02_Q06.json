@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D02_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Basic of Signal System",
+  "dppNumber": 2,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The unit-impulse sequence \uf064[n] in terms of unit-step\nsequence u[n] is given by\n(a)\nu[n \u2013 1]\n(b) u[n] \u2013 u[n \u2013 1]\n(c)\nu[n]\n(d) u[\u2013n]",
+  "imageUrl": "assets/practice/ss/dpp_02_basic_of_signal_system/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "u[n \u2013 1]"
+    },
+    {
+      "id": "B",
+      "text": "u[n] \u2013 u[n \u2013 1]"
+    },
+    {
+      "id": "C",
+      "text": "u[n]"
+    },
+    {
+      "id": "D",
+      "text": "u[\u2013n]"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-02 (Basic of Signal System)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D01_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the system shown in the figure, \n( )\n( ) =\nY s\nX s\n_____.",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q10.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

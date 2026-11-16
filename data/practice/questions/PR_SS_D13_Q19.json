@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D13_Q19",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Statement for Linked question 19 & 20 \n \nConsider a discrete time system whose input output \nrelationship is given by equation \n \n[ ]\n[\n1]\n3 [ ],\n0\ny n\ny n\nx n n\n\uf03d\n\uf02d\n\uf02b\n\uf0b3\n \n19. Given that y[\u20131] = 1 and \n\uf05b\uf05d\n2\n0\n2\nk\nx k\n\uf03d\n\uf03d\n\uf0e5\n, the value of \ny[2] is  \n \n(a) 3 \n \n(b) 2 \n \n(c) 7 \n \n(d) 6",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "7"
+    },
+    {
+      "id": "D",
+      "text": "6"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

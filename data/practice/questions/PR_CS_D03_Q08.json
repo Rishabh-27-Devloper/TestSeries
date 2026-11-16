@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D03_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8.\nIn the signal flow graph given below, the number\nof forward paths and number of individual loops\nare _______.",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q8.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

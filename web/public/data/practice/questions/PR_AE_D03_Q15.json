@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q15",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of stability factor [S(VBE)] with respect to \nVBE is \n \n(a) \u201391 S  \n \n(b) 1 \n \n(c) \u20131.92 \u00d7 10\u20134 S \n \n(d) \u20133.3 \u00d7 10\u20133 S",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u201391 S"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "\u20131.92 \u00d7 10\u20134 S"
+    },
+    {
+      "id": "D",
+      "text": "\u20133.3 \u00d7 10\u20133 S"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

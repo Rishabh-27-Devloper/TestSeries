@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D07_Q14",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Noise In Communication",
+  "dppNumber": 7,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What average operating noise figure results when the \namplifier is used with an antenna of temperature 30 \nK? \n \n(a) 9.54 dB \n(b) 10.96 dB \n \n(c) 11.23 dB \n(d) 12.96 dB \n \nCommon Data for Q.No-15 to 17 \nAn amplifier has a narrow bandwidth of 1 kHz and \nstandard spot noise figure of 3.8 at its frequency of \noperation. The amplifier\u2019s available output noise power is \n0.1 mW when its input is connected to a radio receiving \nantenna having an antenna temperature of 80 K.",
+  "imageUrl": "assets/practice/comm/dpp_07_noise_in_communication/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "9.54 dB"
+    },
+    {
+      "id": "B",
+      "text": "10.96 dB"
+    },
+    {
+      "id": "C",
+      "text": "11.23 dB"
+    },
+    {
+      "id": "D",
+      "text": "12.96 dB"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-07 (Noise In Communication)."
+}

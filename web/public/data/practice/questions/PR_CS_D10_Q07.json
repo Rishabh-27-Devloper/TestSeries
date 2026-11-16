@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D10_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A feedback control system is shown below\nThe range of K for stability is\nThe range of K for stability is \n(a)\nK < 0\n(b) 0 < K < 35",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "K < 0"
+    },
+    {
+      "id": "B",
+      "text": "0 < K < 35"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

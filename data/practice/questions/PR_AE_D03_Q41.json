@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D03_Q41",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 41,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What are the values of C1 and C2 so that they can be \nneglected at a frequency of 50 Hz ? \n \n(a) 0.105 \u03bcF, 0.763 \u03bcF \n \n(b) 0.005 \u03bcF, 0.863 \u03bcF",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q41.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.105 \u03bcF, 0.763 \u03bcF"
+    },
+    {
+      "id": "B",
+      "text": "0.005 \u03bcF, 0.863 \u03bcF"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

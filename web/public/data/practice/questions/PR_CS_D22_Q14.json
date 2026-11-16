@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D22_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the closed loop system shown, for a stable \nopen loop transfer function, the value of phase \ncrossover frequency such that it satisfies the \nrelation, \n3\npc D\nT\n\uf070\n\uf077\n= \u2212\n is _______ rad/sec.  \n \n \nNAT  \n \n \n \n       \n EASY",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q14.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D08_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the fundamental frequency is rad/sec for a \ngiven below figure \n \n \n(a) 5 \n(b) 10 \n( )\n10\n(d) 5",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5"
+    },
+    {
+      "id": "B",
+      "text": "10"
+    },
+    {
+      "id": "D",
+      "text": "5"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

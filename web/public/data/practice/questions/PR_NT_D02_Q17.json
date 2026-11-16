@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q17",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Inductor store energy in the form of _____ \n \n(a) Electric energy \n \n(b) Magnetic energy \n \n(c) Both (a) and (b) \n \n(d) None of the above",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q17.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Electric energy"
+    },
+    {
+      "id": "B",
+      "text": "Magnetic energy"
+    },
+    {
+      "id": "C",
+      "text": "Both"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

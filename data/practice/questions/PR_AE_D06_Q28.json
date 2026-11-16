@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_AE_D06_Q28",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 28,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A relaxation oscillator is made using Op-amp as\nshown in figure. The supply voltages of the Op-amps\nare \uf0b1 12V. The voltage waveform at point P will be\n(a) \n(b) \n(c) \n(d)",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q28.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

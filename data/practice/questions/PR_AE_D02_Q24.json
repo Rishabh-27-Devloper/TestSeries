@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D02_Q24",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The volage vD is \n \n(a) 0.25(3 + cos\uf077t) V \n \n(b) 0.25(1 + 3 cos\uf077t) V",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q24.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.25"
+    },
+    {
+      "id": "B",
+      "text": "0.25"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

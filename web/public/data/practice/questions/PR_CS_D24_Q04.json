@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D24_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n4. \nConsider the following \nstatements \nregarding \ncompensators used in control systems: \n \n1. \nFor \ntype-2 \nhigher \norder \nsystems, \nlag \ncompensator is: universally used to overcome \nto undesirable oscillatory transient response. \n \n2. \nIn case of lag-lead compensator, a lag and a \nlead compensator are basically connected in \nparallel. \n \n3. \nThe s- plane representation of the lead \ncompensator has a zero closer to the origin \nthan the pole. \n \n4. \nA lag compensator improves the steady state \nbehaviour \nof \na \nsystem, \nwhile \nnearly \nmaintaining its transient response. \n \nWhich of the statements given above are correct? \n(a) 1 2 & 3\n(b) 2 3 & 4",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 2 & 3"
+    },
+    {
+      "id": "B",
+      "text": "2 3 & 4"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

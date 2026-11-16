@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D01_Q28",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 28,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The diode in the circuit shown below have linear \nparameter of V\uf067 = 0.7 V and rf = 0 \uf057. The value of the \ncurrent (ID2) in diode D2 is _______ mA.",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q28.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

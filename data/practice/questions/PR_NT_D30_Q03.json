@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D30_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Locus Diagram",
+  "dppNumber": 30,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For R-C Circuit if R Varies from O to \u221e, the correct\nlocus diagram is, if value of source voltage is given\nby V=200 sin 6t & the capacitor connected in series\nwith R is",
+  "imageUrl": "assets/practice/nt/dpp_30_locus_diagram/q3.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-30 (Locus Diagram)."
+}

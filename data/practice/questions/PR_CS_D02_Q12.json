@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D02_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The signal flow graph of a system is shown\nbelow.\nThe overall gain of the SFG for a1 = 2a2 = a3 = \n4a4 = 2 is _________.",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q12.png",
+  "options": null,
+  "correctAnswer": "-1",
+  "toleranceMin": -0.99,
+  "toleranceMax": -1.01,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

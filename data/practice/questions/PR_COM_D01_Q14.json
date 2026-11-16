@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D01_Q14",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In amplitude modulation, the modulation envelope has\na peak value which is double the unmodulated carrier\nvalue. What is the value of the modulation index?",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q14.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

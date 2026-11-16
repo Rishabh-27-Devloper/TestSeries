@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q38",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 38,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A resistance and a coil are connected in series and \nsupplied from a single phase, 100 V, 50 Hz ac \nsource as shown in the figure below. The rms values \nof plausible voltages across the resistance (VR) and \ncoil (VC) respectively, in volts, are \n \n \n(A)  65, 35  \n(B)  50, 50  \n \n(C)  60, 90  \n(D)  60, 803 \nElectrical : 2016",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q38.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "65, 35"
+    },
+    {
+      "id": "B",
+      "text": "50, 50"
+    },
+    {
+      "id": "C",
+      "text": "60, 90"
+    },
+    {
+      "id": "D",
+      "text": "60, 803"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

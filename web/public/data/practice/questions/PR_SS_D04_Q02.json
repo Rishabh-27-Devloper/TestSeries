@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D04_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The rms value of the periodic waveform given in\nFigure is:\n (a)\n2 6 A\n(b)\n6 2 A\n(c) \n4 A\n3\n(d) 1.5 A",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 6 A"
+    },
+    {
+      "id": "B",
+      "text": "6 2 A"
+    },
+    {
+      "id": "C",
+      "text": "4 A"
+    },
+    {
+      "id": "D",
+      "text": "1.5 A"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}

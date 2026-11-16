@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D08_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The unit step responses of a linear control system is\nshown below \n \n \nThen the natural frequency (in rad/sec) of the system for\ngiven response is _______.",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q12.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

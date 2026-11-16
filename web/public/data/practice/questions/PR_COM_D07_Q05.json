@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D07_Q05",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Noise In Communication",
+  "dppNumber": 7,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The operating spot noise figure is\n(a)\n3.2 dB\n(b)\n6.4 dB\n(c)\n9.8 dB\n(d)\n11.9 dB",
+  "imageUrl": "assets/practice/comm/dpp_07_noise_in_communication/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3.2 dB"
+    },
+    {
+      "id": "B",
+      "text": "6.4 dB"
+    },
+    {
+      "id": "C",
+      "text": "9.8 dB"
+    },
+    {
+      "id": "D",
+      "text": "11.9 dB"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-07 (Noise In Communication)."
+}

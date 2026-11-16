@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D05_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A first order system and its response to a unit \u2013 step \ninput is shown below  \n \n \nThe system parameter \u2018K\u2019 is ______. \n \n \n \nNAT \n \n \n \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q13.png",
+  "options": null,
+  "correctAnswer": "10",
+  "toleranceMin": 9.9,
+  "toleranceMax": 10.1,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

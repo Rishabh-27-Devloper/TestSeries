@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D09_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the open loop system shown below the location\nof poles on RHP, LHP and on j\u03c9 axis are\nRespectively\n( )\n( )\n2\n4\n3\n2\n5\n6\n4\n8\n20\n15\n+\n\u2212\n\u2192\n\u2192\n+\n+\n+\n+\ns\ns\nR s\nC s\ns\ns\ns\ns\n(a)\n2, 2, 0\n(b) 0, 2, 2\n(c)\n2, 0, 2\n(d) None of the above\nMCQ \n BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2, 2, 0"
+    },
+    {
+      "id": "B",
+      "text": "0, 2, 2"
+    },
+    {
+      "id": "C",
+      "text": "2, 0, 2"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

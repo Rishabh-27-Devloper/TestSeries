@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D07_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The CLTF of the system is\n2\nK\ns\n8s\nK\n+\n+\n. The \nmaximum peak overshoot permitted in the \nsystem is 16.3 % (K > 0). Then the unit step \nresponse of the system will reach 50 % of steady \nstate value at _____ sec.",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q7.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

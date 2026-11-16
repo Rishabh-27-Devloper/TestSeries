@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D15_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n    EASY \n13. The root-locus of a ufb system is shown below.\nThe open loop transfer function is \n(a) \n(\n)(\n)\nK\ns s\n1 s\n3\n+\n+\n(b) \n(\n)\n(\n)\nK s\n3\ns s\n1\n+\n+\n(c)\n(\n)\nK s\n1\n+\n(d)\nKs\nj\uf077\n\uf073\n-3\n-2\n-1",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "Ks"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

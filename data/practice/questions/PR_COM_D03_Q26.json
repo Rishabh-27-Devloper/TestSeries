@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q26",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 26,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Let X  be a Gaussian random variable with mean \u00b5 \nand variance \u03c32 such that a < \u00b5 < b. If the function \nQ(k) represents the area under Gaussian tail, then the \nprobability P(a < X \u2264 b) is \n \n(a) 1\n\u2212\uf06d\n\u2212\uf06d\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\u2212\n\u2212\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf073\n\uf073\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\na\nb\nQ\nQ\n \n \n(b) 1\n\uf06d\u2212\n\uf06d\u2212\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\u2212\n\u2212\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf073\n\uf073\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\na\nb\nQ\nQ\n \n \n(c) \n\uf06d\u2212\n\uf06d\u2212\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n+\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf073\n\uf073\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\na\nb\nQ\nQ\n \n \n(d) \n\u2212\uf06d\n\u2212\uf06d\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n+\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf073\n\uf073\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\na\nb\nQ\nQ",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q26.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "\uf06d\u2212"
+    },
+    {
+      "id": "D",
+      "text": "\u2212\uf06d"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

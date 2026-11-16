@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D18_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "EC/EE/IN",
+  "dppNumber": 18,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Match List I (continuous Time Signal) with List II\n(Laplace transform) and choose the correct answer\nusing the codes given below.\nList-I\nP.\nsin(2t)\nQ.\ncos (2t)\nR.\nsinh(2t)\nR.\ncosh (2t)\nList-II \n1. \n2\n4\n\uf02b\ns\ns\n2. \n2\n2\n4",
+  "imageUrl": "assets/practice/ss/dpp_18_ec_ee_in/q7.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-18 (EC/EE/IN)."
+}

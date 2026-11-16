@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D11_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part - 4)",
+  "dppNumber": 11,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "MOD-32 up counter has starting state (00110)2 and\nMOD-16 down counter has starting state (0110)2.\nApplication of 75 clock pulses up counter is in state\nM and down counter is in state N then value of M +\nN is _(__)10___.\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_11_sequential_circuits_part_4/q6.png",
+  "options": null,
+  "correctAnswer": "28",
+  "toleranceMin": 27.72,
+  "toleranceMax": 28.28,
+  "explanation": "Practice Question from Digital Electronics DPP-11 (Sequential Circuits (Part - 4))."
+}

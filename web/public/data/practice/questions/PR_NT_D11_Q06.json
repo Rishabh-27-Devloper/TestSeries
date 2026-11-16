@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Maximum power transfer to RL is _____ W.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q6.png",
+  "options": null,
+  "correctAnswer": "56.25",
+  "toleranceMin": 55.6875,
+  "toleranceMax": 56.8125,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

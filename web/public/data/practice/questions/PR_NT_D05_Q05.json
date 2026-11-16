@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D05_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of Rab in given figure is, \n \n \n(a) 12\u03a9 \n(b) 24\u03a9 \n \n(c) 36\u03a9 \n(d) 6\u03a9 \n \n1\uf030\uf057\n40\uf057\n\uf032\uf030\uf057\n\uf035\uf057\nb\na",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "12\u03a9"
+    },
+    {
+      "id": "B",
+      "text": "24\u03a9"
+    },
+    {
+      "id": "C",
+      "text": "36\u03a9"
+    },
+    {
+      "id": "D",
+      "text": "6\u03a9"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

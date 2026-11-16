@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D34_Q12",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 34,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The input-output relationship of a causal stable LTI \nsystem is given as, \ud835\udc66[\ud835\udc5b]=\ud835\udefc\ud835\udc66[\ud835\udc5b\u22121]+\ud835\udefd\ud835\udc65[\ud835\udc5b]. If the \nimpulse response h[n] of this system satisfies the \ncondition \nn\n0\nh[n]\n2,\n\uf0a5\n\uf03d\n\uf03d\n\uf0e5\nthe relationship between \ud835\udefc and \n\ud835\udefd is \n \n(a) \n1\n2\n\uf062\n\uf061\uf03d\uf02d\n  \n \n(b) \n1\n2\n\uf062\n\uf061\uf03d\uf02b\n  \n \n(c)  \n2\n\uf061\uf03d\uf062",
+  "imageUrl": "assets/practice/ss/dpp_34_signal_system/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-34 (Signal & System)."
+}

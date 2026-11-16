@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D18_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The root locus diagram for a control system is shown in\nfigure \n \n \nThe Bode plot for the same system is",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q14.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D07_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is not true? \n \n(a) \n(\n)(\n)\n+\n=\n+\n+\nA\nBC\nA\nB B\nC \n \n(b) \n(\n)\n+\n=\n\uf0d7\n+\nA\nBC\nAB\nA\nC \n \n(c) \n+\n+\n=\n+\nAB\nAC\nBC\nAB\nBC \n \n(d) AB + BC + AC = (A + B) (B + C) (C + A) \n \n \n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": "+"
+    },
+    {
+      "id": "D",
+      "text": "AB + BC + AC ="
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

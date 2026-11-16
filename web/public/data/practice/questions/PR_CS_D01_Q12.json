@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n12. The block diagram shown in figure (a) can be \nreduced as a block diagram as shown in figure (b). \nThe parameters m and n respectively are. \n \n \n \n \n(a) G, G \n(b) \n1\n1\n,\nG G \n \n(c) 1 ,G\nG\n \n(d) \n1\nG, G",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "can be"
+    },
+    {
+      "id": "B",
+      "text": "."
+    },
+    {
+      "id": "C",
+      "text": "1 ,G"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

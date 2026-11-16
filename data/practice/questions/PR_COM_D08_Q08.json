@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D08_Q08",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Information Theory",
+  "dppNumber": 8,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Common Data For 7 and 8 : \nA memory less source has the alphabet A = {\u20135, \u20133, \u2013 1, 0, \n1, 3, 5] with corresponding probabilities {0.05, 0.1,  0.1, \n0.15, 0.05, 0.25, 0.3}. \n7.\nThe entropy of the source is\n(a)\n6.94 bits/symbol\n(b)\n2.53 bits/symbol\n(c)\n4.38 bits/symbol\n(d)\n3.39 bits/symbol\n8.\nAssume that the source is quantized according to\nquantization rule\n( 5)\n( 3)\n4\n( 1)\n(0)\n(1)\n0\n(3)\n(5)\n4\nq\nq\nq\nq\nq\nq\nq\n\u2212\n=\n\u2212\n= \u2212\n\uf0ec\n\uf0ef\n\u2212\n=\n=\n=\n\uf0ed\n\uf0ef\n=\n=\n\uf0ee\nThe entropy of the quantized source \n(a)\n0.4 bits/symbol\n(b)\n1.4 bits/symbol\n(c)\n3.6 bits/symbol\n(d)\n5.3 bits/symbol\nCommon Data For 9 to 10 : \nA telegraph source has two symbols dot and dash. The dot \nduration is 0.2 sec. The dash is twice as long as the dot and \nhalf as probable.",
+  "imageUrl": "assets/practice/comm/dpp_08_information_theory/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "6.94 bits/symbol"
+    },
+    {
+      "id": "B",
+      "text": "2.53 bits/symbol"
+    },
+    {
+      "id": "C",
+      "text": "4.38 bits/symbol"
+    },
+    {
+      "id": "D",
+      "text": "3.39 bits/symbol"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-08 (Information Theory)."
+}

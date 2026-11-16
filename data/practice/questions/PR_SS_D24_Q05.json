@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D24_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 24,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "F(j\ud835\udf14\ud835\udf14) is the Fourier transform of f(t), then the area \nunder f(t) equals to \n(a) F(0) \n(b) F(j) \n(c) \n1\n2 F(0) \n(d) [F(0)]2",
+  "imageUrl": "assets/practice/ss/dpp_24_signal_system/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "F"
+    },
+    {
+      "id": "B",
+      "text": "F"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "[F"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-24 (Signal & System)."
+}

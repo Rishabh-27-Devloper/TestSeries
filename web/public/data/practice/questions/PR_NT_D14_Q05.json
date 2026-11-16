@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D14_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Thevenin theorem and MPTT",
+  "dppNumber": 14,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The load impedance should be connected across x and \ny so that maximum power is transferred ___ \u2126 \n \n \nx\ny\n5A\n2\u2126\n+\u2013\n10V\n3\u2126",
+  "imageUrl": "assets/practice/nt/dpp_14_thevenin_theorem_and_mptt/q5.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Network Theory DPP-14 (Thevenin theorem and MPTT)."
+}

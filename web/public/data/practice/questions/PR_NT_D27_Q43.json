@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q43",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 43,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the circuit shown, the voltage \n\uf028\uf029\nIN\nV\nt is described \nby: \n0\nfor t\n0\n\uf03c\n\uf0ec",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q43.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

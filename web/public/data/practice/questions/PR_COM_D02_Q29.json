@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q29",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 29,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A signal m (t) = 100 cos (2\uf070 100t) frequency modulates \na carrier. The resulting FM signal is: \n \n x(t) = 20 cos [2\uf070106t + 15 sin (2\uf070100t)] \n \nThe approximate bandwidth of the FM would    \nbe             kHz. \nCommon Data Qs for 30- 32 \nAn FM modulator has output \n \n0\n( )\n100cos\n2\n( )\nt\nc\nf\ns t\nt\nk\nm\nd\n\uf0e9\n\uf0f9\n\uf03d\n\uf077\n\uf02b\uf070\n\uf074\n\uf074\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n\uf0f2\n \nwhere kf = 30 Hz/V. Assume that m(t) is the rectangular \npulse defined as \n  \n2\n( )\n8rect\n4\nt\nm t\n\uf02d\n\uf0e9\n\uf0f9\n\uf03d\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q29.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D03_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The gain\n( )\n( )\nC s\nR s of the signal flow graph shown above \nis",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q4.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

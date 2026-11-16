@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D01_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 1,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following bilateral element? \n \n(a) Resistor \n(b) Inductor \n \n(c) JFET \n(d) Both (a) and (b)",
+  "imageUrl": "assets/practice/nt/dpp_01_basic_concept_of_network/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Resistor"
+    },
+    {
+      "id": "B",
+      "text": "Inductor"
+    },
+    {
+      "id": "C",
+      "text": "JFET"
+    },
+    {
+      "id": "D",
+      "text": "Both"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-01 (Basic Concept of Network)."
+}

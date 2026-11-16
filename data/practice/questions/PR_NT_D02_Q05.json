@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A heater draws 15A current when connected to a 240 \nV line. How long does it take to consume 60 kJ? \n \n(a) 30 sec \n(b) 16.67 sec \n \n(c) 33.3 sec \n(d) 40 sec",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "30 sec"
+    },
+    {
+      "id": "B",
+      "text": "16.67 sec"
+    },
+    {
+      "id": "C",
+      "text": "33.3 sec"
+    },
+    {
+      "id": "D",
+      "text": "40 sec"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q47",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 47,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the circuit given in the figure, the voltage \nC\nV (in",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q47.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

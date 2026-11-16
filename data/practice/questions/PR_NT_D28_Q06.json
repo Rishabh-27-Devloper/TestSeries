@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D28_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 28,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If\n1\nV\n10cos 50t\n3\n\uf070\n\uf0e6\n\uf0f6\n\uf03d\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n volt and \n2\nV\n12cos 50t\n6\n\uf070\n\uf0e6\n\uf0f6\n\uf03d\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\nvolt, them V = V1 + V2 at t = 0 is _______V.",
+  "imageUrl": "assets/practice/nt/dpp_28_phasor_diagram/q6.png",
+  "options": null,
+  "correctAnswer": "15.39",
+  "toleranceMin": 15.2361,
+  "toleranceMax": 15.5439,
+  "explanation": "Practice Question from Network Theory DPP-28 (Phasor Diagram)."
+}

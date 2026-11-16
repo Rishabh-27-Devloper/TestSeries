@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D35_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 35,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The DTFT of a real valued sequence x[n] defined\nbelow will be\nn,\n10\nn\n10\nx[n]\n0,\notherwise\n\u2212\n\u2264\n\u2264\n\uf8f1\n= \uf8f2\n\uf8f3\n(a) imaginary and odd\n(b) real and even\n(c) imaginary and even\n(d) real and odd",
+  "imageUrl": "assets/practice/ss/dpp_35_signal_system/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "imaginary and odd"
+    },
+    {
+      "id": "B",
+      "text": "real and even"
+    },
+    {
+      "id": "C",
+      "text": "imaginary and even"
+    },
+    {
+      "id": "D",
+      "text": "real and odd"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-35 (Signal & System)."
+}

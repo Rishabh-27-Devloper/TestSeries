@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \n       EASY\n1.\nThe system gain K is\n(a)\n1\n(b) 2\n(c) \n2\n(d) \n1\n2\nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

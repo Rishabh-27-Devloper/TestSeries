@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The magnitude \u2013 frequency response of a control system\nis shown in figure. The values of \uf0771, \uf0772 and M in dB are\nrespectively. \n \n \n(a) 10, 200, \u201310 dB \n \n(b) 20, 200, \u20138 dB \n \n \n(c) 20, 400, \u201310 dB \n \n(d) 20, 400, \u20138 dB \nMCQ \n \n \n \n \n    EASY",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10, 200, \u201310 dB"
+    },
+    {
+      "id": "B",
+      "text": "20, 200, \u20138 dB"
+    },
+    {
+      "id": "C",
+      "text": "20, 400, \u201310 dB"
+    },
+    {
+      "id": "D",
+      "text": "20, 400, \u20138 dB"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

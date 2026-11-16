@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D20_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Regarding the system consider the statements \n \n1. \nOpen-loop system is stable \n \n2. \nClosed-loop system is unstable \n \n3. \nOne closed-loop poles is lying on the RHP \n \nThe correct statements are  \n \n(a) 1 and 2 \n \n(b) 1 and 3 \n \n(c) only 2 \n \n(d) All",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 and 2"
+    },
+    {
+      "id": "B",
+      "text": "1 and 3"
+    },
+    {
+      "id": "C",
+      "text": "only 2"
+    },
+    {
+      "id": "D",
+      "text": "All"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q43",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 43,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If 3 dB frequency due to Cc is 20 Hz then the value of \ncoupling capacitor Cc is \n \n(a) 0.0398 \u03bcF \n(b) 88.46 \u03bcF  \n \n(c) 3.98 nF \n(d) 0.884 \u03bcF \n \n \n \n \nAny issue with Practice Sheet, please report\nFor more questions, kindly visit the library s",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q43.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.0398 \u03bcF"
+    },
+    {
+      "id": "B",
+      "text": "88.46 \u03bcF"
+    },
+    {
+      "id": "C",
+      "text": "3.98 nF"
+    },
+    {
+      "id": "D",
+      "text": "0.884 \u03bcF"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

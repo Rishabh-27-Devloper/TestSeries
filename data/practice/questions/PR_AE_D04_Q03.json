@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q03",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of ID1 is\n(a)\n0.23 mA\n(b) 0.62 mA\n(c)\n0.46 mA\n(d) 0.31 mA",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.23 mA"
+    },
+    {
+      "id": "B",
+      "text": "0.62 mA"
+    },
+    {
+      "id": "C",
+      "text": "0.46 mA"
+    },
+    {
+      "id": "D",
+      "text": "0.31 mA"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D20_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n11. The system is stable for K \n \n(a) K > 1 \n(b) K < 1 \n(c) any value of K\n(d) unstable",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "K > 1"
+    },
+    {
+      "id": "B",
+      "text": "K < 1"
+    },
+    {
+      "id": "C",
+      "text": "any value of K"
+    },
+    {
+      "id": "D",
+      "text": "unstable"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

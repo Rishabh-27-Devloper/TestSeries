@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D09_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The condition that all the roots of the polynomial\n3\n2\n0\n1\n2\n3\n)\n,\n0\n(\n=\n+\n+\n+\n\uf03e\ni\nD s\na s\na s\na s\na\na\nshould be in\nthe left half of s plane is\n(a)\n1 3\n0 2\na a\na a\n\uf03e\n(b)\n1 0\n2 3\na a\na a\n\uf03e\n(c)\n1 2\n0 3\na a\na a\n\uf03e\n(d)\n2 0\n1 3\na a\na a\n\uf03e\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 3"
+    },
+    {
+      "id": "B",
+      "text": "1 0"
+    },
+    {
+      "id": "C",
+      "text": "1 2"
+    },
+    {
+      "id": "D",
+      "text": "2 0"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

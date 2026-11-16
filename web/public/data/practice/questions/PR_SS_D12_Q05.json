@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D12_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Interconnection of LTI System",
+  "dppNumber": 12,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An inter-connection of LTI systems is shown in the \nfigure. \nThe \nimpulse \nresponses \nare \u210e1[\ud835\udc5b] =\n0.5\ud835\udeff[\ud835\udc5b\u22121] + 0.7\ud835\udeff[\ud835\udc5b] and \u210e2[\ud835\udc5b] = \ud835\udeff[\ud835\udc5b\u22121]. If the \nresponse of overall system be \ud835\udc34\ud835\udeff[\ud835\udc5b] \u2212\ud835\udc35\ud835\udeff[\ud835\udc5b\u22121] \u2212\n\ud835\udc36\ud835\udeff[\ud835\udc5b\u22122], then A + B + C = ________ ?",
+  "imageUrl": "assets/practice/ss/dpp_12_interconnection_of_lti_system/q5.png",
+  "options": null,
+  "correctAnswer": "1.4",
+  "toleranceMin": 1.386,
+  "toleranceMax": 1.414,
+  "explanation": "Practice Question from Signal and System DPP-12 (Interconnection of LTI System)."
+}

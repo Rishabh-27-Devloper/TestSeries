@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D14_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n10. The open loop transfer function of a system is \n(\n)\n2\nK(s\n4)\nG(s)H(s)\ns s\n2s\n2\n+\n=\n+\n+\n. The root locus will \nintersect the imaginary axis at \n \n(a) \uf0b1 j2 \n \n(b) \nj 2\n\uf0b1\n \n \n(c) \nj 10\n\uf0b1\n \n \n(d) \nj 102\n\uf0b1",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf0b1 j2"
+    },
+    {
+      "id": "B",
+      "text": "j 2"
+    },
+    {
+      "id": "C",
+      "text": "j 10"
+    },
+    {
+      "id": "D",
+      "text": "j 102"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

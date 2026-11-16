@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q15",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of Pmax in  6 \uf057 is ______\uf057.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q15.png",
+  "options": null,
+  "correctAnswer": "18",
+  "toleranceMin": 17.82,
+  "toleranceMax": 18.18,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

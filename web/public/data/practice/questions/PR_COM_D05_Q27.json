@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D05_Q27",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 5,
+  "questionNumber": 27,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An 850 Mbyte hard disk is used to store PCM data. \nSuppose that a voice frequency signal is sampled at",
+  "imageUrl": "assets/practice/comm/dpp_05_ece_in/q27.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-05 (ECE/IN)."
+}

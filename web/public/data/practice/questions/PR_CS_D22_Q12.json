@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D22_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Nyquist plot of a unity negative feedback \nsystem \nwith \nopen \nloop \ntransfer \nfunction, \n(1\n)\n( )\n(1\n2 )(0.25\n1)\nK\ns\nG s\ns\ns\n+\n=\n+\n\u2212\n is shown in figure",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q12.png",
+  "options": null,
+  "correctAnswer": "-1.16",
+  "toleranceMin": -1.1483999999999999,
+  "toleranceMax": -1.1716,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

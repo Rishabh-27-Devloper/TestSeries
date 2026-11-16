@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D07_Q27",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Noise In Communication",
+  "dppNumber": 7,
+  "questionNumber": 27,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "g\ng\na\n27. \nWhat is the noise figure of the cascade? \n \n(a) F/L \n(b) L(1 + F) \n \n(c) \n1\nF\nL\n+\n \n(d) LF",
+  "imageUrl": "assets/practice/comm/dpp_07_noise_in_communication/q27.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "F/L"
+    },
+    {
+      "id": "B",
+      "text": "L"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "LF"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-07 (Noise In Communication)."
+}

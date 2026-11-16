@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D23_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 23,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Initially the switch was connected at point A, then it is \nmoved to point B at t = 0. A common load is \nconnected having voltage of 90 V. The value of \nresistance R is",
+  "imageUrl": "assets/practice/nt/dpp_23_transient_analysis/q3.png",
+  "options": null,
+  "correctAnswer": "53 \uf057",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-23 (Transient Analysis)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D31_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & System",
+  "dppNumber": 31,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A discrete-time signal is given as \n \n4\n10\nx[n]\nsin\nn\ncos\nn\n1\n21\n21\n\uf070\n\uf070\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf03d\n\uf02b\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \n \nIf ck is the FS coefficient of x[n], then \njc2 = _________.",
+  "imageUrl": "assets/practice/ss/dpp_31_signals_system/q10.png",
+  "options": null,
+  "correctAnswer": "0.5",
+  "toleranceMin": 0.45,
+  "toleranceMax": 0.55,
+  "explanation": "Practice Question from Signal and System DPP-31 (Signals & System)."
+}

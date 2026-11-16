@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "With reference to frequency response, resonance peak\noccurs only if the value of damping ratio  \n \n(a) Equals to 1 \n(b) \uf0a3 0.707 \n \n(c) > 0.707 \n(d) equals to 1.41 \nMCQ \n  \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Equals to 1"
+    },
+    {
+      "id": "B",
+      "text": "\uf0a3 0.707"
+    },
+    {
+      "id": "C",
+      "text": "> 0.707"
+    },
+    {
+      "id": "D",
+      "text": "equals to 1.41"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

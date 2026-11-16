@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D01_Q07",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If the voltage Amplifier has Rin = 1 k\u03a9, Av = 100,\nRo = 10 k\u03a9\nFi d\no\nV",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q7.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

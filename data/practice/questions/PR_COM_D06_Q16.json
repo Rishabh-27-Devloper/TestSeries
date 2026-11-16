@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D06_Q16",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "PRACTICE SHEET 01",
+  "dppNumber": 6,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Codes: \n(a) \nP-I, Q-II, R-III, S-I \n(b) P-II, Q-I, R-III, S-I \n(c) \nP-II, Q-III, R-I, S-I \n(d) P-III, Q-II, R-I, S-I \n  \n \n \n \n \nCommon data for Q.15 to 17: \n \nA binary transmission system with transmitted power \nPt = 200 mW, attenuation L = 90 dB, and noise power \nspectral density N0 = 10\u201315 W/Hz is to have bit error \nprobability Pe \u2264 10\u20134  \n \n15. If noncoherent FSK is used, then the maximum \nallowable bit rate is \n \n(a) \n8.5 kbps \n(b) 10.1 kbps \n \n(c) \n11.7 kbps \n(d) none of these  \n \n16. What will be the maximum allowable bit rate, if DPSK \nsignaling scheme is used? \n \n(a) \n11.7 kbps \n(b) 23.5 kbps \n \n(c) \n8.5 kbps \n(d) None of these",
+  "imageUrl": "assets/practice/comm/dpp_06_practice_sheet_01/q16.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "P-I, Q-II, R-III, S-I"
+    },
+    {
+      "id": "B",
+      "text": "P-II, Q-I, R-III, S-I"
+    },
+    {
+      "id": "C",
+      "text": "P-II, Q-III, R-I, S-I"
+    },
+    {
+      "id": "D",
+      "text": "P-III, Q-II, R-I, S-I"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-06 (PRACTICE SHEET 01)."
+}

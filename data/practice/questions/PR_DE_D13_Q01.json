@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D13_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 13",
+  "dppNumber": 13,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In a digital to analog converter, when digital input is\nchanged from (100)2 to (001)2 then output analog\nvoltage changed by 1.05 volt, the resolution of the\nDAC will be ____ volts.\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_13_digital_electronics_practice_sheet_13/q1.png",
+  "options": null,
+  "correctAnswer": "0.35",
+  "toleranceMin": 0.3,
+  "toleranceMax": 0.39999999999999997,
+  "explanation": "Practice Question from Digital Electronics DPP-13 (Digital Electronics Practice Sheet 13)."
+}

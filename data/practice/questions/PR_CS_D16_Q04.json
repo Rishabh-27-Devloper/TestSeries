@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_CS_D16_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \n       EASY\n4.\nA system with zero initial conditions has the closed\nloop transfer function.\n2\ns\n9\nT(s)\n(s\n1)(s\n4)\n+\n=\n+\n+\nThe system output is zero at the frequency \n( ) 1\nd/\n(b) 2\nd/",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q4.png",
+  "options": [
+    {
+      "id": "B",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

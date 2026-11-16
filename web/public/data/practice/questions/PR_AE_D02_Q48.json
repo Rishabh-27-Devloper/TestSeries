@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D02_Q48",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 48,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the voltage regulator shown below the power \ndissipation in the Zener diode is ______ watts. \n \n50 V +\u2013 \nVZ \nRZ  \n150  \uf057\n75  \uf057\n= 15 V\n= 0",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q48.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

@@ -1,0 +1,37 @@
+{
+  "questionId": "PR_CS_D24_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MSQ",
+  "questionText": "A process with open\u2013loop model \n( )\n1\n\u2212\n=\n\uf074+\nsTD\nKe\nG s\ns\n \n \nis controlled by a PID controller. For this \npurpose \n \n(a) the derivative mode improves transient \nperformance  \n \n(b) the derivative mode improves steady state \nperformance \n \n(c) the integral mode improves transient \nperformance \n \n(d) the integral mode improves steady state \nperformance.",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "the derivative mode improves transient"
+    },
+    {
+      "id": "B",
+      "text": "the derivative mode improves steady state"
+    },
+    {
+      "id": "C",
+      "text": "the integral mode improves transient"
+    },
+    {
+      "id": "D",
+      "text": "the integral mode improves steady state"
+    }
+  ],
+  "correctAnswer": [
+    "A",
+    "D"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

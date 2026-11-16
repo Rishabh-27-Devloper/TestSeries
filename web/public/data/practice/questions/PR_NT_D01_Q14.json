@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D01_Q14",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 1,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following diagram represent passive \nelement? \n  \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d) All of the above",
+  "imageUrl": "assets/practice/nt/dpp_01_basic_concept_of_network/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-01 (Basic Concept of Network)."
+}

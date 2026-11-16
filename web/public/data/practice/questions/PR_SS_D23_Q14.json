@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D23_Q14",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If H(s) is transfer function of a system \n2\n2\n1\n( )\n(\n1)(\n1)\n+\n+\n=\n\u2212\n+\ns\ns\nH s\ns\ns\n \n \nThen the rms value of output of the system when \ninput is 2 cos (1000\uf070t + 70\u00b0) is ________.",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q14.png",
+  "options": null,
+  "correctAnswer": "1.414",
+  "toleranceMin": 1.3998599999999999,
+  "toleranceMax": 1.42814,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

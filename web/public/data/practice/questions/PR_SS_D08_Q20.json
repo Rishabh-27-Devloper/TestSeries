@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D08_Q20",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 20,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The energy of the following signal  \n \nx[n] = 2\uf064[n] + 5\uf064[n \u2013 3] would be ______",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q20.png",
+  "options": null,
+  "correctAnswer": "29",
+  "toleranceMin": 28.71,
+  "toleranceMax": 29.29,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

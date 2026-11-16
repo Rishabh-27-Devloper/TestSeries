@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D06_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider a system with the \n2\n4\nT.F\ns\n2s\n4\n=\n+\n+\n(1) The maximum overshoot of the above system will\nnever exceed 100%\n(2) The undamped natural frequency is\n10 rad/sec\nFrom the above, the incorrect statement(s) is/are \n(a)\n1 and 2\n(b) 1\n( )\n2\n(d) N",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 and 2"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "N"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

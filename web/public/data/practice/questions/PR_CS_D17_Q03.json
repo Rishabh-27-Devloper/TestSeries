@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D17_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The Bode plot of a system\n3\nK\nG(s)\ns\n=\n intersects the\n0dB line at \uf077 = 2. The value of \u2018K\u2019 is \n(a) 4\n(b) 6\n(c) 8\n(d) 10\nMCQ \n       EASY",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "6"
+    },
+    {
+      "id": "C",
+      "text": "8"
+    },
+    {
+      "id": "D",
+      "text": "10"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

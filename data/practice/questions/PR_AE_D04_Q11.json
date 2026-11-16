@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D04_Q11",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the circuit shown below, the transistor \nparameter are as follows: \n \n \n2\nTN\nV\nV\n\uf03d\n \n \n \n2\n'\n80\n/\nn\nk\nA V\n\uf03d\n\uf06d\n \n \n \n4\nW\nL \uf03d\n \n \nDrain current ID of the ID  is 0.5 mA and current in \nresistor R2 is 1/10 of ID.",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q11.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

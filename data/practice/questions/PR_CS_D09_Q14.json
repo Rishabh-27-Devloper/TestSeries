@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D09_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The closed-loop transfer function of a control\nsystem is given as\n( )\n(\n)(\n)\n5\n2\n3\ns\nT s\ns\ns\n\u2212\n=\n+\n+\nThis is \n(a)\nAn unstable system\n(b) An uncontrollable system\n(c)\nA minimum phase system\n(d) A non-minimum phase system\nMCQ \n      MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "An unstable system"
+    },
+    {
+      "id": "B",
+      "text": "An uncontrollable system"
+    },
+    {
+      "id": "C",
+      "text": "A minimum phase system"
+    },
+    {
+      "id": "D",
+      "text": "A non-minimum phase system"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

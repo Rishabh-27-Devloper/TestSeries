@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q17",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Two random variables X and Y have the density \nfunction \n,\n, 0\n2 and 0\n3\n( , )\n9\n0\nelse where\n\uf0ec\n\uf03c\n\uf03c\n\uf03c\n\uf03c\n\uf0ef\n= \uf0ed\n\uf0ef\uf0ee\nX Y\nxy\nx\ny\nf\nx y\n \n \nThe X and Y are \n \n(a) Correlated but statistically independent \n \n(b) Uncorrelated but statistically independent \n \n(c) Correlated but statistically dependent \n \n(d) Uncorrelated but statistically dependent \n \nCommon Data For Q.18 and 19: \nTwo random variable X and Y are  \n2\n2\n1\n5\n19\n,\n,\n2,\n2\n2\n2\n=\n=\n=\n=\nX\nX\nY\nY\n and \n1\n2 3\n= \u2212\nXY\nC",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q17.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Correlated but statistically independent"
+    },
+    {
+      "id": "B",
+      "text": "Uncorrelated but statistically independent"
+    },
+    {
+      "id": "C",
+      "text": "Correlated but statistically dependent"
+    },
+    {
+      "id": "D",
+      "text": "Uncorrelated but statistically dependent"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

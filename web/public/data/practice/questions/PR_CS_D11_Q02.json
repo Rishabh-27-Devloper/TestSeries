@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D11_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n        BRAIN TEASER \n2.\nThe Routh - Hurwitz array is given for a third order\ncharacteristic equation as follows\n3s\na \nb \n0 \n2s\nc \nd \n0 \n1s\n10\n2\nK\n\u2212\n0 \n0s\nK \nThe value of a, b, c and d are respectively, for which \nthe system should be marginally stable \n(a) 1 \n5 \n2 \n10 \n(b)\n2\n10 1 \n5 \n(c)\n10\n1 \n2 \n5 \n(d)\n1\n2 \n5 \n10 \nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "10"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

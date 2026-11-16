@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q27",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 27,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The nature of feedback in the op-amp circuit shown is\n(a)\nCurrent-Current feedback\n(b)\nVoltage-Voltage feedback\n(c)\nCurrent-Voltage feedback\n(d)\nVoltage-Current feedback",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q27.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Current-Current feedback"
+    },
+    {
+      "id": "B",
+      "text": "Voltage-Voltage feedback"
+    },
+    {
+      "id": "C",
+      "text": "Current-Voltage feedback"
+    },
+    {
+      "id": "D",
+      "text": "Voltage-Current feedback"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

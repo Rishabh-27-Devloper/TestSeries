@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D36_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 36,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Time delay of a sequence x[n]\n\uf026\n is given by  \n[ ]\n[ ]\nn\nn\nnx n\nD\nx n\n\u221e\n=\u2212\u221e\n\u221e\n=\u2212\u221e\n= \u2211\n\u2211\n \nFor x[n] = \n[ ]\nn\n2\nu n\n3\n\uf8eb\n\uf8f6\n\uf8ec\n\uf8f7\n\uf8ed\n\uf8f8\n, value of D is ____ .",
+  "imageUrl": "assets/practice/ss/dpp_36_signal_system/q4.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Signal and System DPP-36 (Signal & System)."
+}

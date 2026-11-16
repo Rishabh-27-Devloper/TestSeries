@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D03_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The voltage across the terminal x and y in given figure\nis _________V",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q2.png",
+  "options": null,
+  "correctAnswer": "3.5",
+  "toleranceMin": 3.465,
+  "toleranceMax": 3.535,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

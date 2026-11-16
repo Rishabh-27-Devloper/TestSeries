@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D21_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis Using Laplace Transform",
+  "dppNumber": 21,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The differential equation100 \n\ud835\udc51\ud835\udc51\ud835\udc66\ud835\udc66\n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51 \u201320 \n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51\n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51 + y = x(t) \ndescribes a system with an input x(t) and an output \ny(t). The system, which is initially relaxed, is excited \nby a unit step input. The output y(t) can be \nrepresented by the waveform \n \n \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d)",
+  "imageUrl": "assets/practice/ss/dpp_21_system_analysis_using_laplace_transfor/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-21 (System Analysis Using Laplace Transform)."
+}

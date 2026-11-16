@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D08_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Match the roots in the s-plane with the impulse response\nshown in figure.\nColumn I : Roots in the s-plane\n A.\nTwo imaginary roots\nB.\nTwo complex roots in the left half plane\nC.\nA single root on the negative real axis\nD.\nA single root at the origin.\nColumn II : Impulse Response\nP. \nQ. \nR. \nS. \nA \nB \nC \nD \n(a) P\nR \nS \nQ \n(b) R\nQ \nS \nP \n(c) Q\nR \nS \nP",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "P"
+    },
+    {
+      "id": "B",
+      "text": "R"
+    },
+    {
+      "id": "C",
+      "text": "Q"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

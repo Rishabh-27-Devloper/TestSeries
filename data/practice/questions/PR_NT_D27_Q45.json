@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q45",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 45,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The figure shows an RLC circuit excited by the \nsinusoidal voltage 100cos(3t) Volts, where t is in \nseconds. The ratio \n2\n1\namplitude of V\namplitude of V\n is _____ \n     \n \nElectronics : 2017",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q45.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

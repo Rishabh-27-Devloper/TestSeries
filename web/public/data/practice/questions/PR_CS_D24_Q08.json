@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8. \nThe frequency at which the phase angle becomes \nzero for the following Lag-Lead compensator \n1\n2\n1\n2\n1\n1\n( )\n1\n1\n\uf0e6\n\uf0f6\uf0e6\n\uf0f6\n+\n+\n= \uf0e7\n\uf0f7\uf0e7\n\uf0f7\n+ \uf061\n+\uf062\n\uf0e8\n\uf0f8\uf0e8\n\uf0f8\nT s\nT s\nG s\nT s\nT s \n \n(a) \n1 2\nTT \n(b) \n1 2\nT T \n \n(c) \n1 2\n1\nT T \n(d) None \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 2"
+    },
+    {
+      "id": "B",
+      "text": "1 2"
+    },
+    {
+      "id": "C",
+      "text": "1 2"
+    },
+    {
+      "id": "D",
+      "text": "None"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

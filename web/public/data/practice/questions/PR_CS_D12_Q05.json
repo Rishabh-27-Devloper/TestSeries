@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The transfer function for a single loop non-unity\nfeedback \ncontrol \nsystem \nis \n( )\n1\nG s\ns\u00b2\ns\n2\n=\n+ +\n( )\n(\n)\n1\nH s\ns\n1\n=\n+\n. The steady state error due to unit step\ninput is",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q5.png",
+  "options": null,
+  "correctAnswer": "0.6667",
+  "toleranceMin": 0.6166999999999999,
+  "toleranceMax": 0.7167,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

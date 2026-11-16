@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the given circuit switch is closed at t = 0 before this \nwas open for along time. The value of i(t) is  \n \n \n(a) \n6\n24\n8\n\uf02d\n\uf02d\nt\ne\n \n(b) \n8\n24\n6\n\uf02d\n\uf02d\nt\ne\n \n \n(c) \n8\n16\n\uf02dt\ne\n \n(d) \n6\n8\n\uf02dt\ne",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "6"
+    },
+    {
+      "id": "B",
+      "text": "8"
+    },
+    {
+      "id": "C",
+      "text": "8"
+    },
+    {
+      "id": "D",
+      "text": "6"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

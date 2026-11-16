@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D04_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A signal x(t) has its even part e\u2013|t| and odd part\nsgn(t) \u00d7 rect\nt\n10\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n. The energy of x(t) is \n____________?",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q8.png",
+  "options": null,
+  "correctAnswer": "11",
+  "toleranceMin": 10.89,
+  "toleranceMax": 11.11,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}

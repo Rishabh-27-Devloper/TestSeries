@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D08_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "y\n(\n)\n11. A two-loop position control system is shown Below \n \n \nThe gain K of the Tacho - generator influences mainly\nthe \n \n(a) Peak overshoot \n \n(b) Natural frequency of oscillation \n \n(c) Phase shift of the closed loop transfer function\nat very low frequencies (\n)\n0\n\uf077\u2192\n \n \n(d) Phase shift of the closed loop transfer function\nat very high frequencies (\n)\n\uf077\u2192\uf0a5",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Peak overshoot"
+    },
+    {
+      "id": "B",
+      "text": "Natural frequency of oscillation"
+    },
+    {
+      "id": "C",
+      "text": "Phase shift of the closed loop transfer function"
+    },
+    {
+      "id": "D",
+      "text": "Phase shift of the closed loop transfer function"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

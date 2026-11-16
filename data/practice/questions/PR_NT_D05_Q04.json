@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D05_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value Rab in given figure is _____ \u03a9. \n \n \n1\uf057\n1\uf057\n10\uf057\n11\uf057\n1\uf057\na \nb",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q4.png",
+  "options": null,
+  "correctAnswer": "11.91",
+  "toleranceMin": 11.7909,
+  "toleranceMax": 12.0291,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

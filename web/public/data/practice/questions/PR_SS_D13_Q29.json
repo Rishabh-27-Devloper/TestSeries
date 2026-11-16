@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D13_Q29",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 29,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Given x = [a, b, c, d] as the input, a linear time \ninvariant system produces an output y = [x, x, x, x < \nrepeated N times >]. The impulse response of the \nsystem is \n1\nN\uf02d\n\uf0e5",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q29.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

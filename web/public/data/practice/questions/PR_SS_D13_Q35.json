@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D13_Q35",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 35,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The signal x(t) and h(t) shown in the figures are \nconvolved to yield y(t). \n \n \n \nWhich one of the figures represents the output y(t)?",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q35.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

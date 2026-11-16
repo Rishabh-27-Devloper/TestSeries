@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In Fig. the steady state output voltage corresponding \nto the input voltage \n is : \n \n \n(A) \n \n \n(B) \n \n \n(C) \n \n \n(D) \n \nElectronics : 2000 \n(3\n4sin100 )t V\n\uf02b\n4\n3\nsin 100\n4\n2\nt\nV\n\uf070\n\uf0e6\n\uf0f6\n\uf02b\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n3\n4 2sin 100\n4\nt\nV\n\uf070\n\uf0e6\n\uf0f6\n\uf02b\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n3\n4 sin 100\n2\n4\n2\nt\nV\n\uf070\n\uf0e6\n\uf0f6\n\uf02b\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n3\n4sin 100\n4\nt\nV\n\uf070\n\uf0e6\n\uf0f6\n\uf02b\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "Electronics : 2000"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

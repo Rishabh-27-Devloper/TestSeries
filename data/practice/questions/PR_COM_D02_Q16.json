@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D02_Q16",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The bandwidth in each case (using carson\u2019s rule) is \n \n (a) BPM = 8000, BFM = 14000 \n \n(b) BPM = 14000, BFM = 8000 \n \n(c) BPM = 4000, BFM = 7000 \n \n(d) BPM = 7000, BFM = 4000",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q16.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "BPM = 8000, BFM = 14000"
+    },
+    {
+      "id": "B",
+      "text": "BPM = 14000, BFM = 8000"
+    },
+    {
+      "id": "C",
+      "text": "BPM = 4000, BFM = 7000"
+    },
+    {
+      "id": "D",
+      "text": "BPM = 7000, BFM = 4000"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

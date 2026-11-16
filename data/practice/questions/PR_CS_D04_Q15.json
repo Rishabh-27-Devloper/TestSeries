@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D04_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n15. Consider \na \nsystem \ndescribed \nby \nfollowing \ndifferential \nequations \nwith \ninitial \ncondition \n( )\n( )\n( ) (\n)\n( )\n( )\ndy t\n10y t\n2x t ,y 0\n1,x t\nu t\ndt\n\u2212\n+\n=\n=\n=\n \nOutput of the system will be \n \n(a) \n(\n) ( )\n10t\n1 1 4e\nu t\n5\n\u2212\n+\n (b) \n(\n)\n10t\n1 1 4e\n5\n\u2212\n+\n  \n \n(c) \n(\n) ( )\n10t\n1\n\u2013\n1 4e\nu t\n5\n\u2212\n+\n (d) \n(\n)\n10t\n1\n\u2013\n1 4e\n5\n\u2212\n+",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

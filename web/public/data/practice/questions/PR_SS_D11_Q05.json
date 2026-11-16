@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "5\nTh\n(\ud835\udc61)\n(\ud835\udc61)\n\u210e(\ud835\udc61) i",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q5.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

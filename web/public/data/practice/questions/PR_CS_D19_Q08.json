@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8. \nThe open loop part of a unity feedback control \nsystem G(s) is unstable and has two poles on the \nright-hand side of the s - plane. However, the closed \nloop system is stable. The number of encirclements \nmade by Nyquist plot of the (\u20131,0) point in the G(s) \n-plane is \n \n(a) 0 \n(b) 1 \n \n(c) 2 \n(d) 3 \nMCQ \n \nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

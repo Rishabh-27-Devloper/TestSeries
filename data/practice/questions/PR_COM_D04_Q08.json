@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D04_Q08",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The random process X(t) is a \n \n(a) First order stationary process \n \n(b) Second order stationary process \n \n(c) Wide sense stationay process \n \n(d) None of the above \n \nCommon Data for Q.9 and 10: \nA random process is defined by  \n0\n( )\n( )cos(\n)\n=\n\uf077\n+\uf071\nY t\nX t\nt\n \nwhere X(t) is a wide sense stationary random process that \namplitude modulates a carrier of constant angular \nfrequency \uf0770 with a random phase \uf071 independent of X(t) \nand uniformly distributed on (\u2013\u03c0, \u03c0).",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "First order stationary process"
+    },
+    {
+      "id": "B",
+      "text": "Second order stationary process"
+    },
+    {
+      "id": "C",
+      "text": "Wide sense stationay process"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

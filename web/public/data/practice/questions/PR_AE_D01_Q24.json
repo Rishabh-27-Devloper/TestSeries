@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D01_Q24",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If v1 = 10 V and v2 = 5 V, then v0 is ______ volts.",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q24.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

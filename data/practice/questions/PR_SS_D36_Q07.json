@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D36_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 36,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A DT signal has the Fourier transform \n(\n)\nj\n3\n1,\n|\n|\n4\n4\nX e\n3\n0,\n0\n|\n|\n,\n|\n|\n4\n4\n\u2126\n\u03c0\n\u03c0\n\uf8f1\n\u2264\u2126\u2264\n\uf8f4\uf8f4\n= \uf8f2\n\u03c0\n\u03c0\n\uf8f4\n\u2264\u2126<\n\u2264\u2126\u2264\u03c0\n\uf8f4\uf8f3\n \nTh DT i\nl i",
+  "imageUrl": "assets/practice/ss/dpp_36_signal_system/q7.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-36 (Signal & System)."
+}

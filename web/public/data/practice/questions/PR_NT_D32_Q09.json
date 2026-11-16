@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D32_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 32,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the given circuit, the power loss at resonance \nfrequency is __________ W.",
+  "imageUrl": "assets/practice/nt/dpp_32_resonance/q9.png",
+  "options": null,
+  "correctAnswer": "40",
+  "toleranceMin": 39.6,
+  "toleranceMax": 40.4,
+  "explanation": "Practice Question from Network Theory DPP-32 (Resonance)."
+}

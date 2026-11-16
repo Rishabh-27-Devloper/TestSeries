@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D05_Q09",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In a full subtractor corresponding input bits of two \nnumbers are x & y [x \u2013 y] and input borrow is z and \noutput borrow is B. output borrow is implemented as \nshown. \n \nThen values of I0, I1, I2  & I3 are : \n \n \n(a) I0 = z, I1 = 1, I2 = 0, I3 = z \n \n(b) I0 = z, I1 = 0, I2 = 1, I3 = z \n \n(c) I0 = 1, I1 = z, I2 = 0, I3 = z \n \n(d) I0 = z , I1 = 1, I2 = 0, I3 = z \n \n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "I0 = z, I1 = 1, I2 = 0, I3 = z"
+    },
+    {
+      "id": "B",
+      "text": "I0 = z, I1 = 0, I2 = 1, I3 = z"
+    },
+    {
+      "id": "C",
+      "text": "I0 = 1, I1 = z, I2 = 0, I3 = z"
+    },
+    {
+      "id": "D",
+      "text": "I0 = z , I1 = 1, I2 = 0, I3 = z"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

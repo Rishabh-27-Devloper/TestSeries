@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D23_Q15",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider a signal y(t) which is related to two signals \nx1(t) and x2(t) by \n \n1\n2\n( )\n(\n2)\n(\n3)\n*\n=\n\u2212\n\u2212+\ny t\nx t\nx\nt\n \n \nWhere, \n2\n1( )\n( )\n\u2212\n=\nt\nx t\ne\nu t\n and \n3\n2( )\n( )\n\u2212\n=\nt\nx t\ne\nu t\n then \ny(t) at t = 5 is _______.",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q15.png",
+  "options": null,
+  "correctAnswer": "0.2",
+  "toleranceMin": 0.15000000000000002,
+  "toleranceMax": 0.25,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

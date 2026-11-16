@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D33_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 33,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The transfer function of a discrete time LTI system is \ngiven as \n2\nz\nH(z)\n, ROC:| z|\n1\nz\n1\n\uf03d\n\uf03e\n\uf02b\n \n \nConsider the following statements \n \n1. The system is causal and BIBO stable. \n \n2. The system is causal but BIBO is unstable. \n \n3. The system is non-causal and BIBO unstable.",
+  "imageUrl": "assets/practice/ss/dpp_33_signal_system/q3.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-33 (Signal & System)."
+}

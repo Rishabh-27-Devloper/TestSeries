@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D29_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 29,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For the question 1 find IL \n \n(a) 24 A \n(b) 0 A \n \n(c) both a and b \n(d) 12 A",
+  "imageUrl": "assets/practice/nt/dpp_29_phasor_diagram/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "24 A"
+    },
+    {
+      "id": "B",
+      "text": "0 A"
+    },
+    {
+      "id": "C",
+      "text": "both a and b"
+    },
+    {
+      "id": "D",
+      "text": "12 A"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-29 (Phasor Diagram)."
+}

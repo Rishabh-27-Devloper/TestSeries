@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D01_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of Signal, Quantizer and Sampler",
+  "dppNumber": 1,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider signal \n1,\n| t |\n2\nx(t)\n0\n| t |\n2\n\uf0a3\n\uf0ec\n\uf0fc\n= \uf0ed\n\uf0fd\n\uf03e\n\uf0ee\n\uf0fe\n.  Let \u03b4(t) denote \nthe unit impulse (Dirac-delta) function. The value of \nthe integral \n5\n0 2x(t\n3) (t\n4)dt\n\u2212\n\uf064\u2212\n\uf0f2\n is",
+  "imageUrl": "assets/practice/ss/dpp_01_types_of_signal_quantizer_and_sampler/q10.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-01 (Types of Signal, Quantizer and Sampler)."
+}

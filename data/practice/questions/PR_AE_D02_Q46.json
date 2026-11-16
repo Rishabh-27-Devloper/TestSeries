@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q46",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 46,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the circuit shown in figure. If the \uf062 of the \ntransistor is 30 and ICBO is 20 mA and the input voltage \nis +5 V, the transistor would be operating in \n \n \n(a) saturation region \n \n(b) active region \n \n(c) breakdown region \n \n(d) cut-off region \n \n+\n V\n12\n\u221212 V\n2.2 k\uf057\nQ\n15 k\uf057\n10 k\uf057\nVi",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q46.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "saturation region"
+    },
+    {
+      "id": "B",
+      "text": "active region"
+    },
+    {
+      "id": "C",
+      "text": "breakdown region"
+    },
+    {
+      "id": "D",
+      "text": "cut-off region"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

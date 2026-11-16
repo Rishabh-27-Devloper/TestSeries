@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D02_Q17",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the given circuit and a Worm for the input \nvoltage, shown in figure below. The diode in circuit \nhas cutin voltage Vr = 0. \nvi\n+\n\u2013\nvo\n~\n2 V\n10 k\uf057\nvi\nt\n20\n\u20135",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q17.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

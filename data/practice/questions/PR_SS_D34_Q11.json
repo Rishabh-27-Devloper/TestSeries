@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D34_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 34,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The unilateral z-transform of signal x[n] = u[n + 4] is \nza\nz\n1\n\uf02d\n. Such that the value of a is ______.",
+  "imageUrl": "assets/practice/ss/dpp_34_signal_system/q11.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Signal and System DPP-34 (Signal & System)."
+}

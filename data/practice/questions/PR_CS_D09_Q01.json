@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D09_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For the OLTF of a system G(s) = \u201310/s with unity\nfeedback, the closed loop system is\n(a)\nStable\n(b) Unstable\n(c)\nMarginally stable\n(d) Conditionally stable\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stable"
+    },
+    {
+      "id": "B",
+      "text": "Unstable"
+    },
+    {
+      "id": "C",
+      "text": "Marginally stable"
+    },
+    {
+      "id": "D",
+      "text": "Conditionally stable"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

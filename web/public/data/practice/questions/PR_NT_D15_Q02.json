@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D15_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The current through 10 \uf057, when only current source \nis active in the circuit is ___________ A.",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q2.png",
+  "options": null,
+  "correctAnswer": "0.66",
+  "toleranceMin": 0.61,
+  "toleranceMax": 0.7100000000000001,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

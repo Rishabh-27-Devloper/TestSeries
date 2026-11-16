@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D04_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the following circuit, the value of V1 \u2013 V2 is\n_____V. \n2V\n\uf031\uf057\n\uf031\uf057\n\uf031\uf057\n\uf031\uf057\n\uf031\uf057\n\uf031\uf057\n\uf031\uf057\n\uf031\uf057\n3V\n4V\n1V\nV1\nV2",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q3.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

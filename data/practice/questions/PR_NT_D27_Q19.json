@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q19",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the circuit shown below the voltage across the \ncapacitor is  \n \n \n(A)  (10 + j0) V \n \n(B)  (100 + j0) V \n \n(C)  (0 + j100) V \n \n(D)  (0 \u2013 j100) V \nInstrumentation : 2008",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q20",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 20,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The current I in the circuit shown is \n \n \n(A) \n \n(B) \n \n \n(C) 0 A \n(D) 20 A \nElectronics : 2010 \n1\nj A\n\uf02d\n1\nj\nA",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q20.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": "0 A"
+    },
+    {
+      "id": "D",
+      "text": "20 A"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

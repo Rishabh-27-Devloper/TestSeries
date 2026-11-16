@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D03_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Classification Of Signals",
+  "dppNumber": 3,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider two signals x1(t) = ej20t and x2(t) = e(\u20132+j)t.\nwhich one of the following statements is correct?\n(a)\nBoth x1(t) and x2 (t) are periodic\n(b)\nx1(t) is periodic but x2(t) is not periodic\n(c)\nx2(t) is periodic but x1(t) is not periodic\n(d)\nNeither x1(t) nor x2(t) is periodic",
+  "imageUrl": "assets/practice/ss/dpp_03_classification_of_signals/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both x1"
+    },
+    {
+      "id": "B",
+      "text": "x1"
+    },
+    {
+      "id": "C",
+      "text": "x2"
+    },
+    {
+      "id": "D",
+      "text": "Neither x1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-03 (Classification Of Signals)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n9. \nThe pole of this system are, \n \n(a) \u20130.75 \uf0b1 j1.39 \n \n(b) \u20130.44, \u20132.8 \n \n(c) \u20130.5, \u20131.67 \n \n(d) \u20130.25, \uf0b1 j0.88 \nNAT \n \n \n \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20130.75 \uf0b1 j1.39"
+    },
+    {
+      "id": "B",
+      "text": "\u20130.44, \u20132.8"
+    },
+    {
+      "id": "C",
+      "text": "\u20130.5, \u20131.67"
+    },
+    {
+      "id": "D",
+      "text": "\u20130.25, \uf0b1 j0.88"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D30_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Locus Diagram",
+  "dppNumber": 30,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The Correct Root locus in the given options is\n_______",
+  "imageUrl": "assets/practice/nt/dpp_30_locus_diagram/q2.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-30 (Locus Diagram)."
+}

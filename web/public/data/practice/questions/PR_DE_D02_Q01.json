@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D02_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-2)",
+  "dppNumber": 2,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Which of the following is true?\n(a) We can use '1' as enable input for OR gate\n(b) We can use '0' as enable input for AND\ngate\n(c) '0' as well as '1' can be used as enable input\nfor XNOR gate\n(d) None of the these\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_02_boolean_theorems_and_basics_of_gates_p/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "We can use '1' as enable input for OR gate"
+    },
+    {
+      "id": "B",
+      "text": "We can use '0' as enable input for AND"
+    },
+    {
+      "id": "C",
+      "text": "'0' as well as '1' can be used as enable input"
+    },
+    {
+      "id": "D",
+      "text": "None of the these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-02 (Boolean Theorems and Basics of Gates (Part-2))."
+}

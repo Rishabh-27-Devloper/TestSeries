@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D26_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 26,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If V1 = \u201310 sin (\uf077t \u2013 30) and V2 = 20 cos (\uf077t + 45\no) \nthen V1 + V2 at t = 0 is _____ V.",
+  "imageUrl": "assets/practice/nt/dpp_26_sinusoidal_steady_state_analysis/q9.png",
+  "options": null,
+  "correctAnswer": "6.8",
+  "toleranceMin": 6.732,
+  "toleranceMax": 6.867999999999999,
+  "explanation": "Practice Question from Network Theory DPP-26 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D06_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For Ammeter, the internal resistance should be   \n \n(a) Very low \n \n(b) Very high \n( )\nZ",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Very low"
+    },
+    {
+      "id": "B",
+      "text": "Very high"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

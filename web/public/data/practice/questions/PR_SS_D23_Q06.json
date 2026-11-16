@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D23_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The Laplace transform of \n2\n(\n)\n\u2212\n\uf0e9\n\uf0f9\n\u2212\n\uf0eb\n\uf0fb\nt\nt\nd\ne\ne\nu\nt\ndt\n is \n(a) \n1\n,\nRe( )\n1\n1\n\u2212\n\uf03c\u2212\n+\ns\ns\ns\n(b)1\n,\nRe( )\n1\n1\n\u2212\n\uf03e\u2212\n+\ns\ns\ns\n(c) \n1,\nRe( )\n1\n1\n\u2212\n\uf03c\u2212\n+\ns\ns\ns\n(d)\n1,\nRe( )\n1\n1\n\u2212\n\uf03e\u2212\n+\ns\ns\ns",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1,"
+    },
+    {
+      "id": "D",
+      "text": "1,"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

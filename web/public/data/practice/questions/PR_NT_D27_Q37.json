@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q37",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 37,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the RLC circuit shown in the figure, the input \nvoltage is given by \n( )\n2cos(200 )\n4sin(500 )\niv t\nt\nt\n\uf03d\n\uf02b\n \n \nThe output voltage \n0( )\nv\nt is :  \n \n \n(A)  cos(200t) + 2 sin(500t)  \n \n(B)  2cos(200t) + 4 sin(500t) \n \n(C)  sin(200t) + 2 cos(500t)  \n \n(D)  2sin(200t) + 4 cos(500t) \nElectronics : 2016",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q37.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "cos"
+    },
+    {
+      "id": "B",
+      "text": "2cos"
+    },
+    {
+      "id": "C",
+      "text": "sin"
+    },
+    {
+      "id": "D",
+      "text": "2sin"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q32",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 32,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The frequency of oscillation is\n(a) \n1\n2\nA\nB\nA\nB\nR R C C\n\uf070\n(b) \n1\nA\nB\nA\nB\nR R C C\n(c) \n1\n2\nA\nB\nA\nB\nR R C C\n\uf070\n(d) \n1\nA\nB\nA\nB\nR R C C",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q32.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

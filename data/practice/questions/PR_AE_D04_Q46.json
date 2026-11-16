@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q46",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 46,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the value of 3 dB frequency due to coupling \ncapacitor Cc2 ? \n \n(a) 3.1 Hz \n(b) \uf031\uf039\uf02e\uf035 Hz \n \n(c) 132.6 Hz \n(d) None of the above \ny clicking here:- https://forms.gle/t2SzQVvQcs638c4r5  \nction: Link for web: https://smart.link/sdfez8ejd80if",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q46.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3.1 Hz"
+    },
+    {
+      "id": "B",
+      "text": "\uf031\uf039\uf02e\uf035 Hz"
+    },
+    {
+      "id": "C",
+      "text": "132.6 Hz"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

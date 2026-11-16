@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D05_Q16",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the following non-inverting amplifier, the op-amp \nhas an open loop gain of 86 dB, gain error is",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q16.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

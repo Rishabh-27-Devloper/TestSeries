@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D01_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-1)",
+  "dppNumber": 1,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An astable multivibrator circuit is designed as\nshown:\nNOT gates A, B & C are of logic family TTL \nwith delay td = 20/3 nsec of each gate and gates \nD & E are of logic family ECL with delay t\uf0a2d \n=10/3 nsec of each gate, then frequency of the \nwaveform at output y is ______ MHz. \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_01_boolean_theorems_and_basics_of_gates_p/q7.png",
+  "options": null,
+  "correctAnswer": "25",
+  "toleranceMin": 24.75,
+  "toleranceMax": 25.25,
+  "explanation": "Practice Question from Digital Electronics DPP-01 (Boolean Theorems and Basics of Gates (Part-1))."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D07_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT \n     MEDIUM \n12. A second order system and its response to unit step\ninput re shown below.\nThe value of K of the system for the given response \nis ______. \nNAT\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q12.png",
+  "options": null,
+  "correctAnswer": "1.42",
+  "toleranceMin": 1.4058,
+  "toleranceMax": 1.4342,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

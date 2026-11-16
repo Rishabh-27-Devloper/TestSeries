@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D22_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The one sided Laplace transform of signal \ne2t u(\u2013t + 2) is",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q6.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

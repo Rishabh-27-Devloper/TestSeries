@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The power in 8V source is ___________ \n \n \n(a) 16 W delivered \n \n(b) 16 W absorbed \n \n(c) 32 W delivered \n \n(d) 32 W absorbed",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "16 W delivered"
+    },
+    {
+      "id": "B",
+      "text": "16 W absorbed"
+    },
+    {
+      "id": "C",
+      "text": "32 W delivered"
+    },
+    {
+      "id": "D",
+      "text": "32 W absorbed"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D14_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Match List-I with List-II and select the correct\nanswer using the codes given below in the lists.\nList-I (Loop transfer function)\nP. \n2\nK\ns(s\n2)(s\n2s\n2)\n+\n+\n+\nQ. \n2\nK\ns(s\n2)(s\n2s\n5)\n+\n+\n+\nR. \n2\nK\ns(s\n4)(s\n4s\n5)\n+\n+\n+\nList-II (Break points of root locus plot)\n1.\nOne real break point\n2.\nTwo real break point",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q2.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

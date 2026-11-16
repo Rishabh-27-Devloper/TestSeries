@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q27",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 27,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the circuit above in figure, op-amp has an open \nloop 3-dB bandwidth of \uf077o, closed loop 3-dB \nbandwidth is \n \n(a) \n2\n1\n1\n1\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n\uf02b\n\uf077\n\uf0ea\n\uf0fa\n\uf0e6\n\uf0f6\n\uf02b\n\uf0ea\n\uf0fa\n\uf0e7\n\uf0f7\n\uf0ea\n\uf0fa\n\uf0e8\n\uf0f8\n\uf0eb\n\uf0fb\nol\no\nA\nR\nR\n \n \n(b) \n2\n1\n1\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\uf077\n\uf0ea\n\uf0fa\n\uf02b\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\nol\no\nA\nR\nR\n \n \n(c) \n2\n1\n1\n\uf0e6\n\uf0f6\n\uf02b\n\uf077\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\no\nR\nR\n \n \n(d) \n2\n1\n1\n1\n\uf0e6\n\uf0f6\n\uf077\n\uf02b\n\uf0e7\n\uf0f7\n\uf02b\n\uf0e8\n\uf0f8\no\nol\nR\nA\nR",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q27.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

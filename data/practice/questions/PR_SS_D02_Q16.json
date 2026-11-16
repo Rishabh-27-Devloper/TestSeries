@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D02_Q16",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Basic of Signal System",
+  "dppNumber": 2,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of\n3\n0\n(\n1) (2 )\nn\nn\nn\n=\n+\n\uf064\n\uf0e5\n is _______ .",
+  "imageUrl": "assets/practice/ss/dpp_02_basic_of_signal_system/q16.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Signal and System DPP-02 (Basic of Signal System)."
+}

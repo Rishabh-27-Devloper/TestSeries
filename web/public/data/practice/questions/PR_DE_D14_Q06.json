@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D14_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In 3-bit SAR type ADC, corresponding to any input\nanalog voltage which digital output sequence is not\npossible?\n(a) \n100\n110\n101\n100\n\u2192\n\u2192\n\u2192\n(b) 100\n110\n111\n110\n\u2192\n\u2192\n\u2192\n(c) 100\n110\n111\n101\n\u2192\n\u2192\n\u2192\n(d) 100\n110\n101\n101\n\u2192\n\u2192\n\u2192",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "100"
+    },
+    {
+      "id": "B",
+      "text": "100"
+    },
+    {
+      "id": "C",
+      "text": "100"
+    },
+    {
+      "id": "D",
+      "text": "100"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

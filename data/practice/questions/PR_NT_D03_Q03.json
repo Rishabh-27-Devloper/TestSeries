@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D03_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of current I in given figure is ______A.",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q3.png",
+  "options": null,
+  "correctAnswer": "0.5",
+  "toleranceMin": 0.45,
+  "toleranceMax": 0.55,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

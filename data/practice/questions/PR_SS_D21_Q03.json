@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_SS_D21_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis Using Laplace Transform",
+  "dppNumber": 21,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider the statement S1 and S2 for a causal and \nstable system with an impulse response h(t). \n \nS1: The system with impulse response dh(t)/dt must \nbe causal and stable. \n \nS2: The system with impulse response\nt\nh( )d\n\u2212\u221e\n\u03c4\n\u03c4\n\u222b\nmust \nbe causal stable. \n \nWhich of above statements is/are true \n \n \n(a) Only S1\n(b) Only S2",
+  "imageUrl": "assets/practice/ss/dpp_21_system_analysis_using_laplace_transfor/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only S1"
+    },
+    {
+      "id": "B",
+      "text": "Only S2"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-21 (System Analysis Using Laplace Transform)."
+}

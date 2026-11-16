@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D23_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 23,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the question 5 what is the value of i(0+)",
+  "imageUrl": "assets/practice/nt/dpp_23_transient_analysis/q6.png",
+  "options": null,
+  "correctAnswer": "0.5",
+  "toleranceMin": 0.45,
+  "toleranceMax": 0.55,
+  "explanation": "Practice Question from Network Theory DPP-23 (Transient Analysis)."
+}

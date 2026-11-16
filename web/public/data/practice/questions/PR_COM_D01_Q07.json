@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_COM_D01_Q07",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The modulation index is\n(a) \n2\nm\nA\na\n(b) 2\nm\na A\nb\n(c)\nm\na A\nb\n(c)\nm\nb A\na\nCommon Data: \nConsider the system shown below. The average value \nof m(t) is zero and maximum value of |m(t)| is M. The \nsquare-law device is defined by y(t) = 4x(t) + 10x2(t).",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "m"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

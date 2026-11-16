@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D08_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-1)",
+  "dppNumber": 8,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is true? \n \n(a) Q(n\n1)\nS\nRQ\n+\n=\n+\n is valid for all S and R \nvalues \n \n(b) Q(n+1) = JQ\nKQ\n+\n is valid when J-K = 1 \n \n(c) Q(n+1) = S + RQ is valid when S . R = 1 \n \n(d) Q(n + 1) S + RQ is valid when S.R = 0",
+  "imageUrl": "assets/practice/de/dpp_08_sequential_circuits_part_1/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Q"
+    },
+    {
+      "id": "B",
+      "text": "Q"
+    },
+    {
+      "id": "C",
+      "text": "Q"
+    },
+    {
+      "id": "D",
+      "text": "Q"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-08 (Sequential Circuits (Part-1))."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D30_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 30,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Common Data Questions 10 & 11 \nConsider discrete-time signal with Fourier representation. \nx[n] \n  DTFS  \n\u122d\u23af\u23af\u23af\u122e ck, with fundamental frequency \u03a90 = \ud835\udf0b\ud835\udf0b/10 \n10. The DT signal corresponding dk = ck - 5 + ck + 5  is \n \n(a) 2sin\u1240\n\ud835\udf0b\ud835\udf0b\n5 \ud835\udc5b\ud835\udc5b\u1241 \ud835\udc65\ud835\udc65[\ud835\udc5b\ud835\udc5b] \n \n(b) 2\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\u1240\n\ud835\udf0b\ud835\udf0b\n5 \ud835\udc5b\ud835\udc5b\u1241 \ud835\udc65\ud835\udc65[\ud835\udc5b\ud835\udc5b] \n \n(c) 2\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\u1240\n\ud835\udf0b\ud835\udf0b\n2 \ud835\udc5b\ud835\udc5b\u1241 \ud835\udc65\ud835\udc65[\ud835\udc5b\ud835\udc5b] \n \n(d) 2cos \u1240\n\ud835\udf0b\ud835\udf0b\n2 \ud835\udc5b\ud835\udc5b\u1241 \ud835\udc65\ud835\udc65[\ud835\udc5b\ud835\udc5b] \ud835\udf0b\ud835\udf0b\ud835\udf0b\ud835\udc50\ud835\udc58",
+  "imageUrl": "assets/practice/ss/dpp_30_signal_system/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2sin\u1240"
+    },
+    {
+      "id": "B",
+      "text": "2\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\u1240"
+    },
+    {
+      "id": "C",
+      "text": "2\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\u1240"
+    },
+    {
+      "id": "D",
+      "text": "2cos \u1240"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-30 (Signal & System)."
+}

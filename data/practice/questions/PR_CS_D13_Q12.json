@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D13_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \n \n \n \n     EASY \n12. \nThe forward path transfer function of ufb system is \nK(s\n3)\nG(s)\ns(s\n1)(s\n2)(s\n4)\n+\n=\n+\n+\n+\n. \nThe \nangles \nof \nasymptotes are  \n \n(a) \n0,\n,\n2\n\uf070\uf070 \n(b) \n2\n4\n0,\n,\n3\n3\n\uf070\n\uf070 \n \n(c) \n5\n, ,\n3\n3\n\uf070\n\uf070\n\uf070\n \n(d) None of the above",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0,"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "5"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

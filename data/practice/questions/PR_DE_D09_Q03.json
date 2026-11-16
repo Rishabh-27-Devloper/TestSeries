@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D09_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part- 2)",
+  "dppNumber": 9,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "[NAT]\nA sequential circuit is as given below: \nFClk = \n11 MHz",
+  "imageUrl": "assets/practice/de/dpp_09_sequential_circuits_part_2/q3.png",
+  "options": null,
+  "correctAnswer": "2.75",
+  "toleranceMin": 2.7225,
+  "toleranceMax": 2.7775,
+  "explanation": "Practice Question from Digital Electronics DPP-09 (Sequential Circuits (Part- 2))."
+}

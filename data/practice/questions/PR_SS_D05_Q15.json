@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D05_Q15",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 5,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Are these systems linear? Time invariant?\na) y(t) = \u0da5\ud835\udc65(\ud835\udc61)\nb) y(t) = x(at)\nc) y(t) =0\nd) y(t) = x(T \u2013 t)",
+  "imageUrl": "assets/practice/ss/dpp_05_signal_and_systems/q15.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-05 (Signal and Systems)."
+}

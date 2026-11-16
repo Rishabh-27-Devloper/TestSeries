@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D04_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n1. \nLet x(t) be a CT signal and its Laplace transform is \n( )\n(\n)\n(\n)\n2\ns s\n5\nX s\ns\n16\n+\n=\n+\n, if x(t) = 5cos4t \u2013 4sin4t + x3(t), \nthen x3(t) will be \n \n \n \n(a) An impulse function \n \n(b) A step function \n \n(c) A ramp functions \n \n(d) A sinusoidal function \n \nMCQ          \n      BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "An impulse function"
+    },
+    {
+      "id": "B",
+      "text": "A step function"
+    },
+    {
+      "id": "C",
+      "text": "A ramp functions"
+    },
+    {
+      "id": "D",
+      "text": "A sinusoidal function"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

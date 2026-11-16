@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the following statements in connection with\nfrequency domain specifications of a control system: \n \n1. \nResonant peak and peak overshoot are both\nfunctions of the damping ratio \uf078 only. \n \n2. \nThe resonant frequency \uf077r = \uf077n for \uf078 > 0.707. \n \n3. \nHigher the resonant peak, higher is the maximum\novershoot of the step response. \n \nWhich of the statements given above are correct? \n \n(a) 1 and 2 only \n(b) 2 and 3 only \n \n(c) 1 and 3 only \n(d) 1, 2 and 3",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 and 2 only"
+    },
+    {
+      "id": "B",
+      "text": "2 and 3 only"
+    },
+    {
+      "id": "C",
+      "text": "1 and 3 only"
+    },
+    {
+      "id": "D",
+      "text": "1, 2 and 3"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

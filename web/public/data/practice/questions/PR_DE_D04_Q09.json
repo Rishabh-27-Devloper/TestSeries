@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D04_Q09",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "f (A, B, C, D) is as given below : \nf(A,B,C,D)\nBD\nAC\nAB\nABCD\nABC\nABD\n=\n+\n+\n+\n+\n+\n \n \nThen no. of entries in K-map of f (A, B, C, D) that \nare filled with \u20181\u2019 ___________. \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q9.png",
+  "options": null,
+  "correctAnswer": "8",
+  "toleranceMin": 7.92,
+  "toleranceMax": 8.08,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

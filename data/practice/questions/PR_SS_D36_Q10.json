@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D36_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 36,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of \n(\n)\nj\nX e\nd\n\u03c0\n\u2126\n\u2212\u03c0\n\u2126\n\u222b\n is ________.",
+  "imageUrl": "assets/practice/ss/dpp_36_signal_system/q10.png",
+  "options": null,
+  "correctAnswer": "12.56",
+  "toleranceMin": 12.4344,
+  "toleranceMax": 12.6856,
+  "explanation": "Practice Question from Signal and System DPP-36 (Signal & System)."
+}

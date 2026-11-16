@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D08_Q14",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Let x[n] and y[n] be two odd sequences. If z[n] = \nx[n] y[n] and w[n] = x[n] + y[n], then \n \n(a) z[n] is odd and w[n] is even \n \n(b) both z[n] and w[n] are even \n \n(c) z[n] is even and w[n] is odd \n \n(d) both z[n] and w[n] are odd \nEnergy Power Signals",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "z[n] is odd and w[n] is even"
+    },
+    {
+      "id": "B",
+      "text": "both z[n] and w[n] are even"
+    },
+    {
+      "id": "C",
+      "text": "z[n] is even and w[n] is odd"
+    },
+    {
+      "id": "D",
+      "text": "both z[n] and w[n] are odd"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

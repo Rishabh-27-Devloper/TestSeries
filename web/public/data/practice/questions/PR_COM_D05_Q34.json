@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D05_Q34",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 5,
+  "questionNumber": 34,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the number of bits corresponding to each \nlevel ?  \n \n(a)  16 bits/level \n(b) 2 bits/level \n \n(c) 4 bits/level \n(d) 8 bits/level",
+  "imageUrl": "assets/practice/comm/dpp_05_ece_in/q34.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "16 bits/level"
+    },
+    {
+      "id": "B",
+      "text": "2 bits/level"
+    },
+    {
+      "id": "C",
+      "text": "4 bits/level"
+    },
+    {
+      "id": "D",
+      "text": "8 bits/level"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-05 (ECE/IN)."
+}

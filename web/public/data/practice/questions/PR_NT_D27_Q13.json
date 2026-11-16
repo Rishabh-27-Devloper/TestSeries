@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q13",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For the circuit shown in the figure, the time constant \nRC = 1 ms. The input voltage is \n \nThe output voltage \n is equal to \n3\n( )\n2sin10 .\niv t\nt\n\uf03d\n0( )\nv t",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q13.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

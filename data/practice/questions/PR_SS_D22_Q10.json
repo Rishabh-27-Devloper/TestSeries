@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_SS_D22_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the function f(t) having Laplace transform  \n \n0\n2\n2\n0\nF(s)\nRe[s]\n0\ns\n\u03c9\n=\n>\n+ \u03c9\n \n \nThe final value of f(t) would be \n(a) 0 \n(b) 1 \n( )\n(\n)\n(d)",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

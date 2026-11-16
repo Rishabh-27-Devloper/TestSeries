@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q02",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A feedback amplifier shown in figure\nEach basic amplifier state has an open loop gain of \nA = 10. The closed loop gain is Af = 100 \nIf the gain of each stage increased by 10%. \nWhat is the percent change in the closed loop voltage \ngain \no\ni\nv\nv is \n(a)\n2.55% increase (b) 2.55% decrease\n(c)\n1% increase\n(d) 0.9% increase",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.55% increase"
+    },
+    {
+      "id": "B",
+      "text": "2.55% decrease"
+    },
+    {
+      "id": "C",
+      "text": "1% increase"
+    },
+    {
+      "id": "D",
+      "text": "0.9% increase"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

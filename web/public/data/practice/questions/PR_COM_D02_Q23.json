@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q23",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 23,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "23\nA signal m(t) = 5 cos(2000\ud835\udf0bt) phase modulate the",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q23.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

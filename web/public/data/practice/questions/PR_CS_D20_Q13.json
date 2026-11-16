@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D20_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The polar plot of open loop transfer function is \nshown in figure below. \n \n \nAn addition of two poles in which one at origin \nand one simple pole to the system will change \npolar plot as  \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d)",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

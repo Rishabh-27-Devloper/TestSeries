@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D16_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 16,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "By using Norton theorem, the value of Norton current \nat terminal ab is _____A. \n \n \n\u2013 \n+\n10 V\n\uf036\uf057\na \nb\n\uf032\uf057\nvx\n+\n\u2013 \n2vx",
+  "imageUrl": "assets/practice/nt/dpp_16_network_theorem/q5.png",
+  "options": null,
+  "correctAnswer": "10",
+  "toleranceMin": 9.9,
+  "toleranceMax": 10.1,
+  "explanation": "Practice Question from Network Theory DPP-16 (Network Theorem)."
+}

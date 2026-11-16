@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q15",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If open loop gain decreases by 10%, then change in \nclosed loop gain will be \n \n(a) 0.99% \n(b) 0.01% \n \n(c) 1.01% \n(d) 10%",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.99%"
+    },
+    {
+      "id": "B",
+      "text": "0.01%"
+    },
+    {
+      "id": "C",
+      "text": "1.01%"
+    },
+    {
+      "id": "D",
+      "text": "10%"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

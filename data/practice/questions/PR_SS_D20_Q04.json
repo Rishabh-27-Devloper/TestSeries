@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D20_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System analysis using Laplace Transform",
+  "dppNumber": 20,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The time signal corresponding to \n3\n( )\ns\nd\ne\nX s\nds\n\uf02d\n\uf0e9\n\uf0f9\n\uf0eb\n\uf0fbis  \n(a) t cos{2(t \u2013 3)} u(t \u2013 3) \n(b) t cos{2(t \u2013 3)} u(t) \n(c) \u2013 t cos{2(t \u2013 3)} u(t \u2013 3)  \n(d) \u2013 t cos{2(t \u2013 3)} u(t)",
+  "imageUrl": "assets/practice/ss/dpp_20_system_analysis_using_laplace_transfor/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "t cos{2"
+    },
+    {
+      "id": "B",
+      "text": "t cos{2"
+    },
+    {
+      "id": "C",
+      "text": "\u2013 t cos{2"
+    },
+    {
+      "id": "D",
+      "text": "\u2013 t cos{2"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-20 (System analysis using Laplace Transform)."
+}

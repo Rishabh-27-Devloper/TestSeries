@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q03",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider a basic amplifier circuit having input\nresistance, Ri = 10 k\uf057 and output resistance, Ro = 1 k\uf057\nand loop gain is T = 104. What are the maximum\npossible output resistance and minimum possible\ninput resistance respectively.\n(a)\n1 \uf057, 104 k\uf057\n(b)\n\uf0a5 \uf057, 0 \uf057\n(c)\n10\u20131 \uf057, 10 M\uf057\n(d)\n104k, 1 \uf057",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 \uf057, 104 k\uf057"
+    },
+    {
+      "id": "B",
+      "text": "\uf0a5 \uf057, 0 \uf057"
+    },
+    {
+      "id": "C",
+      "text": "10\u20131 \uf057, 10 M\uf057"
+    },
+    {
+      "id": "D",
+      "text": "104k, 1 \uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

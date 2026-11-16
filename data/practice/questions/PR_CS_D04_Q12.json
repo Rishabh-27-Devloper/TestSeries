@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D04_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For an input x(t) = e\u20132(t\u20133) u(t), output of a system \nhaving impulse response h(t) = e\u2013t u(t) will be \n \n(a) e6(e\u2013t \u2013 e\u20132t) u(t) \n(b) e6(e\u20132t + e\u2013t) u(t) \n \n(c) e6 (\u2013e\u2013t \u2013 t\u20132t) u(t) (d) \n(\n)\n6\nt\n2t\ne\ne\ne\n3\n\u2212\n\u2212\n\u2212\nu(t)   \nMCQ          \n      BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "e6"
+    },
+    {
+      "id": "B",
+      "text": "e6"
+    },
+    {
+      "id": "C",
+      "text": "e6"
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

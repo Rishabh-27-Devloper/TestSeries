@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D23_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 23,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Calculate VC(\uf0a5) and time constant",
+  "imageUrl": "assets/practice/nt/dpp_23_transient_analysis/q9.png",
+  "options": null,
+  "correctAnswer": "15 V & 1 S",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-23 (Transient Analysis)."
+}

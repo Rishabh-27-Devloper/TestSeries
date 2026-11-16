@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D04_Q39",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 39,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The power spectral density of the random process at \nthe filter output is \n \n(a) \n0\n2\n2\n2[\n(2\n) ]\nN\nR\nfL\n+\n\uf070\n \n(b) \n2\n0\n2\n2\n(2\n)\n2\n(2\n)\nN\nfL\nR\nfL\n\uf070\n+\n\uf070\n \n \n(c) \n0\n2\n2\n(2\n)\nN\nR\nfL\n+\n\uf070\n \n(d) \n2\n0\n2\n2\n(2\n)\n(2\n)\nfL\nN\nR\nfL\n\uf070\n+\n\uf070",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q39.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "0"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

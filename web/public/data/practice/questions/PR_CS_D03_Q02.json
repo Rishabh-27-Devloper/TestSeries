@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D03_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n2.\nA closed \u2013 loop system is shown in figure. The noise\ntransfer function Cn(s) / N(s) is approximately\n(a) \n1\n1\n1\nG H for \n1\n1\n2\nG H H\n1\n\uf03c\uf03c\n(b) \n1\n1\nH\n\u2212\n for \n1\n1\n2\nG H H\n1\n\uf03e\uf03e\n(c) \n1\n2\n1\nH H for \n1\n1\n2\nG H H\n1\n\uf03e\uf03e\n(d)\n1\nfor G H H\n1\n\uf03c\uf03c",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

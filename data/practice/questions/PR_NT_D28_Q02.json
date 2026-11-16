@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D28_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 28,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Find source voltage V.\n(a)\n15 V\n(b)\n20 V\n(c)\n17 V\n(d)\n14.14 V",
+  "imageUrl": "assets/practice/nt/dpp_28_phasor_diagram/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "15 V"
+    },
+    {
+      "id": "B",
+      "text": "20 V"
+    },
+    {
+      "id": "C",
+      "text": "17 V"
+    },
+    {
+      "id": "D",
+      "text": "14.14 V"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-28 (Phasor Diagram)."
+}

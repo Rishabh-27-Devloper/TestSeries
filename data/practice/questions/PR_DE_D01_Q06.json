@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D01_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-1)",
+  "dppNumber": 1,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A digital circuit is designed as shown:\nThis circuit works as \n(a) Astable multivibrator as odd number of\nNot gates are used.\n(b) Bistable multivibrator\n(c) Monostable multivibrator\n(d) None of these\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_01_boolean_theorems_and_basics_of_gates_p/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Astable multivibrator as odd number of"
+    },
+    {
+      "id": "B",
+      "text": "Bistable multivibrator"
+    },
+    {
+      "id": "C",
+      "text": "Monostable multivibrator"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-01 (Boolean Theorems and Basics of Gates (Part-1))."
+}

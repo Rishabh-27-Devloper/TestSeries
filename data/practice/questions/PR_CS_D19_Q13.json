@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n13. The Nyquist plot of a unity feedback minimum \nphase system is given below, then  \n \n \n(a) Steady state error to a unity step input is \nzero \n \n(b) Steady state error to a unity step input is \ninfinite \n \n(c) Steady state error to a unity ramp input is \nzero \n \n(d) The type of the system is three. \nMCQ \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Steady state error to a unity step input is"
+    },
+    {
+      "id": "B",
+      "text": "Steady state error to a unity step input is"
+    },
+    {
+      "id": "C",
+      "text": "Steady state error to a unity ramp input is"
+    },
+    {
+      "id": "D",
+      "text": "The type of the system is three."
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

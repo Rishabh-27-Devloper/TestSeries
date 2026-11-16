@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D03_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider the block diagram shown in figure\nThe gain \n( )\n( )\nC s\nR s is \n(a) \n1\n2\n2\n2\n1\n2\n3\n1\n2\n1\nG G\n1\nG H\nG G H\nG G H\n+\n+\n+\n(b) \n1\n2\n2\n2\n1\n2\n3\n1\n2\n1\n2\nG G\n1\nG H\nG G H\nG G H H\n+\n+\n+\n(c) \n1\n2\n2\n2\n1\n2\n3\n1\n2\n1\n2\n3\nG G\n1\nG H\nG G H\nG G H H H\n+\n+\n+\n(d) \n1\n2\n2\n2\n1\n2\n3\n1\n2\n2\n3\nG G\n1\nG H\nG G H\nG G H H\n+\n+\n+\nMCQ \nEASY \n( )\nC",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D03_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "We have to implement half adder as well as half\nsubtractor. Minimum number of 2-i/P NAND gate\nrequired is ________.\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q2.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

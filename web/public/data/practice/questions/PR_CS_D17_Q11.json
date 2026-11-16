@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D17_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For \nthe \ntransfer \nfunction \nK\nG(s)H(s)\n,\ns\n1\nb\n=\n\uf0e6\n\uf0f6\n+\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\nasymptotic Bode plot is shown below the error in\ndiagram at \uf077 = 5b is determined as \n \n \n(a) 0.16 dB \n(b) 0.52 dB \n \n(c) 0.67 dB \n(d) 0.2 dB \nMCQ \n \n \n \n \nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.16 dB"
+    },
+    {
+      "id": "B",
+      "text": "0.52 dB"
+    },
+    {
+      "id": "C",
+      "text": "0.67 dB"
+    },
+    {
+      "id": "D",
+      "text": "0.2 dB"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

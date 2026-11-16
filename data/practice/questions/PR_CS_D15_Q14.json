@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D15_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A unity feedback system is given as \n( )\n(\n)\n(\n)\nK 1\ns\nG s\ns s\n3\n\u2212\n=\n+\nWhich of the following is the correct root locus\ndiagram? \n(a)\n(b)\n(c)\n \n(d)\n \nNAT \n   EASY \nj\uf077\n\uf073\nj\uf077\n\uf073",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q14.png",
+  "options": [
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "NAT"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

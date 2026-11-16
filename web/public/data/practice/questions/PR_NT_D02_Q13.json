@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q13",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The voltage across the capacitor is given by V(t) = \n100 sin (2\uf070t) volt. The current passing through \ncapacitor will be (Take C = 1F) \n \n(a) 628 sin (2\uf070t) \n(b) 628 cos (2\uf070t) \n \n(c) 314 sin (2\uf070t) \n(d) 314 cos (2\uf070t)",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "628 sin"
+    },
+    {
+      "id": "B",
+      "text": "628 cos"
+    },
+    {
+      "id": "C",
+      "text": "314 sin"
+    },
+    {
+      "id": "D",
+      "text": "314 cos"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

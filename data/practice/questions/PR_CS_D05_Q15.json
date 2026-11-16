@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D05_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A thermometer is characterized by a first order \nsystem. The thermometer requires 1 minute to \nindicate 98% of the response to a step input. The time \nconstant (T) of the system is _______ sec.",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q15.png",
+  "options": null,
+  "correctAnswer": "15.33",
+  "toleranceMin": 15.1767,
+  "toleranceMax": 15.4833,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

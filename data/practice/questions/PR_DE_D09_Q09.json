@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D09_Q09",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part- 2)",
+  "dppNumber": 9,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "[MCQ] \n \n \n           \n  \n \nA sequential circuit is as given below: \n \nTotal 20 FFs are connected as shown below: \n \nIf input clock frequency is 128 MHz then, at output \nof 16th FF frequency of the waveform will be:",
+  "imageUrl": "assets/practice/de/dpp_09_sequential_circuits_part_2/q9.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-09 (Sequential Circuits (Part- 2))."
+}

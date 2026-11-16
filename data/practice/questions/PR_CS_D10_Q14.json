@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D10_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The gain of an open loop transfer function with\nunity feedback is given as,\n3\n2\n(\n2)\n( )\n4\n3\n22\nK s\nG s\ns\ns\ns\n\u2212\n=\n+\n+\n+\n. The value of K that \ncauses the system to operate with sustained \noscillations is ____. \nNAT \n BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q14.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

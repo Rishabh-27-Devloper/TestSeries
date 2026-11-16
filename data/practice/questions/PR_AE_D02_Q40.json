@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q40",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 40,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the given circuit. The diode in circuit has cut \nin voltage Vr = 0.6 V and zener diode voltage Vz = 9.4 \nV. \n \n \nPlot vo versus vi is \n \n \n(a)  \n \n \n \n \n \n \n(b)  \n \n \n \n \n \n \n(c)  \n \n \n \n \n \n \n(d)    \n \n1 k\uf057\n+\n\u2212\nD1\nD2\nD2\nD3\nD4\n9.4 V\nvo\n+\n\u2212\nvi\nvo\nvin\n1.8 V\n1.8 V\n\u221210 V\n\u221210 V\nvo\n10 V\n\u221210 V\n\u221210 V\n10 V\nvin\nvo\n10 V\n\u22121.8 V\n\u22121.8 V\n10 V\nvo",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q40.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "1 k\uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

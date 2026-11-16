@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n \n   EASY \n13.  A unity feedback system has forward path transfer \nfunction \n \n \n2\n(\n50)\n( )\n;\n0\n(\n2\n5)(\n2)\n+\n=\n\uf03e\n+\n+\n+\nKs\nG s\nK\ns\ns\ns\n \n \nThe maximum value of \u2018K\u2019 for the system to be \nstable is _______. \n \nNAT\nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q13.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

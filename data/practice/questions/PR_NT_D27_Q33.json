@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q33",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 33,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "At very high frequencies, the peak output voltage Vo \n(in Volts) is_____. \n \nElectronics : 2015",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q33.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

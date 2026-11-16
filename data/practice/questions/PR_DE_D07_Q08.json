@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D07_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For n-variable, the number of self dual functions \nare found to be 256, then the value of n is_____. \n \n \n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q8.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

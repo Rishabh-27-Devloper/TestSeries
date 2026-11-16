@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_AE_D02_Q18",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 18,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the circuit shown below, let cut in voltage Vr = 0.7 \nV. \n \n \nThe plot of vo verses vi for \u221210 \uf0a3 vi \uf0a3 10 V is \n \n(a)  \n \n \n \n \n \n \n(b)  \n \n \n \n \n \n \n(c)  \n+\n\u2013\nvo\nvi ~\n10 k\uf057\n20 k\uf057\n10 V\n10 V\n9.3\nvo\nvi\n\u201310\n3.33\n10\n3.33\n9.3\nvo\nvi\n\u201310\n4.03\n10\n3.33\nvo",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q18.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": "+"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

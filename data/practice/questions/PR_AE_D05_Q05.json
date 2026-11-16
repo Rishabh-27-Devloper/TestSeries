@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q05",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The output voltage vo is \n \n(a) \u201312 V \n(b) 12 V \n \n(c) \u201318 V \n(d) 18 V",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u201312 V"
+    },
+    {
+      "id": "B",
+      "text": "12 V"
+    },
+    {
+      "id": "C",
+      "text": "\u201318 V"
+    },
+    {
+      "id": "D",
+      "text": "18 V"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

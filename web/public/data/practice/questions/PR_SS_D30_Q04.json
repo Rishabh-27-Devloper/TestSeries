@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D30_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 30,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Common Data Questions 4 to 9 \nConsider a periodic signal x[n] with period N and FS \ncoefficient ck. \n4.\nThe FS coefficient dk of the signal y[n] = x[n \u2013 n0] is\n(a)\nej\u12402\u03c0\nN \u1241n0kck \n(b) e\u2212j\u12402\u03c0\nN \u1241n0kck \n(c)\nkck \n(d)\u2013kck",
+  "imageUrl": "assets/practice/ss/dpp_30_signal_system/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "ej\u12402\u03c0"
+    },
+    {
+      "id": "B",
+      "text": "e\u2212j\u12402\u03c0"
+    },
+    {
+      "id": "C",
+      "text": "kck"
+    },
+    {
+      "id": "D",
+      "text": "\u2013kck"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-30 (Signal & System)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D06_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "By using source transformation, the value of current I \nin R1 is _______ mA.",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q10.png",
+  "options": null,
+  "correctAnswer": "2.8",
+  "toleranceMin": 2.772,
+  "toleranceMax": 2.828,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

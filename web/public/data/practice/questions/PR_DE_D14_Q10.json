@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D14_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If input analog voltage change, then which of the \nfollowing is not true? \n \n(a) Conversion time charges in counter type ADC \nin general. \n \n(b) Conversion time charges in dual slope type \nADC in general. \n \n(c) Conversion time charges in SAR type ADC in \ngeneral. \n \n(d) Conversion time remains unchanged in SAR \ntype ADC.",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conversion time charges in counter type ADC"
+    },
+    {
+      "id": "B",
+      "text": "Conversion time charges in dual slope type"
+    },
+    {
+      "id": "C",
+      "text": "Conversion time charges in SAR type ADC in"
+    },
+    {
+      "id": "D",
+      "text": "Conversion time remains unchanged in SAR"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

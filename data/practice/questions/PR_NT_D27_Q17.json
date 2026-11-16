@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q17",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the circuit shown in the figure, the input signal is \n( )\n5\n3cos\niv t\nt\n\uf03d\n\uf02b\n\uf077. \nThe \nsteady \nstate \noutput \nis \nexpressed \nas \n0( )\ncos(\n)\nv t\nP\nQ\nt\n\uf03d\n\uf02b\n\uf077\uf02d\uf066. If \n2\nCR\n\uf077\n\uf03d\n, the values of \nP and Q are       \n \n \n(A)  \n6\n0and\n5\nP\nQ\n\uf03d\n\uf03d\n \n \n(B)  \n3\n0and\n5\nP\nQ\n\uf03d\n\uf03d\n \n \n(C)  \n6\n5and\n5\nP\nQ\n\uf03d\n\uf03d\n \n \n \n \n(D)  \n5and\n3\nP\nQ\n\uf03d\n\uf03d\n \nInstrumentation : 2007",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q17.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "6"
+    },
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "6"
+    },
+    {
+      "id": "D",
+      "text": "5and"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q25",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 25,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The current i(t) through the capacitor is    \n \n(A)  sin(5 )A\nt\n \n \n(B)  cos(5 )A\nt\n \n \n(C)  \n0\nsin(5\n45 )A\nt \uf02d\n \n \n(D)  1 A \nInstrumentation : 2011",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q25.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "sin"
+    },
+    {
+      "id": "B",
+      "text": "cos"
+    },
+    {
+      "id": "C",
+      "text": "0"
+    },
+    {
+      "id": "D",
+      "text": "1 A"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

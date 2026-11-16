@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D02_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-2)",
+  "dppNumber": 2,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A logic circuit is as given below:\nWhich of the following is true? \n(a) Output is A if n is even\n(b) Output is A if n is even\n(c) Output is A if n is odd\n(d) Output is A if n is odd\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_02_boolean_theorems_and_basics_of_gates_p/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Output is A if n is even"
+    },
+    {
+      "id": "B",
+      "text": "Output is A if n is even"
+    },
+    {
+      "id": "C",
+      "text": "Output is A if n is odd"
+    },
+    {
+      "id": "D",
+      "text": "Output is A if n is odd"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-02 (Boolean Theorems and Basics of Gates (Part-2))."
+}

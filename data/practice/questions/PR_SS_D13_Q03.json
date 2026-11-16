@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D13_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "\uf028\uf029\n\uf028\uf029\n2\nd\ny t\nx t\ndt\n\uf0e9\n\uf0f9\n\uf03d\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n \nd",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q3.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

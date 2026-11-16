@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider two signal x(t) and h(t) as shown in the figure.\nWhat is the value of convolution y(t) = x(t) * h(t) at t =\n\uf070?\nCommon Data For Q.5 and 6 \nSuppose that \n1,\n0\n1\n( )\n0,\nelsewhere\nt\nx t\n\uf0a3\uf0a3\n\uf0ec\n\uf03d\uf0ed\n\uf0ee\n( )\n,\nwhere 0\n1\nt\nh t\nx\na\na\n\uf0e6\n\uf0f6\n\uf03d\n\uf03c\n\uf0a3\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q4.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

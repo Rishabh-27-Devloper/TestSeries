@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D06_Q02",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "PRACTICE SHEET 01",
+  "dppNumber": 6,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Which of the following received average signal power\nwill be adequate to maintain the error probability\nobtained in above case?\n[Assume Q(4.9) = 1.16 \u00d7 10\u20136]\n(a)\n1.2 \u00d7 10\u20136 W\n(b) 10\u20137 W\n(c)\n5 \u00d7 10\u20137 W\n(d) none of these\nCommon Data for Q.3 and 4: \nConsider a noncoherently detected orthogonal binary \nFSK system having the higher frequency signaling \ntone 1 MHz and the symbol duration 1 ms.",
+  "imageUrl": "assets/practice/comm/dpp_06_practice_sheet_01/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.2 \u00d7 10\u20136 W"
+    },
+    {
+      "id": "B",
+      "text": "10\u20137 W"
+    },
+    {
+      "id": "C",
+      "text": "5 \u00d7 10\u20137 W"
+    },
+    {
+      "id": "D",
+      "text": "none of these"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-06 (PRACTICE SHEET 01)."
+}

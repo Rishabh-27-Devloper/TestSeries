@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D33_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In question (8), the power factor is ____.\n(a)\n0.707 lag\n(b) 0.866 lag\n(c)\n0.707 lead\n(d) 0.866 lead",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.707 lag"
+    },
+    {
+      "id": "B",
+      "text": "0.866 lag"
+    },
+    {
+      "id": "C",
+      "text": "0.707 lead"
+    },
+    {
+      "id": "D",
+      "text": "0.866 lead"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

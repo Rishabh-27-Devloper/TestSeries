@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Power absorb by 3\uf057 resistor is \n \n \n(a) 10 W \n(b) 12 W \n \n(c) 6 W \n(d) 3 W",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 W"
+    },
+    {
+      "id": "B",
+      "text": "12 W"
+    },
+    {
+      "id": "C",
+      "text": "6 W"
+    },
+    {
+      "id": "D",
+      "text": "3 W"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

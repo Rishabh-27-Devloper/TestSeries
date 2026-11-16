@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D02_Q18",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 18,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the amplitude of m(t) is decreased by a factor of two, \nthe new value of bandwidth of FM and PM and \nrespectively \n \n (a) 26000 and 14000 \n \n(b)  14000 and 26000 \n \n(c) 8000 and 5000 \n \n(d) 5000 and 8000",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q18.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "26000 and 14000"
+    },
+    {
+      "id": "B",
+      "text": "14000 and 26000"
+    },
+    {
+      "id": "C",
+      "text": "8000 and 5000"
+    },
+    {
+      "id": "D",
+      "text": "5000 and 8000"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

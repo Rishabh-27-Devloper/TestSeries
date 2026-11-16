@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D16_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 16,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "By using Norton theorem, the value of Norton \nresistance at terminal ab is _____\uf057. \n \n \n\u2013 \n+\n10 V\n\uf036\uf057\na \nb\n\uf032\uf057\nvx\n+\n\u2013 \n2vx",
+  "imageUrl": "assets/practice/nt/dpp_16_network_theorem/q6.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-16 (Network Theorem)."
+}

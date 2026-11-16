@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D02_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Basic of Signal System",
+  "dppNumber": 2,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Two CT signals f(t) and g(t) are shown in the following\nfigure :\nThe plot for a signal x(t) = f(t) g (t \u2013 1) will be \n(a) \n(b) \n(c) \n(d)",
+  "imageUrl": "assets/practice/ss/dpp_02_basic_of_signal_system/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-02 (Basic of Signal System)."
+}

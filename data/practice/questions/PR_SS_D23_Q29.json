@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D23_Q29",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 29,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A system is described by the following differential \nequation, where u(t) is the output to the system and \ny(t) is the output of the system,  \n'( )\n5 ( )\n( )\ny t\ny t\nu t\n+\n=\n \n \nWhen y(0) = 1 and u(t) is a unit step function, y(t) is  \n \n(a) \n5\n0.2\n0.8 \u2212\n+\nt\ne\n \n \n(b) \n5\n0.2\n0.2 \u2212\n\u2212\nt\ne\n \n \n(c) \n5\n0.8\n0.2 \u2212\n+\nt\ne\n \n \n(d) \n5\n0.8\n0.8\n\u2212\nt\ne \n1",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q29.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5"
+    },
+    {
+      "id": "B",
+      "text": "5"
+    },
+    {
+      "id": "C",
+      "text": "5"
+    },
+    {
+      "id": "D",
+      "text": "5"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

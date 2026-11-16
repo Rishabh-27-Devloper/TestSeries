@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D10_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "LTI System and Its Properties",
+  "dppNumber": 10,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The impulse response of an LTI system is\n\uf028\n\uf029\n6\n( )\n3\nt\nh t\ne\nu\nt\n\uf02d\n\uf03d\n\uf02d\n. The system is  \n(a)\ncausal and stable\n(b) causal but not stable\n(c)\nstable but not causal\n(d) neither causal nor stable",
+  "imageUrl": "assets/practice/ss/dpp_10_lti_system_and_its_properties/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "causal and stable"
+    },
+    {
+      "id": "B",
+      "text": "causal but not stable"
+    },
+    {
+      "id": "C",
+      "text": "stable but not causal"
+    },
+    {
+      "id": "D",
+      "text": "neither causal nor stable"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-10 (LTI System and Its Properties)."
+}

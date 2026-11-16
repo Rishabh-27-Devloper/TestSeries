@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q18",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 18,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the value of collector current ICQ ? \n \n(a) 2.13 mA \n \n(b) 9.9 mA \n \n(c) 1.60 mA \n \n(d) 6.6 mA",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q18.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.13 mA"
+    },
+    {
+      "id": "B",
+      "text": "9.9 mA"
+    },
+    {
+      "id": "C",
+      "text": "1.60 mA"
+    },
+    {
+      "id": "D",
+      "text": "6.6 mA"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

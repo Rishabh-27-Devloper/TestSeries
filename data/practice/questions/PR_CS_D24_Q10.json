@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n10. A type-1 system is changed to type-2 system by the \nfollowing cascade control action \n \n(a) PD \n(b) PI \n \n(c) Either PD or PI \n(d) Neither PD nor PI \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "PD"
+    },
+    {
+      "id": "B",
+      "text": "PI"
+    },
+    {
+      "id": "C",
+      "text": "Either PD or PI"
+    },
+    {
+      "id": "D",
+      "text": "Neither PD nor PI"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

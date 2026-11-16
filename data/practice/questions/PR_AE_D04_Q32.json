@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q32",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 32,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following amplifier has high input \nresistance and high output resistance \n \n(a) Common-source \n \n(b) Common-drain \n \n(c) Common-gate \n \n(d) None of these \nCommon data for Q.33 and 34: \nConsider the cascode circuit shown below. The transistor \nparameter are: \nVTN1 = VTN2 = 1.2 V \nKn1 = Kn2 = 0.8 mA/V2 \n  \n\uf06c1 = \uf06c2 = 0 \n \nGiven the common drain current for both MOSFETs, \nI\n0 4\nA",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q32.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Common-source"
+    },
+    {
+      "id": "B",
+      "text": "Common-drain"
+    },
+    {
+      "id": "C",
+      "text": "Common-gate"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D33_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For question (5) the equation of complex power\nobserved by ZS is _________ VA\n(a)\n417.6 + 626.4j \n(b) 1630 + 765 j\n(c)\n555.56 + 65.55 j (d) 972.3 + 128.5 j",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "417.6 + 626.4j"
+    },
+    {
+      "id": "B",
+      "text": "1630 + 765 j"
+    },
+    {
+      "id": "C",
+      "text": "555.56 + 65.55 j"
+    },
+    {
+      "id": "D",
+      "text": "972.3 + 128.5 j"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

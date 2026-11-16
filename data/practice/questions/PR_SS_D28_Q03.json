@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D28_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Sampling and It\u2019s Type",
+  "dppNumber": 28,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For a signal x(t), the Nyquist rate is 100 kHz. Match\nList I (signal) with List II (Nyquist rate) and choose\nthe correct answer using the codes given below\nList-I \n(Signal) \nList-II \n(Nyquist rate) \nP. \n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51(\ud835\udc61\ud835\udc61)\n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51\n1. \n50 kHz \nQ. \nx\n2\n(t) \n2. \n100 kHz \nR. \nx(t) cos \n(300x103\ud835\udf0b\ud835\udf0bt) \n3. \n200 kHz \nS. \nx(2t) \n4. \n400k Hz \nCode: \nP \nQ \nR \nS \n(a)\n2\n3 \n4 \n3 \n(b) 1\n4 \n2 \n3 \n(c)\n3\n2 \n1 \n4 \n(d) 1\n2 \n4 \n3 \ud835\udf0b\ud835\udf0b",
+  "imageUrl": "assets/practice/ss/dpp_28_sampling_and_it_s_type/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-28 (Sampling and It\u2019s Type)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D05_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of \neq\nR in given figure is ___\u03a9. \n \n1\uf057\n1\uf057\n1\uf057\n1\uf057\n1\uf057\nReq \nReq",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q3.png",
+  "options": null,
+  "correctAnswer": "2.67",
+  "toleranceMin": 2.6433,
+  "toleranceMax": 2.6967,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

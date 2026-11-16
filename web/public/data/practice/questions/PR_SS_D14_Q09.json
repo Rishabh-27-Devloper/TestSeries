@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D14_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "2\n2\n9. \nLet x(t) be a periodic signal with period T0 and cn be its \nFourier series coefficient. Match List I (Continuous \ntime signal) with List II (Fourier series coefficient) and \nchoose the correct answer using the codes given below. \n \nList-I (Continuous Time Signal) \n \nP. \n\uf028\n\uf029\n0\nx t\nt\n\uf02d\n \n \nQ. \n\uf028\n\uf029\nx\nt\n\uf02d\n \n \nR. \n\uf028\uf029\n*\nx\nt \n \nS. \n\uf028\uf029\n0 0\njn\nt\ne\nx t\n\uf077\n \n \nList-II (Fourier Series Coefficient) \n \n1. \nn\nc\uf02d \n \n2. \n*\nn\nc\uf02d \n \n3. \n0\nn n\nc \uf02d\n \n \n4. \n0 0\njn\nt\nn\nc e\uf02d\n\uf077\n \n \nCodes: \n \n \nP \nQ \nR \nS \n \n(a) 1 \n4 \n3 \n2 \n \n(b) 4 \n2 \n1 \n3 \n \n(c) 4 \n1 \n2 \n3 \n \n(d) 4 \n2 \n3 \n1 \n \n \nCommon Data for Q. No 10, 11 and 12 \n \nConsider a continuous time periodic signal x(t) with \nfundamental period T and Fourier series coefficients",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "4"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "4"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

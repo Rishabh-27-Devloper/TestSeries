@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D02_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The signal flow graph of a system is shown below.\nIf the number of individual loops is n1 and number of\npairs of two non-touching loops is n2, then n1 + n2 = ___.\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q3.png",
+  "options": null,
+  "correctAnswer": "15",
+  "toleranceMin": 14.85,
+  "toleranceMax": 15.15,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

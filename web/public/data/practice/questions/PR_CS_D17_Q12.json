@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D17_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The transfer function of a system is given by\nK\nG(s)\n;K\ns(sT\n1)\nT\n\uf031\n=\n\uf03c\n+\n \n \nThe Bode plot of this function is  \n \n(a)",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q12.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

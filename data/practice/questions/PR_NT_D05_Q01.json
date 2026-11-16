@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D05_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of \n0I in given circuit is _____A \n \n \n2A\n4A\n10A\nI0",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q1.png",
+  "options": null,
+  "correctAnswer": "-4",
+  "toleranceMin": -3.96,
+  "toleranceMax": -4.04,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

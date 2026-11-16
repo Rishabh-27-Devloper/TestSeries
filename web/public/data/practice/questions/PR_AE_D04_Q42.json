@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q42",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 42,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If input resistance of circuit is Rm = 200 k, then the \nvalue of resistors R1 and R2 respectively are \n \n(a) 317 k\u03a9, 541 k\u03a9  \n \n(b) 636 k\u03a9, 291 k\u03a9 \n \n(c) 291 k\u03a9, 636 k\u03a9 \n \n(d) 541 k\u03a9, 317 k\u03a9",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q42.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "317 k\u03a9, 541 k\u03a9"
+    },
+    {
+      "id": "B",
+      "text": "636 k\u03a9, 291 k\u03a9"
+    },
+    {
+      "id": "C",
+      "text": "291 k\u03a9, 636 k\u03a9"
+    },
+    {
+      "id": "D",
+      "text": "541 k\u03a9, 317 k\u03a9"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

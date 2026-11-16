@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D06_Q11",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If each resistance value is 1 \uf057 then Rab is, \n \n \n(a) \n1\n6 \uf057 \n(b) 1\n3\uf057 \n \n(c) \n9\n20 \uf057 \n(d) \n8\n15\uf057",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "9"
+    },
+    {
+      "id": "D",
+      "text": "8"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

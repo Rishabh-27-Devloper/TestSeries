@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D13_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 13,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of RL that draw maximum power \nfrom the rest of circuit is ________\uf057",
+  "imageUrl": "assets/practice/nt/dpp_13_network_theorem/q2.png",
+  "options": null,
+  "correctAnswer": "4.22",
+  "toleranceMin": 4.1777999999999995,
+  "toleranceMax": 4.2622,
+  "explanation": "Practice Question from Network Theory DPP-13 (Network Theorem)."
+}

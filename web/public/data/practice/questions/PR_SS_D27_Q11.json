@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D27_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis and Filter Analysis",
+  "dppNumber": 27,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Inverse Fourier transform of sin\ncos\n\uf077\n\uf0e6\n\uf0f6\n\uf077\n\uf0e7\n\uf0f7\n\uf077\n\uf0e8\n\uf0f8\nis \n(a) 1\nt\nt\nrect\n1\nrect\n1\n2\n2\n2\n\uf0e9\n\uf0f9\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf02d\n\uf02b\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0ea\n\uf0fa\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0eb\n\uf0fb\n(b) 1\nt\nt\nrect\n1\nrect\n1\n4\n2\n2\n\uf0e9\n\uf0f9\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf02d\n\uf02b\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0ea\n\uf0fa\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0eb\n\uf0fb\n(c) 1\nt\nt\nrect\n1\nrect\n1\n8\n2\n2\n\uf0e9\n\uf0f9\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf02d\n\uf02b\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0ea\n\uf0fa\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0eb\n\uf0fb\n(d) 1\nt\n1\nt\n1\nrect\nrect\n4\n2\n2\n\uf0e9\n\uf0f9\n\uf02d\n\uf02b\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0ea\n\uf0fa\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0eb\n\uf0fb\nCommon Data for Questions 12, 13 \nThe frequency response H(j\ud835\udf14) of a continuous time filter \nis shown below.",
+  "imageUrl": "assets/practice/ss/dpp_27_system_analysis_and_filter_analysis/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-27 (System Analysis and Filter Analysis)."
+}

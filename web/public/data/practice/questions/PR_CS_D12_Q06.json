@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The forward path transfer function of a ufb system is\n( )\n(\n)(\n)(\n)\nK\nG s\ns s\n4 s\n8 s\n10\n=\n+\n+\n+\n. If a unit ramp is applied\nthe minimum possible steady - state error is_______. \nNAT \n    MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q6.png",
+  "options": null,
+  "correctAnswer": "0.16",
+  "toleranceMin": 0.11,
+  "toleranceMax": 0.21000000000000002,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

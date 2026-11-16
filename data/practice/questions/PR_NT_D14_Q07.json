@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D14_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Thevenin theorem and MPTT",
+  "dppNumber": 14,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The Thevenin\u2019s equivalent circuit across a & b. \na\nb\n3V\n3\u2126\n4\u2126\n5\u2126\nis\n2is",
+  "imageUrl": "assets/practice/nt/dpp_14_thevenin_theorem_and_mptt/q7.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-14 (Thevenin theorem and MPTT)."
+}

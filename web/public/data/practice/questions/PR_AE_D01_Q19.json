@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D01_Q19",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the circuit shown below cutin voltage of diode is \nV\uf067 = 0.7 V. what is the value of v and i ? \n \n \n(a) 2.3 V, 2.65 mA (b) 2.65 V, 2.3 mA \n \n(c) 2 V, 0 mA \n(d) 0 V, 2.3 mA",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.3 V, 2.65 mA"
+    },
+    {
+      "id": "B",
+      "text": "2.65 V, 2.3 mA"
+    },
+    {
+      "id": "C",
+      "text": "2 V, 0 mA"
+    },
+    {
+      "id": "D",
+      "text": "0 V, 2.3 mA"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

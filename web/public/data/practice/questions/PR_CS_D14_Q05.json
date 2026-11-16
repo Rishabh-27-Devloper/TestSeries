@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D14_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the following statements with reference to\nthe root loci of the characteristic equation of unity\nfeedback control system with an open loop transfer\nfunction of\n2\nK\nG(s)H(s)\n,\ns(s\n6)(s\n6s\n45)\n=\n+\n+\n+\n(1) Each locus starts at open loop poles and end at\ninfinity because no finite zeros.\n(2) There are four root locus branches.\n(3) It has angle of departure of 90\u00b0\n(4) It has three real axis break points.\n(5) It has one real and one pair of complex break\npoints.\nSelect the correct answer using the codes given below: \n(a)\nAll\n(b) 1, 2, 4, 5\n(c)\n1, 2, 3, 5\n(d) 1, 2, 3, 4\nMCQ \n         BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "All"
+    },
+    {
+      "id": "B",
+      "text": "1, 2, 4, 5"
+    },
+    {
+      "id": "C",
+      "text": "1, 2, 3, 5"
+    },
+    {
+      "id": "D",
+      "text": "1, 2, 3, 4"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

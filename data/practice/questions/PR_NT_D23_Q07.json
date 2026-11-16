@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D23_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 23,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Calculate voltage across capacitor \n \n(a) 5 e\u2013t \n(b) 5 (1 \u2013 e\u2013t ) \n \n(c) 2.5 e\u2013t \n(d) 2.5 (1 \u2013 e\u2013t )",
+  "imageUrl": "assets/practice/nt/dpp_23_transient_analysis/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 e\u2013t"
+    },
+    {
+      "id": "B",
+      "text": "5"
+    },
+    {
+      "id": "C",
+      "text": "2.5 e\u2013t"
+    },
+    {
+      "id": "D",
+      "text": "2.5"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-23 (Transient Analysis)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D20_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 20,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In connection of two-port in networks, for series\nconnection ____ parameters are added and for parallel\nconnection ____ parameters are added.\n(a)\nZ, g\n(b) Y, Z\n(c)\nZ, Y\n(d) Y, h",
+  "imageUrl": "assets/practice/nt/dpp_20_two_port_network/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Z, g"
+    },
+    {
+      "id": "B",
+      "text": "Y, Z"
+    },
+    {
+      "id": "C",
+      "text": "Z, Y"
+    },
+    {
+      "id": "D",
+      "text": "Y, h"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-20 (Two port network)."
+}

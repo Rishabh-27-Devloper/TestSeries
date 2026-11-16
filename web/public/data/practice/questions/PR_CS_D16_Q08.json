@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The open-loop and closed-loop transfer functions of a\nsystem are respectively given by \n \n1\nK\nG (s)\n;\nj\n1\n= \uf077\uf074+\n (open loop) \n \n2\nc\nK\n(1\nK)\nG (s)\n;\nj\n1\n+\n= \uf077\uf074+\n (closed loop) \n \nThe ratio of the bandwidth of closed loop to open\nloop system is  \n \n(a) K \n(b) (1 + K) \n \n(c) (1 + K)2 \n(d) \n2\nK\n(1\nK)\n+\n \nNAT \n  \n \n    EASY",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "K"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

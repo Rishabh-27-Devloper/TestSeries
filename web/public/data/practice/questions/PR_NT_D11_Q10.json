@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of Vth across 3\uf057 is _____V",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q10.png",
+  "options": null,
+  "correctAnswer": "0.88",
+  "toleranceMin": 0.83,
+  "toleranceMax": 0.93,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

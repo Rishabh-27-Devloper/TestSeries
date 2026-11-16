@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D21_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - III",
+  "dppNumber": 21,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n1. \nThe gain-phase plots of open-loop transfer function \nof four different system are shown below. The \ncorrect sequence of the increasing order of stability \nof these four systems will be \n \n \n(a) D, C, B, A \n(b) A, B, C, D \n \n(c) B, C, A, D \n(d) A, D, B, C \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_21_nyquist_plot_iii/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "D, C, B, A"
+    },
+    {
+      "id": "B",
+      "text": "A, B, C, D"
+    },
+    {
+      "id": "C",
+      "text": "B, C, A, D"
+    },
+    {
+      "id": "D",
+      "text": "A, D, B, C"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-21 (Nyquist Plot - III)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D22_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The one sided Laplace transform of signal e\u20132t u(t + 1) \nis \n1\n\ud835\udc60\ud835\udc60+\ud835\udc4e\ud835\udc4e such that the value of a is__________.",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q3.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

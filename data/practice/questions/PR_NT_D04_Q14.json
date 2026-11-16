@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D04_Q14",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The power consumed by current source is ______ A.\n1V\n\uf031\uf057\n1A",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q14.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

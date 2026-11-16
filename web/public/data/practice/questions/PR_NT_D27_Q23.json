@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q23",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 23,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The power dissipated in the resistor R is :  \n(A) 0.5 W \n(B) 1 W \n(C) \n2 W \n(D) 2 W \nElectrical : 2011",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q23.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5 W"
+    },
+    {
+      "id": "B",
+      "text": "1 W"
+    },
+    {
+      "id": "C",
+      "text": "2 W"
+    },
+    {
+      "id": "D",
+      "text": "2 W"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

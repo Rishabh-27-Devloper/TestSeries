@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D33_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If active & reactive power of circuit is 900w &\n200VAr then power factor is _____\n(The circuit is capacitive in nature)\n(a)\n0.866 lag\n(b) 0.976 lead\n(c)\n0.707 lead\n(d) 0.79 lag",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.866 lag"
+    },
+    {
+      "id": "B",
+      "text": "0.976 lead"
+    },
+    {
+      "id": "C",
+      "text": "0.707 lead"
+    },
+    {
+      "id": "D",
+      "text": "0.79 lag"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

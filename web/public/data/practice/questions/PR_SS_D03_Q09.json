@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D03_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Classification Of Signals",
+  "dppNumber": 3,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the g(t) as shown in figure; \n \n \nPlot for signal g(\u2013t + 1) will be \n \n(a) \n \n(b)\n \n \n(c) \n \n(d)",
+  "imageUrl": "assets/practice/ss/dpp_03_classification_of_signals/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-03 (Classification Of Signals)."
+}

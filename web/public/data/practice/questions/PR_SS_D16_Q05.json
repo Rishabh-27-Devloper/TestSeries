@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_SS_D16_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 16,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The exponential Fourier Series of a real periodic signal \nf(t) is given by : \n \n( )\n0\n0\n0\n0\n3\n3\n2\n2\n2\n2\n.... 3\n3\n\u2212\n\uf077\n\u2212\uf077\n\uf077\n\uf077\n=\n+\n\u2212\n\u2212\n\uf070\n\uf070\n\uf070\n\uf070\nj\nt\nj\nt\nj\nt\nj\nt\nA\nA\nj A\nA\nf t\nj\ne\nj\ne\ne\nj\ne\n \nThe value of an and bn are \n(a)\n0 2A / n\uf070\n(b) 0 \u20132A / n\uf070",
+  "imageUrl": "assets/practice/ss/dpp_16_signal_system/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0 2A / n\uf070"
+    },
+    {
+      "id": "B",
+      "text": "0 \u20132A / n\uf070"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-16 (Signal System)."
+}

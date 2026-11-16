@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q10",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The marginal density fY (y) is \n \n(a) \n2\n2\n2\n5\n5\n[\n] ( )\n4\n\u2212\n\u2212\n\u2212\ny\ny\ny\ne\ne\nu y \n \n(b) \n2\n2\n2\n5\n5\n[\n] ( )\n2\n\u2212\n\u2212\n\u2212\ny\ny\ny\ne\ne\nu y \n \n(c) \n2\n2\n5\n5 [\n] ( )\n4\n\u2212\n\u2212\n\u2212\ny\ny\ny e\ne\nu y \n \n(d) \n2\n2\n5\n5 [\n] ( )\n2\n\u2212\n\u2212\n\u2212\ny\ny\ny e\ne\nu y",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

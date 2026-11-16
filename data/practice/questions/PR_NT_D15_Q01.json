@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D15_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The superposition principle is valid for: \n \n(a) non-linear circuit, dependent sources \n \n(b) non-linear circuit, independent sources \n \n(c) linear circuit \n \n(d) linear circuit, dependent sources",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "non-linear circuit, dependent sources"
+    },
+    {
+      "id": "B",
+      "text": "non-linear circuit, independent sources"
+    },
+    {
+      "id": "C",
+      "text": "linear circuit"
+    },
+    {
+      "id": "D",
+      "text": "linear circuit, dependent sources"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

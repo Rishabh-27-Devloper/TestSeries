@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D06_Q10",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "PRACTICE SHEET 01",
+  "dppNumber": 6,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the maximum data rate that can be supported \non this line to produce a null to null bandwidth of 750 \nkHz, if QPSK signaling with a signal carrier is used? \n \n(a) \n1125 kbps \n(b) 750 kbps \n \n(c) \n500 kbps \n(d) 373 kbps",
+  "imageUrl": "assets/practice/comm/dpp_06_practice_sheet_01/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1125 kbps"
+    },
+    {
+      "id": "B",
+      "text": "750 kbps"
+    },
+    {
+      "id": "C",
+      "text": "500 kbps"
+    },
+    {
+      "id": "D",
+      "text": "373 kbps"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-06 (PRACTICE SHEET 01)."
+}

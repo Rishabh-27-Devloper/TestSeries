@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q14",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Thevenin equivalent voltage at terminals a-b of \nthe circuit is _________V.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q14.png",
+  "options": null,
+  "correctAnswer": "60",
+  "toleranceMin": 59.4,
+  "toleranceMax": 60.6,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

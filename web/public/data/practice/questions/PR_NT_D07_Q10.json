@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The rms value of given wave form is _____ A. \n \n \n6A \n\u20136A\n0\nA\nt\nT\nT/2\nI ( t )",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q10.png",
+  "options": null,
+  "correctAnswer": "4.89",
+  "toleranceMin": 4.8411,
+  "toleranceMax": 4.938899999999999,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

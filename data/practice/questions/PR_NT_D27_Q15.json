@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q15",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the system shown below, ( )\nsin\nx t\nt\n\uf03d\n. In steady \nstate the response ( )\ny t will be   \n \n \n(A) \n1 sin\n4\n2\nt\n\uf070\n\uf0e6\n\uf0f6\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n \n(B) \n1 sin\n4\n2\nt\n\uf070\n\uf0e6\n\uf0f6\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n \n(C) \n1\nsin\n2\nt\ne\nt\n\uf02d\n \n \n(D) sin\ncos\nt\nt\n\uf02d\n \nElectronics : 2006",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 sin"
+    },
+    {
+      "id": "B",
+      "text": "1 sin"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "sin"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

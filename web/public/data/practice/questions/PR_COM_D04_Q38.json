@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D04_Q38",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 38,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A random signal X(t), characterized by the \nautocorrelation function \n2\n( )\na\nX\nR\ne\u2212\n\uf074\n\uf074=\n \n \nWhere a is a constant, applied to the low-pass filter \nshown in figure below.",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q38.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

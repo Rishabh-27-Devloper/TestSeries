@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n12. For a closed loop system to be stable, the Nyquist \nplot of G(s)H(s) must encircle the point (\u20131, j0) as \nmany times as the number of: \n \n(a) zeros of G(s)H(s) in the RHS of s-plane \n \n(b) zeros of G(s)H(s) in the LHS of s-plane \n \n(c) poles of G(s)H(s) in the RHS of s-plane  \n \n(d) poles of G(s)H(s) in the LHS of s-plane \nMCQ \n \nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "zeros of G"
+    },
+    {
+      "id": "B",
+      "text": "zeros of G"
+    },
+    {
+      "id": "C",
+      "text": "poles of G"
+    },
+    {
+      "id": "D",
+      "text": "poles of G"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

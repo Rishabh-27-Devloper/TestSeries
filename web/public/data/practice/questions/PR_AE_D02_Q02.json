@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q02",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "( )\n( )\n2.\nUsing small signal analysis calculate vd (ac). Assume\nVD,ON = 0.7 V.\n(a)\n5.68 mV\n(b) 2.68 mV\n(c)\n8.36 mV\n(d)\n3.26 mV",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5.68 mV"
+    },
+    {
+      "id": "B",
+      "text": "2.68 mV"
+    },
+    {
+      "id": "C",
+      "text": "8.36 mV"
+    },
+    {
+      "id": "D",
+      "text": "3.26 mV"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

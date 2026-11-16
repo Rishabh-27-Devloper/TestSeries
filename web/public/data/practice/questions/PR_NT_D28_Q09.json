@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D28_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 28,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The ZT of circuit is,",
+  "imageUrl": "assets/practice/nt/dpp_28_phasor_diagram/q9.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-28 (Phasor Diagram)."
+}

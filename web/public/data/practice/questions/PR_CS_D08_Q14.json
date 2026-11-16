@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D08_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "p\ng\ng\ng\np\n14. Consider the block diagram representation of a contro\nsystem shown in below figure.  \n \n \nThe closed loop system should be having damping ratio\n\uf078 = 0.8 and a damped natural frequency \uf077d equal to 12\nrad/sec. The value of \np\np\nk\nk\n is ________.",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q14.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

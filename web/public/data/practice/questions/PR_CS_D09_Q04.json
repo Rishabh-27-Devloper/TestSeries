@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D09_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Identify the location of closed loop poles to the\ngiven characteristic equation.\n6\n5\n4\n2\n4\n3\n16\n64\n48\n0\ns\ns\ns\ns\ns\n+\n+\n\u2212\n\u2212\n\u2212\n=\n \n(a) \n(b) \n(c) \n(d)",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

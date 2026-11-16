@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D18_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "EC/EE/IN",
+  "dppNumber": 18,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider two signals x(t) and y(t) shown in figure and \n \ntheir Laplace transform pairs \n \n \uf028\uf029\n\uf028\uf029\n\uf028\uf029\n\uf028\uf029\nand\nx t LX s\ny t L Y s\n\uf073\uf072\n\uf073\uf072\n \n   \n \n \n\uf028\uf029\n2\n4\n1\nIf X\n5 10\n5\n, then Y(s) will be\ns\ns\ns\ne\ne\ns\n\uf02d\n\uf02d\n\uf0e9\n\uf0f9\n\uf03d\n\uf02d\n\uf02b\n\uf0eb\n\uf0fb\n \n \n(a) \n2\n4\n5 10\n5\ns\ns\ne\ne\n\uf02d\n\uf02d\n\uf02d\n\uf02b\n \n \n(b) \n2\n4\n2\n1\n5 10\n5\n2\ns\ns\ne\ne\ns\n\uf02d\n\uf02d\n\uf0e9\n\uf0f9\n\uf02d\n\uf02b\n\uf0eb\n\uf0fb \n \n(c) \n2\n4\n5 10\n5\ns\ns\ns\ne\ne\n\uf02d\n\uf02d\n\uf0e9\n\uf0f9\n\uf02d\n\uf02b\n\uf0eb\n\uf0fb \n \n(d) \n2\n4\n2\n1\n5 10\n5\ns\ns\ne\ne\ns\n\uf02d\n\uf02d\n\uf0e9\n\uf0f9\n\uf02d\n\uf02b\n\uf0eb\n\uf0fb",
+  "imageUrl": "assets/practice/ss/dpp_18_ec_ee_in/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-18 (EC/EE/IN)."
+}

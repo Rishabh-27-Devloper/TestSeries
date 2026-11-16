@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D13_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The\nOLTF \nof \nthe \nsystem \nis \nK(s\n2)(s\n3)\nG(s)H(s)\ns(s\n1)\n+\n+\n=\n+\n. The value of K at s = \u2013\n2.366 is \n(a)\n10\n(b)\n15\n(c)\n22\n(d)\n14\nMCQ \n         BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10"
+    },
+    {
+      "id": "B",
+      "text": "15"
+    },
+    {
+      "id": "C",
+      "text": "22"
+    },
+    {
+      "id": "D",
+      "text": "14"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

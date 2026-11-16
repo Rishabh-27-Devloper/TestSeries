@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D13_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider the following statements regarding root\nloci:\n1.\nAll root loci start from the respective poles of\nG(s)H(s).\n2.\nAll root loci end at the respective zeros of\nG(s)H(s) or go to infinity.\n3.\nThe root loci are symmetrical about the\nimaginary axis of the s-plane.\nOf these statements: \n(a)\n1, 2 and 3 are correct\n(b)\n1 and 2 are correct\n(c)\n2 and 3 are correct",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1, 2 and 3 are correct"
+    },
+    {
+      "id": "B",
+      "text": "1 and 2 are correct"
+    },
+    {
+      "id": "C",
+      "text": "2 and 3 are correct"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

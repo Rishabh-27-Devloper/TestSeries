@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D28_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Sampling and It\u2019s Type",
+  "dppNumber": 28,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "What is the ratio of Nyquist sampling rate of \nsinc2(100\ud835\udf0b\ud835\udf0bt) to the sampling rate of 0.5 sinc2(100\u03c0t)",
+  "imageUrl": "assets/practice/ss/dpp_28_sampling_and_it_s_type/q6.png",
+  "options": null,
+  "correctAnswer": "0.5",
+  "toleranceMin": 0.45,
+  "toleranceMax": 0.55,
+  "explanation": "Practice Question from Signal and System DPP-28 (Sampling and It\u2019s Type)."
+}

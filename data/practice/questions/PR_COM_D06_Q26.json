@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D06_Q26",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "PRACTICE SHEET 01",
+  "dppNumber": 6,
+  "questionNumber": 26,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the overall end-to-end error probability is 10\u20136, then \nthe probability of error for each repeater is  \n \n(a) \n10\u20136 \n(b) 10\u20134 \n(c)\n10\u20137\n(d) 10\u20138",
+  "imageUrl": "assets/practice/comm/dpp_06_practice_sheet_01/q26.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10\u20136"
+    },
+    {
+      "id": "B",
+      "text": "10\u20134"
+    },
+    {
+      "id": "C",
+      "text": "10\u20137"
+    },
+    {
+      "id": "D",
+      "text": "10\u20138"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-06 (PRACTICE SHEET 01)."
+}

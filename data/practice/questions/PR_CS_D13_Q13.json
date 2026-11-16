@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D13_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n \n     EASY \n13. \nThe open loop transfer function of a unity feedback \nconfiguration is given as = \n2\nK(s\n3)\nG(s)\n.\n(s\n8)(s\n12)\n+\n=\n+\n+\n \nThe value of a gain K (> 0) for which (\u20131 + j) lies on \nthe root locus is _________. \n \nNAT\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q13.png",
+  "options": null,
+  "correctAnswer": "38.47",
+  "toleranceMin": 38.0853,
+  "toleranceMax": 38.8547,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D07_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A 4 : 2 Encoder is as given below:",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q6.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

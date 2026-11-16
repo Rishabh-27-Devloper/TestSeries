@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D02_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The loop gains of the SFG shown below are\n(a) \n1\n2\n1\n3\n1\nG G H , G H\n\u2212\n\u2212\n(b) \n1\n2\n2\n3\n2\nG G H , G H\n\u2212\n\u2212\n(c) \n4\n1\n1\n2\n1\nG G ,H H G\n(d) \n1\n2\n1\n3\n2\nG G H , G H\n\u2212\n\u2212\nMCQ \n      BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

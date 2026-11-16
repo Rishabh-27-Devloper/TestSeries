@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D30_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 30,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The magnitude spectrum of the signal\n\ud835\udc65\ud835\udc65[\ud835\udc5b\ud835\udc5b] = cos \u1240\n6\ud835\udf0b\ud835\udf0b\ud835\udf0b\ud835\udf0b\n13 +\n\ud835\udf0b\ud835\udf0b\n6\u1241 is \n(a) \n(b) \n(c) \n(d)",
+  "imageUrl": "assets/practice/ss/dpp_30_signal_system/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-30 (Signal & System)."
+}

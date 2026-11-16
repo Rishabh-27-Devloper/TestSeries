@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D15_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The open loop transfer function of a system is given by\n( )\n( )\n(\n)(\n)\nK\nG s H s\ns s\n1 s\n2\n=\n+\n+\nThe root locus plot of above system is \n(a)\n(b)",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q7.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

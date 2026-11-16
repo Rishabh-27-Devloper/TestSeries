@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \nMEDIUM\n3.\nFor the Bode plot shown in figure, the transfer function\nis\n(a) \n2\n100s\n(s\n4)(s\n10)\n+\n+\n(b) \n2\n100(s\n4)\ns(s\n10)\n+\n+\n(c) \n100\n(s\n4)(s\n10)\n+\n+\n(d) \n2\n100\ns (s\n4)(s\n10)\n+\n+",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "100"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D17_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Properties of CTFS",
+  "dppNumber": 17,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A periodic signal which can be expanded in Fourier \nseries  \n \n(a) is a power signal  \n \n(b) is an energy signal \n \n(c) is neither a power signal or an energy signal \n \n(d) can be either a power signal or an energy signal \ndepending on the nature.",
+  "imageUrl": "assets/practice/ss/dpp_17_properties_of_ctfs/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "is a power signal"
+    },
+    {
+      "id": "B",
+      "text": "is an energy signal"
+    },
+    {
+      "id": "C",
+      "text": "is neither a power signal or an energy signal"
+    },
+    {
+      "id": "D",
+      "text": "can be either a power signal or an energy signal"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-17 (Properties of CTFS)."
+}

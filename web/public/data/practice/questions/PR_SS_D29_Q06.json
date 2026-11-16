@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D29_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 29,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Specify the filter type if its voltage transfer function\nH(s) is given by\n2\n2\n0\n2\n2\n0\n0\nK(s\n)\nH(s)\ns\ns\nQ\n+ \u03c9\n=\n\u03c9\n\uf8eb\n\uf8f6\n+\n+ \u03c9\n\uf8ec\n\uf8f7\n\uf8ed\n\uf8f8\n(a)\nall pass filter\n(b) low pass filter\n(c)\nband pass filter (d) notch filter",
+  "imageUrl": "assets/practice/ss/dpp_29_signal_system/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "all pass filter"
+    },
+    {
+      "id": "B",
+      "text": "low pass filter"
+    },
+    {
+      "id": "C",
+      "text": "band pass filter"
+    },
+    {
+      "id": "D",
+      "text": "notch filter"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-29 (Signal & System)."
+}

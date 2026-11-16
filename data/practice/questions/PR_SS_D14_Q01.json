@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D14_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider the following statements:\nFourier series of any periodic function x(t) can be\nobtained if\n1. \n\uf028\uf029\n0\nT\nx t dt \uf03c\uf0a5\n\uf0f2",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q1.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D09_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part- 2)",
+  "dppNumber": 9,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "[MCQ]\nA sequential circuit as given below:\nValue of fout will be\n(a) Can not be calculated as one block is up-\ncounter and other is down counter\n(b) 5 MHz\n(c) 0.625 MHz\n(d) 3.33 MHz",
+  "imageUrl": "assets/practice/de/dpp_09_sequential_circuits_part_2/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Can not be calculated as one block is up-"
+    },
+    {
+      "id": "B",
+      "text": "5 MHz"
+    },
+    {
+      "id": "C",
+      "text": "0.625 MHz"
+    },
+    {
+      "id": "D",
+      "text": "3.33 MHz"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-09 (Sequential Circuits (Part- 2))."
+}

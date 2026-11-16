@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D31_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 31,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of capacitance C for unity power factor is \n________ \uf06dF.",
+  "imageUrl": "assets/practice/nt/dpp_31_resonance/q10.png",
+  "options": null,
+  "correctAnswer": "68.2",
+  "toleranceMin": 67.518,
+  "toleranceMax": 68.882,
+  "explanation": "Practice Question from Network Theory DPP-31 (Resonance)."
+}

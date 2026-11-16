@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D32_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 32,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If circuit is in resonance find value of its resonating \nfrequency ?",
+  "imageUrl": "assets/practice/nt/dpp_32_resonance/q6.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-32 (Resonance)."
+}

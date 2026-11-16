@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q42",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 42,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the circuit shown below (v1 + v2) = [1 sin(2 \uf070\n10000t) + 1 sin(2 \uf07030000t)] V. The RMS value of \nthe current through the resistor R will be minimum if \nthe value of the capacitor C in microfarad is \n_______ . \n \nInstrumentation : 2016",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q42.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

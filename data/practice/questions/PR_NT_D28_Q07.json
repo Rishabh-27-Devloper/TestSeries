@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D28_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 28,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Using phasors, the value of 3 cos (20t + 10\u00b0) \u2013 5 cos\n(20t \u2013 30) at t = 0 is ______.",
+  "imageUrl": "assets/practice/nt/dpp_28_phasor_diagram/q7.png",
+  "options": null,
+  "correctAnswer": "-1.37",
+  "toleranceMin": -1.3563,
+  "toleranceMax": -1.3837000000000002,
+  "explanation": "Practice Question from Network Theory DPP-28 (Phasor Diagram)."
+}

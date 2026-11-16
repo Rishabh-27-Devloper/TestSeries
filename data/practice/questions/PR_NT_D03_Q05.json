@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_NT_D03_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In given figure, the value i1 + i2 is\n( )\n4A\n(b)\n4A",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q5.png",
+  "options": [
+    {
+      "id": "B",
+      "text": "4A"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

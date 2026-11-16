@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D10_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "LTI System and Its Properties",
+  "dppNumber": 10,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider the impulse response of two LTI system\n(1 2 )\n1\n1\n:\n( )\n( )\nj t\nS\nh t\ne\nu t\n\uf02d\uf02d\n\uf03d\nand \n\uf028\uf029\n\uf028\uf029\n2\n2\n:\ncos2\nt\nS\nh\nt\ne\ntu t\n\uf02d\n\uf03d\nThe stable system is \n(a)\nS1\n(b) S2 \n(c)\nBoth S1 and S2 \n(d) None",
+  "imageUrl": "assets/practice/ss/dpp_10_lti_system_and_its_properties/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "S1"
+    },
+    {
+      "id": "B",
+      "text": "S2"
+    },
+    {
+      "id": "C",
+      "text": "Both S1 and S2"
+    },
+    {
+      "id": "D",
+      "text": "None"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-10 (LTI System and Its Properties)."
+}

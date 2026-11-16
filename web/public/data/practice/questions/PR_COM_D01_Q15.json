@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D01_Q15",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If the modulation index of an AM wave is changed\nfrom 0 to 1, then the transmitted power is increased\nby_______%.\nCommon Data: 16 and 17 \nAn AM modulator operates with the message signal, \nm(t)  = 9 cos 2\uf070t + 7 cos 60\uf070t",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q15.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D12_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The input waveform to yield a constant error is \n \n(a) impulse \n(b) step \n \n(c) ramp \n(d) parabolic \nMCQ \n \n \n                             EASY",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "impulse"
+    },
+    {
+      "id": "B",
+      "text": "step"
+    },
+    {
+      "id": "C",
+      "text": "ramp"
+    },
+    {
+      "id": "D",
+      "text": "parabolic"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

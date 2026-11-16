@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D03_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "We have to implement H.A circuit & full adder \ncircuit together. input lines for H.A. is x, y and input \nlines for full adder is x, y, z then minimum number \nof 2 \u2013 input NAND gate required is ___________.",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q10.png",
+  "options": null,
+  "correctAnswer": "10",
+  "toleranceMin": 9.9,
+  "toleranceMax": 10.1,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D05_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n2.\nThe block diagram of a closed \u2013 loop control system\nis given in figure. What is the type of this system?\n(a)\nZero\n(b) One\n(c)\nTwo\n(d) Three\nMCQ \nEASY \n3",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zero"
+    },
+    {
+      "id": "B",
+      "text": "One"
+    },
+    {
+      "id": "C",
+      "text": "Two"
+    },
+    {
+      "id": "D",
+      "text": "Three"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

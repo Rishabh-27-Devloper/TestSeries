@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D14_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A digital circuit is designed as shown: \n \n \nWhen counter will be at Q2 Q1 Q0 = (101)2, then \ndigital output will be ____(10)10 ___.",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q8.png",
+  "options": null,
+  "correctAnswer": "10",
+  "toleranceMin": 9.9,
+  "toleranceMax": 10.1,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

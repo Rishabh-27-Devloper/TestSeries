@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D06_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of System",
+  "dppNumber": 6,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The system represented by the input-output \nrelationship \n5t\n\u2013\ny(t)\nx( )d , t\n0 is\n\uf0a5\n\uf03d\n\uf074\n\uf074\n\uf03e\n\uf0f2\n \n \n (a) Linear and causal \n \n(b) Linear but not causal  \n \n(c) Causal but not linear \n \n(d) Neither linear not causal",
+  "imageUrl": "assets/practice/ss/dpp_06_types_of_system/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Linear and causal"
+    },
+    {
+      "id": "B",
+      "text": "Linear but not causal"
+    },
+    {
+      "id": "C",
+      "text": "Causal but not linear"
+    },
+    {
+      "id": "D",
+      "text": "Neither linear not causal"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-06 (Types of System)."
+}

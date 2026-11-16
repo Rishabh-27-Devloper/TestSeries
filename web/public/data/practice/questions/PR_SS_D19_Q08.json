@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D19_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & Systems",
+  "dppNumber": 19,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Laplace transform of a continuous time signal x(t)\nis \n2\ns\n1\nX(s)\ns\n5s\n7\n+\n=\n+\n+\nLet the Laplace transform of signal y(t) = x(3t - 4) be  \nks\n2\ns\n3\nY(s)\ne\ns\n15s\n63\n\u2212\n+\n\uf0e6\n\uf0f6\n=\uf0e7\n\uf0f7\n+\n+\n\uf0e8\n\uf0f8\nWhat will be the value of k in the expression?",
+  "imageUrl": "assets/practice/ss/dpp_19_signals_systems/q8.png",
+  "options": null,
+  "correctAnswer": "1.33",
+  "toleranceMin": 1.3167,
+  "toleranceMax": 1.3433000000000002,
+  "explanation": "Practice Question from Signal and System DPP-19 (Signals & Systems)."
+}

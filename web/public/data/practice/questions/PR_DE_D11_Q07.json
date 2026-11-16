@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D11_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part - 4)",
+  "dppNumber": 11,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is true about decoding error\nin asynchronous counter?\n(a)\nIt is removed by using additional signaling\n(b) It can be avoided using strobe signal\n(c)\nDecoding error is present in asynchronous as\nwell as in synchronous counter\n(d) None of these\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_11_sequential_circuits_part_4/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is removed by using additional signaling"
+    },
+    {
+      "id": "B",
+      "text": "It can be avoided using strobe signal"
+    },
+    {
+      "id": "C",
+      "text": "Decoding error is present in asynchronous as"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-11 (Sequential Circuits (Part - 4))."
+}

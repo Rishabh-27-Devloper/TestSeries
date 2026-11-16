@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q15",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The energy stored by 10F capacitor if voltage across \ncapacitor is 6V. \n \n(a) 10 J \n(b) 180 J \n \n(c) 360 J \n(d) \u2013180 J",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 J"
+    },
+    {
+      "id": "B",
+      "text": "180 J"
+    },
+    {
+      "id": "C",
+      "text": "360 J"
+    },
+    {
+      "id": "D",
+      "text": "\u2013180 J"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

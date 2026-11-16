@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The polar plot of \n3\n1\ns (s\n5)(s\n20)\n+\n+\n will intersect \nthe real axis at \n \n(a) \uf077 = 5 rad/sec \n(b) \uf077 = 10 rad/sec \n \n(c) \uf077 = 20 rad/sec \n(d) \uf077 = 100 rad/sec \nMCQ \n \nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf077 = 5 rad/sec"
+    },
+    {
+      "id": "B",
+      "text": "\uf077 = 10 rad/sec"
+    },
+    {
+      "id": "C",
+      "text": "\uf077 = 20 rad/sec"
+    },
+    {
+      "id": "D",
+      "text": "\uf077 = 100 rad/sec"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

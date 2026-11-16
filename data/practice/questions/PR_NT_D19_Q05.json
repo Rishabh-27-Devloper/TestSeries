@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D19_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 19,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If the network is reciprocal then which of the \nfollowing condition must be satisfied \n \n(a) AD \u2013 BC = 0 \n(b)  Y21 = \u2013 Y12 \n \n(c) Z11 = Z21 \n(d) h21 = \u2013h12",
+  "imageUrl": "assets/practice/nt/dpp_19_two_port_network/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "AD \u2013 BC = 0"
+    },
+    {
+      "id": "B",
+      "text": "Y21 = \u2013 Y12"
+    },
+    {
+      "id": "C",
+      "text": "Z11 = Z21"
+    },
+    {
+      "id": "D",
+      "text": "h21 = \u2013h12"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-19 (Two port network)."
+}

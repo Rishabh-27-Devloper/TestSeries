@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D24_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 24,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The given network was in steady state then switch \nopen at t = 0. Find voltage across switch at t = 0 \n(VS(0)) \n \n(a)\n7 V\n(b) 9 V",
+  "imageUrl": "assets/practice/nt/dpp_24_transient_analysis/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "7 V"
+    },
+    {
+      "id": "B",
+      "text": "9 V"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-24 (Transient Analysis)."
+}

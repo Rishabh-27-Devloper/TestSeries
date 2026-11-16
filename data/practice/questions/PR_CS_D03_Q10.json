@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D03_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the signal flow graph shown below, the overall\ngain is__________.\nNAT \n      MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q10.png",
+  "options": null,
+  "correctAnswer": "3",
+  "toleranceMin": 2.9699999999999998,
+  "toleranceMax": 3.0300000000000002,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

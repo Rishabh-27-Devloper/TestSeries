@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D13_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n9.\nConsider the unity feedback system with open loop\ntransfer function is \n2\ns\nk\ns\n4s\n4\n+\n+\n+\n then for k = 0 the\nroot loci diagram starts at (0 < k < \uf0a5) \n(a)\ns = \u20132 and s = \u20132\n(b)\ns = \u20132 + j2\n(c)\ns = \u20131 and s = \u20133",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "s = \u20132 and s = \u20132"
+    },
+    {
+      "id": "B",
+      "text": "s = \u20132 + j2"
+    },
+    {
+      "id": "C",
+      "text": "s = \u20131 and s = \u20133"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

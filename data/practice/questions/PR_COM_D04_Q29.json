@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D04_Q29",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 29,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What will be the value of \n2( )\nZ\nt ? \n \n(a) \n4\n9t \n(b) \n2\n9t \n \n(c) \n4\n2\n3\n6\nt\nt\n+\n \n(d) \n2\n4\n3\n6\nt\nt\n+",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q29.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D02_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of io in the given circuit is _________ Amp.",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q8.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

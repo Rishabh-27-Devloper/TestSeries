@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D17_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The TF of the system is\n(\n)\n1\n1\ns\n+ \uf074. The error in Bode\nplot at one decade above the corner frequency is \n(a) 3 dB\n(b) 1.5 dB\n(c) 0.06 dB\n(d) 0.04 dB\nMCQ \n       EASY",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3 dB"
+    },
+    {
+      "id": "B",
+      "text": "1.5 dB"
+    },
+    {
+      "id": "C",
+      "text": "0.06 dB"
+    },
+    {
+      "id": "D",
+      "text": "0.04 dB"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

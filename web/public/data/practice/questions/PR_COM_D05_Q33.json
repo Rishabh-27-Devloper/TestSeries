@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D05_Q33",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 5,
+  "questionNumber": 33,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the original analog signal had an absolute \nbandwidth of 2.7 kHz, what is the null bandwidth of \nthe PCM signal? \n \n(a)  27 kHz \n(b)  13.5 kHz \n \n(c)  10.4 kHz \n(d)  5.4 kHz \n \nCommon Data For 34 to 36 : \nA multi-level digital communication system sends one of \n16 possible levels over the channel every 0.8 ms.",
+  "imageUrl": "assets/practice/comm/dpp_05_ece_in/q33.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "27 kHz"
+    },
+    {
+      "id": "B",
+      "text": "13.5 kHz"
+    },
+    {
+      "id": "C",
+      "text": "10.4 kHz"
+    },
+    {
+      "id": "D",
+      "text": "5.4 kHz"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-05 (ECE/IN)."
+}

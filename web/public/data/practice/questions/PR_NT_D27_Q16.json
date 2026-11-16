@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q16",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the circuit shown in the figure, the current source \n1A\nI \uf03d\n, the voltage source \n5V\nV \uf03d\n, \n1\n2\n3\n1\nR\nR\nR\n\uf03d\n\uf03d\n\uf03d\uf057 , \n1\n2\n3\n1H\nL\nL\nL\n\uf03d\n\uf03d\n\uf03d\n, \n1\n2\n1F\nC\nC\n\uf03d\n\uf03d\n. The currents (in A) through \n3\nR and the voltage",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q16.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

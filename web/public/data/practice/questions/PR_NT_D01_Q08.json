@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D01_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 1,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is the unilateral element? \n \n(a) Diode \n \n(b) MOSFET \n \n(c) BJT \n \n(d) All of the above",
+  "imageUrl": "assets/practice/nt/dpp_01_basic_concept_of_network/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diode"
+    },
+    {
+      "id": "B",
+      "text": "MOSFET"
+    },
+    {
+      "id": "C",
+      "text": "BJT"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-01 (Basic Concept of Network)."
+}

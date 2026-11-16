@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D03_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nBRAIN TEASER \n9.\nA signal flow graph of a system is shown below.\nConsider the following statements regarding the \nSFG. \n1.\nTwo forward paths and five individual\nloops.\n2.\nThree forward path and three pairs of two\nnon-touching loops.\n3.\nTotal number of individual loops and the\nnumber of pairs of two non \u2013 touching\nloops are reduced by equal number, if\nbranch of SFG having gain G6 is removed.\n4.\nThere are three pair of two non - touching\nloops.\nWhich of the following is correct? \n(a) 1, 3 and 4\n(b) 2, 3 and 4\n(c) 3 and 4 only\n(d) 1 and 3 only",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1, 3 and 4"
+    },
+    {
+      "id": "B",
+      "text": "2, 3 and 4"
+    },
+    {
+      "id": "C",
+      "text": "3 and 4 only"
+    },
+    {
+      "id": "D",
+      "text": "1 and 3 only"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

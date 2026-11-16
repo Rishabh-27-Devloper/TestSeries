@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q29",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 29,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the circuit shown in the figure, the value of node \nvoltage V2 is : \n      \n \n \n(A) 22 + j 2 V \n(B) 2 + j 22 V \n \n(C) 22 \u2013 j 2 V \n(D) 2 \u2013 j 22 V \nElectronics : 2014",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q29.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "22 + j 2 V"
+    },
+    {
+      "id": "B",
+      "text": "2 + j 22 V"
+    },
+    {
+      "id": "C",
+      "text": "22 \u2013 j 2 V"
+    },
+    {
+      "id": "D",
+      "text": "2 \u2013 j 22 V"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n4. \nThe Nyquist plot for a control system is shown \nbelow. The type of the system is \n \n \n(a) 0 \n(b) 1 \n \n(c) 2 \n(d) 3 \nMCQ \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_SS_D13_Q36",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 36,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The impulse response and the excitation function of \na linear time invariant causal system are shown in \nfigures (a) and (b) respectively. The output of the \nsystem at t = 2 sec is equal to",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q36.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "and"
+    },
+    {
+      "id": "B",
+      "text": "respectively. The output of the"
+    }
+  ],
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

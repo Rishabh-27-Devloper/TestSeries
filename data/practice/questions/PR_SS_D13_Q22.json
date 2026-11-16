@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D13_Q22",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 22,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A discrete time system has impulse response \n\uf028\uf029\n\uf028\n\uf029\n2 ,\n1\nn\nh n\na u n\na\n\uf03d\n\uf02b\n\uf03c\n. Which one of the \nfollowing statement is correct? The system is \n \n(a) Stable, causal and memory less \n \n(b) Unstable, causal and has memory \n \n(c) Stable, non-causal and has memory \n \n(d) Unstable, non-causal and memoryless",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q22.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stable, causal and memory less"
+    },
+    {
+      "id": "B",
+      "text": "Unstable, causal and has memory"
+    },
+    {
+      "id": "C",
+      "text": "Stable, non-causal and has memory"
+    },
+    {
+      "id": "D",
+      "text": "Unstable, non-causal and memoryless"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

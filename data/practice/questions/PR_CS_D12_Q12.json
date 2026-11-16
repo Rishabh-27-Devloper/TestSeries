@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The steady state error of a unity feedback linear system\nfor a unit step input is 0.1. The steady state error of the\nsame system, for a pulse input r(t) having a magnitude\nof 10 and a duration of one second, as shown in the\nfigure is __________",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q12.png",
+  "options": null,
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

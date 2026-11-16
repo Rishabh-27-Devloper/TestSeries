@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \nMEDIUM\n5.\nConsider the asymptotic Bode plot of a minimum phase\nlinear system given in figure. The transfer function is\n(a) \n8s(s\n2)\n(s\n5)(s\n10)\n+\n+\n+\n(b) \n4(s\n5)\n(s\n2)(s\n10)\n+\n+\n+\n(c) \n4(s\n2)\ns(s\n5)(s\n10)\n+\n+\n+\n(d) \n100(s\n2)\ns(s\n5)(s\n10)\n+\n+\n+\nMCQ\nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "8s"
+    },
+    {
+      "id": "B",
+      "text": "4"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "100"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

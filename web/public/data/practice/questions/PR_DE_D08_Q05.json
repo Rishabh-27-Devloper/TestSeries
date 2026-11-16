@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D08_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-1)",
+  "dppNumber": 8,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A logic circuit is as given below:\nThen which of the following is true about above \ncircuit? \n(a)\nRace around condition at J = 1, k = 1\n(b) Race around condition at J = 0, k = 0\n(c)\nJ = 1, K = 1 is invalid state input\n(d) None of these\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_08_sequential_circuits_part_1/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Race around condition at J = 1, k = 1"
+    },
+    {
+      "id": "B",
+      "text": "Race around condition at J = 0, k = 0"
+    },
+    {
+      "id": "C",
+      "text": "J = 1, K = 1 is invalid state input"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-08 (Sequential Circuits (Part-1))."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q09",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A message signal with bandwidth 10 kHz is Lower-\nSide Band SSB modulated with carrier frequency\nfc1 = 105 Hz. The resulting signal is then passed through\na Narrow-Band frequency Modulator with carrier\nfrequency fc2 = 109 Hz. What would be the bandwidth\n(in MHz) of the output?",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q9.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

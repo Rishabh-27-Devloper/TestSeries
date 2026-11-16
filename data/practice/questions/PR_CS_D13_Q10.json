@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D13_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-01&02)",
+  "dppNumber": 13,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The OLTF of the system is \nk\nG(s)H(s)\n.\ns(s\n4)(s\n2)\n=\n+\n+\n \n \nThe points on the imaginary axis which satisfy the \nmagnitude and angle criteria are  \n \n(a) \uf0b1 j2 \n(b) \uf0b1 j5 \n \n(c) \uf0b1 j 2.83 \n(d) \uf0b1 j5.83 \n \nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_13_root_locus_part_01_02/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf0b1 j2"
+    },
+    {
+      "id": "B",
+      "text": "\uf0b1 j5"
+    },
+    {
+      "id": "C",
+      "text": "\uf0b1 j 2.83"
+    },
+    {
+      "id": "D",
+      "text": "\uf0b1 j5.83"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-13 (Root Locus-(Part-01&02))."
+}

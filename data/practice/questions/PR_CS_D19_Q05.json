@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D19_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n5. \nThe Nyquist plot of a unity feedback system having \none open loop poles in the right half of s \u2013 plane is \nshown. The closed loop system is (take Nyquist \ncontour in the clockwise direction) \n \n \n(a) Stable \n \n(b) Unstable",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stable"
+    },
+    {
+      "id": "B",
+      "text": "Unstable"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

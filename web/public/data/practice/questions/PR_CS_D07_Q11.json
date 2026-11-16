@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D07_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nEASY \n11. The specifications of a second order system are given\nby percentage overshoot % Mp = 15% and peak time\ntp = 0.25 sec. The poles of the second order system\nare\n(a) s = \u2013 7.58 \uf0b1 j 12.56\n(b) s = \u20135.71 \uf0b1 j 10.47\n(c) s = \u20136.67 \uf0b1 j 9.88\n(d) None of these\nNAT\nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "s = \u2013 7.58 \uf0b1 j 12.56"
+    },
+    {
+      "id": "B",
+      "text": "s = \u20135.71 \uf0b1 j 10.47"
+    },
+    {
+      "id": "C",
+      "text": "s = \u20136.67 \uf0b1 j 9.88"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

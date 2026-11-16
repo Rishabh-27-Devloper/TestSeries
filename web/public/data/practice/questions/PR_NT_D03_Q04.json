@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D03_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of io in given figure is ________A",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q4.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

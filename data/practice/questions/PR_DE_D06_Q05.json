@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D06_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FS, K-map, Decoder, De-Mux",
+  "dppNumber": 6,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A combinational circuit is as given below\nWhen input is A = 0 & B = 1, then LED no.\nthat glows will be_______________.\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_06_fs_k_map_decoder_de_mux/q5.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Digital Electronics DPP-06 (FS, K-map, Decoder, De-Mux)."
+}

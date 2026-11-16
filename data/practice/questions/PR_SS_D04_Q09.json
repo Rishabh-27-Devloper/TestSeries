@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D04_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Let x(t) be a signal, over the range \u20133 \u2264 t \u2264 3\nwith energy E, find the energy of the signal\nt\ny(t)\n4x\n2\n3\n\uf0e6\n\uf0f6\n\uf03d\n\uf02d\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n. \n16\n4",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q9.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D23_Q19",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 19,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A system is described by the differential equation  \n2\n2\n5\n6 ( )\n( )\n+\n+\n=\nd y\ndy\ny t\nx t\ndt\ndt\n \n \nLet x(t) be a rectangular pulse given by \n1\n0\n2\n( )\n0\notherwise\n\uf03c\uf03c\n\uf0ec\n= \uf0ed\n\uf0ee\nt\nx t\n \n \nAssuming that ( )\n0\n0,\n0\n=\n=\ndy\ny\ndt\n at t = 0, the Laplace \ntransform of y(t) is  \n \n(a) \n(\n)(\n)\n2\n2\n3\n\u2212\n+\n+\ns\ne\ns s\ns\n \n \n(b) \n(\n)(\n)\n2\n1\n2\n3\n\u2212\n\u2212\n+\n+\ns\ne\ns s\ns\n \n \n(c) (\n)(\n)\n2\n2\n3\n\u2212\n+\n+\ns\ne\ns\ns\n \n \n(d) (\n)(\n)\n2\n1\n2\n3\n\u2212\n\u2212\n+\n+\ns\ne\ns\ns\n \nK",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q19.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

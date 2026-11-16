@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D22_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Q\n1. \nOpen loop transfer function of a unity feedback \nsystem is G(s) = K/s(s+5). The value of gain K that \nwill result in a phase margin of 50 degrees is \napproximately \n \n(a) 15 \n(b) 20 \n \n(c) 27.3 \n(d) 37.3 \n \nMCQ   \n \n \n       \n EASY",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "15"
+    },
+    {
+      "id": "B",
+      "text": "20"
+    },
+    {
+      "id": "C",
+      "text": "27.3"
+    },
+    {
+      "id": "D",
+      "text": "37.3"
+    }
+  ],
+  "correctAnswer": "155",
+  "toleranceMin": 153.45,
+  "toleranceMax": 156.55,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

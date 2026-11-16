@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_SS_D05_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 5,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider a signal g(t) defined as\nt,\n0\nt\n1\ng(t)\n.\n0,\nelsewhere\n\uf0a3\uf03c\n\uf0ec\n\uf03d\uf0ed\n\uf0ee\n \nThe odd part of g(t) is \n (a) \n(b)",
+  "imageUrl": "assets/practice/ss/dpp_05_signal_and_systems/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-05 (Signal and Systems)."
+}

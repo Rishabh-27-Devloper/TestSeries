@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D20_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System analysis using Laplace Transform",
+  "dppNumber": 20,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The RSS Laplace transform of a signal x(t) is \n \n \n \nThe signal x(t) is \n where a = ________. \n2\n1\nX(s)\n(2s\n1)\n4\n\uf03d\n\uf02b\n\uf02b\nat\ne\nsin t u(t),\n4\n\uf02d",
+  "imageUrl": "assets/practice/ss/dpp_20_system_analysis_using_laplace_transfor/q9.png",
+  "options": null,
+  "correctAnswer": "0.5",
+  "toleranceMin": 0.45,
+  "toleranceMax": 0.55,
+  "explanation": "Practice Question from Signal and System DPP-20 (System analysis using Laplace Transform)."
+}

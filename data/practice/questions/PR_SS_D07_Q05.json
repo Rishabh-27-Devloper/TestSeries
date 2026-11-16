@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D07_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of System",
+  "dppNumber": 7,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For an input x(t), the output y(t) of a modulator is\ngiven by y(t) = x(t) cos 2\uf070f t where f is the carrier",
+  "imageUrl": "assets/practice/ss/dpp_07_types_of_system/q5.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-07 (Types of System)."
+}

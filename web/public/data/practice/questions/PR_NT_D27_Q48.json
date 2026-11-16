@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q48",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 48,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The voltage across the circuit in the figure, and the \ncurrent through it, are given by the following \nexpressions : \n \n \n0\n( )\n5 10cos(\n60 )V\nv t\nt\n\uf03d\uf02d\n\uf077\uf02b\n \n \n \n( )\n5\ncos(\n)A\ni t\nX\nt\n\uf03d\n\uf02b\n\uf077\n \n \nwhere \n100\nradians/s\n\uf077\uf03d\n\uf070\n. If the average power \ndelivered to the circuit is zero, then the value of X \n(in Ampere) is _____(up to 2 decimal places). \n \nElectrical : 2018",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q48.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

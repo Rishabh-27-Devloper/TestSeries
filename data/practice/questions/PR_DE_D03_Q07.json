@@ -1,0 +1,37 @@
+{
+  "questionId": "PR_DE_D03_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MSQ",
+  "questionText": "A logical circuit is implemented as : \n \n \nOutput y is  \n \n(a) \u20181\u2019 when majority of the inputs A, B, C are at \n\u20181\u2019 \n \n(b) \u20180\u2019 when minority of the inputs A, B, C are at \n\u20181\u2019 \n \n(c) \u20181\u2019 when minority of the inputs A, B, C are at \n\u20181\u2019 \n \n(d) \u20180\u2019 when majority of the inputs A, B, C are at \n\u20181\u2019  \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20181\u2019 when majority of the inputs A, B, C are at"
+    },
+    {
+      "id": "B",
+      "text": "\u20180\u2019 when minority of the inputs A, B, C are at"
+    },
+    {
+      "id": "C",
+      "text": "\u20181\u2019 when minority of the inputs A, B, C are at"
+    },
+    {
+      "id": "D",
+      "text": "\u20180\u2019 when majority of the inputs A, B, C are at"
+    }
+  ],
+  "correctAnswer": [
+    "A",
+    "B"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

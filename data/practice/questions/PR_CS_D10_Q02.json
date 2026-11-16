@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D10_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n2.\nConsider the following statements regarding sample\nRouth tabular form given below.\ns7 \n\u2013 \ns6 \n+ \ns5 \n+\n0\n0 \ns4 \n+ \ns3 \n+\n0\n0 \ns2 \n+ \ns1 \n\u2013 \ns0 \n+ \n1.\nIt has 6th order auxiliary equation\n2.\nIt has 7 poles, in which 3 poles are on right half\nof s-plane, 2 poles on j\u03c9 - axis & 2 poles are\non LHS-plane.",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q2.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

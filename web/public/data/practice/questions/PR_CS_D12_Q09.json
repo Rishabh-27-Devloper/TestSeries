@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the system shown below, r(t)=1 + 2t for t > 0.\nThe steady state error e (t) is equal to_____. \nCommon Data for Que. 10 & 11 \nBlock diagram of a position control system is shown\nbelow",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q9.png",
+  "options": null,
+  "correctAnswer": "0.04",
+  "toleranceMin": -0.010000000000000002,
+  "toleranceMax": 0.09,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

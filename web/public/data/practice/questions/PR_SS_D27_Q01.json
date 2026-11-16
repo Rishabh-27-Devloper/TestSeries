@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D27_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis and Filter Analysis",
+  "dppNumber": 27,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If x(t) \n  FT  \n\u2194   X(j \u03c9)\n  FT  \n\u2194 \nbe a CTFT pair, then the \nFourier transform of signal (t + 1) x(t + 1) will be \n(a) ej\ud835\udf14X(j\u03c9)\n(b) \nj dX(j )\nje\nd\n\uf077\n\uf077\n\uf077\n(c) \ndX(j )\nj\nd\n\uf077\n\uf077\n(d) jej\ud835\udf14 X(j\u03c9)\nFT",
+  "imageUrl": "assets/practice/ss/dpp_27_system_analysis_and_filter_analysis/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "ej\ud835\udf14X"
+    },
+    {
+      "id": "B",
+      "text": "j dX"
+    },
+    {
+      "id": "C",
+      "text": "dX"
+    },
+    {
+      "id": "D",
+      "text": "jej\ud835\udf14 X"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-27 (System Analysis and Filter Analysis)."
+}

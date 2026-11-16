@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q17",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider two DT signals given as x[n] = (0.8)nu[n] and \nh[n] = (0.4)nu[n]. If y[n] = x[n] * h[n], then what will \nbe the value of sample y[1] ?",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q17.png",
+  "options": null,
+  "correctAnswer": "1.2",
+  "toleranceMin": 1.188,
+  "toleranceMax": 1.212,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

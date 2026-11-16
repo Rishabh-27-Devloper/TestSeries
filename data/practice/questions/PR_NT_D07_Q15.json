@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q15",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The rms value of x (t) is _____ . \n0\nt\nx (t)\n2\n\u2013 2",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q15.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

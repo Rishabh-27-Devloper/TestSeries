@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q04",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If I1 = 1.2 mA, the value of VB is\n (a)\n731.1 mV\n(b) 0 mV\n(c)\n730.6 mV\n(d) 1.5 mV",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "731.1 mV"
+    },
+    {
+      "id": "B",
+      "text": "0 mV"
+    },
+    {
+      "id": "C",
+      "text": "730.6 mV"
+    },
+    {
+      "id": "D",
+      "text": "1.5 mV"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

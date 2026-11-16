@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_DE_D14_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In a 4-bit counter type ADC, applied input analog\nvoltage is VAN = 2.35 volt. If resolution of DAC used\nin designing of counter type ADC is 0.4 Volt, then\ndigital output corresponding to applied analog input\nis\n(a)\n(0110)2 \n(b) (1100)2\n(c)\n(0101)2 \n(d) (1010)2\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q2.png",
+  "options": [
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

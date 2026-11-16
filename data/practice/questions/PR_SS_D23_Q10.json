@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D23_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A differential equation for a LTI system with \nspecified input and initial conditions is  \n( )\n3\n2\n3\n2\n( )\n( )\n( )\n4\n3\n+\n+\n=\nd y t\nd y t\ndy t\nx t\ndt\ndt\ndt\n \n \nAll initial condition are zero, \n( )\n2\n10 \u2212\n=\nt\nx t\ne\n The \nsystem output is  \n \n(a) \n2\n3\n5\n5\n5\n5\n( )\n3\n3\n\u2212\n\u2212\n\u2212\n\uf0e9\n\uf0f9\n+\n\u2212\n+\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\nt\nt\nt\ne\ne\ne\nu t \n \n(b) \n2\n3\n5\n5\n5\n5\n( )\n3\n3\n\u2212\n\u2212\n\u2212\n\uf0e9\n\uf0f9\n\u2212\n+\n\u2212\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\nt\nt\nt\ne\ne\ne\nu t \n \n(c) \n5\n5\n( )\n5 (\n1)\n5 (\n2)\n(\n3)\n3\n3\n\u2212\n\u2212\n+\n\u2212\n+\n\u2212\nu t\nu t\nu t\nu t\n \n(d)\n5\n5\n( )\n5 (\n1)\n5 (\n2)\n(\n3)\nt\nt\nt\nt",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "5"
+    },
+    {
+      "id": "D",
+      "text": "5"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

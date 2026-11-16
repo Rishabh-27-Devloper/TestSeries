@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D15_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Superposition theorem is valid for \n \n(a) Linear circuits \n \n(b) Non linear circuits \n \n(c) Both linear and non linear circuits \n \n(d) Circuits with active elements",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Linear circuits"
+    },
+    {
+      "id": "B",
+      "text": "Non linear circuits"
+    },
+    {
+      "id": "C",
+      "text": "Both linear and non linear circuits"
+    },
+    {
+      "id": "D",
+      "text": "Circuits with active elements"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

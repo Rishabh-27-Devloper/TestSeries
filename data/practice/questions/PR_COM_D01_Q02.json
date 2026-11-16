@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D01_Q02",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For an AM signal, the bandwidth is 10 kHz and the\nhighest frequency component present is 705 kHz. The\ncarrier frequency used for this AM signal is ________\nkHz.",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q2.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

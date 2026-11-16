@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_COM_D07_Q15",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Noise In Communication",
+  "dppNumber": 7,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The amplifier\u2019s input effective noise temperature Te \nis  \n \n(a) 812 K \n(b) 600 K",
+  "imageUrl": "assets/practice/comm/dpp_07_noise_in_communication/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "812 K"
+    },
+    {
+      "id": "B",
+      "text": "600 K"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-07 (Noise In Communication)."
+}

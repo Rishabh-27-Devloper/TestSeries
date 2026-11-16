@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_NT_D06_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The equivalent of given circuit is \n \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d)",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D20_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n2. \nThe transfer function of an open-loop system is  \n \ns\n2\nG(s)H(s)\n(s\n1)(s\n1)\n+\n+\n\u2212\n \n \nThe Nyquist plot will be of the form \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d)",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

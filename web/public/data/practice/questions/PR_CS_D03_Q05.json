@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D03_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n5.\nA system block diagram is shown in the given figure.\nThe overall transfer function of the system is\n1\n2\n3\n1\n2\n3\n1\n3\n2\n3\n2\n3\nG G G\nC\nR\n1 G G G H\nG H\nG G H\n= +\n+\n\u2212\nThe value of \u2018X\u2019 would be equal \n(a) H3\n(b) G1H3\n(c) G2H3\n(d) G3H3\nMCQ \n      MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "H3"
+    },
+    {
+      "id": "B",
+      "text": "G1H3"
+    },
+    {
+      "id": "C",
+      "text": "G2H3"
+    },
+    {
+      "id": "D",
+      "text": "G3H3"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

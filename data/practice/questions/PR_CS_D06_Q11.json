@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D06_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A second order system with no zeros has its poles \nlocated at \u20133+j4 and \u20133\u2013j4 in the s-plane. The \nundamped natural frequency and the damping ratio of \nthe system are respectively \n \n(a) 5 rad/s and 0.60 \n(b) 3rad/ s and 0.60 \n \n(c) 5 rad /s and 0.80 \n(d) 3 rad / s and 0.80",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 rad/s and 0.60"
+    },
+    {
+      "id": "B",
+      "text": "3rad/ s and 0.60"
+    },
+    {
+      "id": "C",
+      "text": "5 rad /s and 0.80"
+    },
+    {
+      "id": "D",
+      "text": "3 rad / s and 0.80"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

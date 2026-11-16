@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D29_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 29,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A continuous-time signal x(t) is ideally sampledusing\na unit impulse train with a sampling interval of\nTsseconds. The sampled signal\n(a)\na period version of x(t) with period of T, seconds\n(b) a sequence of samples of x(t), the kth\nsamplesbeing equal to x(kTs) and located at t =\nkTs,\n(c)\nA sequence of impulses, the kth impulse having a\nstrength of x(kTs) and located at t = kTs\n(d) None of the above",
+  "imageUrl": "assets/practice/ss/dpp_29_signal_system/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "a period version of x"
+    },
+    {
+      "id": "B",
+      "text": "a sequence of samples of x"
+    },
+    {
+      "id": "C",
+      "text": "A sequence of impulses, the kth impulse having a"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-29 (Signal & System)."
+}

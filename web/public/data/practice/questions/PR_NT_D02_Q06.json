@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D02_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The voltage driop across a 1.1 kW heater that produce \na current of 10 A. \n \n(a) 10 kV \n(b) 20 kV",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 kV"
+    },
+    {
+      "id": "B",
+      "text": "20 kV"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

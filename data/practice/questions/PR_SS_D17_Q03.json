@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D17_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Properties of CTFS",
+  "dppNumber": 17,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the signal x(t), the power of x(t) till its second \nharmonic is ___________ W.",
+  "imageUrl": "assets/practice/ss/dpp_17_properties_of_ctfs/q3.png",
+  "options": null,
+  "correctAnswer": "126.16",
+  "toleranceMin": 124.8984,
+  "toleranceMax": 127.4216,
+  "explanation": "Practice Question from Signal and System DPP-17 (Properties of CTFS)."
+}

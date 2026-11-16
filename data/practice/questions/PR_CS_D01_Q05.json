@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the system shown below transfer function C(s) / \nR(s) is  \n \n \n(a) \n3\n1\n2\n2\n3\n1\n2\n2\n1\u2212\n\u2212\n\u2212\nG\nH G\nH G\nG G H \n \n(b) \n3\n1\n2\n1\n2\n2\n3\n1\n2\n2\n1\n+\n+\n+\n+\nG\nG G\nH G\nH G\nG G H \n \n(c) \n3\n1\n2\n2\n3\n1\n2\n2\n1+\n+\n+\nG\nH G\nH G\nG G H \n \n(d) \n3\n1\n2\n2\n3\n1\n2\n2\n1\u2212\n\u2212\n\u2212\nG\nH G\nH G\nG G H \nMCQ \n \n      BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3"
+    },
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

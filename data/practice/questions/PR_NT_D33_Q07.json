@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D33_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For question (5), the complex power supplied by\nsource is _______ VA.",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q7.png",
+  "options": null,
+  "correctAnswer": "1589.5 \u222023.19",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

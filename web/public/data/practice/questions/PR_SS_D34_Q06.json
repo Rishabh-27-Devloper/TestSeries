@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D34_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 34,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The time signal corresponding to \n2\n1\n1\n,| z |\nis\n1\n2\n1\nz\n4\n\uf02d\n\uf03e\n\uf02d\n  \n(a) \nn\n2 ,\nn even and n\n0\n0,\notherwise\n\uf02d\n\uf0ec\n\uf0b3\n\uf0ed\n\uf0ee\n \n(b) \n2n\n1\nu[n]\n4\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n  \n(c) \nn\n2 ,\nn odd, n\n0\n0,\nn even\n\uf02d\n\uf0ec\n\uf03e\n\uf0ed\n\uf0ee\n \n(d) \nn\n2\nu[n]\n\uf02d",
+  "imageUrl": "assets/practice/ss/dpp_34_signal_system/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "n"
+    },
+    {
+      "id": "B",
+      "text": "2n"
+    },
+    {
+      "id": "C",
+      "text": "n"
+    },
+    {
+      "id": "D",
+      "text": "n"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-34 (Signal & System)."
+}

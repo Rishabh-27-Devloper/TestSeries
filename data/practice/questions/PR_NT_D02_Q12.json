@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q12",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If power deliver by the element is \u201316 watt then the \nabsorb power by the same element is \n \n(a) \u2013 32 W \n(b) +16 W \n \n(c) +32 W \n(d) \u201348 W",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u2013 32 W"
+    },
+    {
+      "id": "B",
+      "text": "+16 W"
+    },
+    {
+      "id": "C",
+      "text": "+32 W"
+    },
+    {
+      "id": "D",
+      "text": "\u201348 W"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

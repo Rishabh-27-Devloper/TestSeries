@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For a unity feedback system with open-loop transfer\nfunction \n25\n,\ns(s\n6)\n+\n the resonant peak at output Mm\nand the corresponding resonant frequency \uf077m, are\nrespectively \n \n(a) 2.6 and 2.67 r/s \n \n(b) 1.04 and 2.67 r/s \n \n(c) 2.6 and 4.8 r/s \n \n(d) 1.04 and 4.8 r/s \nMCQ \n  \n \n    EASY",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.6 and 2.67 r/s"
+    },
+    {
+      "id": "B",
+      "text": "1.04 and 2.67 r/s"
+    },
+    {
+      "id": "C",
+      "text": "2.6 and 4.8 r/s"
+    },
+    {
+      "id": "D",
+      "text": "1.04 and 4.8 r/s"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

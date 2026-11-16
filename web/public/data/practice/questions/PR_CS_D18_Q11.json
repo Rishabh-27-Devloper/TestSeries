@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \n \n \n \n    EASY \n11. The Bode magnitude plot of a minimum phase system is\ngiven as: \n \n \nStatement I: The steady state error to a ramp input is\ninfinite. \n \nStatement II: The velocity error coefficient is zero. \n(a) Both statements are correct \n(b) Both statements are incorrect \n(c) Statement I is correct, statement II is incorrect \n(d) Statement I is incorrect, statement II is correct \nMCQ\nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both statements are correct"
+    },
+    {
+      "id": "B",
+      "text": "Both statements are incorrect"
+    },
+    {
+      "id": "C",
+      "text": "Statement I is correct, statement II is incorrect"
+    },
+    {
+      "id": "D",
+      "text": "Statement I is incorrect, statement II is correct"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

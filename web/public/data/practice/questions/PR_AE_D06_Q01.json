@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q01",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A negative feedback amplifier has a closed loop gain\nof Af = 80 and an open loop gain of A = 105. If the open\nloop gain decreases by 20% then the percent change\nin the closed loop gain and new value of close loop\ngain Af will be respectively\n(a)\n0.016%, 80.01\n(b)\n\u20130.016%, 79.99\n(c)\n0.004%, 79.68\n(d)\n\u20130.004, 80.32",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.016%, 80.01"
+    },
+    {
+      "id": "B",
+      "text": "\u20130.016%, 79.99"
+    },
+    {
+      "id": "C",
+      "text": "0.004%, 79.68"
+    },
+    {
+      "id": "D",
+      "text": "\u20130.004, 80.32"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

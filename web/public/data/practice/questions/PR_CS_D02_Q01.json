@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D02_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The signal flow graph of a system is shown in the\nfigure. The transfer function C(s)\nR (s) of the system \nis \n(a) \n2\n6\ns\n29s\n6\n+\n+\n(b) \n2\n6s\ns\n29s\n6\n+\n+\n(c) \n2\ns(s\n2)\ns\n29s\n6\n+\n+\n+\n(d) \n2\ns(s\n27)\ns\n29s\n6\n+\n+\n+\nMCQ \nHARD",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

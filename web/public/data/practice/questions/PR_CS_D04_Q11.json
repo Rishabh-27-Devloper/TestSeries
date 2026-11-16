@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D04_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n11. A continuous time LTI system is described by\n( )\n( )\n( )\n( )\n( )\n2\n2\nd y t\ndy t\ndx t\n4\n3y t\n2\n4x t\ndt\ndt\ndt\n+\n+\n=\n+\n \nAssuming zero initial conditions, the response y (t) \nof the above system for the input x(t) = e\u20132t u(t) is \ngiven by \n(a) (et\ne3t) u(t)\n(b) (e\u2013t\ne\u20133t) u (t)",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

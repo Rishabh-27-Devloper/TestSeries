@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q12",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The average value of v(t) is _____ .",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q12.png",
+  "options": null,
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

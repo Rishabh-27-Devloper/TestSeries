@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D08_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Step response of second order underdamped system are\nshown below\nThe poles location in s \u2013 Plane for all three system is\ngiven by \n(a)\n(b)\n(c)",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q4.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

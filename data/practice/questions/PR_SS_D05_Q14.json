@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D05_Q14",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 5,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Let P be linearity, Q be time-invariance, R be\ncausality and S be stability. A discrete-time system\nhas the input-output relationship,\nx(n)\nn\n1\nx\n0\nn\n0\nx(n\n1)\nn\n1\n\uf0b3\n\uf0ec\n\uf0fc\n\uf0ef\n\uf0ef\n\uf03d\n\uf03d\n\uf0ed\n\uf0fd\n\uf0ef\n\uf0ef\n\uf02b\n\uf0a3\uf02d\n\uf0ee\n\uf0fe\nwhere x(n) is the input and y(n) is the output. \nThe above system has the properties. \n (a)\nP, S but not Q, R (b) P, Q, S but not R\n(c)\nP, Q, R, S\n(d) Q, R, S but not P",
+  "imageUrl": "assets/practice/ss/dpp_05_signal_and_systems/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "P, S but not Q, R"
+    },
+    {
+      "id": "B",
+      "text": "P, Q, S but not R"
+    },
+    {
+      "id": "C",
+      "text": "P, Q, R, S"
+    },
+    {
+      "id": "D",
+      "text": "Q, R, S but not P"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-05 (Signal and Systems)."
+}

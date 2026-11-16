@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D02_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For a given element, the current is entering through its \npositive terminal \n \n \ni = 5 cos (60\uf070t) Amp \n \nV = 3i \n \nThen power delivered to this element at t = 3 m sec \nis_________",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q4.png",
+  "options": null,
+  "correctAnswer": "53.48 W",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D02_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-2)",
+  "dppNumber": 2,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A logic circuit is as given below:\nWhich of the following is true? \n(a) Output y is AB if control input = 0\n(b) Output y is A\nB\n+\n if control input = 1\n(c) Output y is A B\n\uf0d7\n if control input = 0\n(d) Output y is A B\n\uf0d7\n if control input = 1",
+  "imageUrl": "assets/practice/de/dpp_02_boolean_theorems_and_basics_of_gates_p/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Output y is AB if control input = 0"
+    },
+    {
+      "id": "B",
+      "text": "Output y is A"
+    },
+    {
+      "id": "C",
+      "text": "Output y is A B"
+    },
+    {
+      "id": "D",
+      "text": "Output y is A B"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-02 (Boolean Theorems and Basics of Gates (Part-2))."
+}

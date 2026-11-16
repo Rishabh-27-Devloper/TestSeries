@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D20_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider a ufb system whose open-loop transfer \nfunction is \n2\nK\nG(s)\ns(s\n2s\n2)\n=\n+\n+\n \n \nThe Nyquist plot for this system is  \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d)",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

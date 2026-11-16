@@ -1,0 +1,37 @@
+{
+  "questionId": "PR_SS_D13_Q30",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 30,
+  "marks": 2,
+  "type": "MSQ",
+  "questionText": "Given \n[ ]\n1,2,2 , [ ]\nh n\nf n\n\uf0ad\n\uf0e9\n\uf0f9\n\uf03d\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n is \nobtained \nby \nconvolving h[n] with itself. And g[n] by correlating \nh[n] with itself. Which one of the following \nstatement is/are true?  \n \n [MSQ] \n \n(a) f[n] is causal and its maximum value is 9 \n \n(b) f[n] is non-causal with maximum value is 8 \n \n(c) f[n] is causal and its maximum value is 9 \n \n(d) f[n] is non-causal with maximum value is 9",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q30.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "f[n] is causal and its maximum value is 9"
+    },
+    {
+      "id": "B",
+      "text": "f[n] is non-causal with maximum value is 8"
+    },
+    {
+      "id": "C",
+      "text": "f[n] is causal and its maximum value is 9"
+    },
+    {
+      "id": "D",
+      "text": "f[n] is non-causal with maximum value is 9"
+    }
+  ],
+  "correctAnswer": [
+    "B",
+    "D"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

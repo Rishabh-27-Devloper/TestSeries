@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D16_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 16,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The complex Fourier coefficient cn of the full wave \nrectified sine function shown in figure below is  \n \n \n \n(a) \n(\n)\n2\n4\n1 4\n\uf070\u2212n\n \n(b) \n(\n)\n2\n2\n1 4\n\uf070\u2212n\n \n \n(c) \n(\n)\n2\n2\n1\n\uf070\n\u2212n\n \n(d) \n( )\n2 2\n4\n1\n\u2212\n\uf070\nn\nn",
+  "imageUrl": "assets/practice/ss/dpp_16_signal_system/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-16 (Signal System)."
+}

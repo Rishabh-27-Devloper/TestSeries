@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D04_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In a 4-bit parallel adder, sum delay and carry delay\nof each full adder is ts = 1 nsec and tc = 5 nsec\nrespectively. No. of additions performed per sec by",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q6.png",
+  "options": null,
+  "correctAnswer": "2.5",
+  "toleranceMin": 2.475,
+  "toleranceMax": 2.525,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

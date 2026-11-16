@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D21_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis Using Laplace Transform",
+  "dppNumber": 21,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Given the relationship between the input u(t) and the \noutput y(t) to be\nt\n3(t\n)\n0\ny(t)\n(2\nt\n)e\nu( )d ,\n\u2212\n\u2212\u03c4\n=\n+ \u2212\u03c4\n\u03c4\n\u03c4\n\u222b\n \n \nThe transfer function Y(s)/U(s) is \n(a) \n2s\n2e\ns\n3\n\u2212\n+\n \n(b) \n2\ns\n2\n(s\n3)\n+\n+\n \n(c) \n2s\n5\ns\n3\n+\n+\n \n(d) \n2\n2s\n7\n(s\n3)\n+\n+",
+  "imageUrl": "assets/practice/ss/dpp_21_system_analysis_using_laplace_transfor/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2s"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2s"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-21 (System Analysis Using Laplace Transform)."
+}

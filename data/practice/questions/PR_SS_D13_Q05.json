@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D13_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider two LTI systems \n \n\uf028\uf029\n\uf028\uf029\n\uf028\n\uf029\n1\n2\n:\n1\n:\n2\n1\n2\nn\nS\ny n\nx\nS\ny n\nx\nn\n\uf0e6\n\uf0f6\n\uf03d\n\uf02d\n\uf03d\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n \nChoose the correct option \n \n(a) S1 is invertible with inverse \uf028\n\uf029\n2\n1\nx\nn \uf02b\n and  \n \n \nS2 is invertible with inverse \n1\n2\nn\nx\n\uf02b\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n \n(b) S1 is non-invertible and S2 in invertible with \ninverse \n1\n2\nn\nx\uf0e6\n\uf0f6\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n \n(c) S1 is invertible with inverse \uf028\n\uf029\n2\n2\nx\nn \uf02b\n and S2 \nis non-invertible \n \n(d) None of the above",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "S1 is invertible with inverse \uf028"
+    },
+    {
+      "id": "B",
+      "text": "S1 is non-invertible and S2 in invertible with"
+    },
+    {
+      "id": "C",
+      "text": "S1 is invertible with inverse \uf028"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

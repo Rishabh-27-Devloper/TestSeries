@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D04_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A K-map is as given below : \n \n \nThen minimized solution of K-map is : \n \n(a) AC\nAD\nCD\n+\n+\n \n \n(b) AC\nCD\n+\n \n \n(c) AB\nCD\nAC\n+\n+\n \n \n(d)  None of these \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "AC"
+    },
+    {
+      "id": "B",
+      "text": "AC"
+    },
+    {
+      "id": "C",
+      "text": "AB"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

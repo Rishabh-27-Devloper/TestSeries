@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "An electric iron draws 100 A current at 240 V. The \nresistance of electric iron is____________. \n \n(a) 2.4 \uf057 \n(b) 4.8 \uf057 \n \n(c) 1.2 \uf057 \n(d) 9.6 \uf057",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.4 \uf057"
+    },
+    {
+      "id": "B",
+      "text": "4.8 \uf057"
+    },
+    {
+      "id": "C",
+      "text": "1.2 \uf057"
+    },
+    {
+      "id": "D",
+      "text": "9.6 \uf057"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

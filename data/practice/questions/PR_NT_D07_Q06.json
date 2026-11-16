@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "By using nodal analysis, the value of I0 is _____V. \n \n \n \n3I0\n\u2013 +\n60 V\n\uf038\uf057\n\uf032\uf057\nI0\n\uf031\uf030\uf057\n\uf034\uf057",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q6.png",
+  "options": null,
+  "correctAnswer": "1.73",
+  "toleranceMin": 1.7127,
+  "toleranceMax": 1.7473,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D28_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 28,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Find voltage across capacitor",
+  "imageUrl": "assets/practice/nt/dpp_28_phasor_diagram/q3.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-28 (Phasor Diagram)."
+}

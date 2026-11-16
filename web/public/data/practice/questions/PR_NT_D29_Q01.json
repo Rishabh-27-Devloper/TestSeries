@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D29_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 29,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If | | |  |      and |  | = 12 A \n \nValue of |  | ? \n \n \n(a) 3 A \n(b) 6 A \n \n(c) 9 A \n(d) 12 A",
+  "imageUrl": "assets/practice/nt/dpp_29_phasor_diagram/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3 A"
+    },
+    {
+      "id": "B",
+      "text": "6 A"
+    },
+    {
+      "id": "C",
+      "text": "9 A"
+    },
+    {
+      "id": "D",
+      "text": "12 A"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-29 (Phasor Diagram)."
+}

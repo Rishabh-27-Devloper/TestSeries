@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D30_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 30,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "\ud835\udc58\ud835\udc50\ud835\udc58\n8. \nThe FS coefficients dk of the signal y[n] = x*[\u2013n] \n \n(a) \u2013\ud835\udc84\ud835\udc84\u2217\ud835\udc8c\ud835\udc8c \n(b) \u2013\ud835\udc50\ud835\udc50\u2217\u2013\ud835\udc58\ud835\udc58 \n \n(c) \ud835\udc50\ud835\udc50\u2217\ud835\udc58\ud835\udc58 \n(d) \ud835\udc50\ud835\udc50\u2217\u2013\ud835\udc58\ud835\udc58",
+  "imageUrl": "assets/practice/ss/dpp_30_signal_system/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u2013\ud835\udc84\ud835\udc84\u2217\ud835\udc8c\ud835\udc8c"
+    },
+    {
+      "id": "B",
+      "text": "\u2013\ud835\udc50\ud835\udc50\u2217\u2013\ud835\udc58\ud835\udc58"
+    },
+    {
+      "id": "C",
+      "text": "\ud835\udc50\ud835\udc50\u2217\ud835\udc58\ud835\udc58"
+    },
+    {
+      "id": "D",
+      "text": "\ud835\udc50\ud835\udc50\u2217\u2013\ud835\udc58\ud835\udc58"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-30 (Signal & System)."
+}

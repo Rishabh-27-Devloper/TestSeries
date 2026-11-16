@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D06_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 6,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Practical voltage source has  \n \n(a) Infinite internal resitance \n \n(b) Finite internal resistance \n \n(c) Zero internal resistance \n \n(d) None of the above",
+  "imageUrl": "assets/practice/nt/dpp_06_basic_concept_of_network/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Infinite internal resitance"
+    },
+    {
+      "id": "B",
+      "text": "Finite internal resistance"
+    },
+    {
+      "id": "C",
+      "text": "Zero internal resistance"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-06 (Basic Concept of Network)."
+}

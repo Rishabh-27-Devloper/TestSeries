@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q11",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the trans resistance transfer function\no\nif\ns\nA\ni\n\uf06e\n=\n(a)\n59.7\n(b) \u20138.75 k\uf057\n(c)\n\u201359.7 k\uf057\n(d) 8.75 k\uf057",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "59.7"
+    },
+    {
+      "id": "B",
+      "text": "\u20138.75 k\uf057"
+    },
+    {
+      "id": "C",
+      "text": "\u201359.7 k\uf057"
+    },
+    {
+      "id": "D",
+      "text": "8.75 k\uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

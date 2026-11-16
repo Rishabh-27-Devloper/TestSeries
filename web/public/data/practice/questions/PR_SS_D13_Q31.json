@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D13_Q31",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 31,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For \nodd \nvalue \nof \nn, \nthe \nconvolution\n\uf028\n\uf029\n\uf05b\n\uf05d\n[ ]\n1\n2\n2\nn\nn\ny n\nu\nn\n\uf03d\uf02d\n\uf0c4\n\uf02d\uf02b\n is _____ \n\uf07b\n\uf07d",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q31.png",
+  "options": null,
+  "correctAnswer": "-2.66",
+  "toleranceMin": -2.6334,
+  "toleranceMax": -2.6866000000000003,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D13_Q33",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 33,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For an input x[n] = 3\uf064[n \u2013 2], output y[n] of a linear \ntime-invariant system is given as  \n \n\uf05b\uf05d\n1\n1\n2\n8\n,\n2\n2\n4\nn\nn\ny n\nn\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf03d\n\uf02d\n\uf02b\n\uf0b3\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \n \nThe impulse response h[n] of the system is  \n \n(a) \n\uf05b\uf05d\n2\n2\n1\n1\n1\n[ ]\n6\n2\n4\nn\nn\nh n\nu n\n\uf02d\n\uf02d\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf03d\n\uf02d\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \n \n(b) \n\uf05b\uf05d\n\uf05b\uf05d\n2\n2\n1\n1\n6\n2\n4\nn\nn\nh n\nu n\n\uf02b\n\uf02b\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf03d\n\uf02d\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \n \n(c) \n\uf05b\uf05d\n\uf05b\uf05d\n1\n1\n1\n6\n2\n4\nn\nn\nh n\nu n\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf03d\n\uf02d\n\uf02b\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \n(d)\nN\nf b",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q33.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf05b\uf05d"
+    },
+    {
+      "id": "B",
+      "text": "\uf05b\uf05d"
+    },
+    {
+      "id": "C",
+      "text": "\uf05b\uf05d"
+    },
+    {
+      "id": "D",
+      "text": "N"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

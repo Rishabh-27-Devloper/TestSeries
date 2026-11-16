@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D20_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 20,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Find Zeq with respect to X & Y",
+  "imageUrl": "assets/practice/nt/dpp_20_two_port_network/q4.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-20 (Two port network)."
+}

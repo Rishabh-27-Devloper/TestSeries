@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D05_Q35",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 5,
+  "questionNumber": 35,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the baud rate? \n \n(a) 8 baud \n(b) 8000 baud \n \n(c) 1250 baud \n(d) 1.25 baud",
+  "imageUrl": "assets/practice/comm/dpp_05_ece_in/q35.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "8 baud"
+    },
+    {
+      "id": "B",
+      "text": "8000 baud"
+    },
+    {
+      "id": "C",
+      "text": "1250 baud"
+    },
+    {
+      "id": "D",
+      "text": "1.25 baud"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-05 (ECE/IN)."
+}

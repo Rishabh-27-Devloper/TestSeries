@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D04_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The voltage across the network \u2018V\u2019 shown below\nfigure is.\n (a)\n1 V\n(b) 2 V\n(c)\n3 V\n(d) Can not be calculated\n4V\n\uf033\uf057\n+\n\u2013\nV\n2A\nNetwork",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 V"
+    },
+    {
+      "id": "B",
+      "text": "2 V"
+    },
+    {
+      "id": "C",
+      "text": "3 V"
+    },
+    {
+      "id": "D",
+      "text": "Can not be calculated"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

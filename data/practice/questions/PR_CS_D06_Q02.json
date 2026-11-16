@@ -1,0 +1,46 @@
+{
+  "questionId": "PR_CS_D06_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Match the following\nList\u2013I \nList\u2013II \n(A) s\u00b2 + 6s + 5\n1.\nUndamped\n(B) s\u00b2 + 64\n2.\nUnder damped\n(C) s\u00b2 + 2s + 4\n3.\nOver damped\nCodes: \nA \nB \nC \n(a)\n1\n2 \n3 \n(b) 1\n3 \n2 \n(c)\n2\n3 \n1 \n(d) 3\n1 \n2 \nMCQ \nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    },
+    {
+      "id": "A",
+      "text": "s\u00b2 + 6s + 5"
+    },
+    {
+      "id": "B",
+      "text": "s\u00b2 + 64"
+    },
+    {
+      "id": "C",
+      "text": "s\u00b2 + 2s + 4"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

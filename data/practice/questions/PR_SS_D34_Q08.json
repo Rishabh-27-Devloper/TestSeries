@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D34_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 34,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A causal system has \n \nInput, \nx[n] = (\u20133)n u[n] \n \nOutput, \ny[n] = [4(2)\ud835\udc5b\u2013 (1\n2)\n\ud835\udc5b\n] \ud835\udc62[\ud835\udc5b] \n \nThe impulse response of this system is \n \n(a) [7 (1\n2)\n\ud835\udc5b\n\u221210 (1\n2)\n\ud835\udc5b\n] \ud835\udc62[\ud835\udc5b] \n \n(b) [7(2)\ud835\udc5b\u221210 (1\n2)\n\ud835\udc5b\n] \ud835\udc62[\ud835\udc5b] \n \n(c) [10 (1\n2)\n2\n\u22127(2)\ud835\udc5b] \ud835\udc62[\ud835\udc5b]",
+  "imageUrl": "assets/practice/ss/dpp_34_signal_system/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "[7"
+    },
+    {
+      "id": "B",
+      "text": "[7"
+    },
+    {
+      "id": "C",
+      "text": "[10"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-34 (Signal & System)."
+}

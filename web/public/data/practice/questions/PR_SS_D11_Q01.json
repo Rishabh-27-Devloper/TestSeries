@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider a signal x(t) shown in figure below\nIf y(t) = 2x(t/4) * \uf064(t \u2013 2), where \uf064(t) is an unit impulse \nfunction, then what will be the value of y(1) ?",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q1.png",
+  "options": null,
+  "correctAnswer": "1.5",
+  "toleranceMin": 1.4849999999999999,
+  "toleranceMax": 1.5150000000000001,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

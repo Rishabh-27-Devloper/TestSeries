@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D01_Q31",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 31,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Common Data for Q. 31 and 32 \n An SSB-AM transmitter is modulated with a sinusoid \nm(t) = 5 cos \uf077t. The amplitude of carrier signal is \n  Ac =1. \n \n31. The expression for a lower SSB signal is  \n \n(a) \n5 cos(\n)\n2\nc\nt\n\uf077\uf02d\uf077\n (b)  5cos(\u03c9c \u2013 \u03c9)t \n \n(c)  5 sin (\n)\n2\nc\nt\n\uf077\uf02d\uf077\n (d)  5sin(\u03c9c \u2013 \u03c9)t",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q31.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 cos"
+    },
+    {
+      "id": "B",
+      "text": "5cos"
+    },
+    {
+      "id": "C",
+      "text": "5 sin"
+    },
+    {
+      "id": "D",
+      "text": "5sin"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

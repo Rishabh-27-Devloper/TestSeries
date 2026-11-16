@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q13",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The type of amplifier is \n \n(a) Voltage amplifier \n \n(b) Current amplifier \n \n(c) Transconductance amplifier \n \n(d) Trans resistance amplifier",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voltage amplifier"
+    },
+    {
+      "id": "B",
+      "text": "Current amplifier"
+    },
+    {
+      "id": "C",
+      "text": "Transconductance amplifier"
+    },
+    {
+      "id": "D",
+      "text": "Trans resistance amplifier"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

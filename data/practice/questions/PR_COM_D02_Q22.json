@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D02_Q22",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 22,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If the modulating frequency is increased \n \n(a) PM modulation index will remain constant, \nwhereas FM modulation index will increase \n \n(b) PM modulation index will remain constant, \nwhereas FM modulation index will decrease \n \n(c) PM modulation index will decrease and FM \nmodulation index will increase \n \n(d) Both PM as well as FM modulation index will \nincrease",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q22.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "PM modulation index will remain constant,"
+    },
+    {
+      "id": "B",
+      "text": "PM modulation index will remain constant,"
+    },
+    {
+      "id": "C",
+      "text": "PM modulation index will decrease and FM"
+    },
+    {
+      "id": "D",
+      "text": "Both PM as well as FM modulation index will"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D34_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 34,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the unilateral z-transform pair \nz\nz\nx[n]\nX(z)\n.\nz 1\n\uf0ac\uf0be\uf0ae\n\uf03d\n\uf02d\n  \nThe z-transform of x[n \u2013 1], x[n + 1] are \nrespectively. \n \n (a) \n2z\n1\n,\nz\n1 z\n1\n\uf02d\n\uf02d  \n(b) \n2\n1\nz\n,\nz\n1 z\n1\n\uf02d\n\uf02d\n  \n(c) \n1\nz\n,\nz 1 z 1\n\uf02d\n\uf02d\n  \n(d) \n2\nz\nz\n,\nz\n1 z\n1\n\uf02d\n\uf02d",
+  "imageUrl": "assets/practice/ss/dpp_34_signal_system/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2z"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-34 (Signal & System)."
+}

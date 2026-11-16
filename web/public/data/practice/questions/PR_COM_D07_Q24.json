@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D07_Q24",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Noise In Communication",
+  "dppNumber": 7,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the equivalent noise figure of the cascade? \n \n(a) 0.233 dB \n(b) 0.368 dB \n \n(c) 2.33 dB \n(d) 3.68 dB",
+  "imageUrl": "assets/practice/comm/dpp_07_noise_in_communication/q24.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.233 dB"
+    },
+    {
+      "id": "B",
+      "text": "0.368 dB"
+    },
+    {
+      "id": "C",
+      "text": "2.33 dB"
+    },
+    {
+      "id": "D",
+      "text": "3.68 dB"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-07 (Noise In Communication)."
+}

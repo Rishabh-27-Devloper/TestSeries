@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D22_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "\ud835\udc60\ud835\udc60\ud835\udc4e\n \n4. \nIf X(s) is the one-side Laplace transform of a signal \nx(t), then time-signal corresponding to \n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51(\ud835\udc60\ud835\udc60)\n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51 is ktx(t) \nsuch that the value of k is ___________.",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q4.png",
+  "options": null,
+  "correctAnswer": "-1",
+  "toleranceMin": -0.99,
+  "toleranceMax": -1.01,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

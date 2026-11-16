@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D03_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The magnitude of io in given circuit is _______A",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q7.png",
+  "options": null,
+  "correctAnswer": "1.09",
+  "toleranceMin": 1.0791000000000002,
+  "toleranceMax": 1.1009,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

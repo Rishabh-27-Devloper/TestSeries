@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D23_Q12",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The impulse response h(t) of the system H(s) of an \nLTI system: \n \n1. \nWhen the input to the system is x(t) = e2t and \nthe output is \n2\n1\n6\nt\ne\n. \n \n2. \nWhen h(t) satisfies the differential equation, \n4\n( )\n2 ( )\n( )\n( )\n\u2212\n+\n=\n\u2212\nt\ndh t\nh t\ne\nu t\nbu t\ndt\n where \u2018b\u2019 is an \nunknown constant. Value of \u2018b\u2019 is ______. \n5\n2 + s",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q12.png",
+  "options": null,
+  "correctAnswer": "-1",
+  "toleranceMin": -0.99,
+  "toleranceMax": -1.01,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

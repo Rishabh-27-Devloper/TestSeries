@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q11",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If open-loop gain is Aod = 999, then closed-loop gain \nis \n \n(a) \u20130.999 \n(b) 0.999 \n \n(c) 1.001 \n(d) \u20131.001",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20130.999"
+    },
+    {
+      "id": "B",
+      "text": "0.999"
+    },
+    {
+      "id": "C",
+      "text": "1.001"
+    },
+    {
+      "id": "D",
+      "text": "\u20131.001"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

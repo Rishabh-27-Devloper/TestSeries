@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D01_Q41",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 41,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Signal u(t) = 5[cos106\u03c0t) \u2013 sin (103\u03c0t) \uf0b4sin (106\u03c0t)] \nrepresents  \n \n(a) DSB suppressed carrier signal \n \n(b) AM signal \n \n(c) SSB upper sideband signal \n \n(d) Narrow band FM signal \n\uf072\uf072\uf020",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q41.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "DSB suppressed carrier signal"
+    },
+    {
+      "id": "B",
+      "text": "AM signal"
+    },
+    {
+      "id": "C",
+      "text": "SSB upper sideband signal"
+    },
+    {
+      "id": "D",
+      "text": "Narrow band FM signal"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

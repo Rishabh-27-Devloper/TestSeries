@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D35_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 35,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The DTFT X(ej\u03a9) of a signal x[n] is given as\nX(ej\u03a9) = \nj\n1\n1\nae\u2212\u2126\n\u2212\n.\nMatch List I (discrete time signal) with List II(Fourier\ntransform) and select the correct answer using the\ncodes given below:\nList \n(Discrete Time \nSignal) \nList-II \n(Fourier Transform) \nP. \nx[2n + 1] \n1. \nj\nj\n2\ne\n(1\nae\n)\n\u2212\u2126\n\u2212\u2126\n\u2212\nQ. x[\u20132n] \n2. \n2\n1\n(1\n2 cos\n)\n\u2212\u03b1\n\u2126+ \u03b1\nR. x[n] * x[n \u2013 1] \n3. \nj\n/2\nj\n/2\ne\n1\ne\n\u2126\n\u2212\u2126\n\u2212\u03b1\nS. \nx[n] * x[\u2013n] \n4. \nj\n/2\n1\n1\ne \u2126\n\u2212\u03b1\nCodes:",
+  "imageUrl": "assets/practice/ss/dpp_35_signal_system/q4.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-35 (Signal & System)."
+}

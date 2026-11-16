@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D05_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A MUX circuit is as given below:\noutput y is. \n (a)\nA+B\n(b)\nA\nB\n+\n(c)\nA\nB\n\uf0c5\n(d)\nAB",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A+B"
+    },
+    {
+      "id": "B",
+      "text": "A"
+    },
+    {
+      "id": "C",
+      "text": "A"
+    },
+    {
+      "id": "D",
+      "text": "AB"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

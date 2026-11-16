@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D03_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n6.\nThe signal flow graph of the system is shown in the\ngiven figure. The transfer function C(s)/D(s) of the\nsystem is",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q6.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

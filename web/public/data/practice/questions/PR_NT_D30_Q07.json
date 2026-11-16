@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D30_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Locus Diagram",
+  "dppNumber": 30,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of input power factor is _____\n(a)\n0.5 led\n(b)\n0.794 lag\n(c)\n0.965 lag\n(d)\nUnity",
+  "imageUrl": "assets/practice/nt/dpp_30_locus_diagram/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5 led"
+    },
+    {
+      "id": "B",
+      "text": "0.794 lag"
+    },
+    {
+      "id": "C",
+      "text": "0.965 lag"
+    },
+    {
+      "id": "D",
+      "text": "Unity"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-30 (Locus Diagram)."
+}

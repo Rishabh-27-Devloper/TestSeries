@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n3. \nA system has the transfer function (1 \u2013 s) / (1 + s). \nIt is known as a  \n \n(a) low pass system \n \n(b) high pass system \n \n(c) all pass system \n \n(d) none \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "low pass system"
+    },
+    {
+      "id": "B",
+      "text": "high pass system"
+    },
+    {
+      "id": "C",
+      "text": "all pass system"
+    },
+    {
+      "id": "D",
+      "text": "none"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

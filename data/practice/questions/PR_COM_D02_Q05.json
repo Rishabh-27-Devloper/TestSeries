@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q05",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The peak frequency deviation produced in a VHF\ncarrier by a signal of 100 Hz is 50 kHz. What is the\nfrequency modulation index?",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q5.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

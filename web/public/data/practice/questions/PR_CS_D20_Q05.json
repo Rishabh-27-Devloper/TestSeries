@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D20_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n5. \nFor the certain unity feedback system  \n \nK\nG(s)\ns(s\n1)(2s\n1)(3s\n1)\n=\n+\n+\n+\n \n \nThe Nyquist plot is  \n \n(a)",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q5.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

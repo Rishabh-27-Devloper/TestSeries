@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q28",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 28,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The steady state output of the circuit shown in the \nfigure is given by\n . If the \namplitude \n then the frequency \n is :  \n \n \n(A) \n \n(B) \n \n \n(C) \n \n(D) \n \nElectronics : 2014 \n\uf028\uf029\n\uf028\uf029\n\uf028\uf029\n\uf028\n\uf029\nsin\ny t\nA\nt\n\uf077\n\uf077\n\uf066\uf077\n\uf03d\n\uf02b\n\uf028\uf029\n0.25,\nA \uf077\uf03d\n\uf077\n1\n3RC\n2\n3RC\n1\nRC\n2\nRC",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q28.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "Electronics : 2014"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

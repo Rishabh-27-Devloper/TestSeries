@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n1. \nWhich of the following is the transfer function of a \nlead compensation network? \n \n(a) (\n5)\n(\n8)\n+\n+\ns\ns\n \n(b) (\n8)\n(\n5)\n+\n+\ns\ns\n \n \n(c) \n(\n5)\n(\n8)\n+\n+\ns s\ns\n \n(d) \n(\n8)\n(\n5)\n+\n+\ns\ns s\n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D05_Q12",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The equivalent resistance in the infinite ladder \nnetwork is Re then value of  \n\ud835\udc45\ud835\udc52\n\ud835\udc45 is _____. \n \n \n \n \n \nRe\n\uf0a5\nR\nR\nR\nR\nR\nR\nR\n2R",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q12.png",
+  "options": null,
+  "correctAnswer": "2.62",
+  "toleranceMin": 2.5938,
+  "toleranceMax": 2.6462000000000003,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

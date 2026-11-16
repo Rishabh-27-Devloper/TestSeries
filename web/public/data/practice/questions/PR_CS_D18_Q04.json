@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \n     EASY \n4.\nBode plot of a stable system is shown in the figure. The\nopen-loop transfer function of the ufb system is\n(a) \n100\ns\n10\n+\n(b) \n10\ns\n10\n+\n(c) \n1\ns\n10\n+\n(d) None of the above\nMCQ\nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "100"
+    },
+    {
+      "id": "B",
+      "text": "10"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

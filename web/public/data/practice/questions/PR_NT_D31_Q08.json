@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D31_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 31,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The resonant frequency of the given circuit is _____ \nHz.",
+  "imageUrl": "assets/practice/nt/dpp_31_resonance/q8.png",
+  "options": null,
+  "correctAnswer": "0.318",
+  "toleranceMin": 0.268,
+  "toleranceMax": 0.368,
+  "explanation": "Practice Question from Network Theory DPP-31 (Resonance)."
+}

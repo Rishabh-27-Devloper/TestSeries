@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D14_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "for a cosine and sine function, the exponential Fourier \nseries coefficient cn have the property \n \n(a) \n*\nn\nn\nc\nc\uf02d\n\uf03d\n \n(b) \n*\nn\nn\nc\nc\uf02d\n\uf03d\uf02d\n \n \n(c) \n*\n1\n2\nn\nn\nc\nc\uf02d\n\uf03d\n \n(d) \n*\n1\n2\nn\nn\nc\nc\uf02d\n\uf02d\n\uf03d\n\uf02d",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "*"
+    },
+    {
+      "id": "B",
+      "text": "*"
+    },
+    {
+      "id": "C",
+      "text": "*"
+    },
+    {
+      "id": "D",
+      "text": "*"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

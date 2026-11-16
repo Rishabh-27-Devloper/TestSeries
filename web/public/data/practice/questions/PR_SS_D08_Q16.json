@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D08_Q16",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Periodic/Aperiodic, Even/odd,",
+  "dppNumber": 8,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Time compression of a signal \n \n(a) Reduces its energy \n \n(b) increases its energy \n \n(c) does not affect the energy \n \n(d) none of above",
+  "imageUrl": "assets/practice/ss/dpp_08_periodic_aperiodic_even_odd/q16.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduces its energy"
+    },
+    {
+      "id": "B",
+      "text": "increases its energy"
+    },
+    {
+      "id": "C",
+      "text": "does not affect the energy"
+    },
+    {
+      "id": "D",
+      "text": "none of above"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-08 (Periodic/Aperiodic, Even/odd,)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q21",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 21,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The probabilities P(AB), P(AC) and P(BC) are \nrespectively \n \n(a) \n1 1\n0,\n,\n8 8 \n(b) 1\n1\n, 0,\n8\n8 \n \n(c) 3 1\n,\n, 0\n4 4\n \n(d) \n1 3\n0,\n,\n8 4 \n \nCommon Data For Q.22 and 23: \nConsider the random variable X having PDF defined as \n2\n( )\n2\n( )\n\u2212\n=\nx\nX\nf\nx\ne\nu x",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q21.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "3 1"
+    },
+    {
+      "id": "D",
+      "text": "1 3"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

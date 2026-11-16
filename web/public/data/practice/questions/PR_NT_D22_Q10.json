@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Find time constant of given network  \n \n \n(a) \n500\n4\n \n(b) 100\n3\n \n \n(c) \n320\n3\n \n(d) 400\n3",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "500"
+    },
+    {
+      "id": "B",
+      "text": "100"
+    },
+    {
+      "id": "C",
+      "text": "320"
+    },
+    {
+      "id": "D",
+      "text": "400"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D10_Q01",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If the open-loop transfer function of the system is\n(\n18)\n( )\n( )\n(\n4)(\n6)(\n12)\nK s\nG s H s\ns s\ns\ns\n+\n=\n+\n+\n+\n. Then a closed\nloop pole will be located at s = \u201310, when the \nvalue of \u2018K\u2019 is _______. \nMCQ \n \n \n BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q1.png",
+  "options": null,
+  "correctAnswer": "67",
+  "toleranceMin": 66.33,
+  "toleranceMax": 67.67,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D13_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 13,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The efficiency from maximum power transfer theorem \nis  ________%",
+  "imageUrl": "assets/practice/nt/dpp_13_network_theorem/q8.png",
+  "options": null,
+  "correctAnswer": "50",
+  "toleranceMin": 49.5,
+  "toleranceMax": 50.5,
+  "explanation": "Practice Question from Network Theory DPP-13 (Network Theorem)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D02_Q15",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A clipper circuit is shown below: \n \n \nAssuming forward bias voltage drops of the diodes to \nbe 0.7 V. the input-output transfer characteristics of \nthe circuit is \n \n(a)",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q15.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D23_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "State Space Analysis - I",
+  "dppNumber": 23,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n7. \nThe transfer-function relation between X(s) and \nU(s) is \n \n(a) \n3\n2\n2\n1\n1\n3\n2\n1\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\u2212\n\uf0ea\n\uf0fa\n+\n+\n\u2212\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\ns\ns\ns\ns\ns\n \n \n(b) \n3\n2\n2\n1\n1\n3\n2\n1\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n+\n+\n+ \uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\ns\ns\ns\ns\ns\n \n \n(c) \n3\n2\n2\n1\n1\n3\n2\n1\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\u2212\n\uf0ea\n\uf0fa\n+\n+\n+ \uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\ns\ns\ns\ns\ns\n \n \n(d) None of the above \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_23_state_space_analysis_i/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3"
+    },
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-23 (State Space Analysis - I)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q44",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 44,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the following amplifier circuit, the op-amp is ideal. \n \n \nWhat is the value of current I1, I2 and I3 respectively? \n \n(a) 10 mA, 1 \uf06dA, 100 \uf06dA \n \n(b) 100 \uf06dA, 100 \uf06dA, 1 \uf06dA \n \n(c) 100 \uf06dA, 100 \uf06dA, 10 \uf06dA \n \n(d) 10 mA, 1 \uf06dA, 100 \uf06dA",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q44.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 mA, 1 \uf06dA, 100 \uf06dA"
+    },
+    {
+      "id": "B",
+      "text": "100 \uf06dA, 100 \uf06dA, 1 \uf06dA"
+    },
+    {
+      "id": "C",
+      "text": "100 \uf06dA, 100 \uf06dA, 10 \uf06dA"
+    },
+    {
+      "id": "D",
+      "text": "10 mA, 1 \uf06dA, 100 \uf06dA"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

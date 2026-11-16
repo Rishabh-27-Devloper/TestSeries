@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D19_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & Systems",
+  "dppNumber": 19,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Laplace transform of the waveform shown in the\nfigure is \nks\n1\n1\ns 1 e\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n+\n\uf0e8\n\uf0f8\n such that the value of k is ____",
+  "imageUrl": "assets/practice/ss/dpp_19_signals_systems/q4.png",
+  "options": null,
+  "correctAnswer": "-1",
+  "toleranceMin": -0.99,
+  "toleranceMax": -1.01,
+  "explanation": "Practice Question from Signal and System DPP-19 (Signals & Systems)."
+}

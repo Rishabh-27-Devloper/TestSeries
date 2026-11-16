@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D05_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of R1 in given figure is _____\u03a9. \n \n \n12\uf057\n12\uf057\n12\uf057\nR1\nR2\nR3",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q6.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

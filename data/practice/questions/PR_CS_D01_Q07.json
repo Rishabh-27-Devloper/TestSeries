@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n7. \nThe transfer function of the system shown below is  \n \n \n(a) \n2\n3\n1 3\n3\n1\n2\n3\n1\n+\n\u2212\n+\nG G\nG G\nG H\nG G \n(b) \n2\n3\n1 3\n3\n1\n2\n3\n1\n+\n+\n\u2212\nG G\nG G\nG H\nG G \n \n(c) \n2\n3\n1 3\n3\n1\n2\n3\n1\n+\n+\n+\nG G\nG G\nG H\nG G \n(d) \n2\n3\n1 3\n3\n1\n2\n3\n1\n+\n\u2212\n\u2212\nG G\nG G\nG H\nG G \n \nCommon Data for 8 & 9  \n \nA block diagram is shown below \n \nMCQ \n \n \n \n      MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

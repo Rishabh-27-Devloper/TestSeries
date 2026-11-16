@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D07_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of V0 in given circuit is, \n \n \n (a) 10V \n \n(b) 20V  \n \n \n(c) 30V \n \n(d) 40V \n \n\uf032\uf057\nK\n\u2013 +\n\u2013 +\n30 V\n20 V\n5K\uf057\n4K\uf057\n\u2013 \n+\nV0",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10V"
+    },
+    {
+      "id": "B",
+      "text": "20V"
+    },
+    {
+      "id": "C",
+      "text": "30V"
+    },
+    {
+      "id": "D",
+      "text": "40V"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

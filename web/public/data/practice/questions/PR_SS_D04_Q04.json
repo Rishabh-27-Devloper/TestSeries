@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D04_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The power of a periodic signal shown in the figure is\n_______ unit.\n (a)\n4\n(b) 12\n(c)\n6\n(d) 8\nj 2\n\uf070\n\uf0e6\n\uf0f6",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "12"
+    },
+    {
+      "id": "C",
+      "text": "6"
+    },
+    {
+      "id": "D",
+      "text": "8"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D03_Q12",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The Vx  in given figure is\n(a)\n+4V\n(b) \u20134V\n(c)\n+8V\n(d) \u20138V",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "+4V"
+    },
+    {
+      "id": "B",
+      "text": "\u20134V"
+    },
+    {
+      "id": "C",
+      "text": "+8V"
+    },
+    {
+      "id": "D",
+      "text": "\u20138V"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D01_Q09",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-1)",
+  "dppNumber": 1,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A logical function is given as: \n \nf(A, B, C) = \n+\n+\nAB\nABC\nABC \n \nthen which of the following statement is true?  \n \n(a) f(A, B, C) = \n+\nAB\nBC \n \n(b) \n( ,\n,\n) =\n+\nf A B C\nA\nC  \n \n(c) \n( ,\n,\n)\nf A B C is a self dual function. \n \n(d) None of the above \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_01_boolean_theorems_and_basics_of_gates_p/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "f"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-01 (Boolean Theorems and Basics of Gates (Part-1))."
+}

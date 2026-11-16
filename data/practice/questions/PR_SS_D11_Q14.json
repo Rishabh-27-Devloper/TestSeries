@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q14",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The maximum value of n for which y[n] \uf0b9 0 is ____",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q14.png",
+  "options": null,
+  "correctAnswer": "10",
+  "toleranceMin": 9.9,
+  "toleranceMax": 10.1,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

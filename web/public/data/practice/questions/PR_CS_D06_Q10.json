@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D06_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The unit impulse response of a second order system is \n\u2013At\n1 e\nsin(0.6t\n36.87 )\n0.6\n+\n\uf0b0 . \n \nThe value of \u2018A\u2019 is _______.  \nMCQ \n \n \n \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q10.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

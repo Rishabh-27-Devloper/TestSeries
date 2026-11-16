@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D10_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-3)",
+  "dppNumber": 10,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "[MCQ] \n \n \n           \n \n \n \nWhich of the following is true: \n \n(a) Asynchronous counters are faster compare to \nsynchronous counters. \n \n(b) For same MOD-number, synchronous \ncounters require fewer FFs compared to \nasynchronous counter \n \n(c) Sequence 0-1-2-3-0 can be designed only in \nasynchronous counter. \n \n(d) Sequence 0-1-3-2-0 can be designed only in \nsynchronous counter.",
+  "imageUrl": "assets/practice/de/dpp_10_sequential_circuits_part_3/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Asynchronous counters are faster compare to"
+    },
+    {
+      "id": "B",
+      "text": "For same MOD-number, synchronous"
+    },
+    {
+      "id": "C",
+      "text": "Sequence 0-1-2-3-0 can be designed only in"
+    },
+    {
+      "id": "D",
+      "text": "Sequence 0-1-3-2-0 can be designed only in"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-10 (Sequential Circuits (Part-3))."
+}

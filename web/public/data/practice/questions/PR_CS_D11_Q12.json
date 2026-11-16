@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n \n   EASY \n12. A unity feedback control system with open loop \ntransfer function \n3\n2\n(\n)\n4\n3\n22\n\u2212\n+\n+\n+\nK s\nA\ns\ns\ns\n is said to be \noscillatory in nature, if the frequency of oscillation is \n2.16 rad/sec. Then the value of \u2018AK\u2019 is ______.",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q12.png",
+  "options": null,
+  "correctAnswer": "3.38",
+  "toleranceMin": 3.3462,
+  "toleranceMax": 3.4137999999999997,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

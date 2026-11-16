@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D15_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Superposition theorem is not applicable for the \ncalculation of \n \n(a) Voltage \n(b) Power \n \n(c) Current \n(d) None of the above",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voltage"
+    },
+    {
+      "id": "B",
+      "text": "Power"
+    },
+    {
+      "id": "C",
+      "text": "Current"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D20_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The polar plot of a unity negative feedback \nsystem \n3\nG(s)\ns\np\n=\n+\n. \n \n \nThe closed loop transfer function is  \n \n(a) \n5\ns\n3\n+\n \n(b) \n3\ns\n3\n+\n \n \n(c) \n6\ns\n3\n+\n \n(d) \n3\ns\n6\n+",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5"
+    },
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "6"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

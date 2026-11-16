@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_SS_D15_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "( )\ng\ny\n11. x(t) is a real valued function of a real variable with \nperiod T. Its trigonometric Fourier series expansion \ncontains no terms of frequency \u03c9 = 2\u03c0 (2k) / T; k = 1, \n2,.... Also, no sine terms are present. Then x(t) \nsatisfies the equation \n \n(a) x(t) = \u2013 x(t \u2013 T)",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "x"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

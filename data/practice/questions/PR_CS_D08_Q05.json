@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D08_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An un-damped second order standard closed loop\ncontrol system having undamped natural frequency\nof 20 rad/sec is excited with a unit step signal. The\noutput of system at t = 20 ms is _____. (upto two\ndecimal places)",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q5.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

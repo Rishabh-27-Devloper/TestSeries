@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D02_Q14",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Basic of Signal System",
+  "dppNumber": 2,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of\n2\n2\n1\n(5\n1) (\n2)\nn\nn\nn\n=\n+ \uf064\n\u2212\n\uf0e5\nis _______ . \n3\n\uf0e6\n\uf0f6",
+  "imageUrl": "assets/practice/ss/dpp_02_basic_of_signal_system/q14.png",
+  "options": null,
+  "correctAnswer": "25",
+  "toleranceMin": 24.75,
+  "toleranceMax": 25.25,
+  "explanation": "Practice Question from Signal and System DPP-02 (Basic of Signal System)."
+}

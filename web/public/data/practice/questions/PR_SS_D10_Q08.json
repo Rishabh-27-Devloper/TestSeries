@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D10_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "LTI System and Its Properties",
+  "dppNumber": 10,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The impulse response of a discrete LTI system is u[n].",
+  "imageUrl": "assets/practice/ss/dpp_10_lti_system_and_its_properties/q8.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-10 (LTI System and Its Properties)."
+}

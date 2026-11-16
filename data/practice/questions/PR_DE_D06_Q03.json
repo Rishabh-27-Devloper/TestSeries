@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D06_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FS, K-map, Decoder, De-Mux",
+  "dppNumber": 6,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "To implement 1 : 512 De MUX, we require N, 1:8\nDe MUX, then the value of N is __________.\n[MSQ]",
+  "imageUrl": "assets/practice/de/dpp_06_fs_k_map_decoder_de_mux/q3.png",
+  "options": null,
+  "correctAnswer": "73",
+  "toleranceMin": 72.27,
+  "toleranceMax": 73.73,
+  "explanation": "Practice Question from Digital Electronics DPP-06 (FS, K-map, Decoder, De-Mux)."
+}

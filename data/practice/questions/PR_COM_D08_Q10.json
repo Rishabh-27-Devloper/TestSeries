@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D08_Q10",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Information Theory",
+  "dppNumber": 8,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Common Data For 9 to 10 : \nA telegraph source has two symbols dot and dash. The dot \nduration is 0.2 sec. The dash is twice as long as the dot and \nhalf as probable. \n9.\nThe entropy of source is\n(a)\n0.32 bits/symbols\n(b)\n0.92 bits/symbols\n(c)\n0.66 bits/symbols\n(d)\n8.12 bits/symbols\n10.\nThe information rate is\n(a)\n3.45 bits/sec\n(b)\n6.23 bits/sec\n(c)\n7.98 bits/sec\n(d)\n10.23 bits/sec\nCommon Data For 11 to 13 : \nA source has an alphabet {a0, a1, a2, a3} with corresponding \nprobabilities {0.1, 0.2, 0.3, 0.4}.",
+  "imageUrl": "assets/practice/comm/dpp_08_information_theory/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.32 bits/symbols"
+    },
+    {
+      "id": "B",
+      "text": "0.92 bits/symbols"
+    },
+    {
+      "id": "C",
+      "text": "0.66 bits/symbols"
+    },
+    {
+      "id": "D",
+      "text": "8.12 bits/symbols"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-08 (Information Theory)."
+}

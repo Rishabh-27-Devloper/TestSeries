@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D23_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the figure below, one cycle of a sinusoid for 0 \uf0a3 t \n\uf0a3 \uf070 is shown. Let the Laplace transform of x(t) is  \n(\n)\n(\n)\n2\n10 1\n( )\n4\nks\ne\nX s\ns\n\u2212\n\u2212\n=\n+\n \n \nWhat is the value of k in the expression?",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q11.png",
+  "options": null,
+  "correctAnswer": "3.14",
+  "toleranceMin": 3.1086,
+  "toleranceMax": 3.1714,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

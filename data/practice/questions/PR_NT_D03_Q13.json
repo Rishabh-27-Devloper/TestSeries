@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D03_Q13",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The current supplied by the DC source in the circuit is\n_______A",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q13.png",
+  "options": null,
+  "correctAnswer": "-0.5",
+  "toleranceMin": -0.55,
+  "toleranceMax": -0.45,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_DE_D04_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "K-map of two logical functions f1 (A, B) and f2 (A, \nB) is as given below : \n \n \nThen K-map of f (A, B) will be \n \n \n(a)\n \n \n(b)\n \n \n \n(c)\n \n \n(d)",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

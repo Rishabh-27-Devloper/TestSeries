@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D02_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n11. Consider the Signal Flow Graph (SFG) shown\nin figure. The number of loops and pair of two\nnon-touching loops are,\n(a) 3, 1\n(b) 4, 1\n(c) 3, 2\n(d) 4, 2\nNAT \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3, 1"
+    },
+    {
+      "id": "B",
+      "text": "4, 1"
+    },
+    {
+      "id": "C",
+      "text": "3, 2"
+    },
+    {
+      "id": "D",
+      "text": "4, 2"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D05_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A digital circuit is as given below:\ninput lines of the circuit are a1, b1 a0, b0 and output \nline is y. \nThen no. of combinations of input lines in which \noutput y will be \u20181\u2019is ___________. \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q2.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

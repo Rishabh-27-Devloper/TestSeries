@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n5. \nAn effect of phase-lag compensation on servo \nsystem performance is that \n \n(a) for a given relative stability, the velocity \nconstant is increased \n \n(b) for a given relative stability, the velocity \nconstant is decreased \n \n(c) the bandwidth of the system is increased \n \n(d) the time response is made faster \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "for a given relative stability, the velocity"
+    },
+    {
+      "id": "B",
+      "text": "for a given relative stability, the velocity"
+    },
+    {
+      "id": "C",
+      "text": "the bandwidth of the system is increased"
+    },
+    {
+      "id": "D",
+      "text": "the time response is made faster"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

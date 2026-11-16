@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q39",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 39,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Assume that the MOSFET is saturated, what is the \nvalue of output current I0? \n \n(a) \u20131 Amp \n(b) 0 Amp \n \n(c) \u20131.25 mA \n(d) 1 Amp",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q39.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20131 Amp"
+    },
+    {
+      "id": "B",
+      "text": "0 Amp"
+    },
+    {
+      "id": "C",
+      "text": "\u20131.25 mA"
+    },
+    {
+      "id": "D",
+      "text": "1 Amp"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

@@ -1,0 +1,20 @@
+{
+  "questionId": "PR_NT_D24_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 24,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "For a source free RLC circuit connected in series the \nvalue of R = 3 \uf057, L = 4 H, C = 9 F where symbol \nhave their usual meaning. Find the value of damping \nfactor and frequency of oscillations without damping.",
+  "imageUrl": "assets/practice/nt/dpp_24_transient_analysis/q1.png",
+  "options": null,
+  "correctAnswer": [
+    "0.375",
+    "0.167"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-24 (Transient Analysis)."
+}

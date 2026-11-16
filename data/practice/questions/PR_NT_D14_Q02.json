@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D14_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Thevenin theorem and MPTT",
+  "dppNumber": 14,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of Vs for which the maximum power transfer \nto 4\u2126 resistor is, \n \n \n(a) 4V \n(b) 3V \n \n(c) 2V \n(d) 5V \n \nVs\ni\n4 \u2126\ni/4\n+\u2013\n2V",
+  "imageUrl": "assets/practice/nt/dpp_14_thevenin_theorem_and_mptt/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4V"
+    },
+    {
+      "id": "B",
+      "text": "3V"
+    },
+    {
+      "id": "C",
+      "text": "2V"
+    },
+    {
+      "id": "D",
+      "text": "5V"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-14 (Thevenin theorem and MPTT)."
+}

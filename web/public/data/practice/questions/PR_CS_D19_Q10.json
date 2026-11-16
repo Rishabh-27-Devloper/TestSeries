@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \nMEDIUM \n10. The pole zero map and the Nyquist plot of the open \nloop transfer function G(s)H(s) of a feedback \nsystem are shown below. For this \n \n \n \n(a) Both open loop and closed loop systems \nare stable \n \n(b) Open loop system is stable but closed loop \nsystem is unstable \n \n(c) Open loop system is unstable but closed \nloop system is stable \n \n(d) Both open loop and closed loop are \nunstable. \n \nMCQ\nHARD",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both open loop and closed loop systems"
+    },
+    {
+      "id": "B",
+      "text": "Open loop system is stable but closed loop"
+    },
+    {
+      "id": "C",
+      "text": "Open loop system is unstable but closed"
+    },
+    {
+      "id": "D",
+      "text": "Both open loop and closed loop are"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

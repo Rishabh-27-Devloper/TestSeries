@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q27",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 27,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Common Data For Q. 26 and 27: \n \nIn \na \ncertain \nfrequency-modulation \nexperiment \nconducted with fm = 1 kHz and increasing amplitude \n(starting from 0 V), it is found that the carrier \ncomponent of the FM signal is reduced to zero for the \nfirst time when Am = 2V. Given that Bessel function \nJ0(x) is zero for x = 2.44,5.52,8.65,11-8 and so on. \n \n26. What will be the frequency sensitivity (in kHz/V) of the \nmodulator? \n \n27. The carrier components is reduced to zero for the \nsecond time for the value of Am =                   Volt.  \n \n\uf072\nAny issue with Practice Sheet, please repor\nFor more questions, kindly visit the library \nPW Mobile APP: https://smar",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q27.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n15. Nyquist plot of a certain stable system is given \nbelow. The acceleration error coefficient is  \n \n \n(a) 0 \n \n(b) \u221e \n \n(c) \u2013\u221e \n \n(d) 102",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "\u221e"
+    },
+    {
+      "id": "C",
+      "text": "\u2013\u221e"
+    },
+    {
+      "id": "D",
+      "text": "102"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

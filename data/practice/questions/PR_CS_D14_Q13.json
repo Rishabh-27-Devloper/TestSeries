@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D14_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus-(Part-03 & 04)",
+  "dppNumber": 14,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \n \n         BRAIN TEASER \n13. The root locus plot for a system, with transfer function \nK\ns(s\n1)(s\n2)\n+\n+\n is shown in figure. \n \n \nWhat is the range of K value for which the system \nexhibits the non-oscillatory response to a unity step \ninput. \n \n(a) K < 6 \n(b)  K < 0.384 \n( )\n0 < K \uf0a30 384\n(d) N",
+  "imageUrl": "assets/practice/cs/dpp_14_root_locus_part_03_04/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "K < 6"
+    },
+    {
+      "id": "B",
+      "text": "K < 0.384"
+    },
+    {
+      "id": "D",
+      "text": "N"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-14 (Root Locus-(Part-03 & 04))."
+}

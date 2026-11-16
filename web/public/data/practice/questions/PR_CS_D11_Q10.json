@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n \n   EASY \n10. \nThe system shown below has the oscillation of 2.5 \nrad/sec. There is no pole in RHP. The value of P is \n_______. \n \n \nNAT\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q10.png",
+  "options": null,
+  "correctAnswer": "1.36",
+  "toleranceMin": 1.3464,
+  "toleranceMax": 1.3736000000000002,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

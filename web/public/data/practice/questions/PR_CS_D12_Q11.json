@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D12_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Error Analysis of Control System",
+  "dppNumber": 12,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If the damping ratio of the system is increased to 0.7\nwithout affecting the steady state error, then Ka =\n______. \n \nNAT \n \n \n         BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_12_error_analysis_of_control_system/q11.png",
+  "options": null,
+  "correctAnswer": "24.5",
+  "toleranceMin": 24.255,
+  "toleranceMax": 24.745,
+  "explanation": "Practice Question from Control System DPP-12 (Error Analysis of Control System)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D08_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Which of the following systems has minimum peak\novershoot due to a unit step input?\n(a) \n2\n25\n25\n+\ns\n(b)\n2\n36\n10\n36\n+\n+\ns\ns\n(c) \n2\n64\n12\n64\n+\n+\ns\ns\n(d) \n2\n49\n7\n49\n+\n+\ns\ns",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

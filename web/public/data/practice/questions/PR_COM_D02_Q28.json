@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q28",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 28,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An angle modulated signal is expressed by \n \nx(t) = cos [2\uf070107 t) + 75sin (2\uf070103t)]. \n \nWhat is the peak frequency deviation (in kHz) of the \ncarrier?",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q28.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

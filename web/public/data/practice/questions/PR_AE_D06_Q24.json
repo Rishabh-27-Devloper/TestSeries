@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D06_Q24",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 6,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the astable multivibrator shown below\n(Assume that the output values of the comparator are\n0 and V)\nFor what threshold values of vC does the schmitt \ntrigger change state? \n(a) \n2\nV and \n2\nV\n\u2212\n \n(b) \n2\nV and 0 \n(c) \n3\nV and 2\n3\nV \n(d) \n3\nV and 0",
+  "imageUrl": "assets/practice/ae/dpp_06_ec_ee_in/q24.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-06 (EC/EE/IN)."
+}

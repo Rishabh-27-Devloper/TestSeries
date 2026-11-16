@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q11",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The rms value of x(t) is _____. \n  \n \n1\n0\nt\nT/2\nx (t)\nT/2",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q11.png",
+  "options": null,
+  "correctAnswer": "0.41",
+  "toleranceMin": 0.36,
+  "toleranceMax": 0.45999999999999996,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D19_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n9. \nThe Nyquist plot of a unity feedback system having \nopen \nloop \ntransfer \nfunction \nk(s\n1)\nG(s)H(s)\n(s\n0.5)(s\n2)\n+\n=\n+\n\u2212\n is as shown  \n \n \nIs this system stable for k = 2.5? and limiting \nvalue of \u2018k\u2019 for the system stability is \n(a) unstable k > 2 5\n(b) stable k \uf0a32 5",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "unstable k > 2 5"
+    },
+    {
+      "id": "B",
+      "text": "stable k \uf0a32 5"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

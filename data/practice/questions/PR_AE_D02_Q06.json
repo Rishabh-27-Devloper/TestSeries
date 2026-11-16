@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q06",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "( )\n( )\n6.\nIn a centre tap full wave rectifier, 100 V is the peak\nvoltage between the centre tap and one end of the\nsecondary. What is the maximum voltage across the\nreverse biased diode?\n(a)\n200 V\n(b) 141 V\n(c)\n100 V\n(d)\n86 V",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "200 V"
+    },
+    {
+      "id": "B",
+      "text": "141 V"
+    },
+    {
+      "id": "C",
+      "text": "100 V"
+    },
+    {
+      "id": "D",
+      "text": "86 V"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

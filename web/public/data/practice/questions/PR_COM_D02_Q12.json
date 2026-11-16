@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q12",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The FM signal\n0\n( )\n100cos\n2\n( )\nt\nc\nf\ns t\nt\nk\nm\nd\n\uf0e9\n\uf0f9\n\uf03d\n\uf077\n\uf02b\uf070\n\uf074\n\uf074\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n\uf0f2\nis modulated is by the waveform shown in figure \nbelow. \nWhat should be the value of kf so that the peak-to-peak\n10\n0\n\u20135\nt\nm t( )",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q12.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

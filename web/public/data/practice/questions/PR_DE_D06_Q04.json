@@ -1,0 +1,37 @@
+{
+  "questionId": "PR_DE_D06_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FS, K-map, Decoder, De-Mux",
+  "dppNumber": 6,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "To implement 1:128 De MUX, we require\n(a)\n127 \u2013 1:4 DeMUX\n(b) 127 \u2013 1:2 DeMUX\n(c) 18 \u2013 1:8 DeMUX & 1 \u2013 1:2 DeMUX\n(d) 40 \u2013 1:8 DeMUX & 1 \u2013 1:2 DeMUX",
+  "imageUrl": "assets/practice/de/dpp_06_fs_k_map_decoder_de_mux/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "127 \u2013 1:4 DeMUX"
+    },
+    {
+      "id": "B",
+      "text": "127 \u2013 1:2 DeMUX"
+    },
+    {
+      "id": "C",
+      "text": "18 \u2013 1:8 DeMUX & 1 \u2013 1:2 DeMUX"
+    },
+    {
+      "id": "D",
+      "text": "40 \u2013 1:8 DeMUX & 1 \u2013 1:2 DeMUX"
+    }
+  ],
+  "correctAnswer": [
+    "B",
+    "C"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-06 (FS, K-map, Decoder, De-Mux)."
+}

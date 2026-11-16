@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D32_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 32,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If value of bandwidth of circuit is same as quality \nfactor then Q =  \n \n(a) \n \n\u221a   \n(b) \n \n   \n \n(c) (\n \n  )\n   \n \n(d) \n \n \u221a",
+  "imageUrl": "assets/practice/nt/dpp_32_resonance/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u221a"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "\u221a"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-32 (Resonance)."
+}

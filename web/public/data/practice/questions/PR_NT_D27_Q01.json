@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of current through the 1 Farad capacitor of\nfigure is :\n(A) zero\n(B) one\n(C) two\n(D) three\nElectronics : 1987",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "zero"
+    },
+    {
+      "id": "B",
+      "text": "one"
+    },
+    {
+      "id": "C",
+      "text": "two"
+    },
+    {
+      "id": "D",
+      "text": "three"
+    }
+  ],
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D04_Q05",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "For the transistor shown below, parameters are VTN =\n1V and Kn = 12.5\uf06dA/V2. The Q-point (ID, VDS) is\n(a)\n(1 mA, 8 V)\n(b) (0.2 mA, 4 V)\n(c)\n(1.17 mA, 8 V) (d) (0.23 mA, 3.1 V)",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q5.png",
+  "options": [
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

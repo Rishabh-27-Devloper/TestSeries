@@ -1,0 +1,25 @@
+{
+  "questionId": "PR_DE_D04_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "A logical circuit is as given below:\nWhich of the following circuit is/are equivalent to \nthe above circuit: \n(a)\n(b) \n(c)\n(d)",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q2.png",
+  "options": [
+    {
+      "id": "B",
+      "text": ""
+    }
+  ],
+  "correctAnswer": [
+    "A",
+    "C"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

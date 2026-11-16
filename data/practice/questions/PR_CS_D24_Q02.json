@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "(\n0.1) (\n10)\nTF\n.\n(\n0.9) (\n5)\n+\n+\n=\n+\n+\ns\ns\ns\ns\n is a \n \n(a) Lag compensator  \n \n(b) Lead - Lag \n \n(c) Lag \u2013 Lead \n \n(d) Lead - Lead \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lag compensator"
+    },
+    {
+      "id": "B",
+      "text": "Lead - Lag"
+    },
+    {
+      "id": "C",
+      "text": "Lag \u2013 Lead"
+    },
+    {
+      "id": "D",
+      "text": "Lead - Lead"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

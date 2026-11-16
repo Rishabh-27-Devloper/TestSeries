@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_CS_D15_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "OLTF of a unity feedback system is\n(\n)\n(\n)\nK s\u00b2\n10\ns s\u00b2\n4\n+\n+\n. The\nRLD is\n(a)\n(b)\n(c)\n(d) None of the above\nMCQ \n    EASY",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q5.png",
+  "options": [
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

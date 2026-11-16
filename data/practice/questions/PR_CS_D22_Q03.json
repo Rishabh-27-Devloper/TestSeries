@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D22_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - IV",
+  "dppNumber": 22,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n3. \nThe Bode plot of a unity feedback system is shown.  \n \n \nThe system has \n \n(a) +Ve P.M. and \u2013Ve G.M \n \n(b) +Ve P.M. and +Ve G.M \n(c) \u2013Ve P M and \u2013Ve G M",
+  "imageUrl": "assets/practice/cs/dpp_22_nyquist_plot_iv/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "+Ve P.M. and \u2013Ve G.M"
+    },
+    {
+      "id": "B",
+      "text": "+Ve P.M. and +Ve G.M"
+    },
+    {
+      "id": "C",
+      "text": "\u2013Ve P M and \u2013Ve G M"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-22 (Nyquist Plot - IV)."
+}

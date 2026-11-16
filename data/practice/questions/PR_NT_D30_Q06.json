@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_NT_D30_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Locus Diagram",
+  "dppNumber": 30,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If P.F is lagging in the given network find the value of\nIL & Ic if\n(a)\n26.67 A, 10.67A",
+  "imageUrl": "assets/practice/nt/dpp_30_locus_diagram/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "26.67 A, 10.67A"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-30 (Locus Diagram)."
+}

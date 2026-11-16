@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D14_Q14",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following periodic waveforms will have \nonly odd harmonics of sinusoidal waveforms? \n \n 1.",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q14.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

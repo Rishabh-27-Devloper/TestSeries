@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D01_Q30",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 30,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The transformer utilization factor (TUF) is defined as \n \n(a) \nrated\ndc\nac\nP\nP\n \n(b) \ndc\nac\nP\nP\n \n \n(c) \nrms\ndc\nI\nI\n \n(d) \nm\ndc\nI\nI",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q30.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "rated"
+    },
+    {
+      "id": "B",
+      "text": "dc"
+    },
+    {
+      "id": "C",
+      "text": "rms"
+    },
+    {
+      "id": "D",
+      "text": "m"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

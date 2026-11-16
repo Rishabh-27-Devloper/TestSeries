@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D24_Q05",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 24,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The switch way initially at point 1 for long time at t = \n0 switch moves to point 2. The value of current at any \ninstant time t for t > 0 is  \n \n \n(a) \n2 cos\nsin 2\n\uf02d\n\uf02d\n\uf070\n\uf070\uf02d\nt\nt\ne\nt\ne\nt \n \n(b) \n\uf05b\n\uf05d\n2 2cos5\n3sin2\n\uf02d\n\uf02d\nt\ne\nt\nt \n \n(c) \n2\n2cos 3\nsin 3\n3\n\uf02d\uf0e9\n\uf0f9\n\uf02d\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\nt\ne\nt\nt \n \n(d) \n\uf05b\n\uf05d\ncos\nsin\n\uf02d\n\uf070\uf02d\n\uf070\nt\ne\nt\nt",
+  "imageUrl": "assets/practice/nt/dpp_24_transient_analysis/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 cos"
+    },
+    {
+      "id": "B",
+      "text": "\uf05b"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "\uf05b"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-24 (Transient Analysis)."
+}

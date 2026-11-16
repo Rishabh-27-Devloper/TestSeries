@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D07_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of System",
+  "dppNumber": 7,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider a continuous time system A, modeled by the\nequation y(t) = tx(t) + 4, and a discrete-time system B\nmodeled by the equation y[n] = x2 [n]. These systems\nare\n (a)\nA-time invariant and B-time invariant\n(b)\nA-time variant and B-time invariant\n(c)\nA-time variant and B-time varying\n(d)\nA-time invariant and B-time varying",
+  "imageUrl": "assets/practice/ss/dpp_07_types_of_system/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A-time invariant and B-time invariant"
+    },
+    {
+      "id": "B",
+      "text": "A-time variant and B-time invariant"
+    },
+    {
+      "id": "C",
+      "text": "A-time variant and B-time varying"
+    },
+    {
+      "id": "D",
+      "text": "A-time invariant and B-time varying"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-07 (Types of System)."
+}

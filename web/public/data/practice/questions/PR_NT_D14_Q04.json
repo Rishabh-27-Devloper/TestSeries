@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D14_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Thevenin theorem and MPTT",
+  "dppNumber": 14,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The V-I relation for the network shown in the given box \nis V = 4I-9. If now a resistor R = 2\u2126 is connected \nacross it, then the value of I will be,",
+  "imageUrl": "assets/practice/nt/dpp_14_thevenin_theorem_and_mptt/q4.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-14 (Thevenin theorem and MPTT)."
+}

@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_CS_D21_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - III",
+  "dppNumber": 21,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n11. For \nthe \ntransfer \nfunction \n1\nG(s)H(s)\ns(s\n1)(s\n0.5)\n=\n+\n+\n \n \nThe phase cross-over frequency is  \n \n(a) 0.5 rad/sec \n(b) 0.707 rad/sec \n \n(d) 1.732 rad/sec \n(d) 2 rad/sec \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_21_nyquist_plot_iii/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5 rad/sec"
+    },
+    {
+      "id": "B",
+      "text": "0.707 rad/sec"
+    },
+    {
+      "id": "D",
+      "text": "1.732 rad/sec"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-21 (Nyquist Plot - III)."
+}

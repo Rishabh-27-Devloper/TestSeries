@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D09_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part- 2)",
+  "dppNumber": 9,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "[MCQ]\nA counter sequence is given as:\n2 \u2013 3 \u2013 1 \u2013 0 \u2013 4 \u2013 7, then MOD no. of the counter \nis \n (a) 7\n(b) 6\n(c) 5\n(d) 4",
+  "imageUrl": "assets/practice/de/dpp_09_sequential_circuits_part_2/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "7"
+    },
+    {
+      "id": "B",
+      "text": "6"
+    },
+    {
+      "id": "C",
+      "text": "5"
+    },
+    {
+      "id": "D",
+      "text": "4"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-09 (Sequential Circuits (Part- 2))."
+}

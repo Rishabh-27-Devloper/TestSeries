@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \n \n \n \nMEDIUM\n10. The magnitude plot for minimum phase system is shown\nin figure. \n \n \n \nThe transfer function of the system is  \n \n(a) 4 (1 + s/2)/s2 (1 + s/20) \n \n(b) 8 (1 + s/2)/s2 (1 + s/20) \n \n(c) 20 (1 + s/2)/s2 (1 + s/20) \n \n(d) None \nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "8"
+    },
+    {
+      "id": "C",
+      "text": "20"
+    },
+    {
+      "id": "D",
+      "text": "None"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

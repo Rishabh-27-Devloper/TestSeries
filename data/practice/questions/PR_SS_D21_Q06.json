@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D21_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis Using Laplace Transform",
+  "dppNumber": 21,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A CT time system with an input x(t) and output y(t) is \ndescribed by following different equation \n \n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51(\ud835\udc61\ud835\udc61)\n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51 + 10y(t) = x(t) \n \nAssume that initial conditions are zero. If the input to \nthe \nsystem \nbe \nx(t) \n= \n8e\u201310t \nu(t), \nthen \n\ud835\udc66\ud835\udc66(\ud835\udc61\ud835\udc61)\n\ud835\udc61\ud835\udc61\ud835\udc61\ud835\udc61(\ud835\udc61\ud835\udc61) = _____________",
+  "imageUrl": "assets/practice/ss/dpp_21_system_analysis_using_laplace_transfor/q6.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Signal and System DPP-21 (System Analysis Using Laplace Transform)."
+}

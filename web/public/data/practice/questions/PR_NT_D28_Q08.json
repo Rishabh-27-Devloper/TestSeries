@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D28_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 28,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The input admittance of circuit at \uf077 = 1 rad/sec is . \n \n \n(a)  0.317 \u2013 j0.146 \n \n(b)  0.317 + j0.146 \n \n(c)  0.481 + j0.149 \n \n(d)  \u20130.317 + j0.146",
+  "imageUrl": "assets/practice/nt/dpp_28_phasor_diagram/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.317 \u2013 j0.146"
+    },
+    {
+      "id": "B",
+      "text": "0.317 + j0.146"
+    },
+    {
+      "id": "C",
+      "text": "0.481 + j0.149"
+    },
+    {
+      "id": "D",
+      "text": "\u20130.317 + j0.146"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-28 (Phasor Diagram)."
+}

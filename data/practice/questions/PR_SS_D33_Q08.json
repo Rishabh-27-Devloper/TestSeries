@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D33_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 33,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A signal x[n] has the following z-transform \nX(z) = log (1 \u2013 2z), ROC: |z| < \n1\n2. Let the signal be \nx[n] = 1\nn (1\n2)\nn\nu[a \u2212n] \n \nWhat is the value of a in the expression?",
+  "imageUrl": "assets/practice/ss/dpp_33_signal_system/q8.png",
+  "options": null,
+  "correctAnswer": "-1",
+  "toleranceMin": -0.99,
+  "toleranceMax": -1.01,
+  "explanation": "Practice Question from Signal and System DPP-33 (Signal & System)."
+}

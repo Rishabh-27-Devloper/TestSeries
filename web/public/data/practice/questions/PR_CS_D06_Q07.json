@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D06_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the prototype 2nd order under \u2013 damped system, \nincreasing the undamped natural frequency will \ngenerally increase the settling time of the step \nresponse. The above statement is _____. \n \n(a) True \n(b) False \n \n(c) Insufficient data \n(d) None \nMCQ \n \n \n \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    },
+    {
+      "id": "C",
+      "text": "Insufficient data"
+    },
+    {
+      "id": "D",
+      "text": "None"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

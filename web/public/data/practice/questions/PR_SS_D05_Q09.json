@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D05_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 5,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following statement is not true?\n (a)\nThe product of two even function is even.\n(b)\nThe product of two odd function is even.\n(c)\nThe product of an even and odd function is\nneither even nor odd.\n(d)\nThe product of an even and odd function is odd",
+  "imageUrl": "assets/practice/ss/dpp_05_signal_and_systems/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "The product of two even function is even."
+    },
+    {
+      "id": "B",
+      "text": "The product of two odd function is even."
+    },
+    {
+      "id": "C",
+      "text": "The product of an even and odd function is"
+    },
+    {
+      "id": "D",
+      "text": "The product of an even and odd function is odd"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-05 (Signal and Systems)."
+}

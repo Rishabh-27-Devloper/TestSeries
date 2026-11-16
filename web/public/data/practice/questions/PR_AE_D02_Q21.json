@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D02_Q21",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 21,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the circuit shown below the input voltage vi, is as \nshown in figure. \n \n \nAssume the RC time constant large and cutin voltage \nof diode Vr = 0. The output voltage vo is \n \n(a)  \n \n \n \n \n \n(b)\n~\nC\nvi\nR\n+\n\u2013\n5 V\nvo\nvi\n10\n\u201320\nt\nt\nvo\n35\n5\nv",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q21.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": "~"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

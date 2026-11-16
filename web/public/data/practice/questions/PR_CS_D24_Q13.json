@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D24_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n13. Consider the List I and List II \n \nList I \n \nP. Derivative control \n \nQ. Integral control \n \nR. Rate feedback control",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q13.png",
+  "options": null,
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D05_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-1 & 2)",
+  "dppNumber": 5,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The transfer function for a single loop non \u2013 unity \nnegative feedback control system is \n( )\n2\n1\nG s\ns\ns\n2\n=\n+ +\n \n( )\n(\n)\n1\nH s\ns\n1\n=\n+\n \n \nThe steady state output due to unit step input is \n_______.",
+  "imageUrl": "assets/practice/cs/dpp_05_time_response_analysis_part_1_2/q11.png",
+  "options": null,
+  "correctAnswer": "0.33",
+  "toleranceMin": 0.28,
+  "toleranceMax": 0.38,
+  "explanation": "Practice Question from Control System DPP-05 (Time Response Analysis - (Part-1 & 2))."
+}

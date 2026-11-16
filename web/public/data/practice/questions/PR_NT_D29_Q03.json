@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D29_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Phasor Diagram",
+  "dppNumber": 29,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The angle between IL and IC is ____.  \n \n \n(a) 143.13o \n(b) 135o \n \n(c) 36.86o \n(d) 157o",
+  "imageUrl": "assets/practice/nt/dpp_29_phasor_diagram/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "143.13o"
+    },
+    {
+      "id": "B",
+      "text": "135o"
+    },
+    {
+      "id": "C",
+      "text": "36.86o"
+    },
+    {
+      "id": "D",
+      "text": "157o"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-29 (Phasor Diagram)."
+}

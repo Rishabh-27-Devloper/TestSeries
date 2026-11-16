@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D04_Q12",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Voltage across 20 \u03a9 resistance is _____ V.\n2 A \uf031\uf030 \uf057\n\uf032\uf030 \uf057\n\uf036\uf030 \uf057\n+\n+\n\u2013\n\u2013\n180 V\nV\nN1\nN1",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q12.png",
+  "options": null,
+  "correctAnswer": "-100",
+  "toleranceMin": -99.0,
+  "toleranceMax": -101.0,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

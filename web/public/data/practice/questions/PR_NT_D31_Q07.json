@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D31_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 31,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Find resonant frequency \uf0770 of given circuit  \n \n \n(a) 8.54 rad/sec \n(b) 0.25 rad/sec \n \n(c) 0.711 rad/sec \n(d) 3.57 rad/sec",
+  "imageUrl": "assets/practice/nt/dpp_31_resonance/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "8.54 rad/sec"
+    },
+    {
+      "id": "B",
+      "text": "0.25 rad/sec"
+    },
+    {
+      "id": "C",
+      "text": "0.711 rad/sec"
+    },
+    {
+      "id": "D",
+      "text": "3.57 rad/sec"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-31 (Resonance)."
+}

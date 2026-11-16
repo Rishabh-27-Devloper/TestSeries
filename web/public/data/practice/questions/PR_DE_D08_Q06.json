@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D08_Q06",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-1)",
+  "dppNumber": 8,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In J-K FF, to change output from 0 to 1 input is\nchanged from\n (a) J = 0, K = 0 to J = 0, K = 1\n(b) J = 0, K = 1 to J = 1, K = 0\n(c)\nJ = 0, K = 1 to J = 0, K = 0\n(d) J = 1, K = 0 to J = 0, K = 1\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_08_sequential_circuits_part_1/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "J = 0, K = 0 to J = 0, K = 1"
+    },
+    {
+      "id": "B",
+      "text": "J = 0, K = 1 to J = 1, K = 0"
+    },
+    {
+      "id": "C",
+      "text": "J = 0, K = 1 to J = 0, K = 0"
+    },
+    {
+      "id": "D",
+      "text": "J = 1, K = 0 to J = 0, K = 1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-08 (Sequential Circuits (Part-1))."
+}

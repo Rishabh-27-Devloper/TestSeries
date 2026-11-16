@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D24_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 24,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Find voltage across inductor and current flowing \nthrough capacitor at t = 0+.  \n \n \n(a) 3/7 V, 4/3 A \n(b) 5 V, 0 A \n \n(c) 0 V, 0 A \n(d) 75/7 V, 20/7 A",
+  "imageUrl": "assets/practice/nt/dpp_24_transient_analysis/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3/7 V, 4/3 A"
+    },
+    {
+      "id": "B",
+      "text": "5 V, 0 A"
+    },
+    {
+      "id": "C",
+      "text": "0 V, 0 A"
+    },
+    {
+      "id": "D",
+      "text": "75/7 V, 20/7 A"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-24 (Transient Analysis)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q18",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 18,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the circuit shown below the steady-state current \nI is : \n       \n \n \n(A) 0 A \n \n \n(B) \n \n \n(C) \n \n \n(D) \n A \nInstrumentation : 2008 \n \n5 2 cos(1000 )t A\n5 2 cos(1000\n)\n4\n\u03c0\nt\nA\n\uf02d\n5 2",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q18.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0 A"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "A"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

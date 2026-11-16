@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D04_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 4,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the circuit shown in figure. The current\nthrough 18 \u03a9 resistor is _____A.\n\uf035\uf057\n\uf031\uf033\uf057\n\uf031\uf031\uf057\n\uf031\uf034\uf057\n\uf032\uf032\uf057\n\uf031\uf038\uf057\n\uf039\uf057\n44V\n\u2013\n+",
+  "imageUrl": "assets/practice/nt/dpp_04_basic_concept_of_network/q1.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-04 (Basic Concept of Network)."
+}

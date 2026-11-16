@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D03_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the signal flow graph below, the gain C/R =_____.\nNAT \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q11.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

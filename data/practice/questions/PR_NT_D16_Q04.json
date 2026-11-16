@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D16_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 16,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Norton current at terminal ab is _____A. \n2A\n\u2013 +\n12 V\n\uf035\uf057\n\uf038\uf057\n\uf034\uf057\na \nb",
+  "imageUrl": "assets/practice/nt/dpp_16_network_theorem/q4.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-16 (Network Theorem)."
+}

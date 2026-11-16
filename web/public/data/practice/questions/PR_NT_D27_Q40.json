@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q40",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 40,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The circuit below is excited by a sinusoidal source. \nThe value of R, in \u03a9, for which the admittance of the \ncircuit \nbecomes \na pure conductance at all \nfrequencies is _________. \n \nElectrical : 2016",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q40.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

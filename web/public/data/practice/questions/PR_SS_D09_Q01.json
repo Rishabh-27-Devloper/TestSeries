@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D09_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Basic Operations, Shifting/Reversal/Scaling,",
+  "dppNumber": 9,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "S1 is causal and stable.",
+  "imageUrl": "assets/practice/ss/dpp_09_basic_operations_shifting_reversal_sca/q1.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-09 (Basic Operations, Shifting/Reversal/Scaling,)."
+}

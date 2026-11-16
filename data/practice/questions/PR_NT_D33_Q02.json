@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D33_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Given\nV = 110 sin (wt + 80\u00b0)\ni = 30 sin (wt + 50\u00b0)\nThe value of reactive power is ______.\n(a)\n1650 VA\n(b) 850 VA\n(c)\n3300 VAr\n(d) 850 VAr",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1650 VA"
+    },
+    {
+      "id": "B",
+      "text": "850 VA"
+    },
+    {
+      "id": "C",
+      "text": "3300 VAr"
+    },
+    {
+      "id": "D",
+      "text": "850 VAr"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

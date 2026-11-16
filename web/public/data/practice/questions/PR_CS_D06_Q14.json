@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D06_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Common Data for Question 14&15 \n \nA system has a damping ratio of 1.25, a natural \nfrequency of 200 rad/s and DC gain of 1. \nMCQ \n \n \n \n       MEDIUM  \n14. The response of the system to a unit step input is \n \n(a) \n\u201350t\n\u2013150t\n5\n2\n1\ne\n\u2013\ne\n3\n3\n+\n (b) \n\u2013100t\n\u2013400t\n4\n1\n1\ne\ne\n3\n3\n\u2212\n+\n \n \n(c) \n\u2013100t\n\u2013400t\n1\n4\n1\ne\ne\n3\n3\n+\n\u2212\n(d) \n\u201350t\n\u2013150t\n2\n5\n1\ne\ne\n3\n3\n+\n\u2212\n \nMCQ \n \n \n \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u201350t"
+    },
+    {
+      "id": "B",
+      "text": "\u2013100t"
+    },
+    {
+      "id": "C",
+      "text": "\u2013100t"
+    },
+    {
+      "id": "D",
+      "text": "\u201350t"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

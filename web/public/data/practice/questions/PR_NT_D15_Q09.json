@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D15_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following theorems can be used to find \nsolution to networks with two or more sources that \nare NOT in series and parallel? \n \n(a) Millman's theorem \n \n(b) Thevenin's theorem \n \n(c) Norton's theorem \n \n(d) Superposition theorem",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Millman's theorem"
+    },
+    {
+      "id": "B",
+      "text": "Thevenin's theorem"
+    },
+    {
+      "id": "C",
+      "text": "Norton's theorem"
+    },
+    {
+      "id": "D",
+      "text": "Superposition theorem"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D05_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 5,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of I in given circuit is_____ A. \n \n \n(a) 3 A \n(b) \u2013 3 A \n \n(c) 6 A \n(d) \u2013 6 A \n \n \n40\uf057\n\uf036\uf030\uf057\n1\uf036\uf057\n4V +\u2013",
+  "imageUrl": "assets/practice/nt/dpp_05_basic_concept_of_network/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3 A"
+    },
+    {
+      "id": "B",
+      "text": "\u2013 3 A"
+    },
+    {
+      "id": "C",
+      "text": "6 A"
+    },
+    {
+      "id": "D",
+      "text": "\u2013 6 A"
+    }
+  ],
+  "correctAnswer": "0.1",
+  "toleranceMin": 0.05,
+  "toleranceMax": 0.15000000000000002,
+  "explanation": "Practice Question from Network Theory DPP-05 (Basic Concept of Network)."
+}

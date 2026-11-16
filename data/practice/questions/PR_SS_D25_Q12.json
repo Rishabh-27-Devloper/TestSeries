@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D25_Q12",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 25,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Let Y(jf) is the Fourier transform of a signal \ny(t) = 20x(4t), where x(t) is shown as \n \nWhat is the value of Y(j2)?",
+  "imageUrl": "assets/practice/ss/dpp_25_signal_system/q12.png",
+  "options": null,
+  "correctAnswer": "3.18",
+  "toleranceMin": 3.1482,
+  "toleranceMax": 3.2118,
+  "explanation": "Practice Question from Signal and System DPP-25 (Signal & System)."
+}

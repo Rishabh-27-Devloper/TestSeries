@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_COM_D01_Q05",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A DSB modulated signal x(t) = Am(t) cos 2\u03c0fct is mixed\n(multiplied) with a local carrier xL(t) = cos(2\u03c0fct + \u03b8)\nand output is passed through a LPF with a bandwidth\nequal to the bandwidth of the message m(t). If the\npower of the signal at the output of the low pass filter\nis Pout and the power of the modulated signal by P\u03bc, the\nout\nP\nP\uf06d\n is \n (a)\n0.5 cos\u03b8\n(b) cos2\u03b8\n1",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5 cos\u03b8"
+    },
+    {
+      "id": "B",
+      "text": "cos2\u03b8"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

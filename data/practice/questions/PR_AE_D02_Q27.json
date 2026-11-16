@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q27",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 27,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The power rating required for the load resistor is \n \n(a) 576 mW \n(b) 360 \uf06dW \n \n(c) 480 mW \n(d) 75 \uf06dW",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q27.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "576 mW"
+    },
+    {
+      "id": "B",
+      "text": "360 \uf06dW"
+    },
+    {
+      "id": "C",
+      "text": "480 mW"
+    },
+    {
+      "id": "D",
+      "text": "75 \uf06dW"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

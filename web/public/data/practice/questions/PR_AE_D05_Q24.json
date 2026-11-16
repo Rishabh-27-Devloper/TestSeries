@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q24",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 24,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "An audio amplifier is designed to have a small signal \nbandwidth of 20 kHz. The open loop low-frequency \nvoltage gain of the op-amp is 105 and unit gain \nbandwidth is 1 MHz. What is the maximum closed-\nloop voltage gain for this amplifier? \n \n(a) 500 \n(b) 5 \u00d7 106 \n \n(c) 2 \u00d7 106 \n(d) 50",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q24.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "500"
+    },
+    {
+      "id": "B",
+      "text": "5 \u00d7 106"
+    },
+    {
+      "id": "C",
+      "text": "2 \u00d7 106"
+    },
+    {
+      "id": "D",
+      "text": "50"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

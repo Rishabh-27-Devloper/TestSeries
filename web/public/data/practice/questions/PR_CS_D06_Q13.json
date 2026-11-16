@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D06_Q13",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis (Part-3&4)",
+  "dppNumber": 6,
+  "questionNumber": 13,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The system shown below has second order response \nwith a damping ratio of 0.6 and a frequency of damped \noscillation of 10 rad/s. The value of K1 and K2 are \nrespectively \n \n(a) 12.5 and 15 \n(b) 156.25 and 15 \n \n(c) 156.25 and 14 \n(d) 12.5 and 14 \nCommon Data for Question 14&15 \n \nA system has a damping ratio of 1.25, a natural \nfrequency of 200 rad/s and DC gain of 1. \nMCQ \n \n \n \n       MEDIUM  \nR(s) +\n\u2013\nC(s)\n(\n)\n2\n1\ns s\n1\nk s\n+\n+\nk1",
+  "imageUrl": "assets/practice/cs/dpp_06_time_response_analysis_part_3_4/q13.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "12.5 and 15"
+    },
+    {
+      "id": "B",
+      "text": "156.25 and 15"
+    },
+    {
+      "id": "C",
+      "text": "156.25 and 14"
+    },
+    {
+      "id": "D",
+      "text": "12.5 and 14"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-06 (Time Response Analysis (Part-3&4))."
+}

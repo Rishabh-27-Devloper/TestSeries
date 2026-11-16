@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D36_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 36,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "An input [ ]\n[\n]\nk\nx n\nn\n4k\n\u221e\n=\u2212\u221e\n=\n\u03b4\n\u2212\n\u2211\n is applied to a LTI \nsystem with frequency response H(ej\u2126), the output is \nfound to be \n[ ]\n5 n\ny n\ncos\n2\n4\n\u03c0\n\u03c0\n\uf8ee\n\uf8f9\n=\n+\n\uf8ef\n\uf8fa\n\uf8f0\n\uf8fb\n. The value of \nj 2\nH e\n\u03c0\n\uf8eb\n\uf8f6\n\uf8ec\n\uf8f7\n\uf8ec\n\uf8f7\n\uf8ed\n\uf8f8\n equals to  \n(a)  0 \n(b)  \nj4\n2e\n\u03c0\n\u2212\n \n(c) \nj4\n2e\n\u03c0\n \n(d)  2",
+  "imageUrl": "assets/practice/ss/dpp_36_signal_system/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "j4"
+    },
+    {
+      "id": "C",
+      "text": "j4"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-36 (Signal & System)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D18_Q02",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot -(Part-03 & 04)",
+  "dppNumber": 18,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "MCQ \nMEDIUM\n2.\nThe asymptotic approximation of the log-\nmagnitude versus frequency plot of a certain system\nis shown in figure. Its transfer function is\n(a) \n2\n50(s\n5)\ns (s\n2)(s\n25)\n+\n+\n+\n(b) \n2\n20(s\n5)\ns (s\n2)(s\n25)\n+\n+\n+\n(c) \n2\n10s (s\n5)\n(s\n2)(s\n25)\n+\n+\n+\n(d) \n20(s\n5)\ns(s\n2)(s\n25)\n+\n+\n+\nMCQ\nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_18_bode_plot_part_03_04/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "20"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-18 (Bode Plot -(Part-03 & 04))."
+}

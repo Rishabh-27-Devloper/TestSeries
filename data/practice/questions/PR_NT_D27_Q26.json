@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q26",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 26,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The average total power delivered by the two \nsources is  \n \n(A)  0 W \n(B)  0.5 W \n \n(C)  2 W \n(D)  4 W \nInstrumentation : 2011",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q26.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0 W"
+    },
+    {
+      "id": "B",
+      "text": "0.5 W"
+    },
+    {
+      "id": "C",
+      "text": "2 W"
+    },
+    {
+      "id": "D",
+      "text": "4 W"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

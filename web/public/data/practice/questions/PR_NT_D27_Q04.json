@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D27_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The current, i(t), through a 10-\n resistor in series \nwith an inductance, is given by\n Amperes. \nTh\nRMS\nl\nf th\nt\nd th\n\uf057\n0\n0\n( )\n3 4sin(100\n45 )\n4sin(300\n60 )\ni t\nt\nt\n\uf03d\uf02b\n\uf02b\n\uf02b\n\uf02b",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q4.png",
+  "options": null,
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

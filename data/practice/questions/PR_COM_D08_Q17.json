@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D08_Q17",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Information Theory",
+  "dppNumber": 8,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the Huffman coding shown in figure \nbelow. The codeword length of symbols B, C, E and \nF are respectively. \n \n \n(a)  3, 3, 4, 5 \n(b)  3, 4, 5, 6  \n \n(c)  2, 3, 3, 4 \n(d)  2, 4, 4, 5 \n \nCommon Data For 18 and 19 : \nA voice-grade channel of the telephone network has a band \nwidth of 3.4 kHz. \nA\n3\n8\nB\n3\n16\nC\n3\n16\nD\n1\n8\nE\n1\n16\nF\n1\n32\nG\n1\n32\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0",
+  "imageUrl": "assets/practice/comm/dpp_08_information_theory/q17.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3, 3, 4, 5"
+    },
+    {
+      "id": "B",
+      "text": "3, 4, 5, 6"
+    },
+    {
+      "id": "C",
+      "text": "2, 3, 3, 4"
+    },
+    {
+      "id": "D",
+      "text": "2, 4, 4, 5"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-08 (Information Theory)."
+}

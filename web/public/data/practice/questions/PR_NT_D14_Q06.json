@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D14_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Thevenin theorem and MPTT",
+  "dppNumber": 14,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the circuit shown, Thevenin\u2019s voltage and \nThevenin\u2019s equivalent resistance at terminals a and b \nis, \n \n \n(a) 5V and 2 ohms (b) 7.5V and 2.5 ohms \n \n(c) 4V and 2 ohms (d) 3V and 2.5 ohms \n \n \n+\u2013\n5\u2126\n5\u2126\na \nb\n1A\n0.5i1\ni1\n10V",
+  "imageUrl": "assets/practice/nt/dpp_14_thevenin_theorem_and_mptt/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5V and 2 ohms"
+    },
+    {
+      "id": "B",
+      "text": "7.5V and 2.5 ohms"
+    },
+    {
+      "id": "C",
+      "text": "4V and 2 ohms"
+    },
+    {
+      "id": "D",
+      "text": "3V and 2.5 ohms"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-14 (Thevenin theorem and MPTT)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D34_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 34,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Let x1[n], x2[ n] and x3[n] be three discrete time \nsignals and X1(z), X2(z) and X3(z) are their \nz-transform respectively given as \n \n2\n1\nz\nX (z)\n,\n(z\n1)(z\n0.5)\n\uf03d\n\uf02d\n\uf02d\n \n \n2\nz\nX (z)\n,\n(z 1)(z\n0.5)\n\uf03d\n\uf02d\n\uf02d\n \n \nand \n3\n1\nX (z)\n(z 1)(z\n0.5)\n\uf03d\n\uf02d\n\uf02d\n \n \nThen x1[n], x2[n] and x3[n] are related \n \n(a) x1[n \u2013 2] = x2[n \u2013 1] = x3[n] \n \n(b) x1[n + 2] = x2[n + 1] = x3[n] \n \n(c) x1[n] = x2[n \u2013 1] = x3[n \u2013 2] \n \n(d) x1[n + 1] = x2[n \u2013 1] = x3[n]",
+  "imageUrl": "assets/practice/ss/dpp_34_signal_system/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "x1[n \u2013 2] = x2[n \u2013 1] = x3[n]"
+    },
+    {
+      "id": "B",
+      "text": "x1[n + 2] = x2[n + 1] = x3[n]"
+    },
+    {
+      "id": "C",
+      "text": "x1[n] = x2[n \u2013 1] = x3[n \u2013 2]"
+    },
+    {
+      "id": "D",
+      "text": "x1[n + 1] = x2[n \u2013 1] = x3[n]"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-34 (Signal & System)."
+}

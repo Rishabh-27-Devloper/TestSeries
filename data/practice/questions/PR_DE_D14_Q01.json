@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D14_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In a 4-bit SAR type ADC, conversion time for input\nanalog voltage VAN = 2.2 Volt is 15 nsec. Clock\nfrequency used is _____MHz.\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q1.png",
+  "options": null,
+  "correctAnswer": "26.67",
+  "toleranceMin": 26.4033,
+  "toleranceMax": 26.936700000000002,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

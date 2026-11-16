@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D10_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A unity feedback system has forward loop transfer\nfunction \n3\n( )\n(\n1) (\n2)\nK\nG s\ns\ns\n=\n+\n+\n. The system is stable \nfor a maximum value of k = _______. \nNAT \n BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q12.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

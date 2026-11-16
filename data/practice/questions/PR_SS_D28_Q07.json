@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D28_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Sampling and It\u2019s Type",
+  "dppNumber": 28,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "\ud835\udf0b\n7. \nConsider a band-pass signal z1(t) is shown below. The \nminimum sampling rate required for this signal to \nprevent loss of information is _____ kHz.",
+  "imageUrl": "assets/practice/ss/dpp_28_sampling_and_it_s_type/q7.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Signal and System DPP-28 (Sampling and It\u2019s Type)."
+}

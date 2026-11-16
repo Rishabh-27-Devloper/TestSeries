@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D05_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 1,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Two no\u2019s A & B are two bit no\u2019s as\nA = a1a0 and B = b1b0\nThen no. of combination in which A > 2B _______.\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q1.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

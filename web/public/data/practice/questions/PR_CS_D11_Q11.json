@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n \n \n   EASY \n11. \nA unity feedback system has forward path transfer \nfunction \n \n \n2\n(\n2)\n( )\n;\n0\n(\n4\n8)(\n3)\nKs s\nG s\nK\ns\ns\ns\n+\n=\n\uf03e\n\u2212\n+\n+\n \n \nIf the system is marginally stable, then frequency of \noscillation is rad/sec is ________. \n \nNAT\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q11.png",
+  "options": null,
+  "correctAnswer": "2.45",
+  "toleranceMin": 2.4255,
+  "toleranceMax": 2.4745000000000004,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

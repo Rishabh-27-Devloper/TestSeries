@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D13_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "With the following equations, the time-invariant \nsystems are \n \n1. \n\uf028\uf029\n\uf028\uf029\n\uf028\uf029\n\uf028\uf029\n2\n2\n2\n5\nd y t\nd\nt\ny t\ny t\nx t\ndt\ndt\n\uf02b\n\uf02b\n\uf03d\n \n \n2. \n\uf028\uf029\n\uf028\uf029\n2x t\ny t\ne\uf02d\n\uf03d\n \n2\nd\n\uf0e9\n\uf0f9",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q2.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q30",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 30,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The voltage gain Av is \n \n(a) 0.89 \n(b) \u20130.89 \n \n(c) 2.79 \n(d) \u20132.79",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q30.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.89"
+    },
+    {
+      "id": "B",
+      "text": "\u20130.89"
+    },
+    {
+      "id": "C",
+      "text": "2.79"
+    },
+    {
+      "id": "D",
+      "text": "\u20132.79"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

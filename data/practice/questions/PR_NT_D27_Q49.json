@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_NT_D27_Q49",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 49,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the circuit shown, if v(t) = 2 sin(1000 t) volts, \n1k\nR \uf03d\n\uf057 and C = F\n\uf06d, then the steady-state current \ni(t), in milliAmperes (mA), is \n \n \n(A)  2 sin(1000 t) + 2 cos(1000 t)  \n \n(B)  sin(1000 t) + 3 cos(1000 t) \n \n(C)  sin(1000 t) + cos(1000 t)",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q49.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 sin"
+    },
+    {
+      "id": "B",
+      "text": "sin"
+    },
+    {
+      "id": "C",
+      "text": "sin"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

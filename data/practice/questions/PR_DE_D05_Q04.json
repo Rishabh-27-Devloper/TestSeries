@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D05_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A MUX circuit is as given below:\nf(A, B, C, D) is: \n(a)\n\uf053(0, 1, 2, 3, 4, 5, 6, 14, 15)\n(b)\n\uf053(0, 1, 2, 3, 4, 6, 13, 15) \n(c)\n\uf053(0, 1, 2, 3, 4, 6, 14, 15) \n(d) \uf053(1, 2, 3, 4, 5, 6, 7, 13, 14, 15)\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf053"
+    },
+    {
+      "id": "B",
+      "text": "\uf053"
+    },
+    {
+      "id": "C",
+      "text": "\uf053"
+    },
+    {
+      "id": "D",
+      "text": "\uf053"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

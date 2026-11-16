@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_AE_D02_Q38",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 38,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The new value of reference voltage and the \ntemperature coefficient series combination of diode D \nand zener diode. \n \n \n \n(a) 6.9 V, \u22120.008%/\u00b0C \n \n(b) 6.9 V, \u22120.0289%/\u00b0C \nV = 10 V\nV1\nVr\nVrof\nD\nR",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q38.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "6.9 V, \u22120.008%/\u00b0C"
+    },
+    {
+      "id": "B",
+      "text": "6.9 V, \u22120.0289%/\u00b0C"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

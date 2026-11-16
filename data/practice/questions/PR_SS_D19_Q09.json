@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D19_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signals & Systems",
+  "dppNumber": 19,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Laplace transform of signal t3 u(t) is k/s4 such that\nthe value of k is ___",
+  "imageUrl": "assets/practice/ss/dpp_19_signals_systems/q9.png",
+  "options": null,
+  "correctAnswer": "6",
+  "toleranceMin": 5.9399999999999995,
+  "toleranceMax": 6.0600000000000005,
+  "explanation": "Practice Question from Signal and System DPP-19 (Signals & Systems)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D10_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The feedback system with characteristic equation,\ns4 + 20ks3 + 5s2 + 10s +15 = 0 is\n(a)\nStable for all values of K\n(b) Stable for positive value of K\n(c)\nStable for \u221e > K > 70\n(d) Unstable for all values of K\nMCQ \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stable for all values of K"
+    },
+    {
+      "id": "B",
+      "text": "Stable for positive value of K"
+    },
+    {
+      "id": "C",
+      "text": "Stable for \u221e > K > 70"
+    },
+    {
+      "id": "D",
+      "text": "Unstable for all values of K"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

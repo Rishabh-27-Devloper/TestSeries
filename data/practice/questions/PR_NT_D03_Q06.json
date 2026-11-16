@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D03_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of I in given figure is\n(a)\n\u20132A\n(b) 2.5 A\n(c)\n4A\n(d) 2A",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u20132A"
+    },
+    {
+      "id": "B",
+      "text": "2.5 A"
+    },
+    {
+      "id": "C",
+      "text": "4A"
+    },
+    {
+      "id": "D",
+      "text": "2A"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

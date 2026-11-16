@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D04_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the two continuous-time signals defined \nbelow: \n \n1\n| t |,\n1\nt\n1\nx (t)\n0,\notherwise\n\uf02d\uf0a3\uf0a3\n\uf0ec\n\uf03d\uf0ed\n\uf0ee\n \n \n2\n1 | t |,\n1\nt\n1\nx (t)\n0,\notherwise\n\uf02d\n\uf02d\uf0a3\uf0a3\n\uf0ec\n\uf03d\uf0ed\n\uf0ee\n \n \n These signals are sampled with a sampling period of \nT = 0.25 seconds to obtain discrete-time signals x1[n]",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q10.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}

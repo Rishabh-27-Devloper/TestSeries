@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_DE_D10_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-3)",
+  "dppNumber": 10,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "[MCQ] \n \n \n           \n \n \nWe have two sequential circuits: \n \nCircuit-A \u2192 MOD number M. \n \nCircuit-B \u2192 MOD number N.  \n \nTo design a counter of MOD no. MN, we can \n \n(a)  Cascade Circuit-A and Circuit-B",
+  "imageUrl": "assets/practice/de/dpp_10_sequential_circuits_part_3/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cascade Circuit-A and Circuit-B"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-10 (Sequential Circuits (Part-3))."
+}

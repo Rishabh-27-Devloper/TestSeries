@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q53",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 53,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider  the  circuit  shown  in  the  figure  with  \ninput  \ud835\udc49(\ud835\udc61)  in  volts.  The  sinusoidal steady state \ncurrent \ud835\udc3c(\ud835\udc61) flowing through the circuit is shown \ngraphically (where \ud835\udc61 is in seconds). The circuit \nelement \ud835\udc4d can be _________. \n \n \n(A) a capacitor of 1 F \n \n(B) an inductor of 1 H \n \n(C) a capacitor of \n3 F \n \n(D) an inductor of \n3 H",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q53.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "a capacitor of 1 F"
+    },
+    {
+      "id": "B",
+      "text": "an inductor of 1 H"
+    },
+    {
+      "id": "C",
+      "text": "a capacitor of"
+    },
+    {
+      "id": "D",
+      "text": "an inductor of"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

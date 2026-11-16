@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D15_Q17",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "( )\n( )\n( )\n17. The FS coefficient of time domain signal x(t) is  \n \n| |\n1\n3\n\u2212\n\uf8eb\n\uf8f6\n= \uf8ec\n\uf8f7\n\uf8ed\n\uf8f8\nn\nn\nc\n \n \nThe fundamental frequency of signal is \u03c90 = 1. \n \nThe signal is  \n \n(a) \n4\n5\n3sin\n+\nt \n \n(b) \n5\n4\n3sin\n+\nt \n \n(c) \n5\n4\n3cos\n+\nt \n \n(d) \n4\n5\n3cos\n+\nt",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q17.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "5"
+    },
+    {
+      "id": "C",
+      "text": "5"
+    },
+    {
+      "id": "D",
+      "text": "4"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

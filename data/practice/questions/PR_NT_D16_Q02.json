@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D16_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 16,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of Vth at ab is _____V. \n \n \n(a) 2 V \n(b) 4 V \n \n(c) 6 V \n(d) 8 V",
+  "imageUrl": "assets/practice/nt/dpp_16_network_theorem/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 V"
+    },
+    {
+      "id": "B",
+      "text": "4 V"
+    },
+    {
+      "id": "C",
+      "text": "6 V"
+    },
+    {
+      "id": "D",
+      "text": "8 V"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-16 (Network Theorem)."
+}

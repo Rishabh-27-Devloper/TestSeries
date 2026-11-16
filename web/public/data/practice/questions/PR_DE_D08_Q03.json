@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D08_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-1)",
+  "dppNumber": 8,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Which of the following is true?\n(a)\nS = 1, R = 1, is a valid state input for S-R ff\n(b) J = 1, K = 1 is a invalid state input for J-K ff\n(c)\nInput (0, 0) is hold state input for both S-R as\nwell as JK ff\n(d) None of these\n[MSQ]",
+  "imageUrl": "assets/practice/de/dpp_08_sequential_circuits_part_1/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "S = 1, R = 1, is a valid state input for S-R ff"
+    },
+    {
+      "id": "B",
+      "text": "J = 1, K = 1 is a invalid state input for J-K ff"
+    },
+    {
+      "id": "C",
+      "text": "Input"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-08 (Sequential Circuits (Part-1))."
+}

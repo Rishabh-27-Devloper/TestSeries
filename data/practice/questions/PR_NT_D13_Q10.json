@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D13_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 13,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the circuit shown below, VS is a constant voltage \nsource and IL  is a constant current load. \n \nThe value of IL that maximizes the power absorbed by \nthe constant current load is \n \n \n(a) \n4\nS\nV\nR \n(b) \n2\nS\nV\nR \n \n(c) \nS\nV\nR \n(d) \uf0a5",
+  "imageUrl": "assets/practice/nt/dpp_13_network_theorem/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "S"
+    },
+    {
+      "id": "D",
+      "text": "\uf0a5"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-13 (Network Theorem)."
+}

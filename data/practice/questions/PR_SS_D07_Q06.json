@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D07_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of System",
+  "dppNumber": 7,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A CT system has the input output relationship\ny(t) = x(5t). The system is\n (a)\nstatic, linear and time-variant\n(b)\ndynamic, linear and time-variant\n(c)\ndynamic, linear and time-invariant\n(d)\nstatic, linear and time-invariant",
+  "imageUrl": "assets/practice/ss/dpp_07_types_of_system/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "static, linear and time-variant"
+    },
+    {
+      "id": "B",
+      "text": "dynamic, linear and time-variant"
+    },
+    {
+      "id": "C",
+      "text": "dynamic, linear and time-invariant"
+    },
+    {
+      "id": "D",
+      "text": "static, linear and time-invariant"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-07 (Types of System)."
+}

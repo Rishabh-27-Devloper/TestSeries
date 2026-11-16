@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D10_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-3)",
+  "dppNumber": 10,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "[NAT]\nAsynchronous counter designed suing 4-FFs has\nMod number M. By adding FFs in cascade, we\nchanged the MOD number to 6M, then the minimum\nnumber of additional FFs used is_________.",
+  "imageUrl": "assets/practice/de/dpp_10_sequential_circuits_part_3/q4.png",
+  "options": null,
+  "correctAnswer": "3",
+  "toleranceMin": 2.9699999999999998,
+  "toleranceMax": 3.0300000000000002,
+  "explanation": "Practice Question from Digital Electronics DPP-10 (Sequential Circuits (Part-3))."
+}

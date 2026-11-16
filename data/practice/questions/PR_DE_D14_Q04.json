@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D14_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In a 5-bit flash type ADC, number of comparators\nused are _______ .\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q4.png",
+  "options": null,
+  "correctAnswer": "31",
+  "toleranceMin": 30.69,
+  "toleranceMax": 31.31,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

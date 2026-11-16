@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_COM_D05_Q39",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 5,
+  "questionNumber": 39,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the minimum absolute channel bandwidth \nrequired for transmission of the PCM signal ? \n \n(a) 10.8 kHz \n(b) 5.4 kHz \n( )\n12 8 kH\n(d)\n21 6 kH",
+  "imageUrl": "assets/practice/comm/dpp_05_ece_in/q39.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10.8 kHz"
+    },
+    {
+      "id": "B",
+      "text": "5.4 kHz"
+    },
+    {
+      "id": "D",
+      "text": "21 6 kH"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-05 (ECE/IN)."
+}

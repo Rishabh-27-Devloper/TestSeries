@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D21_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "System Analysis Using Laplace Transform",
+  "dppNumber": 21,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Common Data for Q.1 and Q2. \nA continuous LTI system with an input x(t) and output y(t) \nis described by following differential equation \n \n2\n2\nd y(t)\ndy(t)\n2y(t)\nx(t)\ndt\ndt\n\u2212\n\u2212\n=\n \n1. \nIf the system is stable, the impulse response h(t) of \nthe system will be \n(a) \n2t\nt\n1\n1\ne u(t)\ne u(t)\n3\n3\n\u2212\n\u2212\n \n(b) \n2t\nt\n1\n1\ne u( t)\ne u( t)\n3\n3\n\u2212\n\u2212\n\u2212\n+\n\u2212\n \n(c) \n2t\nt\n1\n1\ne u( t)\ne u(t)\n3\n3\n\u2212\n\u2212\n\u2212\n\u2212\n \n(d) \n2t\nt\n1\n1\ne u(t)\ne u(t)\n3\n3\n\u2212\n+",
+  "imageUrl": "assets/practice/ss/dpp_21_system_analysis_using_laplace_transfor/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2t"
+    },
+    {
+      "id": "B",
+      "text": "2t"
+    },
+    {
+      "id": "C",
+      "text": "2t"
+    },
+    {
+      "id": "D",
+      "text": "2t"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-21 (System Analysis Using Laplace Transform)."
+}

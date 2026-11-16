@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D05_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FA, FS, Comparator, Mux",
+  "dppNumber": 5,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A MUX circuit is implemented as shown: \n \n \noutput y represents  \n \n(a) Comparator output when B < A \n \n(b) Comparator output when B = A \n \n(c) Comparator output  when B > A \n \n(d) Comparator output when B < 2A",
+  "imageUrl": "assets/practice/de/dpp_05_fa_fs_comparator_mux/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Comparator output when B < A"
+    },
+    {
+      "id": "B",
+      "text": "Comparator output when B = A"
+    },
+    {
+      "id": "C",
+      "text": "Comparator output  when B > A"
+    },
+    {
+      "id": "D",
+      "text": "Comparator output when B < 2A"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-05 (FA, FS, Comparator, Mux)."
+}

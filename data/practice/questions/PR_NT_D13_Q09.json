@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D13_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 13,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "For given circuit, the value of maximum power is  \n________W",
+  "imageUrl": "assets/practice/nt/dpp_13_network_theorem/q9.png",
+  "options": null,
+  "correctAnswer": "13.44",
+  "toleranceMin": 13.3056,
+  "toleranceMax": 13.574399999999999,
+  "explanation": "Practice Question from Network Theory DPP-13 (Network Theorem)."
+}

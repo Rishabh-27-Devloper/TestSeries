@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D14_Q15",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "CTFS and Its Properties",
+  "dppNumber": 14,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "(c) 1 and 4 \n(d) 2 and 4 \n15. Which of the following signal will contain only sine \nterms and non-zero values of dc components in its \ntrigonometric Fourier series representation? \n \n(a) \n \n.",
+  "imageUrl": "assets/practice/ss/dpp_14_ctfs_and_its_properties/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "."
+    },
+    {
+      "id": "C",
+      "text": "1 and 4"
+    },
+    {
+      "id": "D",
+      "text": "2 and 4"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-14 (CTFS and Its Properties)."
+}

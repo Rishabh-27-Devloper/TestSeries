@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D15_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Superposition theorem can be applied only to \ncircuits having. \n \n(a) resistive elements \n \n(b) passive elements \n \n(c) linear bilateral elements \n \n(d) non linear elements",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "resistive elements"
+    },
+    {
+      "id": "B",
+      "text": "passive elements"
+    },
+    {
+      "id": "C",
+      "text": "linear bilateral elements"
+    },
+    {
+      "id": "D",
+      "text": "non linear elements"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

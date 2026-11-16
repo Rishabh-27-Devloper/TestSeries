@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D16_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 16,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A continuous time periodic signal having fundamental \nperiod T0 is define over some interval by \n \n( )\n0\n0\n,\n0\n2\n,\n0\n2\n\uf0ec\u2212\n\u2212\n\uf03c\uf03c\n\uf0ef\uf0ef\n= \uf0ed\n\uf0ef\n\uf03c\uf03c\n\uf0ef\uf0ee\nT\nA\nt\nx t\nT\nA\nt\n \n \nThe exponential CTFS coefficients of \n( )\n\u2212\uf0a5\n\uf074\n\uf074\n\uf0f2\nt\nx\nd is \n \n(a) \n(\n)\n(\n)\n0\n2\nsin\n/ 2\n2\n\uf0e9\n\uf0f9\n\uf070\n\uf0ea\n\uf0fa\n\u2212\n\uf0ea\n\uf0fa\n\uf070\n\uf0eb\n\uf0fb\nn\njAT\nn\n \n \n(b) \n(\n)\n(\n)\n0\n2\nsin\n/ 2\n1\n2\n\uf0e9\n\uf0f9\n\uf070\n\u2212\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n\uf070\n\uf0eb\n\uf0fb\nn\njAT\nn\n \n \n(c) \n(\n)\n(\n)\n0\n2\ncos\n1\n2\n\uf0e6\n\uf0f6\n\uf070\u2212\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf070\n\uf0e8\n\uf0f8\nn\nAT\nn\n \n \n(d) none of these",
+  "imageUrl": "assets/practice/ss/dpp_16_signal_system/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "none of these"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-16 (Signal System)."
+}

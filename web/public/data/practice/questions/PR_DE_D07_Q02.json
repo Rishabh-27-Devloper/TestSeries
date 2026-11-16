@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D07_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Mux, Encoder, Decoder",
+  "dppNumber": 7,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A digital circuit is as given below: \n \n \n \n \nOutput y is \n \n \n(a) ABC  \n \n(b) A \u2295 B \u2295 C \n \n(c) A \u2299 B \u2295 C \n \n(d) \n+\n+\nA\nB\nC \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_07_mux_encoder_decoder/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "ABC"
+    },
+    {
+      "id": "B",
+      "text": "A \u2295 B \u2295 C"
+    },
+    {
+      "id": "C",
+      "text": "A \u2299 B \u2295 C"
+    },
+    {
+      "id": "D",
+      "text": "+"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-07 (Mux, Encoder, Decoder)."
+}

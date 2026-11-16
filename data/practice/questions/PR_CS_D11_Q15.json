@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D11_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT  \n \n \n         BRAIN TEASER \n15. Consider a unity negative feedback system, with open \nloop transfer function \n(\n1)\n( )\n(\n2)(\n)\n+\n=\n+\n+\nK s\nG s\ns\ns\na\n (a is \npositive constant). If the system is stable for K > \u20134, \nthen value of \u2018a\u2019 is ______.",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q15.png",
+  "options": null,
+  "correctAnswer": "2",
+  "toleranceMin": 1.98,
+  "toleranceMax": 2.02,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

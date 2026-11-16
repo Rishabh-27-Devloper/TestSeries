@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D22_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Unilateral Laplace Transform",
+  "dppNumber": 22,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For \nthe \nfunction \nx(t), \nX(s) \nis \ngiven \nby \nX(s) = e-s\u1242\n\u22122\n\ud835\udc60\ud835\udc60(\ud835\udc60\ud835\udc60+2)\u1243. Then, what are the initial and final \nvalues of x(t), respectively? \n(a) 0 and 1 \n(b) 0 and \u20131 \n(c) 1 and 1 \n(d) \u20131 and 0 \ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc58\ud835\udc60\ud835\udc60",
+  "imageUrl": "assets/practice/ss/dpp_22_unilateral_laplace_transform/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0 and 1"
+    },
+    {
+      "id": "B",
+      "text": "0 and \u20131"
+    },
+    {
+      "id": "C",
+      "text": "1 and 1"
+    },
+    {
+      "id": "D",
+      "text": "\u20131 and 0 \ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc58\ud835\udc60\ud835\udc60"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-22 (Unilateral Laplace Transform)."
+}

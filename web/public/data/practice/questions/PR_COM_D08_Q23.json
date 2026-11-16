@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D08_Q23",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Information Theory",
+  "dppNumber": 8,
+  "questionNumber": 23,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The channel capacity of the noiseless discrete \nchannel illustrated below is \n \n \n(a) log2 n \n(b) 2 log2 n \n \n(c) \u2013log2 n \n(d) \u2013n log2 n \n \nx1\ny1\nx2\nx3\ny2\ny3\nxn\nyn\n1\n1\n1\nAny issue with Practice Sheet, please report\nFor more questions, kindly visit the library s\nPW Mobile APP: https://smart",
+  "imageUrl": "assets/practice/comm/dpp_08_information_theory/q23.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "log2 n"
+    },
+    {
+      "id": "B",
+      "text": "2 log2 n"
+    },
+    {
+      "id": "C",
+      "text": "\u2013log2 n"
+    },
+    {
+      "id": "D",
+      "text": "\u2013n log2 n"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-08 (Information Theory)."
+}

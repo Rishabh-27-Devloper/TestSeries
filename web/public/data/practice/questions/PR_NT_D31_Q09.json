@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D31_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 31,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of R for which the admittance of the \ncircuit become a pure conductance at all frequencies \nis ________ \uf057.",
+  "imageUrl": "assets/practice/nt/dpp_31_resonance/q9.png",
+  "options": null,
+  "correctAnswer": "14",
+  "toleranceMin": 13.86,
+  "toleranceMax": 14.14,
+  "explanation": "Practice Question from Network Theory DPP-31 (Resonance)."
+}

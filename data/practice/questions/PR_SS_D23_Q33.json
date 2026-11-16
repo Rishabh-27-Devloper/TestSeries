@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D23_Q33",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Laplace Transform",
+  "dppNumber": 23,
+  "questionNumber": 33,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The integrator given by  \n( )\n( )\n\u2212\uf0a5\n=\n\uf061\n\uf061\n\uf0f2\nt\ny t\nx\nd\n \n \n(a) has no finite singularities in its double sided \nLaplace transform H(s). \n \n(b) produces a bounded output for every causal \nbounded input. \n \n(c) produces a bounded output for every anti \ncausal bounded input. \n \n(d) has no finite zeros in its double sided Laplace \ntransform H(s).",
+  "imageUrl": "assets/practice/ss/dpp_23_laplace_transform/q33.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "has no finite singularities in its double sided"
+    },
+    {
+      "id": "B",
+      "text": "produces a bounded output for every causal"
+    },
+    {
+      "id": "C",
+      "text": "produces a bounded output for every anti"
+    },
+    {
+      "id": "D",
+      "text": "has no finite zeros in its double sided Laplace"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-23 (Laplace Transform)."
+}

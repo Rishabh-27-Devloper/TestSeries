@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D17_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Bode Plot (Part-01&02)",
+  "dppNumber": 17,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n6.\nThe transfer function for which the asymptotic dB\nmagnitude plot is shown below, consists of\n(a) 3 poles and 2 zeros\n(b) 2 poles and 2 zeros\n(c) 2 poles and 1 zeros\n(d) 3 poles and 1 zeros\nMCQ \nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_17_bode_plot_part_01_02/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3 poles and 2 zeros"
+    },
+    {
+      "id": "B",
+      "text": "2 poles and 2 zeros"
+    },
+    {
+      "id": "C",
+      "text": "2 poles and 1 zeros"
+    },
+    {
+      "id": "D",
+      "text": "3 poles and 1 zeros"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-17 (Bode Plot (Part-01&02))."
+}

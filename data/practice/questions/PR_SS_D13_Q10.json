@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D13_Q10",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider a causal LTI system described by following \ndifferential equation \n \n( )\n2 ( )\n4 ( )\ndy t\ny t\nx t\ndt\n\uf02b\n\uf03d\n \n \nThe correct block diagram representation of the \nsystem is  \n \n(a) \n \n \n(b) \n \n \n(c) \n \n \n(d)",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

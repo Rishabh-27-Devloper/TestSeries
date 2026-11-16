@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D02_Q37",
+  "subject": "Analog Electronics",
+  "chapter": "Diode Circuits and BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 02",
+  "dppNumber": 2,
+  "questionNumber": 37,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The value of RL (Load resistance) corresponding to \nmaximum load current is \n \n \n \n(a) 329.43 \uf057 \n(b) 334.44 \uf057 \n \n(c) 325.37 \uf057 \n(d) 320.49 \uf057  \n \nCommon Data for Q.38 and 39 : \nA breakdown diode has Vz = 6.2 V at 25\u00b0C and \uf061z = \n0.02%\u00b0C. A silicon diode with VF = 0.7 V and a \ntemperature coefficient of -1.8 mV/\u00b0C is connected in \nseries with the breakdown diode.",
+  "imageUrl": "assets/practice/ae/dpp_02_analog_electronics_practice_sheet_02/q37.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "329.43 \uf057"
+    },
+    {
+      "id": "B",
+      "text": "334.44 \uf057"
+    },
+    {
+      "id": "C",
+      "text": "325.37 \uf057"
+    },
+    {
+      "id": "D",
+      "text": "320.49 \uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-02 (Analog Electronics Practice Sheet 02)."
+}

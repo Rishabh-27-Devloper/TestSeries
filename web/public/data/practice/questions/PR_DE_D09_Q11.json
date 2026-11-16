@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D09_Q11",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part- 2)",
+  "dppNumber": 9,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "[NAT] \n \n \n           \n  \n \nTo design a MOD-224 counter, minimum no. of \nFFs required is_____.",
+  "imageUrl": "assets/practice/de/dpp_09_sequential_circuits_part_2/q11.png",
+  "options": null,
+  "correctAnswer": "8",
+  "toleranceMin": 7.92,
+  "toleranceMax": 8.08,
+  "explanation": "Practice Question from Digital Electronics DPP-09 (Sequential Circuits (Part- 2))."
+}

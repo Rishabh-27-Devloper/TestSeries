@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D15_Q04",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The current I in the following circuit using \nsuperposition theorem is _______mA.",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q4.png",
+  "options": null,
+  "correctAnswer": "375",
+  "toleranceMin": 371.25,
+  "toleranceMax": 378.75,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D32_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 32,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The z-transform of 3 u[\u2013n \u2013 1] is  \n \n(a) \nz\n,| z |\n3\n3\nz\n\uf03e\n\uf02d\n  \n(b) \nz\n,| z |\n3\n3\nz\n\uf03c\n\uf02d\n  \n \n(c) \n3 ,| z |\n3\n3\nz\n\uf03e\n\uf02d\n  \n(d) \n3 ,| z |\n3\n3\nz\n\uf03c\n\uf02d\n \n|\ud835\udc5b|",
+  "imageUrl": "assets/practice/ss/dpp_32_signal_system/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "z"
+    },
+    {
+      "id": "B",
+      "text": "z"
+    },
+    {
+      "id": "C",
+      "text": "3 ,| z |"
+    },
+    {
+      "id": "D",
+      "text": "3 ,| z |"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-32 (Signal & System)."
+}

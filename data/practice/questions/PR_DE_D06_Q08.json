@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_DE_D06_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "FS, K-map, Decoder, De-Mux",
+  "dppNumber": 6,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is \u2018not true\u2019 ?\n(a)\nDeMUX is not a universal circuit\n(b) For 52 output lines, no. of select lines must be\natleast 6 for DeMUX.\n(c)\nDeMUX is parallel to serial converter.",
+  "imageUrl": "assets/practice/de/dpp_06_fs_k_map_decoder_de_mux/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "DeMUX is not a universal circuit"
+    },
+    {
+      "id": "B",
+      "text": "For 52 output lines, no. of select lines must be"
+    },
+    {
+      "id": "C",
+      "text": "DeMUX is parallel to serial converter."
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-06 (FS, K-map, Decoder, De-Mux)."
+}

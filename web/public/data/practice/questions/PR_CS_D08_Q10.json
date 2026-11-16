@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D08_Q10",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Unit step response of a unity negative feedback second\norder \nsystem \nis \ngiven \nas\n4\n4\n( )\n1\n4\nsin\n3\ncos\n\u2212\n\u2212\n= \u2212\n\uf077\u2212\n\uf077\nt\nt\nc t\nAe\nt\nAe\nt . The value of\ndelay time (in sec) is _____.",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q10.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

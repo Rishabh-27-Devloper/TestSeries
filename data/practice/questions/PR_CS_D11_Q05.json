@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D11_Q05",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-05 & 06)",
+  "dppNumber": 11,
+  "questionNumber": 5,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n      MEDIUM \n5.\nConsider a system shown in the given figure with\n3\n2\n(\n1)\n( )\n2\n1\nK s\nG s\ns\nas\ns\n+\n=\n+\n+\n+\nWhat values of \u2018K\u2019 and \u2018a\u2019 should be chosen so that \nthe system oscillates at a frequency of 2 rad/sec \n(a)\nK = 2, a = 1\n(b)\nK = 4, a = 1\n(c)\nK = 2, a = 0.75\n(d)\nK = 4, a = 0.75\nMCQ\nHARD",
+  "imageUrl": "assets/practice/cs/dpp_11_routh_hurwitz_criteria_part_05_06/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "K = 2, a = 1"
+    },
+    {
+      "id": "B",
+      "text": "K = 4, a = 1"
+    },
+    {
+      "id": "C",
+      "text": "K = 2, a = 0.75"
+    },
+    {
+      "id": "D",
+      "text": "K = 4, a = 0.75"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-11 (Routh Hurwitz Criteria -(Part-05 & 06))."
+}

@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D01_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 1,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is active element?   \n \n(a) Voltage source \n \n(b) Generator \n( )\nB th ( )\nd (b)",
+  "imageUrl": "assets/practice/nt/dpp_01_basic_concept_of_network/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voltage source"
+    },
+    {
+      "id": "B",
+      "text": "Generator"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-01 (Basic Concept of Network)."
+}

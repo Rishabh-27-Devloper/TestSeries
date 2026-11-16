@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D04_Q02",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 4,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of E[X(t)] is\n(a) \n0\n2\nt A\nT\n(b) \n0t A\nT\n(c) \n0\n4\nt A\nT\n(d) 0",
+  "imageUrl": "assets/practice/comm/dpp_04_ece_in/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    },
+    {
+      "id": "B",
+      "text": "0t A"
+    },
+    {
+      "id": "C",
+      "text": "0"
+    },
+    {
+      "id": "D",
+      "text": "0"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-04 (ECE/IN)."
+}

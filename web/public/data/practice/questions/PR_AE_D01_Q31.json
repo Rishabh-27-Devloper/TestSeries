@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D01_Q31",
+  "subject": "Analog Electronics",
+  "chapter": "Basic Introduction to electronics",
+  "topic": "Analog Electronics Practice Sheet 01",
+  "dppNumber": 1,
+  "questionNumber": 31,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In a half wave rectifier, the peak value of the ac. \nvoltage across the secondary of the transformer is \n20\u221a2 V. If no filter circuit is used, the maximum d.c. \nvoltage across the load will be \n \n(a)  28.28 V \n(b)  25 V \n \n(c)  14.14 V \n(d)  9 V \n \n32 In the circuit shown in below figure. The value of \nimpedance form AB is_______ k\uf057. \n \n \n33 In the circuit shown in below figure. The value of 0e \nis ____________V. \n \n \n34. A diode whose V-I characteristics is shown in figure \n(a) is connected to figure (b) as shown find 0I .",
+  "imageUrl": "assets/practice/ae/dpp_01_analog_electronics_practice_sheet_01/q31.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "28.28 V"
+    },
+    {
+      "id": "B",
+      "text": "25 V"
+    },
+    {
+      "id": "C",
+      "text": "14.14 V"
+    },
+    {
+      "id": "D",
+      "text": "9 V"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-01 (Analog Electronics Practice Sheet 01)."
+}

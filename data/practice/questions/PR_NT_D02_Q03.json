@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D02_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A charge q = 6C is moving from a to b requires 30 J \nof energy. The voltage drop Vab is, \n \n(a) 2V \n(b) 3V \n \n(c) 5V \n(d) 10V",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2V"
+    },
+    {
+      "id": "B",
+      "text": "3V"
+    },
+    {
+      "id": "C",
+      "text": "5V"
+    },
+    {
+      "id": "D",
+      "text": "10V"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

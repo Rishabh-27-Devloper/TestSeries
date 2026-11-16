@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D15_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the circuit shown above, the current I is \n \n \n(a) 1 A \n(b) 1.5 A \n \n(c) 2.5 A \n(d) 4 A",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 A"
+    },
+    {
+      "id": "B",
+      "text": "1.5 A"
+    },
+    {
+      "id": "C",
+      "text": "2.5 A"
+    },
+    {
+      "id": "D",
+      "text": "4 A"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

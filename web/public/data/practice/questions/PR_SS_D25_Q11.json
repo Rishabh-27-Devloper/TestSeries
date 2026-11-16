@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D25_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 25,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "If X(j\ud835\udf14) is the Fourier transform of a signal x(t), then  \n the Fourier transform of x(4t \u2013 8) is \nj2\n1\nj\nX\ne\na\na\n\uf02d\n\uf077\n\uf077\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n         \nsuch that the value of a is ____________.",
+  "imageUrl": "assets/practice/ss/dpp_25_signal_system/q11.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Signal and System DPP-25 (Signal & System)."
+}

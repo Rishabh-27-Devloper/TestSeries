@@ -1,0 +1,20 @@
+{
+  "questionId": "PR_NT_D33_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "The value of instantaneous power ______.\n2 -30\n\u2220\n\u00b0\n~\nV =220 coswt\nS",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q1.png",
+  "options": null,
+  "correctAnswer": [
+    "10",
+    "478.90 + 12100 COS (2WT + 30\u00b0"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

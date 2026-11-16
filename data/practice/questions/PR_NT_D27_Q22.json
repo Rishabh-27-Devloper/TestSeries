@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D27_Q22",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 22,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "In the circuit shown below, the current I is equal to \n \n \n(A) \n \n(B) \n \n0\n1.4 0 A\n\uf0d0\n0\n2.0 0 A\n\uf0d0",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q22.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": "0"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

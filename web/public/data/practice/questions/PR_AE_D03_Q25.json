@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D03_Q25",
+  "subject": "Analog Electronics",
+  "chapter": "BJT Circuits",
+  "topic": "Analog Electronics Practice Sheet 03",
+  "dppNumber": 3,
+  "questionNumber": 25,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If input impedances of the two circuits are given as R1 \nand R2 respectively then \n \n(a) R1 = 2.5 k\uf057, R2 = 2.5 k\uf057 \n \n(b) R1 = 2.5 k\uf057, R2 = 5 k\uf057 \n \n(c) R1 = 500 k\uf057, R2 = 50 \uf057 \n \n \n(d) R1 = 500 \uf057, R2 = 500 \uf057",
+  "imageUrl": "assets/practice/ae/dpp_03_analog_electronics_practice_sheet_03/q25.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "R1 = 2.5 k\uf057, R2 = 2.5 k\uf057"
+    },
+    {
+      "id": "B",
+      "text": "R1 = 2.5 k\uf057, R2 = 5 k\uf057"
+    },
+    {
+      "id": "C",
+      "text": "R1 = 500 k\uf057, R2 = 50 \uf057"
+    },
+    {
+      "id": "D",
+      "text": "R1 = 500 \uf057, R2 = 500 \uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-03 (Analog Electronics Practice Sheet 03)."
+}

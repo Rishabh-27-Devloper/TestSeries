@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The current in the circuit shown in figure is :   \n \n \n(A) 5 A \n(B) 10 A \n \n(C) 15 A \n(D) 25 A \nElectrical : 1999",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 A"
+    },
+    {
+      "id": "B",
+      "text": "10 A"
+    },
+    {
+      "id": "C",
+      "text": "15 A"
+    },
+    {
+      "id": "D",
+      "text": "25 A"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Calculate time constant of the given network  \n \n \n(a) 0.33 s \n(b) 0.66 s \n \n(c) 0.99 s \n(d) 0.55 s",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.33 s"
+    },
+    {
+      "id": "B",
+      "text": "0.66 s"
+    },
+    {
+      "id": "C",
+      "text": "0.99 s"
+    },
+    {
+      "id": "D",
+      "text": "0.55 s"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

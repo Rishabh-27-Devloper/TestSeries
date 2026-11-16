@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D33_Q09",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 33,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The z-transform of an anti-causal system is \nX(z) =\n12\u221221z\n3\u22127z+12. What will be the value of x[0]?",
+  "imageUrl": "assets/practice/ss/dpp_33_signal_system/q9.png",
+  "options": null,
+  "correctAnswer": "0.8",
+  "toleranceMin": 0.75,
+  "toleranceMax": 0.8500000000000001,
+  "explanation": "Practice Question from Signal and System DPP-33 (Signal & System)."
+}

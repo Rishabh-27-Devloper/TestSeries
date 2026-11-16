@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D02_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nEASY \n8.\nConsider the List I and List II,\n List I (Signal Flow Graph)\nP.\nQ. \nR. \nS. \nList II (Transfer Function) \n1.\na + b\n2.\nab\n3. \n(\n)\na\n1\nab\n\u2212\n4. \na\n1\nb\n\u2212\nThe correct match is \nP \nQ \nR \nS \n(a) 2\n1 \n3 \n4 \n(b) 2\n1 \n4 \n3 \n(c) 1\n2 \n4 \n3 \n(d) 1\n2 \n3 \n4",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_SS_D02_Q02",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Basic of Signal System",
+  "dppNumber": 2,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Evaluate\n1\n(\n3) d\n\uf0a5\n\uf064\uf074+\n\uf0d7\uf074\n\uf0f2\n(a)\n0\n(b)\n(\n)\n5\nu t \u2212\n(c)\n(\n)\n6\nu t \u2212\n(d)\n(\n)\n2\nu\nt\n\u2212",
+  "imageUrl": "assets/practice/ss/dpp_02_basic_of_signal_system/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-02 (Basic of Signal System)."
+}

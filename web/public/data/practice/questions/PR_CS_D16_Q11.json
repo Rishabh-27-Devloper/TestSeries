@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the following statements with reference to the\nresponse of a control system: \n \n1. \nA large resonant peak corresponds to a smal\novershoot in transient response. \n \n2. The cut-off rate indicates the ability of the system to\ndistinguish the signal from noise. \n \n3. \nResonant frequency is indicative of the speed of\ntransient response. \n \nWhich of the statements given above are correct? \n \n(a) 1 only \n(b) 2 and 3 only \n \n(c) 1 and 3 only \n(d) 1, 2 and 3",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 only"
+    },
+    {
+      "id": "B",
+      "text": "2 and 3 only"
+    },
+    {
+      "id": "C",
+      "text": "1 and 3 only"
+    },
+    {
+      "id": "D",
+      "text": "1, 2 and 3"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D13_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 13",
+  "dppNumber": 13,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Input-output characteristic of a DAC is as given\nbelow:\nDigital I/P",
+  "imageUrl": "assets/practice/de/dpp_13_digital_electronics_practice_sheet_13/q4.png",
+  "options": null,
+  "correctAnswer": "3.5",
+  "toleranceMin": 3.465,
+  "toleranceMax": 3.535,
+  "explanation": "Practice Question from Digital Electronics DPP-13 (Digital Electronics Practice Sheet 13)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D15_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "3\n3\n1\n1\nC\n;C\n2j\n2j\n\u2212\n=\n= \u2212",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q3.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

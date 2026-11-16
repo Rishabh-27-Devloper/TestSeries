@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D25_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 25,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The function f(t) has the Fourier transform g(\ud835\udf14). The \nFourier transform of \nj t\ng(t)\ng(t)e\ndt is\n\uf0a5\n\uf02d\uf077\n\uf02d\uf0a5\n\uf0e6\n\uf0f6\n\uf03d\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0f2\n \n(a) \n1 f ( )\n2\n\uf077\n\uf070\n \n(b) \n1 f (\n)\n2\n\uf02d\uf077\n\uf070\n \n(c) 2\ud835\udf0bf(\u2013\ud835\udf14) \n(d) None of these \n \n2 i\nT",
+  "imageUrl": "assets/practice/ss/dpp_25_signal_system/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 f"
+    },
+    {
+      "id": "B",
+      "text": "1 f"
+    },
+    {
+      "id": "C",
+      "text": "2\ud835\udf0bf"
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-25 (Signal & System)."
+}

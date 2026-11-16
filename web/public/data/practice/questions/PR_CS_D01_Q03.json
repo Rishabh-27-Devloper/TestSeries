@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D01_Q03",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Block Diagram Reduction",
+  "dppNumber": 1,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Q\n3.\nA system is shown below. The transfer function for\nthis system is\n(a)\n1\n2\n1\n2\n2\n2\n1\n1\nG G\nG G H\nG H\n+\n+\n(b)\n1\n2\n1\n2\n1\n2\n1\nG G\nG G\nH H\n+\n+\n(c) \n1\n2\n1\n1\n2\n2\n1\n2\n1\n2\n1\nG G\nG H\nG H\nG G H H\n\u2212\n\u2212\n+\n(d) \n1\n2\n1\n1\n2\n2\n1\n2\n1\n2\n1\nG G\nG H\nG H\nG G H H\n+\n+\n+\nMCQ \n    MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_01_block_diagram_reduction/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "1"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-01 (Block Diagram Reduction)."
+}

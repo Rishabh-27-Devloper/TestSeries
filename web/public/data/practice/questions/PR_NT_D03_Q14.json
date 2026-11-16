@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D03_Q14",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 3,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of (I1 + I2) is ________A",
+  "imageUrl": "assets/practice/nt/dpp_03_basic_concept_of_network/q14.png",
+  "options": null,
+  "correctAnswer": "34",
+  "toleranceMin": 33.66,
+  "toleranceMax": 34.34,
+  "explanation": "Practice Question from Network Theory DPP-03 (Basic Concept of Network)."
+}

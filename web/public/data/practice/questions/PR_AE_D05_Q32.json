@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D05_Q32",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 32,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the op-amp circuit shown below. \n \n \nThe closed loop voltage gain is \n8\n\uf03d\n\uf03d\uf02d\no\nv\nin\nv\nA\nv\n. If the \ninput voltage vin = \u20131 and the maximum current in any \nresistor is limited to 15 \uf06dA, then the minimum value \nof R1 and R2 are \n \n(a) R1 = 533.33 k\uf057, R2 = 66.67 k \n \n(b) R1 = 466.69 k\uf057, R2 = 66.67 k \n \n(c) R1 = 66.67 k\uf057, R2 = 533.33 k \n \n(d) R1 = 66.67 k\uf057, R2 = 466.69 k\uf057",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q32.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "R1 = 533.33 k\uf057, R2 = 66.67 k"
+    },
+    {
+      "id": "B",
+      "text": "R1 = 466.69 k\uf057, R2 = 66.67 k"
+    },
+    {
+      "id": "C",
+      "text": "R1 = 66.67 k\uf057, R2 = 533.33 k"
+    },
+    {
+      "id": "D",
+      "text": "R1 = 66.67 k\uf057, R2 = 466.69 k\uf057"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

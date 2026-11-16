@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D02_Q09",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 2,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the signal flow graph shown in fig. an\nequivalent graph is\n(a) \n(b) \n(c) \n(d) \nMCQ \n      MEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_02_signal_flow_graph/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "MCQ"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-02 (Signal Flow Graph)."
+}

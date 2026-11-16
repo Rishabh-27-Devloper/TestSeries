@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D16_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 16,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The FS coefficient of time-domain signal x(t) is shown \nbelow \n \n \n \nThe fundamental frequency of the signal is \uf0770 = \uf070 \n \nThe signal is \n \n(a) 3cos 3\uf070t + 2cos 2\uf070t + cos \uf070t \n \n(b) 3sin 3\uf070t + 2sin 2\uf070t + sin \uf070t \n \n(c) 6sin 3\uf070t + 4sin 2\uf070t + 2sin \uf070t \n \n(d) 6cos 3\uf070t + 4cos 2\uf070t + 2cos \uf070t",
+  "imageUrl": "assets/practice/ss/dpp_16_signal_system/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3cos 3\uf070t + 2cos 2\uf070t + cos \uf070t"
+    },
+    {
+      "id": "B",
+      "text": "3sin 3\uf070t + 2sin 2\uf070t + sin \uf070t"
+    },
+    {
+      "id": "C",
+      "text": "6sin 3\uf070t + 4sin 2\uf070t + 2sin \uf070t"
+    },
+    {
+      "id": "D",
+      "text": "6cos 3\uf070t + 4cos 2\uf070t + 2cos \uf070t"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-16 (Signal System)."
+}

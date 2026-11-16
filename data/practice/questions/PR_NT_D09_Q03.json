@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D09_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 9,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The energy contained by given voltage and current \nwaveform is\u2014",
+  "imageUrl": "assets/practice/nt/dpp_09_basic_concept_of_network/q3.png",
+  "options": null,
+  "correctAnswer": "0",
+  "toleranceMin": -0.05,
+  "toleranceMax": 0.05,
+  "explanation": "Practice Question from Network Theory DPP-09 (Basic Concept of Network)."
+}

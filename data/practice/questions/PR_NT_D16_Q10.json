@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D16_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 16,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In the circuit shown above, the current I is ______ A",
+  "imageUrl": "assets/practice/nt/dpp_16_network_theorem/q10.png",
+  "options": null,
+  "correctAnswer": "1.5",
+  "toleranceMin": 1.4849999999999999,
+  "toleranceMax": 1.5150000000000001,
+  "explanation": "Practice Question from Network Theory DPP-16 (Network Theorem)."
+}

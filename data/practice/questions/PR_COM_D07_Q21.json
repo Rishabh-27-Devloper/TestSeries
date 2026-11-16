@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D07_Q21",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Noise In Communication",
+  "dppNumber": 7,
+  "questionNumber": 21,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What is the root mean square value of z(t)? \n \n(a) 12 \u00b5V \n(b) 14.4 \u00b5V \n(c)\n1 2 mV\n(d)\n1 44 mV",
+  "imageUrl": "assets/practice/comm/dpp_07_noise_in_communication/q21.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "12 \u00b5V"
+    },
+    {
+      "id": "B",
+      "text": "14.4 \u00b5V"
+    },
+    {
+      "id": "C",
+      "text": "1 2 mV"
+    },
+    {
+      "id": "D",
+      "text": "1 44 mV"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-07 (Noise In Communication)."
+}

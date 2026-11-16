@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D35_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 35,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "0,\not e w se\n\uf8f3\n3. A sequence x[n] has discrete time Fourier transform\nX(ej\u03a9) as shown below\nWhich of the following corresponds to DTFT of \nsignal x[n]e\u2013j\u03c0/4? \n(a)",
+  "imageUrl": "assets/practice/ss/dpp_35_signal_system/q3.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-35 (Signal & System)."
+}

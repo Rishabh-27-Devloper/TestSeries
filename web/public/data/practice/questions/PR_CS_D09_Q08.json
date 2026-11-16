@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D09_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria - (Part- 1&2)",
+  "dppNumber": 9,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the closed loop system shown below, location\nof poles on RHP, LHP and on j\u03c9 axis are\nrespectively\n( )\n6\n5\n4\n2\n8\n( )\n6\n6\nR s\nC s\ns\ns\ns\ns\ns\n\u2212\n\u2192\n\u2192\n+\n\u2212\n+\n+\n\u2212\n(a)\n3, 3, 0\n(b) 1, 3, 2\n(c)\n1, 1, 4\n(d) 3, 1, 2",
+  "imageUrl": "assets/practice/cs/dpp_09_routh_hurwitz_criteria_part_1_2/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3, 3, 0"
+    },
+    {
+      "id": "B",
+      "text": "1, 3, 2"
+    },
+    {
+      "id": "C",
+      "text": "1, 1, 4"
+    },
+    {
+      "id": "D",
+      "text": "3, 1, 2"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-09 (Routh Hurwitz Criteria - (Part- 1&2))."
+}

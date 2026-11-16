@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_CS_D19_Q11",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \n \nHARD \n11. An open loop transfer function of system is given as \nk(1\n0.5s)(1\ns)\nG(s)H(s)\n(1 10s)(s\n1)\n+\n+\n=\n+\n\u2212\n. Which one of the \nfollowing is the Nyquist plot of G(s) H(s)? \n \n(a) \n \n \n(b) \n \n \n(c)",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

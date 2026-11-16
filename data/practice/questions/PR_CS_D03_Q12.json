@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D03_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The signal flow graph of a control system is shown\nbelow. The number of the pairs of two non-touching\nloops is______.\nNAT \nBRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q12.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

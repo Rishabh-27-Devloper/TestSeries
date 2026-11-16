@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D33_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Complex Power",
+  "dppNumber": 33,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If power factor of on 4 circuit is 0.866 lag & circuit\nconsumes 50W. The correct power triangle is\n(a) \n(b) \n(c) \n \n(d) \n40\n30\n50\n40\n50\n30\n57.73\n50\n28.87\n50\n24.4\n55.2",
+  "imageUrl": "assets/practice/nt/dpp_33_complex_power/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "40"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-33 (Complex Power)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_AE_D05_Q49",
+  "subject": "Analog Electronics",
+  "chapter": "Analog Electronics",
+  "topic": "EC/EE/IN",
+  "dppNumber": 5,
+  "questionNumber": 49,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the circuit shown below. Assume ideal op-\namp is used. Input voltage waveform is also shown. \n \n \n \n \n \nAny issue with Practice Sheet, please report\nFor more questions, kindly visit the library s",
+  "imageUrl": "assets/practice/ae/dpp_05_ec_ee_in/q49.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-05 (EC/EE/IN)."
+}

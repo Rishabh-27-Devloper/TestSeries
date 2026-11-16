@@ -1,0 +1,42 @@
+{
+  "questionId": "PR_SS_D30_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 30,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The discrete Fourier series does not exist for the\nsignal\n(a) x[n] = cos[\u221a2\u03c0n ]\n (b) x [n] = cos [\ud835\udf0b\ud835\udf0bn/3]\n (c)\n[ ]\n[\n5 ]\nk\nx n\nn\nk\n\u03b4\n\u221e\n=\u2212\u221e\n=\n\u2212\n\u2211\n \n (d) Both (A) and (C)\ud835\udc65\ud835\udc5b",
+  "imageUrl": "assets/practice/ss/dpp_30_signal_system/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "x[n] = cos[\u221a2\u03c0n ]"
+    },
+    {
+      "id": "B",
+      "text": "x [n] = cos [\ud835\udf0b\ud835\udf0bn/3]"
+    },
+    {
+      "id": "C",
+      "text": "[ ]"
+    },
+    {
+      "id": "D",
+      "text": "Both"
+    },
+    {
+      "id": "A",
+      "text": "and"
+    },
+    {
+      "id": "C",
+      "text": "\ud835\udc65\ud835\udc5b"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-30 (Signal & System)."
+}

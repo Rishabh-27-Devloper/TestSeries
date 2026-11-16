@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D10_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The open loop transfer function of a unity negative\nfeedback system is given by, \n(\n20)\n( )\n(\n5)(\n)\ns\nG s\ns s\ns\na\n+\n=\n+\n+\nThe smallest possible value of \u2018a\u2019 for which the \nsystem cannot be unstable is ______.",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q15.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

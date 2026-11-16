@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D17_Q09",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 17,
+  "questionNumber": 9,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The y-parameters of above network are  \n(a)\n1\n1\n2\n\uf0e9\n\uf0f9\n\uf02d\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n(b)\n1\n1\n4\n2\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa",
+  "imageUrl": "assets/practice/nt/dpp_17_two_port_network/q9.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-17 (Two port network)."
+}

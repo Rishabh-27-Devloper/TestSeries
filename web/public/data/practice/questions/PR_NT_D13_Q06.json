@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D13_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 13,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of RL for maximum power transfer in \nthe circuit is  ________ \uf057.",
+  "imageUrl": "assets/practice/nt/dpp_13_network_theorem/q6.png",
+  "options": null,
+  "correctAnswer": "5",
+  "toleranceMin": 4.95,
+  "toleranceMax": 5.05,
+  "explanation": "Practice Question from Network Theory DPP-13 (Network Theorem)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D02_Q18",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 2,
+  "questionNumber": 18,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An inductor of inductance 12H is connected by \ncurrent source of current i(t) = 10 sin\n2\nt\n\uf070\n\uf0e6\n\uf0f6\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n Amp. The \nenergy stored by inductor at time t = 1 sec is _______ \nJoule.",
+  "imageUrl": "assets/practice/nt/dpp_02_basic_concept_of_network/q18.png",
+  "options": null,
+  "correctAnswer": "600",
+  "toleranceMin": 594.0,
+  "toleranceMax": 606.0,
+  "explanation": "Practice Question from Network Theory DPP-02 (Basic Concept of Network)."
+}

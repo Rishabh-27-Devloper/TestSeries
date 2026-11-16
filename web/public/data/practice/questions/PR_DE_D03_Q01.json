@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D03_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Combinational Circuits",
+  "dppNumber": 3,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Which of the following is true?\n(a)\nAll gates follow commutative as well as\nassociative law.\n(b) NOR & XNOR does not follow associative law\n(c)\nNAND & XOR does not follow associative\nlaw\n(d) All gates follow commutative law but some\ngates doe not follow associative law.\n[NAT]",
+  "imageUrl": "assets/practice/de/dpp_03_combinational_circuits/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "All gates follow commutative as well as"
+    },
+    {
+      "id": "B",
+      "text": "NOR & XNOR does not follow associative law"
+    },
+    {
+      "id": "C",
+      "text": "NAND & XOR does not follow associative"
+    },
+    {
+      "id": "D",
+      "text": "All gates follow commutative law but some"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-03 (Combinational Circuits)."
+}

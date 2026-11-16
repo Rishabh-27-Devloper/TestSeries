@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D19_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 19,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In the 2-port network find impedance matrix \n \n(a)\n12\n4\n\uf02d\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n(b)\n4\n12\n\uf02d\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa",
+  "imageUrl": "assets/practice/nt/dpp_19_two_port_network/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "12"
+    },
+    {
+      "id": "B",
+      "text": "4"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-19 (Two port network)."
+}

@@ -1,0 +1,30 @@
+{
+  "questionId": "PR_SS_D13_Q20",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Linear Time Invarient System",
+  "dppNumber": 13,
+  "questionNumber": 20,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The given system is  \n \n(a) linear and time-invariant only if y[\u20131] = 0 \n \n(b) linear and time-invariant only if y[\u20131] \uf0b9 0 \n(c)\nnon linear and time variant only if y[ 1] = 0",
+  "imageUrl": "assets/practice/ss/dpp_13_linear_time_invarient_system/q20.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "linear and time-invariant only if y[\u20131] = 0"
+    },
+    {
+      "id": "B",
+      "text": "linear and time-invariant only if y[\u20131] \uf0b9 0"
+    },
+    {
+      "id": "C",
+      "text": "non linear and time variant only if y[ 1] = 0"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-13 (Linear Time Invarient System)."
+}

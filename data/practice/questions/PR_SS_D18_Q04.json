@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D18_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "EC/EE/IN",
+  "dppNumber": 18,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A CT signal is given as x(t) = [P + Qe\u2013bt] u(t) where P\nand Q are constant.\nThe ROC of Laplace transform of x(t) is",
+  "imageUrl": "assets/practice/ss/dpp_18_ec_ee_in/q4.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-18 (EC/EE/IN)."
+}

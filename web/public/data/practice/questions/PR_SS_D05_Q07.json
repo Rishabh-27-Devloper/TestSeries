@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D05_Q07",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 5,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A DT sequence is x[n] = {\u20134, 5, 1, \n2\n\uf0ad\n\uf02d\n, \u20133, 0, 2}. \nThe even part {xe|n|} of x[n] is\n (a) \uf07b\n\uf07d\n3, 2.5, 2, 0, \u2013 2, 2.5, \u20131\n\uf0ad\n\uf02d\n(b) \uf07b\n\uf07d\n3.5, 2.5,1.5, 2,\n1, 2.5, \u20131\n\uf0ad\n\uf02d\n\uf02d\n\uf02d\n(c) \uf07b\n\uf07d\n1, 2.5, \u20131, \u2013 2,1, 2.5, \u20131\n\uf0ad\n\uf02d\n(d) \uf07b\n\uf07d\n3.5, 2.5,1.5, \u2013 2,1.5, \u2013 2.5, \u2013 3.5\n\uf0ad\n\uf02d",
+  "imageUrl": "assets/practice/ss/dpp_05_signal_and_systems/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf07b"
+    },
+    {
+      "id": "B",
+      "text": "\uf07b"
+    },
+    {
+      "id": "C",
+      "text": "\uf07b"
+    },
+    {
+      "id": "D",
+      "text": "\uf07b"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-05 (Signal and Systems)."
+}

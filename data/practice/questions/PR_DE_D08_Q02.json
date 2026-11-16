@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D08_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-1)",
+  "dppNumber": 8,
+  "questionNumber": 2,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "In a JK flip-flop output Q = 0. To change it to Q =\n1, the inputs J and K will be:\n(a)\nJ = 1, K = 1\n(b) J = 1, K = X\n(c)\nJ = 0, K = 0\n(d) J = 0, K =  1\n[MSQ]",
+  "imageUrl": "assets/practice/de/dpp_08_sequential_circuits_part_1/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "J = 1, K = 1"
+    },
+    {
+      "id": "B",
+      "text": "J = 1, K = X"
+    },
+    {
+      "id": "C",
+      "text": "J = 0, K = 0"
+    },
+    {
+      "id": "D",
+      "text": "J = 0, K =  1"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-08 (Sequential Circuits (Part-1))."
+}

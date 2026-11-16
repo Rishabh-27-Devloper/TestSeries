@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D15_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Match List-I (Name of periodic function) with the \nList-II (Properties of spectrum function) and select \nthe correct answer using the codes given below the \nlists: \n \nList-I (Nature of periodic function)  \n \nA. Impulse train \n \n \n \n \nB. \nFull-wave rectified sine function \n \nC. \n2 t\n4 t\n2sin\ncos\n6\n6\n\u03c0\n\u03c0 \n \nD. \n \n \nList-II (Properties of spectrum function) \n \n1. \nOnly even harmonics are present",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q1.png",
+  "options": null,
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

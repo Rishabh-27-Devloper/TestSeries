@@ -1,0 +1,26 @@
+{
+  "questionId": "PR_NT_D19_Q08",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Two port network",
+  "dppNumber": 19,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If Z-parameter of any two-port network is given by \n \n \nZ =  1\n3\n3\n5\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n \n \nThen find h-parameter \n \n(a) \n3\n9\n5\n5\n6\n3\n5\n5\n\uf0e9\n\uf0f9\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n\uf02d\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb\n \n(b) \n4\n3\n5\n5\n3\n1\n5\n5\n\uf0e9\n\uf0f9\n\uf02d\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n\uf02d\n\uf0ea\n\uf0fa\n\uf0ea\n\uf0fa\n\uf0eb\n\uf0fb",
+  "imageUrl": "assets/practice/nt/dpp_19_two_port_network/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3"
+    },
+    {
+      "id": "B",
+      "text": "4"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-19 (Two port network)."
+}

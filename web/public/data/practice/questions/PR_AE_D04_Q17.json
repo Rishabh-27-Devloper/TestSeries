@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q17",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 17,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "An NMOS amplifier with depletion load (ML) is \nshown in figure. Parameters for transistors MD and ML \nare VTHD = + 0.8 V, KnD = 1 mA/V2, \uf06cD = 0.01 V\u20131 \nVTHL = \u20131.5 V, KnL = 0.2 mA/V2 and \uf06cL = 0.01 V\u20131.   \n \n \n \nIf the transistors are biased at iD = 0.2 mA, then small \nsignal voltage gain Av is \n \n(a) \u2013224 \n(b) \u2013111.75 \n \n(c) 894 \n(d) \u2013894 \n \nCommon data for Q.18 to 20: \nConsider the common source amplifier shown below. The \ntransistor parameter are VTN = 1.5V, Kn = 0.5 mA/V2, and \n\uf06c = 0.01 V\u20131. The resistance of Source is Rs = 4 k\u03a9 .",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q17.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\u2013224"
+    },
+    {
+      "id": "B",
+      "text": "\u2013111.75"
+    },
+    {
+      "id": "C",
+      "text": "894"
+    },
+    {
+      "id": "D",
+      "text": "\u2013894"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

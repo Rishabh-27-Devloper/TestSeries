@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D20_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - II",
+  "dppNumber": 20,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the following statements regarding the \npolar plot of ideal integrator and ideal \ndifferentiator. \nWhich \nof \nthe \nfollowing \nstatements is correct? \n \n(a) The polar plot of an ideal integrator starts \nfrom zero and ends at infinity along the \nnegative imaginary axis in G(j\uf077) plane. \n \n(b) The polar plot of an ideal integrator starts \nfrom infinity and ends at zero along the \npositive imaginary axis in G(j\uf077) plane. \n \n(c) The polar plot of a ideal differentiator \nstarts from zero and ends at infinity along \nthe positive imaginary axis in G(j\uf077) plane. \n \n(d) The polar plot of a ideal differentiator \nstarts from zero and ends at infinity along \nthe negative imaginary axis in G(j\uf077) plane.",
+  "imageUrl": "assets/practice/cs/dpp_20_nyquist_plot_ii/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "The polar plot of an ideal integrator starts"
+    },
+    {
+      "id": "B",
+      "text": "The polar plot of an ideal integrator starts"
+    },
+    {
+      "id": "C",
+      "text": "The polar plot of a ideal differentiator"
+    },
+    {
+      "id": "D",
+      "text": "The polar plot of a ideal differentiator"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-20 (Nyquist Plot - II)."
+}

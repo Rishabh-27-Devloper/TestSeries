@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D01_Q10",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication AM & FM",
+  "dppNumber": 1,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "An AM broadcast station operates at its maximum\nallowed total output of 50 kW with 80% modulation.\nWhat is the power (in kW) in the intelligence part?",
+  "imageUrl": "assets/practice/comm/dpp_01_analog_communication_am_fm/q10.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-01 (Analog Communication AM & FM)."
+}

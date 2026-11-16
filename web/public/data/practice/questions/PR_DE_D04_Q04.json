@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D04_Q04",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A K-Map is as given below:\nIts minimized solution will be \n(a)\nx \u2299 y\n(b) x \uf0c5 y\n(c)\nz\nx y\n+\n(d)\nz\nxy\nx y\n+\n+\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "x \u2299 y"
+    },
+    {
+      "id": "B",
+      "text": "x \uf0c5 y"
+    },
+    {
+      "id": "C",
+      "text": "z"
+    },
+    {
+      "id": "D",
+      "text": "z"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

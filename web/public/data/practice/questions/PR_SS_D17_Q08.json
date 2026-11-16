@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D17_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Properties of CTFS",
+  "dppNumber": 17,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Let Cn be exponential Fourier series coefficient of",
+  "imageUrl": "assets/practice/ss/dpp_17_properties_of_ctfs/q8.png",
+  "options": null,
+  "correctAnswer": "1.5",
+  "toleranceMin": 1.4849999999999999,
+  "toleranceMax": 1.5150000000000001,
+  "explanation": "Practice Question from Signal and System DPP-17 (Properties of CTFS)."
+}

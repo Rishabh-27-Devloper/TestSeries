@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D04_Q01",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The signal energy of the continuons-time signal\nx(t) = [(t \u2013 1) u (t \u2013 1)] \u2013 [(t \u2013 2) u(t \u2013 2)] \u2013 [(t \u2013 3) u(t\n\u2013 3)] + [(t \u2013 4) u(t \u2013 4)] is\n (a)\n11/3\n(b) 7/3\n(c)\n1/3\n(d) 5/3",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "11/3"
+    },
+    {
+      "id": "B",
+      "text": "7/3"
+    },
+    {
+      "id": "C",
+      "text": "1/3"
+    },
+    {
+      "id": "D",
+      "text": "5/3"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}

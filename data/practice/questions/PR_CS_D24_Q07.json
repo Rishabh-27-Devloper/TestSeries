@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D24_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Designing of Compensator",
+  "dppNumber": 24,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For lead-lag compensation, the poles zeros locations \norder \n \n(a) \n\uf03e\n\uf03e\n\uf03e\nlag\nlag\nlead\nlead\nZ\nP\nZ\nP\n \n \n(b) \nlead\nlead\nlag\nlag\nZ\nP\nP\nZ\n\uf03c\n\uf03c\n\uf03c\n \n \n(c) \n\uf03e\n\uf03e\n\uf03e\nlead\nlead\nlag\nlag\nP\nZ\nZ\nP\n \n \n(d) \n\uf03c\n\uf03c\n\uf03c\nlead\nlead\nlag\nlag\nP\nZ\nZ\nP\n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_24_designing_of_compensator/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "\uf03e"
+    },
+    {
+      "id": "B",
+      "text": "lead"
+    },
+    {
+      "id": "C",
+      "text": "\uf03e"
+    },
+    {
+      "id": "D",
+      "text": "\uf03c"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-24 (Designing of Compensator)."
+}

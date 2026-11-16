@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_AE_D04_Q16",
+  "subject": "Analog Electronics",
+  "chapter": "MOSFET",
+  "topic": "Analog Electronics Practice Sheet 04",
+  "dppNumber": 4,
+  "questionNumber": 16,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For an n-channel MOSFET biased in the saturation \nregion, the parameters are Kn = 0.5 mA/V2, VTN = 0.8 \nV, \uf06c = 0.01 V\u20131, and IDQ = 0.75 mA. The value of gm \nand r0 are   \n \n(a) 0.68 mS, 603 k\u03a9  \n(b) 1.22 mS, 603 k\u03a9 \n \n(c) 1.22 mS, 133 k\u03a9  \n(d) 0.68 mS, 133 k\u03a9",
+  "imageUrl": "assets/practice/ae/dpp_04_analog_electronics_practice_sheet_04/q16.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.68 mS, 603 k\u03a9"
+    },
+    {
+      "id": "B",
+      "text": "1.22 mS, 603 k\u03a9"
+    },
+    {
+      "id": "C",
+      "text": "1.22 mS, 133 k\u03a9"
+    },
+    {
+      "id": "D",
+      "text": "0.68 mS, 133 k\u03a9"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Analog Electronics DPP-04 (Analog Electronics Practice Sheet 04)."
+}

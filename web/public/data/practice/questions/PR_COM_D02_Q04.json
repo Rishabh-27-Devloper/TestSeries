@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_COM_D02_Q04",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "Analog Communication - AM & FM",
+  "dppNumber": 2,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The signal m(t) sin c(2 \u00d7 104t) is frequency modulated\nwith kf = 103 Hz/V. If the carrier frequency is 1 MHz,\nthen the maximum instantaneous frequency of the\nmodulated signal is __________ MHz.",
+  "imageUrl": "assets/practice/comm/dpp_02_analog_communication_am_fm/q4.png",
+  "options": null,
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-02 (Analog Communication - AM & FM)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D15_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 15,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Using the superposition theorem, find Vx in the \nfollowing circuit. \n \n \n(a) 20 V \n(b) 30 V \n \n(c) 25 V \n(d) 15 V",
+  "imageUrl": "assets/practice/nt/dpp_15_network_theorem/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "20 V"
+    },
+    {
+      "id": "B",
+      "text": "30 V"
+    },
+    {
+      "id": "C",
+      "text": "25 V"
+    },
+    {
+      "id": "D",
+      "text": "15 V"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-15 (Network Theorem)."
+}

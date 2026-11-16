@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D08_Q15",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response analysis \u2013 (Part-7 & 8)",
+  "dppNumber": 8,
+  "questionNumber": 15,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A system rest is subjected to a unit \u2013 step input. Its\nresponses is given by y(t)=1\u2013e\u2013t (cos t + sin t) \n \n(a) The damped natural frequency \nd\n1\n\uf077= \n \n(b) The undamped natural frequency \nn\n2\n\uf077\n=\n \n \n(c) The damping coefficient \n1 /\n2\n\uf078=\n \n \n(d) All the three statements (a), (b) and (c) are\ncorrect.",
+  "imageUrl": "assets/practice/cs/dpp_08_time_response_analysis_part_7_8/q15.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "The damped natural frequency"
+    },
+    {
+      "id": "B",
+      "text": "The undamped natural frequency"
+    },
+    {
+      "id": "C",
+      "text": "The damping coefficient"
+    },
+    {
+      "id": "D",
+      "text": "All the three statements"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-08 (Time Response analysis \u2013 (Part-7 & 8))."
+}

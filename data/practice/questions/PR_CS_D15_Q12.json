@@ -1,0 +1,22 @@
+{
+  "questionId": "PR_CS_D15_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Root Locus - (Part- 05 & 06)",
+  "dppNumber": 15,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "MCQ \nMEDIUM\n12. Consider the ufb system shown below.\nThe root-loci, as \uf061 is varied, will be \n(a)\n(b)\n(c)\n(d)\nMCQ\nEASY",
+  "imageUrl": "assets/practice/cs/dpp_15_root_locus_part_05_06/q12.png",
+  "options": [
+    {
+      "id": "D",
+      "text": "MCQ"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-15 (Root Locus - (Part- 05 & 06))."
+}

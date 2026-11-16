@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D13_Q02",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 13",
+  "dppNumber": 13,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In a weighted register type DAC, least resistance\nvalue used is 1 k\u03a9 and highest resistance value used\nis 1024 k\u03a9, then the number of bits in DAC is ____.\n[MSQ]",
+  "imageUrl": "assets/practice/de/dpp_13_digital_electronics_practice_sheet_13/q2.png",
+  "options": null,
+  "correctAnswer": "11",
+  "toleranceMin": 10.89,
+  "toleranceMax": 11.11,
+  "explanation": "Practice Question from Digital Electronics DPP-13 (Digital Electronics Practice Sheet 13)."
+}

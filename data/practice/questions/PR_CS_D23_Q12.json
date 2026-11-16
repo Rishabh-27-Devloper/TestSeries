@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D23_Q12",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "State Space Analysis - I",
+  "dppNumber": 23,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n12. The system is \n \n(a) Observable and controllable \n \n(b) Controllable only \n \n(c) Observable only \n \n(d) None of the above \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_23_state_space_analysis_i/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Observable and controllable"
+    },
+    {
+      "id": "B",
+      "text": "Controllable only"
+    },
+    {
+      "id": "C",
+      "text": "Observable only"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-23 (State Space Analysis - I)."
+}

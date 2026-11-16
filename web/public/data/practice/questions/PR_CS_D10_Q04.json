@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D10_Q04",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Routh Hurwitz Criteria -(Part-03 & 04)",
+  "dppNumber": 10,
+  "questionNumber": 4,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Two poles are repeated on real axis, which are\nsymmetrical about origin",
+  "imageUrl": "assets/practice/cs/dpp_10_routh_hurwitz_criteria_part_03_04/q4.png",
+  "options": null,
+  "correctAnswer": "32",
+  "toleranceMin": 31.68,
+  "toleranceMax": 32.32,
+  "explanation": "Practice Question from Control System DPP-10 (Routh Hurwitz Criteria -(Part-03 & 04))."
+}

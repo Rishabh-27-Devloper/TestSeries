@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D04_Q11",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is true ? \n \n(a) K-map has more than one solution. \n \n(b) K-map has always unique solution. \n \n(c) K-map can have more than one solution. \n \n(d) None of these",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q11.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "K-map has more than one solution."
+    },
+    {
+      "id": "B",
+      "text": "K-map has always unique solution."
+    },
+    {
+      "id": "C",
+      "text": "K-map can have more than one solution."
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

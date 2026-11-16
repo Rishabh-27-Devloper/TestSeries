@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D32_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 32,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "If value of quality factor is 15 and bandwidth is 5 \nthen value of L is _________ mH if R = 8 \uf057. \n \n(a) 7.1 \n(b) 11 \n \n(c) 51.12 \n(d) 16",
+  "imageUrl": "assets/practice/nt/dpp_32_resonance/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "7.1"
+    },
+    {
+      "id": "B",
+      "text": "11"
+    },
+    {
+      "id": "C",
+      "text": "51.12"
+    },
+    {
+      "id": "D",
+      "text": "16"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-32 (Resonance)."
+}

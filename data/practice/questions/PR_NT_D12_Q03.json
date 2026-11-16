@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D12_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 12,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The value of Norton resistance at terminal a - b is, \n \n \n(a) 10 \u2126 \n(b) 15 \u2126 \n \n \n(c) 5 \u2126 \n(d) \u2013 5 \u2126",
+  "imageUrl": "assets/practice/nt/dpp_12_network_theorem/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 \u2126"
+    },
+    {
+      "id": "B",
+      "text": "15 \u2126"
+    },
+    {
+      "id": "C",
+      "text": "5 \u2126"
+    },
+    {
+      "id": "D",
+      "text": "\u2013 5 \u2126"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-12 (Network Theorem)."
+}

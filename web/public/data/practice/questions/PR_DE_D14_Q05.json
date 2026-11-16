@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_DE_D14_Q05",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 14",
+  "dppNumber": 14,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A flash type ADC is as given below:",
+  "imageUrl": "assets/practice/de/dpp_14_digital_electronics_practice_sheet_14/q5.png",
+  "options": null,
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-14 (Digital Electronics Practice Sheet 14)."
+}

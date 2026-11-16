@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D15_Q14",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 15,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Let x(t) is a periodic signal and ( )\n.\nCTFS\nn\nx t\nc\n\u2190\uf8e7\uf8e7\u2192\n If \n|cn| has even symmetry and \u2220cn has odd symmetry \nwith respect to n, then x(t) is  \n \n(a) odd symmetric \n \n(b) even-symmetric \n \n(c) complex valued \n \n(d) purely real",
+  "imageUrl": "assets/practice/ss/dpp_15_signal_system/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "odd symmetric"
+    },
+    {
+      "id": "B",
+      "text": "even-symmetric"
+    },
+    {
+      "id": "C",
+      "text": "complex valued"
+    },
+    {
+      "id": "D",
+      "text": "purely real"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-15 (Signal System)."
+}

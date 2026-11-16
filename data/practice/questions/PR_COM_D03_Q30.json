@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_COM_D03_Q30",
+  "subject": "Communication Systems",
+  "chapter": "Communication Systems",
+  "topic": "ECE/IN",
+  "dppNumber": 3,
+  "questionNumber": 30,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "What will be the mean of random variable Y ? \n \n(a) np \n \n(b) (n \u2013 1)p \n \n(c) p\nn \n \n(d) \n1\n\u2212\np\nn",
+  "imageUrl": "assets/practice/comm/dpp_03_ece_in/q30.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "np"
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": "p"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Communication Systems DPP-03 (ECE/IN)."
+}

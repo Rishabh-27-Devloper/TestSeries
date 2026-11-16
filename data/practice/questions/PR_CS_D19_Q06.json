@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D19_Q06",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - I",
+  "dppNumber": 19,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n6. \nThe Nyquist plot given in figure corresponds to the \nsystem whose transfer function is  \n \n \n(a) \n3\n1\n(s\n1)\n+\n \n(b) \n2\n1\n(s\n1)\n+\n \n \n(c) \n2\n1\ns\n2s\n2\n+\n+\n \n(d) \n1\n(s\n1)\n+\n \nMCQ \n \nMEDIUM",
+  "imageUrl": "assets/practice/cs/dpp_19_nyquist_plot_i/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "3"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-19 (Nyquist Plot - I)."
+}

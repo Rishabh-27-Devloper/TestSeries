@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q21",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 21,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The circuit shown below is driven by a sinusoidal \ninput \n \n The steady  output \n is : \n \n \n(A) \n \n \n \n(B) \n \n \n(C) \n \n \n(D) \n \nElectronics : 2011 \ni\np\nv\nV\n\uf03d\ncos( /\n).\nt RC\n0v\n(\n/ 3)cos( /\n)\np\nV\nt RC\n(\n/ 3)sin( /\n)\np\nV\nt RC\n(\n/ 2)cos( /\n)\np\nV\nt RC\n(\n/ 2)sin( /\n)\np\nV\nt RC",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q21.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "Electronics : 2011"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of I1 in given circuit is _____A   \n \n \n4\uf057\n2\uf057\n\uf031\uf057\n\u2013 +\n20 V\nI1\n2A\n3\uf057",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q2.png",
+  "options": null,
+  "correctAnswer": "1",
+  "toleranceMin": 0.99,
+  "toleranceMax": 1.01,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

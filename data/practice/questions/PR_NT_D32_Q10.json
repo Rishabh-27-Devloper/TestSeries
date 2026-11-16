@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D32_Q10",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Resonance",
+  "dppNumber": 32,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "For the above question 9  \n \nValue of resonant frequency is ______ ?",
+  "imageUrl": "assets/practice/nt/dpp_32_resonance/q10.png",
+  "options": null,
+  "correctAnswer": "0.25 RAD/S",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-32 (Resonance)."
+}

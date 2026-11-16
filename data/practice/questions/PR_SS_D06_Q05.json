@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D06_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Types of System",
+  "dppNumber": 6,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Consider a discrete time system which satisfies the \nadditivity property, i.e., if the output for u1[n] is y1[n] \nand that for u2[n] is y2[n], then output for \nu1[n] + u2[n] is y1[n] + y2[n]. Such a system is \n \n (a) Linear \n \n(b) Sometimes linear \n \n(c) Non-linear \n \n(d) Sometimes non-linear",
+  "imageUrl": "assets/practice/ss/dpp_06_types_of_system/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Linear"
+    },
+    {
+      "id": "B",
+      "text": "Sometimes linear"
+    },
+    {
+      "id": "C",
+      "text": "Non-linear"
+    },
+    {
+      "id": "D",
+      "text": "Sometimes non-linear"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-06 (Types of System)."
+}

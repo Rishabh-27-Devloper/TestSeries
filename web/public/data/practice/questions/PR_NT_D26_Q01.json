@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D26_Q01",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 26,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "When magnitude divides then phasors are _____. \n \n(a) added  \n(b) multiplied \n \n(c) divide \n(d) substracted",
+  "imageUrl": "assets/practice/nt/dpp_26_sinusoidal_steady_state_analysis/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "added"
+    },
+    {
+      "id": "B",
+      "text": "multiplied"
+    },
+    {
+      "id": "C",
+      "text": "divide"
+    },
+    {
+      "id": "D",
+      "text": "substracted"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-26 (Sinusoidal Steady State Analysis)."
+}

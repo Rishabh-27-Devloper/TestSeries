@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D04_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Basics of Laplace Transform",
+  "dppNumber": 4,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n14. The impulse response of an LTI system is h(t) = e\u2013|t|. \nThe step response is \n \n(a) 2 + et \u2013 e\u2013t \n \n(b) et u(\u2013 t + 1) + 2 \u2013 e\u2013t \n \n(c) et u(\u2013 t + 1) + [2 \u2013 e\u2013t]u(t) \n \n(d) et + [2 \u2013 e\u2013t  \u2013 et]u(t) \nMCQ          \n      BRAIN TEASER",
+  "imageUrl": "assets/practice/cs/dpp_04_basics_of_laplace_transform/q14.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 + et \u2013 e\u2013t"
+    },
+    {
+      "id": "B",
+      "text": "et u"
+    },
+    {
+      "id": "C",
+      "text": "et u"
+    },
+    {
+      "id": "D",
+      "text": "et + [2 \u2013 e\u2013t  \u2013 et]u"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-04 (Basics of Laplace Transform)."
+}

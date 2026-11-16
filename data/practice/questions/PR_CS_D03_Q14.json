@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D03_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Signal Flow Graph",
+  "dppNumber": 3,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The signal flow graph of a system is shown below \n \nThe number of terms in the determinant (\uf044) of SFG \nexcept the unit term are ______.",
+  "imageUrl": "assets/practice/cs/dpp_03_signal_flow_graph/q14.png",
+  "options": null,
+  "correctAnswer": "29",
+  "toleranceMin": 28.71,
+  "toleranceMax": 29.29,
+  "explanation": "Practice Question from Control System DPP-03 (Signal Flow Graph)."
+}

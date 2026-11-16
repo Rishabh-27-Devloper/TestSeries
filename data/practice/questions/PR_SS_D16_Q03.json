@@ -1,0 +1,42 @@
+{
+  "questionId": "PR_SS_D16_Q03",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 16,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The exponential FS coefficient of function x(t) shown \nin figure (A) is denoted as Cn. \n \n \nNow, consider the signal y(t) shown in figure (B), \nwhose CTFS coefficients are denoted as dn. \n \n \nIf 3\n3\n= \u2212\uf070\nj\nc\n, then the value of d3 is \n \n(a) \n1\n9\n\u2212\uf070 \n(b) 1\n\uf070  \n \n(c) \n4\n9\uf070 \n(d) \n2\n9\n\u2212\uf070 \n1\nx t( )\nt\n\u20132\uf070\n\u2013\uf070\n2\uf070\n\uf070\n\uf030\n......\n......\n\u20131",
+  "imageUrl": "assets/practice/ss/dpp_16_signal_system/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    },
+    {
+      "id": "A",
+      "text": "is denoted as Cn."
+    },
+    {
+      "id": "B",
+      "text": ","
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-16 (Signal System)."
+}

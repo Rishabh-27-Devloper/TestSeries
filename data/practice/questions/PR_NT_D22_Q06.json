@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D22_Q06",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Transient Analysis",
+  "dppNumber": 22,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "If value of load resistance is 8 \uf057 then what is the time \nconstant of circuit  \n \n \n(a) 500 \uf06dS \n(b) 500 mS \n \n(c) 333.34 \uf06dS \n(d) 666.67 \uf06dS",
+  "imageUrl": "assets/practice/nt/dpp_22_transient_analysis/q6.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "500 \uf06dS"
+    },
+    {
+      "id": "B",
+      "text": "500 mS"
+    },
+    {
+      "id": "C",
+      "text": "333.34 \uf06dS"
+    },
+    {
+      "id": "D",
+      "text": "666.67 \uf06dS"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-22 (Transient Analysis)."
+}

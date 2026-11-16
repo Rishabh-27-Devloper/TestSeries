@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D16_Q04",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal System",
+  "dppNumber": 16,
+  "questionNumber": 4,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "Suppose the periodic signal x(t) has fundamental period \nT and Fourier coefficients cn. Let dn be the Fourier \ncoefficient of y(t) where y(t) = dx(t) / dt. The Fourier \ncoefficient cn will be \n \n(a) \n,\n0\n2\n\uf0b9\n\uf070\nn\nTd\nn\nj\nn\n \n(b) \n,\n0\n2\n\u2212\n\uf0b9\n\uf070\nn\nTd\nn\nj\nn\n \n \n(c) \n,\n0\n\uf0b9\nn\nTd\nn\njn\n \n(d) \n,\n0\n\u2212\n\uf0b9\nn\nTd\nn\njn",
+  "imageUrl": "assets/practice/ss/dpp_16_signal_system/q4.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ","
+    },
+    {
+      "id": "B",
+      "text": ","
+    },
+    {
+      "id": "C",
+      "text": ","
+    },
+    {
+      "id": "D",
+      "text": ","
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-16 (Signal System)."
+}

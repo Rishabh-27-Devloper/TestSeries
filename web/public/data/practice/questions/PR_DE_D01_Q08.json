@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D01_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Boolean Theorems and GATES",
+  "topic": "Boolean Theorems and Basics of Gates (Part-1)",
+  "dppNumber": 1,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Logical function f(A, B, C, D) = \n+\n+\nAB\nACD\nBCD\nis equivalent to\n(a)\n+\nAB\nBC\n(b) AB + CD\n(c)\n+\nAC\nBC\n(d)\n+\nAB\nBC",
+  "imageUrl": "assets/practice/de/dpp_01_boolean_theorems_and_basics_of_gates_p/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "+"
+    },
+    {
+      "id": "B",
+      "text": "AB + CD"
+    },
+    {
+      "id": "C",
+      "text": "+"
+    },
+    {
+      "id": "D",
+      "text": "+"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-01 (Boolean Theorems and Basics of Gates (Part-1))."
+}

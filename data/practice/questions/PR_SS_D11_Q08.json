@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D11_Q08",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Convolution and It\u2019s Properties",
+  "dppNumber": 11,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Two DT signals are given as follows\nx[n] = 2\uf064[n +1] \u2013 \uf064[n] + \uf064[n \u2013 1] + 3\uf064[n \u2013 2] \n \nh[n] = 3\uf064[n \u2013 1] + 4\uf064[n \u2013 2] + 2\uf064[n \u2013 3] \nThe convolution sequence y[n] = x[n] *y[n] will be",
+  "imageUrl": "assets/practice/ss/dpp_11_convolution_and_it_s_properties/q8.png",
+  "options": null,
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-11 (Convolution and It\u2019s Properties)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D04_Q10",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 10,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "f (x, y, z) is given as : f(x,y,z)\nx y\nxz\nx y,\n=\n+\n+\n \n \nThe equivalent f (x, y, z) can also be \n \n(a) (x\ny\nz)(x\ny\nz)(x\ny\nz)\n+\n+\n+\n+\n+\n+\n \n \n(b) (x\ny\nz)(x\ny\nz)(x\ny\nz)\n+\n+\n+\n+\n+\n+\n \n \n(c) (x\ny)(x\nz)(x\ny)\n+\n+\n+\n \n \n(d)  None of these \n \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q10.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

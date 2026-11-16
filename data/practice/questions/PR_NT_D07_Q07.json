@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D07_Q07",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Basic Concept of Network",
+  "dppNumber": 7,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The value of V1 + V2 is _____ V \n \n\uf031\uf04b\uf057\nV2\n3V2\n\uf032\uf04b\uf057\nV1\n\uf034\uf04b\uf057\n3mA",
+  "imageUrl": "assets/practice/nt/dpp_07_basic_concept_of_network/q7.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Network Theory DPP-07 (Basic Concept of Network)."
+}

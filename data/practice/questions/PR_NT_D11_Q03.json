@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_NT_D11_Q03",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Network Theorem",
+  "dppNumber": 11,
+  "questionNumber": 3,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "The Thevenin equivalent resistance at terminals a-b of \nthe circuit in figure is ________ \uf057.",
+  "imageUrl": "assets/practice/nt/dpp_11_network_theorem/q3.png",
+  "options": null,
+  "correctAnswer": "22.67",
+  "toleranceMin": 22.4433,
+  "toleranceMax": 22.896700000000003,
+  "explanation": "Practice Question from Network Theory DPP-11 (Network Theorem)."
+}

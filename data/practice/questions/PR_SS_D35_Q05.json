@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_SS_D35_Q05",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal & System",
+  "dppNumber": 35,
+  "questionNumber": 5,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "The DTFT of x[n] = {\u20132, \u20131, 0, 1, 2} is \n(a) 2j(2sin2\u03a9 + sin\u03a9) \n(b) \u20132j(2sin2\u03a9 + sin\u03a9) \n(c) \u20132j(2sin2\u03a9 + sin\u03a9) \n(d) \u20132(2cos2\u03a9 \u2013 cos\u03a9) \n \nCommon Data For Q. 6-7 \nWe have, \n|n|\nDTFT\nj\n3\nn\nX(e\n)\n4\n\u2126\n\uf8eb\n\uf8f6\u2190\uf8e7\uf8e7\u2192\n\uf8ec\n\uf8f7\n\uf8ed\n\uf8f8",
+  "imageUrl": "assets/practice/ss/dpp_35_signal_system/q5.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "2j"
+    },
+    {
+      "id": "B",
+      "text": "\u20132j"
+    },
+    {
+      "id": "C",
+      "text": "\u20132j"
+    },
+    {
+      "id": "D",
+      "text": "\u20132"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Signal and System DPP-35 (Signal & System)."
+}

@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D04_Q03",
+  "subject": "Digital Electronics",
+  "chapter": "Combinational Circuits",
+  "topic": "Standard Combinational Circuits",
+  "dppNumber": 4,
+  "questionNumber": 3,
+  "marks": 1,
+  "type": "MCQ",
+  "questionText": "A K-map is as given below :\nIn minimized solution of above K-map, there are \nterms x y, x z and one term is missing. The \nmissing term is \n(a)\ny z\n(b) xz\n(c)\nx z\n(d)\ny z\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_04_standard_combinational_circuits/q3.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "y z"
+    },
+    {
+      "id": "B",
+      "text": "xz"
+    },
+    {
+      "id": "C",
+      "text": "x z"
+    },
+    {
+      "id": "D",
+      "text": "y z"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-04 (Standard Combinational Circuits)."
+}

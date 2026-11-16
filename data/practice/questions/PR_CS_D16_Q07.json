@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D16_Q07",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Exact Frequency Response (Part-01&02)",
+  "dppNumber": 16,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Consider the following system\nSystem 1 : \n1\nG(s)\n(3s\n1)\n=\n+\nSystem 2 : \n1\nG(s)\n(5s\n1)\n=\n+\nThe true statement regarding the system is \n(a) Bandwidth of system 1 is greater than the\nbandwidth of system 2\n(b) Bandwidth of system 1 is lower than the\nbandwidth of system 2\n(c) Bandwidth of both the system are the same\n(d) Bandwidth of both the systems are infinite",
+  "imageUrl": "assets/practice/cs/dpp_16_exact_frequency_response_part_01_02/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bandwidth of system 1 is greater than the"
+    },
+    {
+      "id": "B",
+      "text": "Bandwidth of system 1 is lower than the"
+    },
+    {
+      "id": "C",
+      "text": "Bandwidth of both the system are the same"
+    },
+    {
+      "id": "D",
+      "text": "Bandwidth of both the systems are infinite"
+    }
+  ],
+  "correctAnswer": "A",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-16 (Exact Frequency Response (Part-01&02))."
+}

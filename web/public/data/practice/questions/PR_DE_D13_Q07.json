@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D13_Q07",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 13",
+  "dppNumber": 13,
+  "questionNumber": 7,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Which of the following is true?\n(a)\n% resolution of DAC changes with change in\nreference voltage.\n(b)\n% resolution decreases as reference voltage\ndecreases.\n(c)\n% resolution decreases as number of bits\ndecreases.\n(d) % resolution increases as number of bits\ndecreases.",
+  "imageUrl": "assets/practice/de/dpp_13_digital_electronics_practice_sheet_13/q7.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "% resolution of DAC changes with change in"
+    },
+    {
+      "id": "B",
+      "text": "% resolution decreases as reference voltage"
+    },
+    {
+      "id": "C",
+      "text": "% resolution decreases as number of bits"
+    },
+    {
+      "id": "D",
+      "text": "% resolution increases as number of bits"
+    }
+  ],
+  "correctAnswer": "D",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-13 (Digital Electronics Practice Sheet 13)."
+}

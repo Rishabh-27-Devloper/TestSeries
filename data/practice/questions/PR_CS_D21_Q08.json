@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_CS_D21_Q08",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Nyquist Plot - III",
+  "dppNumber": 21,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "Q\n8. \nThe open-loop transfer function of a system is \nK\nG(s)H(s)\ns(1\n2s)(1\n3s)\n=\n+\n+\n. The phase crossover \nfrequency is  \n \n(a) 6 rad/sec \n(b) 2.46 rad/sec \n \n(c) 0.41 rad/sec \n(d) 3.23 rad/sec \n \nMCQ \n \n        \n \nEASY",
+  "imageUrl": "assets/practice/cs/dpp_21_nyquist_plot_iii/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "6 rad/sec"
+    },
+    {
+      "id": "B",
+      "text": "2.46 rad/sec"
+    },
+    {
+      "id": "C",
+      "text": "0.41 rad/sec"
+    },
+    {
+      "id": "D",
+      "text": "3.23 rad/sec"
+    }
+  ],
+  "correctAnswer": "C",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Control System DPP-21 (Nyquist Plot - III)."
+}

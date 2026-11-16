@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D05_Q11",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 5,
+  "questionNumber": 11,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "A DT signal is given as\nn\ng[n]\ncos\n(u[n]\nu[n\n6])\n3\n\uf070\n\uf0e6\n\uf0f6\n\uf03d\n\uf02d\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\nWhat will be the energy of the signal?",
+  "imageUrl": "assets/practice/ss/dpp_05_signal_and_systems/q11.png",
+  "options": null,
+  "correctAnswer": "3",
+  "toleranceMin": 2.9699999999999998,
+  "toleranceMax": 3.0300000000000002,
+  "explanation": "Practice Question from Signal and System DPP-05 (Signal and Systems)."
+}

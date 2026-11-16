@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D13_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "ADC and DAC",
+  "topic": "Digital Electronics Practice Sheet 13",
+  "dppNumber": 13,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "A sequential circuit is as given below:\nPlot of output voltage as input clock is applied: \nResolution of DAC is = 0.6V \n(a) \n(b) \n(c) \n(d) None of these",
+  "imageUrl": "assets/practice/de/dpp_13_digital_electronics_practice_sheet_13/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "None of these"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-13 (Digital Electronics Practice Sheet 13)."
+}

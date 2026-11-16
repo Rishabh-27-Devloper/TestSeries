@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q12",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 12,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "The circuit shown in figure, with R = 1/3\n, L = \n1/4, C = 3 F has input voltage v(t) = sin 2t. The \nresulting current i(t) is : \n \n \n(A) \n \n \n(B) \n \n \n(C) \n \n \n \n(D) \n \nElectronics : 2004 \n\uf057\n0\n5sin(2\n53.1 )\nt \uf02b\n0\n5sin(2\n53.1 )\nt \uf02d\n0\n25sin(2\n53.1 )\nt \uf02b\n0\n25sin(2\n53.1 )\nt \uf02d",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q12.png",
+  "options": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "Electronics : 2004"
+    }
+  ],
+  "correctAnswer": null,
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

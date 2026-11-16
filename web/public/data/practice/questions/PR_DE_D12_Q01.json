@@ -1,0 +1,38 @@
+{
+  "questionId": "PR_DE_D12_Q01",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-5)",
+  "dppNumber": 12,
+  "questionNumber": 1,
+  "marks": 1,
+  "type": "MSQ",
+  "questionText": "A FF is given as :\nCharacteristic equation of above FF is \nQ(n + 1) = A \u2299 B \u2295 Q(n) \nTo convert this FF into T-FF, A & B will be : \n(a)\nA = T, B = 1\n(b)\nA\nT, B 1\n=\n=\n(c)\nA\nT, B\n0\n=\n=\n(d)\nA\n0, B\nT\n=\n=\n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_12_sequential_circuits_part_5/q1.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "A = T, B = 1"
+    },
+    {
+      "id": "B",
+      "text": "A"
+    },
+    {
+      "id": "C",
+      "text": "A"
+    },
+    {
+      "id": "D",
+      "text": "A"
+    }
+  ],
+  "correctAnswer": [
+    "A",
+    "C",
+    "D"
+  ],
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-12 (Sequential Circuits (Part-5))."
+}

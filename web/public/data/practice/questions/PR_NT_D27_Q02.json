@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_NT_D27_Q02",
+  "subject": "Network Theory",
+  "chapter": "Network Theory",
+  "topic": "Sinusoidal Steady State Analysis",
+  "dppNumber": 27,
+  "questionNumber": 2,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "In figure,\n1\n2\n,\nA A and \n3\nA are ideal ammeters. If \n1A\nreads 5A,\n2\nA reads 12 \n then \n3\nA should read\n(A) 7 A\n(B) 12 A\n(C) 13 A\n(D) 17 A\nElectronics : 1993\n,\nA",
+  "imageUrl": "assets/practice/nt/dpp_27_sinusoidal_steady_state_analysis/q2.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "7 A"
+    },
+    {
+      "id": "B",
+      "text": "12 A"
+    },
+    {
+      "id": "C",
+      "text": "13 A"
+    },
+    {
+      "id": "D",
+      "text": "17 A"
+    }
+  ],
+  "correctAnswer": "83",
+  "toleranceMin": 82.17,
+  "toleranceMax": 83.83,
+  "explanation": "Practice Question from Network Theory DPP-27 (Sinusoidal Steady State Analysis)."
+}

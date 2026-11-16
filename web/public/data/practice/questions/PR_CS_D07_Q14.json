@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_CS_D07_Q14",
+  "subject": "Control System",
+  "chapter": "Control System",
+  "topic": "Time Response Analysis - (Part-5 & 6)",
+  "dppNumber": 7,
+  "questionNumber": 14,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "NAT \n \n        \n \nEASY \n14. Time response of a standard 2nd order system to a\nstep input is \n(\n)\n4t\n1\nke\nsin 6t\n\u2212\n\u2212\n+ \uf066. The value of \ud835\udf19 \n(in radian) is _______. \nNAT\nHARD",
+  "imageUrl": "assets/practice/cs/dpp_07_time_response_analysis_part_5_6/q14.png",
+  "options": null,
+  "correctAnswer": "0.983",
+  "toleranceMin": 0.9329999999999999,
+  "toleranceMax": 1.033,
+  "explanation": "Practice Question from Control System DPP-07 (Time Response Analysis - (Part-5 & 6))."
+}

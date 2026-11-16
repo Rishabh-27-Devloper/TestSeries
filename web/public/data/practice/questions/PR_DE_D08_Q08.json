@@ -1,0 +1,34 @@
+{
+  "questionId": "PR_DE_D08_Q08",
+  "subject": "Digital Electronics",
+  "chapter": "Sequential Circuits",
+  "topic": "Sequential Circuits (Part-1)",
+  "dppNumber": 8,
+  "questionNumber": 8,
+  "marks": 2,
+  "type": "MCQ",
+  "questionText": "To solve the problem of invalid state at input S = 1 \nand R = 1 in S-R ff, S and R are replaced by \n \n(a) S\nJQ,R\nKQ\n=\n=\n \n \n(b) S\nJQ,R\nKQ\n=\n=\n \n \n(c) S\nJQ,R\nKQ\n=\n=\n \n \n(d) S = JQ, R = KQ \n[MCQ]",
+  "imageUrl": "assets/practice/de/dpp_08_sequential_circuits_part_1/q8.png",
+  "options": [
+    {
+      "id": "A",
+      "text": "S"
+    },
+    {
+      "id": "B",
+      "text": "S"
+    },
+    {
+      "id": "C",
+      "text": "S"
+    },
+    {
+      "id": "D",
+      "text": "S = JQ, R = KQ"
+    }
+  ],
+  "correctAnswer": "B",
+  "toleranceMin": null,
+  "toleranceMax": null,
+  "explanation": "Practice Question from Digital Electronics DPP-08 (Sequential Circuits (Part-1))."
+}

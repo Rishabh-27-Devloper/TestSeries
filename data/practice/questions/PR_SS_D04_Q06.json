@@ -1,0 +1,17 @@
+{
+  "questionId": "PR_SS_D04_Q06",
+  "subject": "Signal and System",
+  "chapter": "Signal and System",
+  "topic": "Signal and Systems",
+  "dppNumber": 4,
+  "questionNumber": 6,
+  "marks": 2,
+  "type": "NAT",
+  "questionText": "Consider the signal x(t) = \ud835\udeff(t + 2) \u2013 \ud835\udeff(t \u2013 2). The value\nof \nenergy \npresent \nin \nthe \nsignal, \nt\n\u2013\ny(t)\nx( )d\n\uf0a5\n\uf03d\n\uf074\n\uf074\n\uf0f2\n is equal to Ey. Then the value of Ey is\n_____J.",
+  "imageUrl": "assets/practice/ss/dpp_04_signal_and_systems/q6.png",
+  "options": null,
+  "correctAnswer": "4",
+  "toleranceMin": 3.96,
+  "toleranceMax": 4.04,
+  "explanation": "Practice Question from Signal and System DPP-04 (Signal and Systems)."
+}
