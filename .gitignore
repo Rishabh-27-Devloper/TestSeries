@@ -55,4 +55,7 @@ data/attempts/
 web/public/data/attempts/
 **/attempts/
 
+# Practice assets (served from web/public/assets/practice)
+data/practice/assets/
+
 
