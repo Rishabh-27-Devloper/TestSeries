@@ -7,6 +7,7 @@ import {
   ArrowLeft,
   Maximize,
   Minimize,
+  Zap,
 } from 'lucide-react';
 import type { PaperIndexItem, UserProfile } from '../../types';
 import { PaperCard } from './PaperCard';
@@ -17,6 +18,7 @@ interface PaperInventoryProps {
   papers: PaperIndexItem[];
   selectedExam: 'GATE' | 'NEET';
   onSelectPaper: (paper: PaperIndexItem) => void;
+  onOpenPracticeMode?: () => void;
   onOpenDashboard: () => void;
   onOpenProfile: () => void;
   onBackToPortal: () => void;
@@ -149,6 +151,7 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
   papers,
   selectedExam,
   onSelectPaper,
+  onOpenPracticeMode,
   onOpenDashboard,
   onOpenProfile,
   onBackToPortal,
@@ -272,6 +275,17 @@ export const PaperInventory: React.FC<PaperInventoryProps> = ({
 
           {/* User & Dashboard Actions */}
           <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+            {selectedExam === 'GATE' && onOpenPracticeMode && (
+              <button
+                onClick={onOpenPracticeMode}
+                className="flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 rounded-lg bg-purple-700 hover:bg-purple-800 text-white text-xs font-bold transition shrink-0 shadow-2xs"
+                title="Switch to Topic-wise DPP Practice Mode (1,900 Questions)"
+              >
+                <Zap size={14} className="text-amber-300" />
+                <span className="hidden md:inline">Practice DPPs</span>
+              </button>
+            )}
+
             <button
               onClick={() => toggleFullscreen()}
               className="flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 rounded-lg border border-slate-200 hover:bg-slate-50 text-slate-700 text-xs font-semibold transition shrink-0"

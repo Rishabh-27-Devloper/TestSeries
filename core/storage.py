@@ -21,9 +21,11 @@ class StorageManager:
         self.base_dir = base_dir
         self.papers_dir = os.path.join(base_dir, "data", "papers")
         self.attempts_dir = os.path.join(base_dir, "data", "attempts")
+        self.practice_dir = os.path.join(base_dir, "data", "practice")
         
         os.makedirs(self.papers_dir, exist_ok=True)
         os.makedirs(self.attempts_dir, exist_ok=True)
+        os.makedirs(self.practice_dir, exist_ok=True)
 
     def load_all_papers(self, exam_type: Optional[str] = None) -> List[ExamPaper]:
         """Loads all available exam papers from the papers directory."""
@@ -344,3 +346,63 @@ class StorageManager:
         except Exception as e:
             print(f"Error loading attempt result from {file_path}: {e}")
             return None
+
+    def load_practice_index(self) -> Optional[Dict[str, Any]]:
+        """Loads master practice index from data/practice/practice_index.json."""
+        index_file = os.path.join(self.practice_dir, "practice_index.json")
+        if not os.path.exists(index_file):
+            return None
+        try:
+            with open(index_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading practice index: {e}")
+            return None
+
+    def load_practice_question(self, question_id: str) -> Optional[Dict[str, Any]]:
+        """Loads a single practice question by ID."""
+        q_file = os.path.join(self.practice_dir, "questions", f"{question_id}.json")
+        if not os.path.exists(q_file):
+            return None
+        try:
+            with open(q_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading practice question {question_id}: {e}")
+            return None
+
+    def load_practice_state(self, student_name: str = "Candidate") -> Dict[str, Any]:
+        """Loads solved question IDs and practice attempt history."""
+        clean_name = student_name.lower().replace(" ", "_")
+        state_file = os.path.join(self.practice_dir, f"user_practice_state_{clean_name}.json")
+        if not os.path.exists(state_file):
+            return {"solvedQuestionIds": [], "history": []}
+        try:
+            with open(state_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading practice state: {e}")
+            return {"solvedQuestionIds": [], "history": []}
+
+    def save_practice_attempt(self, attempt_data: Dict[str, Any], student_name: str = "Candidate") -> None:
+        """Saves a practice attempt and updates solved question list."""
+        clean_name = student_name.lower().replace(" ", "_")
+        state_file = os.path.join(self.practice_dir, f"user_practice_state_{clean_name}.json")
+        state = self.load_practice_state(student_name)
+
+        # If correct, add to solved questions
+        if attempt_data.get("status") == "CORRECT" and attempt_data.get("questionId"):
+            qid = attempt_data["questionId"]
+            if qid not in state["solvedQuestionIds"]:
+                state["solvedQuestionIds"].append(qid)
+
+        state["history"].insert(0, attempt_data)
+        if len(state["history"]) > 2000:
+            state["history"] = state["history"][:2000]
+
+        try:
+            with open(state_file, "w", encoding="utf-8") as f:
+                json.dump(state, f, indent=2)
+        except Exception as e:
+            print(f"Error saving practice attempt: {e}")
+

@@ -18,6 +18,7 @@ import {
   Trash2,
   GraduationCap,
   Stethoscope,
+  Zap,
 } from 'lucide-react';
 import type { ExamResult, QuestionEvaluation } from '../../types';
 import {
@@ -29,10 +30,12 @@ import {
   getFallbackImageUrl,
 } from '../../utils/storage';
 import { ImageZoomModal } from '../modals/ImageZoomModal';
+import { PracticeAnalyticsView } from './PracticeAnalyticsView';
 
 interface StudentDashboardProps {
   currentResult: ExamResult;
   selectedExam?: 'GATE' | 'NEET' | string;
+  initialTab?: 'SCORECARD' | 'SOLUTIONS' | 'TRENDS' | 'PRACTICE';
   onRetakeExam: (paperId: string) => void;
   onBackToInventory: () => void;
   onLoadPastAttempt?: (attempt: ExamResult) => void;
@@ -41,12 +44,13 @@ interface StudentDashboardProps {
 export const StudentDashboard: React.FC<StudentDashboardProps> = ({
   currentResult: initialResult,
   selectedExam,
+  initialTab = 'SCORECARD',
   onRetakeExam,
   onBackToInventory,
   onLoadPastAttempt,
 }) => {
   const profile = getUserProfile();
-  const [activeTab, setActiveTab] = useState<'SCORECARD' | 'SOLUTIONS' | 'TRENDS'>('SCORECARD');
+  const [activeTab, setActiveTab] = useState<'SCORECARD' | 'SOLUTIONS' | 'TRENDS' | 'PRACTICE'>(initialTab);
   const [activeResult, setActiveResult] = useState<ExamResult>(initialResult);
   const [solutionFilter, setSolutionFilter] = useState<'ALL' | 'CORRECT' | 'INCORRECT' | 'UNATTEMPTED'>('ALL');
   const [zoomImage, setZoomImage] = useState<string | null>(null);
@@ -223,6 +227,18 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
           >
             <TrendingUp size={16} />
             Past Attempts ({allAttempts.length})
+          </button>
+
+          <button
+            onClick={() => setActiveTab('PRACTICE')}
+            className={`py-3 text-xs sm:text-sm font-semibold border-b-2 flex items-center gap-2 transition whitespace-nowrap ${
+              activeTab === 'PRACTICE'
+                ? 'border-purple-700 text-purple-700 font-bold'
+                : 'border-transparent text-slate-500 hover:text-slate-700'
+            }`}
+          >
+            <Zap size={16} className="text-purple-600" />
+            Practice Mode Analytics
           </button>
         </div>
       </header>
@@ -872,6 +888,13 @@ export const StudentDashboard: React.FC<StudentDashboardProps> = ({
               )}
             </div>
           </div>
+        )}
+
+        {/* ========================================================================= */}
+        {/* TAB 4: PRACTICE MODE ANALYTICS */}
+        {/* ========================================================================= */}
+        {activeTab === 'PRACTICE' && (
+          <PracticeAnalyticsView profile={profile} />
         )}
       </main>
 

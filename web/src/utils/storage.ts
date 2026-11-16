@@ -1,7 +1,16 @@
-import type { ExamResult, PaperIndexItem, UserProfile } from '../types';
+import type {
+  ExamResult,
+  PaperIndexItem,
+  UserProfile,
+  PracticeIndex,
+  PracticeQuestion,
+  PracticeQuestionAttempt,
+  PracticeUserStats,
+} from '../types';
 
 const PROFILE_KEY = 'test_series_user_profile';
 const ATTEMPTS_KEY = 'test_series_user_attempts';
+const PRACTICE_STATE_KEY = 'test_series_practice_state';
 
 const DEFAULT_PROFILE: UserProfile = {
   name: 'Candidate',
@@ -216,6 +225,172 @@ export function getFallbackImageUrl(imgUrl?: string): string {
   return `https://cdn.jsdelivr.net/gh/Rishabh-27-Devloper/TestSeries@main/${clean}`;
 }
 
+// ============================================================================
+// PRACTICE MODE STORAGE HELPERS
+// ============================================================================
+
+function getPracticeStorageKey(userName?: string): string {
+  const profile = getUserProfile();
+  const name = userName || profile.name || 'default';
+  const clean = name.toLowerCase().replace(/[^a-z0-9_-]/g, '_');
+  return `${PRACTICE_STATE_KEY}_${clean}`;
+}
+
+export async function getPracticeIndex(): Promise<PracticeIndex | null> {
+  try {
+    const resp = await fetch('/data/practice/practice_index.json');
+    if (resp.ok) {
+      return await resp.json();
+    }
+  } catch (e) {
+    console.error('Failed to fetch practice_index.json', e);
+  }
+  return null;
+}
+
+export async function getPracticeQuestion(questionId: string): Promise<PracticeQuestion | null> {
+  try {
+    const resp = await fetch(`/data/practice/questions/${questionId}.json`);
+    if (resp.ok) {
+      return await resp.json();
+    }
+  } catch (e) {
+    console.error(`Failed to fetch practice question ${questionId}`, e);
+  }
+  return null;
+}
+
+export function getPracticeState(userName?: string): {
+  solvedQuestionIds: string[];
+  history: PracticeQuestionAttempt[];
+} {
+  try {
+    const key = getPracticeStorageKey(userName);
+    const data = localStorage.getItem(key);
+    if (data) {
+      const parsed = JSON.parse(data);
+      return {
+        solvedQuestionIds: Array.isArray(parsed.solvedQuestionIds) ? parsed.solvedQuestionIds : [],
+        history: Array.isArray(parsed.history) ? parsed.history : [],
+      };
+    }
+  } catch (e) {
+    console.error('Failed to load practice state', e);
+  }
+  return { solvedQuestionIds: [], history: [] };
+}
+
+export function savePracticeAttempt(
+  attempt: PracticeQuestionAttempt,
+  userName?: string
+): void {
+  try {
+    const key = getPracticeStorageKey(userName);
+    const state = getPracticeState(userName);
+
+    // If solved correctly, permanently record in solved list so it doesn't appear again
+    if (attempt.status === 'CORRECT' && !state.solvedQuestionIds.includes(attempt.questionId)) {
+      state.solvedQuestionIds.push(attempt.questionId);
+    }
+
+    // Add to history (newest first)
+    state.history.unshift(attempt);
+
+    // Cap history at 2,000 items to avoid quota issues
+    if (state.history.length > 2000) {
+      state.history = state.history.slice(0, 2000);
+    }
+
+    localStorage.setItem(key, JSON.stringify(state));
+  } catch (e) {
+    console.error('Failed to save practice attempt', e);
+  }
+}
+
+export function resetPracticeTopic(questionIds: string[], userName?: string): void {
+  try {
+    const key = getPracticeStorageKey(userName);
+    const state = getPracticeState(userName);
+    const removeSet = new Set(questionIds);
+    state.solvedQuestionIds = state.solvedQuestionIds.filter((id) => !removeSet.has(id));
+    localStorage.setItem(key, JSON.stringify(state));
+  } catch (e) {
+    console.error('Failed to reset practice topic', e);
+  }
+}
+
+export function getPracticeStats(
+  userName?: string,
+  filterSubject?: string,
+  filterTopic?: string
+): PracticeUserStats {
+  const state = getPracticeState(userName);
+  let history = state.history;
+
+  if (filterSubject) {
+    history = history.filter((h) => h.subject.toLowerCase() === filterSubject.toLowerCase());
+  }
+  if (filterTopic) {
+    history = history.filter((h) => h.topic.toLowerCase() === filterTopic.toLowerCase());
+  }
+
+  const encounteredCount = history.length;
+  const answeredAttempts = history.filter((h) => h.status !== 'SKIPPED');
+  const answeredCount = answeredAttempts.length;
+  const skippedCount = history.filter((h) => h.status === 'SKIPPED').length;
+  const correctCount = history.filter((h) => h.status === 'CORRECT').length;
+  const wrongCount = history.filter((h) => h.status === 'WRONG').length;
+
+  const accuracyPercentage =
+    answeredCount > 0 ? Math.round((correctCount / answeredCount) * 1000) / 10 : 0;
+
+  const totalTimeSpentSeconds = history.reduce((sum, h) => sum + (h.timeSpentSeconds || 0), 0);
+  const avgTimeSeconds =
+    encounteredCount > 0 ? Math.round(totalTimeSpentSeconds / encounteredCount) : 0;
+
+  const oneMarkAttempts = history.filter((h) => h.marks === 1);
+  const twoMarkAttempts = history.filter((h) => h.marks === 2);
+
+  const avgTime1MarkSeconds =
+    oneMarkAttempts.length > 0
+      ? Math.round(
+          oneMarkAttempts.reduce((sum, h) => sum + (h.timeSpentSeconds || 0), 0) /
+            oneMarkAttempts.length
+        )
+      : 0;
+
+  const avgTime2MarkSeconds =
+    twoMarkAttempts.length > 0
+      ? Math.round(
+          twoMarkAttempts.reduce((sum, h) => sum + (h.timeSpentSeconds || 0), 0) /
+            twoMarkAttempts.length
+        )
+      : 0;
+
+  const validTimes = history
+    .map((h) => h.timeSpentSeconds)
+    .filter((t) => typeof t === 'number' && t > 0);
+  const minTimeSeconds = validTimes.length > 0 ? Math.min(...validTimes) : 0;
+  const maxTimeSeconds = validTimes.length > 0 ? Math.max(...validTimes) : 0;
+
+  return {
+    encounteredCount,
+    answeredCount,
+    skippedCount,
+    correctCount,
+    wrongCount,
+    accuracyPercentage,
+    totalTimeSpentSeconds,
+    avgTimeSeconds,
+    avgTime1MarkSeconds,
+    avgTime2MarkSeconds,
+    minTimeSeconds,
+    maxTimeSeconds,
+    solvedQuestionIds: state.solvedQuestionIds,
+    history,
+  };
+}
+
 export const storage = {
   getUserProfile,
   saveUserProfile,
@@ -232,4 +407,10 @@ export const storage = {
   cleanImagePath,
   resolveImageUrl,
   getFallbackImageUrl,
+  getPracticeIndex,
+  getPracticeQuestion,
+  getPracticeState,
+  savePracticeAttempt,
+  resetPracticeTopic,
+  getPracticeStats,
 };

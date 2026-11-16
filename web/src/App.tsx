@@ -1,20 +1,38 @@
 import { useState, useEffect } from 'react';
-import type { ExamPaper, ExamResult, PaperIndexItem } from './types';
+import type {
+  ExamPaper,
+  ExamResult,
+  PaperIndexItem,
+  PracticeIndex,
+  PracticeTopicItem,
+} from './types';
 import { storage } from './utils/storage';
 import { ExamSelectionPortal } from './components/portal/ExamSelectionPortal';
 import { PaperInventory } from './components/inventory/PaperInventory';
 import { InstructionsView } from './components/exam/InstructionsView';
 import { CbtExamWindow } from './components/exam/CbtExamWindow';
 import { StudentDashboard } from './components/dashboard/StudentDashboard';
+import { PracticeTopicSelection } from './components/practice/PracticeTopicSelection';
+import { PracticeExamWindow } from './components/practice/PracticeExamWindow';
 import { UserProfileModal } from './components/modals/UserProfileModal';
 import { Loader2 } from 'lucide-react';
 
-type AppView = 'PORTAL' | 'INVENTORY' | 'INSTRUCTIONS' | 'EXAM' | 'DASHBOARD';
+type AppView =
+  | 'PORTAL'
+  | 'INVENTORY'
+  | 'INSTRUCTIONS'
+  | 'EXAM'
+  | 'DASHBOARD'
+  | 'PRACTICE_SELECTION'
+  | 'PRACTICE_SESSION';
 
 export function App() {
   const [view, setView] = useState<AppView>('PORTAL');
   const [selectedExam, setSelectedExam] = useState<'GATE' | 'NEET'>('GATE');
   const [papers, setPapers] = useState<PaperIndexItem[]>([]);
+  const [practiceIndex, setPracticeIndex] = useState<PracticeIndex | null>(null);
+  const [selectedPracticeTopic, setSelectedPracticeTopic] = useState<PracticeTopicItem | null>(null);
+  const [dashboardTab, setDashboardTab] = useState<'SCORECARD' | 'SOLUTIONS' | 'TRENDS' | 'PRACTICE'>('SCORECARD');
   const [loading, setLoading] = useState<boolean>(true);
   const [loadingPaper, setLoadingPaper] = useState<boolean>(false);
   const [currentPaper, setCurrentPaper] = useState<ExamPaper | null>(null);
@@ -27,9 +45,13 @@ export function App() {
     async function init() {
       try {
         setLoading(true);
-        // Fetch paper catalog index (User attempts are strictly local and user-isolated)
-        const index = await storage.getPaperIndex();
+        // Fetch paper catalog index & practice bank index
+        const [index, pIndex] = await Promise.all([
+          storage.getPaperIndex(),
+          storage.getPracticeIndex(),
+        ]);
         setPapers(index);
+        setPracticeIndex(pIndex);
       } catch (err) {
         console.error('Failed to initialize test series web application', err);
       } finally {
@@ -65,7 +87,8 @@ export function App() {
   };
 
   // Handler: Open Dashboard from Top Bar
-  const handleOpenDashboard = () => {
+  const handleOpenDashboard = (tab: 'SCORECARD' | 'SOLUTIONS' | 'TRENDS' | 'PRACTICE' = 'SCORECARD') => {
+    setDashboardTab(tab);
     const attempts = storage.getAllAttempts();
     if (attempts.length > 0) {
       // Prefer an attempt matching currently selected exam if available
@@ -75,7 +98,31 @@ export function App() {
       setCurrentResult(matched || attempts[0]);
       setView('DASHBOARD');
     } else {
-      alert(`No test attempts recorded. Attempt a paper first to view your personal performance analytics.`);
+      // Create empty mock scorecard so candidate can view practice analytics directly
+      const dummyResult: ExamResult = {
+        paperId: 'practice_summary',
+        paperTitle: 'Practice Analytics Mode',
+        examType: 'GATE',
+        studentName: profile.name,
+        timestamp: new Date().toISOString(),
+        durationTakenSeconds: 0,
+        totalMarks: 0,
+        scoreObtained: 0,
+        positiveMarks: 0,
+        negativeMarks: 0,
+        totalQuestions: 0,
+        attemptedCount: 0,
+        correctCount: 0,
+        incorrectCount: 0,
+        unattemptedCount: 0,
+        accuracyPercentage: 0,
+        percentageScore: 0,
+        sectionScores: {},
+        evaluations: [],
+      };
+      setCurrentResult(dummyResult);
+      setDashboardTab('PRACTICE');
+      setView('DASHBOARD');
     }
   };
 
@@ -132,7 +179,8 @@ export function App() {
             setSelectedExam(exam);
             setView('INVENTORY');
           }}
-          onOpenDashboard={handleOpenDashboard}
+          onOpenPracticeMode={() => setView('PRACTICE_SELECTION')}
+          onOpenDashboard={() => handleOpenDashboard('SCORECARD')}
           onOpenProfile={() => setShowProfileModal(true)}
         />
       )}
@@ -144,7 +192,8 @@ export function App() {
           papers={currentPortalPapers}
           selectedExam={selectedExam}
           onSelectPaper={handleSelectPaper}
-          onOpenDashboard={handleOpenDashboard}
+          onOpenPracticeMode={() => setView('PRACTICE_SELECTION')}
+          onOpenDashboard={() => handleOpenDashboard('SCORECARD')}
           onOpenProfile={() => setShowProfileModal(true)}
           onBackToPortal={() => setView('PORTAL')}
         />
@@ -165,6 +214,7 @@ export function App() {
           paper={currentPaper}
           onFinishExam={(result) => {
             setCurrentResult(result);
+            setDashboardTab('SCORECARD');
             setView('DASHBOARD');
           }}
           onExitExam={() => {
@@ -180,9 +230,35 @@ export function App() {
         <StudentDashboard
           currentResult={currentResult}
           selectedExam={selectedExam}
+          initialTab={dashboardTab}
           onRetakeExam={handleRetakeExam}
-          onBackToInventory={() => setView('INVENTORY')}
+          onBackToInventory={() => setView(selectedPracticeTopic ? 'PRACTICE_SELECTION' : 'INVENTORY')}
           onLoadPastAttempt={(att) => setCurrentResult(att)}
+        />
+      )}
+
+      {/* View 5: Practice Mode Topic Selection */}
+      {view === 'PRACTICE_SELECTION' && practiceIndex && (
+        <PracticeTopicSelection
+          practiceIndex={practiceIndex}
+          profile={profile}
+          onSelectTopic={(topic) => {
+            setSelectedPracticeTopic(topic);
+            setView('PRACTICE_SESSION');
+          }}
+          onBackToPortal={() => setView('PORTAL')}
+          onOpenDashboard={() => handleOpenDashboard('PRACTICE')}
+          onOpenProfile={() => setShowProfileModal(true)}
+        />
+      )}
+
+      {/* View 6: Live Practice Mode Examination / Stopwatch Window */}
+      {view === 'PRACTICE_SESSION' && selectedPracticeTopic && (
+        <PracticeExamWindow
+          topic={selectedPracticeTopic}
+          profile={profile}
+          onFinishTopic={() => setView('PRACTICE_SELECTION')}
+          onExitPractice={() => setView('PRACTICE_SELECTION')}
         />
       )}
 

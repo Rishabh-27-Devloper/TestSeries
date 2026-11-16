@@ -137,3 +137,84 @@ export interface UserProfile {
   branch: string;
   targetExam?: 'GATE' | 'NEET';
 }
+
+// ============================================================================
+// PRACTICE MODE TYPES (Topic-wise DPPs & Untimed Question Practice)
+// ============================================================================
+
+export interface PracticeQuestion {
+  questionId: string;
+  subject: string;
+  chapter: string;
+  topic: string;
+  dppNumber: number;
+  questionNumber: number;
+  marks: number; // 1 or 2
+  type: QuestionType; // 'MCQ' | 'MSQ' | 'NAT'
+  questionText: string;
+  imageUrl: string;
+  options?: Option[] | null;
+  correctAnswer: string | string[] | null;
+  toleranceMin?: number | null;
+  toleranceMax?: number | null;
+  explanation?: string;
+}
+
+export interface PracticeTopicItem {
+  topicId: string;
+  topicName: string;
+  chapter: string;
+  subject: string;
+  dppNumber: number;
+  questionCount: number;
+  oneMarkCount: number;
+  twoMarkCount: number;
+  hasAnswerKey: boolean;
+  questionIds: string[];
+}
+
+export interface PracticeSubjectItem {
+  subjectId: string;
+  subjectName: string;
+  topicsCount: number;
+  totalQuestions: number;
+  topics: PracticeTopicItem[];
+}
+
+export interface PracticeIndex {
+  totalSubjects: number;
+  totalQuestions: number;
+  subjects: PracticeSubjectItem[];
+}
+
+export interface PracticeQuestionAttempt {
+  id: string;
+  questionId: string;
+  subject: string;
+  chapter: string;
+  topic: string;
+  marks: number;
+  type: QuestionType;
+  userResponse: string | string[] | null;
+  correctAnswer: string | string[] | null;
+  status: 'CORRECT' | 'WRONG' | 'SKIPPED';
+  timeSpentSeconds: number;
+  timestamp: string;
+}
+
+export interface PracticeUserStats {
+  encounteredCount: number;
+  answeredCount: number;
+  skippedCount: number;
+  correctCount: number;
+  wrongCount: number;
+  accuracyPercentage: number;
+  totalTimeSpentSeconds: number;
+  avgTimeSeconds: number;
+  avgTime1MarkSeconds: number;
+  avgTime2MarkSeconds: number;
+  minTimeSeconds: number;
+  maxTimeSeconds: number;
+  solvedQuestionIds: string[];
+  history: PracticeQuestionAttempt[];
+}

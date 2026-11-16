@@ -15,6 +15,7 @@ import {
   Layers,
   Maximize,
   Minimize,
+  Zap,
 } from 'lucide-react';
 import type { PaperIndexItem, UserProfile } from '../../types';
 import { isFullscreen, toggleFullscreen, subscribeToFullscreen } from '../../utils/fullscreen';
@@ -23,6 +24,7 @@ interface ExamSelectionPortalProps {
   papers: PaperIndexItem[];
   profile: UserProfile;
   onSelectExam: (exam: 'GATE' | 'NEET') => void;
+  onOpenPracticeMode: () => void;
   onOpenDashboard: () => void;
   onOpenProfile: () => void;
 }
@@ -31,6 +33,7 @@ export const ExamSelectionPortal: React.FC<ExamSelectionPortalProps> = ({
   papers,
   profile,
   onSelectExam,
+  onOpenPracticeMode,
   onOpenDashboard,
   onOpenProfile,
 }) => {
@@ -68,6 +71,15 @@ export const ExamSelectionPortal: React.FC<ExamSelectionPortalProps> = ({
           </div>
 
           <div className="flex items-center gap-2 sm:gap-3">
+            <button
+              onClick={onOpenPracticeMode}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-purple-700 hover:bg-purple-800 text-white transition text-xs font-bold shadow-xs"
+              title="Open Topic-wise DPP Practice Mode"
+            >
+              <Zap size={15} className="text-amber-300" />
+              <span className="hidden sm:inline">Practice Mode</span>
+            </button>
+
             <button
               onClick={() => toggleFullscreen()}
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-slate-200 hover:bg-slate-50 transition text-slate-700 text-xs font-semibold"
@@ -289,6 +301,48 @@ export const ExamSelectionPortal: React.FC<ExamSelectionPortalProps> = ({
               </button>
             </div>
           </div>
+        </div>
+
+        {/* ========================================================================= */}
+        {/* CARD 3: TOPIC-WISE DPP PRACTICE MODE (FEATURED BANNER) */}
+        {/* ========================================================================= */}
+        <div className="mt-8 bg-gradient-to-r from-purple-900 via-indigo-900 to-purple-950 rounded-2xl text-white p-6 sm:p-8 shadow-lg border border-purple-800/80 flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6">
+          <div className="space-y-3 max-w-3xl">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 text-amber-300 border border-white/20 text-xs font-bold uppercase tracking-wider">
+              <Zap size={14} className="text-amber-300" /> New: Topic-wise DPP Practice Mode
+            </div>
+            <h2 className="text-xl sm:text-2xl font-black tracking-tight">
+              GATE EC Concept Practice Bank (1,900 Questions &bull; 121 DPPs)
+            </h2>
+            <p className="text-xs sm:text-sm text-purple-200 leading-relaxed">
+              Untimed &bull; Forward Stopwatch &bull; Instant Answer Reveal &bull; Mastered Question Filtration.
+              Practice topic-by-topic across Digital Electronics, Control Systems, Signal and Systems, Network Theory,
+              Analog Electronics, and Communication Systems. Questions solved correctly never repeat!
+            </p>
+            <div className="flex flex-wrap items-center gap-2 pt-1 text-xs">
+              <span className="px-2.5 py-1 rounded-md bg-white/10 text-purple-100 font-semibold border border-white/10">
+                ⚡ Forward Stopwatch
+              </span>
+              <span className="px-2.5 py-1 rounded-md bg-white/10 text-purple-100 font-semibold border border-white/10">
+                🎯 Instant Key Reveal
+              </span>
+              <span className="px-2.5 py-1 rounded-md bg-white/10 text-purple-100 font-semibold border border-white/10">
+                🧠 1M vs 2M Speed Analytics
+              </span>
+              <span className="px-2.5 py-1 rounded-md bg-white/10 text-purple-100 font-semibold border border-white/10">
+                🔄 Auto-Shuffle Pool
+              </span>
+            </div>
+          </div>
+
+          <button
+            onClick={onOpenPracticeMode}
+            className="w-full lg:w-auto py-3.5 px-8 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-sm transition-all duration-150 flex items-center justify-center gap-2 shadow-md hover:shadow-lg shrink-0 cursor-pointer"
+          >
+            <Zap size={18} fill="currentColor" />
+            <span>Launch Practice Mode</span>
+            <ChevronRight size={18} />
+          </button>
         </div>
 
         {/* Security & System Info Footer Note */}
