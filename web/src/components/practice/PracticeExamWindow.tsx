@@ -24,7 +24,7 @@ import {
   savePracticeAttempt,
   getPracticeState,
   resolveImageUrl,
-  getFallbackImageUrl,
+  cleanImagePath,
 } from '../../utils/storage';
 import { isFullscreen, toggleFullscreen, subscribeToFullscreen } from '../../utils/fullscreen';
 
@@ -438,7 +438,10 @@ export const PracticeExamWindow: React.FC<PracticeExamWindowProps> = ({
                 </div>
 
                 <button
-                  onClick={() => setZoomImage(resolveImageUrl(currentQuestion.imageUrl))}
+                  onClick={() => {
+                    const currentSrc = (document.getElementById('practice-question-img') as HTMLImageElement)?.src || resolveImageUrl(currentQuestion.imageUrl);
+                    setZoomImage(currentSrc);
+                  }}
                   className="flex items-center gap-1 text-[11px] font-semibold text-purple-700 hover:text-purple-900 bg-purple-50 hover:bg-purple-100 px-2 py-1 rounded transition"
                   title="Zoom Question Slice"
                 >
@@ -450,17 +453,29 @@ export const PracticeExamWindow: React.FC<PracticeExamWindowProps> = ({
               <div className="p-4 sm:p-6 flex flex-col items-center bg-slate-50/50 border-b border-slate-100">
                 <div className="relative max-w-full overflow-x-auto rounded-lg bg-white p-2 border border-slate-200 shadow-2xs">
                   <img
+                    id="practice-question-img"
                     src={resolveImageUrl(currentQuestion.imageUrl)}
                     onError={(e) => {
                       const target = e.currentTarget;
-                      const fallback = getFallbackImageUrl(currentQuestion.imageUrl);
-                      if (target.src !== fallback) {
-                        target.src = fallback;
+                      const stage = target.getAttribute('data-stage') || '0';
+                      const clean = currentQuestion.imageUrl ? cleanImagePath(currentQuestion.imageUrl) : '';
+                      if (stage === '0') {
+                        target.setAttribute('data-stage', '1');
+                        target.src = `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/web/public/${clean}`;
+                      } else if (stage === '1') {
+                        target.setAttribute('data-stage', '2');
+                        target.src = `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/${clean}`;
+                      } else if (stage === '2') {
+                        target.setAttribute('data-stage', '3');
+                        target.src = `https://cdn.jsdelivr.net/gh/Rishabh-27-Devloper/TestSeries@main/web/public/${clean}`;
                       }
                     }}
                     alt={`Question ${currentQuestion.questionNumber}`}
                     className="max-h-[460px] w-auto object-contain cursor-zoom-in"
-                    onClick={() => setZoomImage(resolveImageUrl(currentQuestion.imageUrl))}
+                    onClick={() => {
+                      const currentSrc = (document.getElementById('practice-question-img') as HTMLImageElement)?.src || resolveImageUrl(currentQuestion.imageUrl);
+                      setZoomImage(currentSrc);
+                    }}
                   />
                 </div>
               </div>
@@ -698,7 +713,26 @@ export const PracticeExamWindow: React.FC<PracticeExamWindowProps> = ({
             >
               <X size={16} />
             </button>
-            <img src={zoomImage} alt="Zoomed Question" className="w-full h-auto object-contain rounded-lg" />
+            <img
+              src={zoomImage}
+              onError={(e) => {
+                const target = e.currentTarget;
+                const stage = target.getAttribute('data-stage') || '0';
+                const clean = currentQuestion?.imageUrl ? cleanImagePath(currentQuestion.imageUrl) : '';
+                if (stage === '0') {
+                  target.setAttribute('data-stage', '1');
+                  target.src = `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/web/public/${clean}`;
+                } else if (stage === '1') {
+                  target.setAttribute('data-stage', '2');
+                  target.src = `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/${clean}`;
+                } else if (stage === '2') {
+                  target.setAttribute('data-stage', '3');
+                  target.src = `https://cdn.jsdelivr.net/gh/Rishabh-27-Devloper/TestSeries@main/web/public/${clean}`;
+                }
+              }}
+              alt="Zoomed Question"
+              className="w-full h-auto object-contain rounded-lg"
+            />
           </div>
         </div>
       )}

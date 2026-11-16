@@ -194,8 +194,8 @@ export async function getPaper(jsonPath: string): Promise<any> {
 
 /**
  * Resolves question diagram slice images.
- * On local dev, attempts local path first.
- * In production (Vercel / Netlify), resolves to fast GitHub Raw CDN mirror so all 5,000 slices load without bundling ~500MB into client.
+ * Always attempts local server path first for practice assets or local dev.
+ * In production, resolves to GitHub Raw CDN mirror so all slices load reliably.
  */
 export function resolveImageUrl(imgUrl?: string): string {
   if (!imgUrl) return '';
@@ -206,9 +206,14 @@ export function resolveImageUrl(imgUrl?: string): string {
 
   const isLocalhost =
     typeof window !== 'undefined' &&
-    (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+    (window.location.hostname === 'localhost' ||
+      window.location.hostname === '127.0.0.1' ||
+      window.location.hostname.startsWith('192.168.') ||
+      window.location.hostname.startsWith('10.') ||
+      window.location.hostname.endsWith('.local'));
 
-  if (isLocalhost) {
+  // If it's a practice asset, it is bundled in the public web distribution, so serve from current domain first
+  if (isLocalhost || clean.startsWith('assets/practice') || clean.startsWith('data/practice')) {
     return `/${clean}`;
   }
 
@@ -217,12 +222,18 @@ export function resolveImageUrl(imgUrl?: string): string {
 }
 
 /**
- * Secondary mirror fallback using jsDelivr global CDN in case of network restriction on raw.githubusercontent.com
+ * Secondary mirror fallback using GitHub Raw CDN in case of network restriction or 404
  */
 export function getFallbackImageUrl(imgUrl?: string): string {
   if (!imgUrl) return '';
   const clean = cleanImagePath(imgUrl);
-  return `https://cdn.jsdelivr.net/gh/Rishabh-27-Devloper/TestSeries@main/${clean}`;
+
+  // If local /assets/practice/... failed, fall back to GitHub Raw (web/public path first, then root)
+  if (clean.startsWith('assets/practice') || clean.startsWith('data/practice')) {
+    return `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/web/public/${clean}`;
+  }
+
+  return `https://raw.githubusercontent.com/Rishabh-27-Devloper/TestSeries/main/${clean}`;
 }
 
 // ============================================================================
